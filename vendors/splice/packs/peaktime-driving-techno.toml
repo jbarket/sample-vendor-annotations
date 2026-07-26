@@ -1,0 +1,29 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 437 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Peaktime - Driving Techno"
+slug = "peaktime-driving-techno"
+dir  = "Peaktime - Driving Techno"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/zenhiser/peaktime-driving-techno"
+provider = "Zenhiser"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1711382360/ia6l64iihvda7a4nejue.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 5647244
+digest      = "2727d7c03287265e9167ce83f16cce9e91fe9ed77807760a10ade64a00117a61"
+anchors     = [
+  "02377618a55f2b7c6701fd5eba7d003f97059b69d502165422e6a6e16ec4e110",
+  "beb69c332adb004b19566bab4c94ff294b4c3344351d1a173c0bcf9b20594fd9",
+]
+manifest    = "manifests/peaktime-driving-techno.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Peaktime_-_Driving_Techno_-_Zenhiser/loops

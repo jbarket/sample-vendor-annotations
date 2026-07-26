@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 202 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Chilled Vocal Chops"
+slug = "chilled-vocal-chops"
+dir  = "Chilled Vocal Chops"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-magic/sm101-chilled-vocal-chops"
+provider = "Sample Magic"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1533318939/1533318938.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1411362
+digest      = "759a56c83c3e71eb3777505b4659598920c055c2a6347f4c8801f9ccabd5904f"
+anchors     = [
+  "53ae0b88367eae8ddfef77fadc68549e33f47e45d580cb03521186cea8bd8cde",
+]
+manifest    = "manifests/chilled-vocal-chops.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  SM101_-_Chilled_Vocal_Chops_-_Wav/vox_loops

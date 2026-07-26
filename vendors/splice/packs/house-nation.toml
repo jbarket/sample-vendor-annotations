@@ -1,0 +1,39 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 1179 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "House Nation"
+slug = "house-nation"
+dir  = "House Nation"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-magic/house-nation"
+provider = "Sample Magic"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1499747519/homnsnc7pdufxozovrhr.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 47
+audio_bytes = 28072684
+digest      = "1b5becbf51631d33493627ae5827afe5c910eac149a15a447622373fd8f6996e"
+anchors     = [
+  "00331bff5716932b6a812fa4bda338ab3886aeef467b60e78620ffeb7fd960b1",
+  "00a68d4f83700750bda45cecfecf89002c65fdcca62377486e747b47ed555dbe",
+  "031f2ffd55280265bb6826cf0b9388c6f4fa575b81988cde5484082bb01b04fb",
+  "03e32d4a04b73e42a8ca92a1ce7e4cf782f7545779eb57bb2ba96580890f6f77",
+  "103aa44048f4976fc0c15c22bf881a888f5c70dad69520b61dcecf07f242939e",
+  "112dc460873d7648c0c934fa070f9c6568dbfca3a97cc1fa50fc21dc2ac7e96d",
+  "16fa745d401658f899677ce8b1f3c1a636364d22fec46b086c85e02379530211",
+  "185eb8cfb4f1890b01a395b7d9441daaac5f10db1d3a11153eb7da53a294338e",
+]
+manifest    = "manifests/house-nation.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       33  SM48_-_House_Nation_-_Wav/one_shots
+#       16  SM48_-_House_Nation_-_Wav/music_loops
+#       15  SM48_-_House_Nation_-_Wav/synth_loops
+#        4  SM48_-_House_Nation_-_Wav/bass_loops
+#        4  SM48_-_House_Nation_-_Wav/percussion_loops

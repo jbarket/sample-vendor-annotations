@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 249 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Descend - Dark Hip Hop & Trap"
+slug = "descend-dark-hip-hop-trap"
+dir  = "Descend - Dark Hip Hop & Trap"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/origin-sound/origin-sound-descend"
+provider = "Origin Sound"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1513358261/1513358261.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 7007464
+digest      = "bf23f2855647caf1dcc3a82cef7665ac47568e225cdaebda14e1e88b97ba5985"
+anchors     = [
+  "5b7aba5127650b804ad15c20bee947f1ebf5c0da843d9fa33589171dc32073ce",
+]
+manifest    = "manifests/descend-dark-hip-hop-trap.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Origin_Sound_-_Descend/Vocals

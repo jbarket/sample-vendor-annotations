@@ -102,6 +102,9 @@ url  = "https://samplesfrommars.com/products/acid-from-mars"
 archives = ["acid_from_mars.zip"]  # download names as the vendor ships them —
                                    # the dumbest identity signal there is, and
                                    # it catches everyone who unzips-and-leaves-it
+provider = "Sample Tools by Cr2"   # for distributor vendors (Splice): the
+                                   # label the pack is BY; omit when the
+                                   # vendor is the label
 ```
 
 ### [meta] — display metadata, og:-style

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 185 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Strange Game Ambient Loops 2  - Horror Game Ambience Loop Library"
+slug = "strange-game-ambient-loops-2-horror-game-ambience-loop-library"
+dir  = "Strange Game Ambient Loops 2  - Horror Game Ambience Loop Library"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/epic-stock-media/strange-game-ambient-loops-2-horror-game-ambience-loop-library"
+provider = "Epic Stock Media"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1678191896/hefinpxzftt90xzt5vic.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 16418498
+digest      = "4cc0ee5220c551997581eb6ef8be3fac62211cd59fb2c9c95150c73e1cd40f25"
+anchors     = [
+  "09f96478d41e3335ee39ef840c44e0173a7b65bea388d482cc014662f95a3202",
+]
+manifest    = "manifests/strange-game-ambient-loops-2-horror-game-ambience-loop-library.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Epic_Stock_Media_-_Strange_Game_Ambient_Loops_2/Loops

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 428 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Hollywood Explosions"
+slug = "hollywood-explosions"
+dir  = "Hollywood Explosions"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/blastwave-fx/bw-hollywood-explosions"
+provider = "Blastwave FX"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1490292000/1490292000.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 16926892
+digest      = "27bd85637ccff1bbb0a8da91089375e502cd61fc2f29994ae902c00d3aaab2eb"
+anchors     = [
+  "bba716b4a30b88267460767fba5f957fe1d462df718da7f8a8b60067fb73a2af",
+]
+manifest    = "manifests/hollywood-explosions.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  CarExplosionFire_HV.134.wav

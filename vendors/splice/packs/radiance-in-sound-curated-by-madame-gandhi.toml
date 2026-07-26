@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 245 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Radiance In Sound curated by Madame Gandhi"
+slug = "radiance-in-sound-curated-by-madame-gandhi"
+dir  = "Radiance In Sound curated by Madame Gandhi"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/jammcard-samples/radiance-in-sound-curated-by-madame-gandhi"
+provider = "Jammcard Samples"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1651506680/ioqqc0laws1ay4lwfrez.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 3193938
+digest      = "096af1f4f5a3a932616ac066a2d94b0c07ecf939892e5ad9993f8bd2b283afe6"
+anchors     = [
+  "a391aa04cf25389df610715aeb161be79da94e31b5a0638a6ac638624deaa776",
+]
+manifest    = "manifests/radiance-in-sound-curated-by-madame-gandhi.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Radiance_In_Sound_curated_by_Madame_Gandhi_-_WAV/loops

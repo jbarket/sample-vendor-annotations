@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 408 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Rave Revival"
+slug = "rave-revival"
+dir  = "Rave Revival"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-magic/rave-revival"
+provider = "Sample Magic"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1617761269/1617761268.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 155464
+digest      = "74d98f8acea1d84726ba70e2284b528656e16f4e41aa8ec0e144a9f64852abb7"
+anchors     = [
+  "642c985603bef00de0019407f275774ab461532be397f6ceda049539f4393770",
+]
+manifest    = "manifests/rave-revival.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  SKU#SM-1047-FL-R_-_Rave_Revival_-_WAV/one_shots

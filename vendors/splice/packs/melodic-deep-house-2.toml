@@ -1,0 +1,32 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 587 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Melodic Deep House 2"
+slug = "melodic-deep-house-2"
+dir  = "Melodic Deep House 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/dropgun-samples/melodic-deep-house-2"
+provider = "Dropgun Samples"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1684155913/xizb3gijfqx0em7b47py.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 5
+audio_bytes = 14794368
+digest      = "3bfc92d06801ba3b22ad73f57dc86b442f321cadc3914efd212636e9e0d8aaa8"
+anchors     = [
+  "324a49155ad92b8b6fd734987ce80bc7b988a7755fea46730907fa8f082a56ca",
+  "64aa5ce9055702ad1b15e28998ddff8076900e0ccdef3616134cb48481d80e4a",
+  "9054df7bba822f6110c23a72922920fe4b6666da41f20e0aafdc09afa04aac5c",
+  "c98b9090d0d5faf22a935ff5400f08f798f923dd8bd1c6628bc391e513eec88d",
+  "d830f08bc00e661ee8b960e5b12d6b84085112e963f1a2492d54b7e6ae804f2e",
+]
+manifest    = "manifests/melodic-deep-house-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        6  Dropgun_Samples_-_Melodic_Deep_House_2/Loops

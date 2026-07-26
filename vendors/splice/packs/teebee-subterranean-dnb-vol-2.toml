@@ -1,0 +1,36 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 490 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "TeeBee – Subterranean DnB Vol. 2"
+slug = "teebee-subterranean-dnb-vol-2"
+dir  = "TeeBee – Subterranean DnB Vol. 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/test-press/teebee-subterranean-dnb-vol-2"
+provider = "Test Press"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1615309623/1615309615.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 490
+audio_bytes = 845516606
+digest      = "65729b917c20189fd629d7b3c5130b3569c34e76ed8a50d66761a893b17694eb"
+anchors     = [
+  "002f8237247a46ecdd77f61697ea46f65c8683d5df23889146105ab781a54cb0",
+  "015e456b049e97c05f1b88f92ab5adb132fb855d8deae1295e0e4be5de35a982",
+  "0246971151bc577eed3ad718557b50e4f39ec27c88412a1630fec485cfb2ea1e",
+  "02a1ece8a0d451455c49447816719a33715762f71653bc97f9fa82675f9ed906",
+  "03267c46e4a8517156756e238edb936a9034868d3a71a1ddb50ea32f3282eb47",
+  "037e6f423e73cdc475b39e378bd8d3a02cc1c0403d45363414ab391f3d8de023",
+  "03b52902267f0fb8d10290487b379cebf91ecb30a1443b8ffeae252443813b8a",
+  "04006a6642e617997366bad6036bddd6c28c66883e1382d4da1c2ae996165f86",
+]
+manifest    = "manifests/teebee-subterranean-dnb-vol-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      387  Pack/one-shots
+#      281  Pack/loops

@@ -1,0 +1,35 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 348 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Essential Flamenco Guitars"
+slug = "essential-flamenco-guitars"
+dir  = "Essential Flamenco Guitars"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/prime-loops/essential-flamenco-guitars"
+provider = "Prime Loops"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1440183714/yzhqmifjue6inxy2xy9p.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 9
+audio_bytes = 11513946
+digest      = "9e0581c087584b71087ec52b1a7e0e750fc27fabb655eaf9482f9e30a704351d"
+anchors     = [
+  "0ea08c2d8eedd3521567b0b1abfc1edd7faf9b497c0842f5077f68e6f3e06592",
+  "1d088c52e45e49ef2106867fb95629a57b56d8db42286cca9baa49eddf1db608",
+  "4c2a348c0cebab532ba71fd134826bbd4ac85a0e351cf462da8ecc6e872be6db",
+  "5bb7954a9b5fd2989de10da52315bfcb848fb2c29d21295811f5a93d1cad273f",
+  "6910095922b6d8615e19c8ebb3a54ecf9029f1d6e4fc7b3b039488b8b042f495",
+  "78c5ce8540a5d15420b4b1e1a411dc7ef84a9f54745670849ce0d8a78afceec3",
+  "b687ef039763f47d1307ef39e204d08cfcbfd61ff94e51bd270f27fd31547907",
+  "b74e515d4a767db68202ec2d94fea5932b481d1aa15f2aa4a5e4a4b3bc2ff591",
+]
+manifest    = "manifests/essential-flamenco-guitars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        9  WAV_ACID_Essential_Flamenco_Guitars/Essential_Flamenco_Guitars

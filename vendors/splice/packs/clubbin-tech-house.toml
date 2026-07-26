@@ -1,0 +1,29 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 374 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Clubbin Tech House"
+slug = "clubbin-tech-house"
+dir  = "Clubbin Tech House"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/four4/clubbin-tech-house"
+provider = "Four4"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1681227367/eegiphxok0kck3gjjfbn.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 6057220
+digest      = "10113f7494bbf36711ac0c09d705b549cc6ed897982a3f4cd675ac23921c638e"
+anchors     = [
+  "ccf995d48ef208a0fb3388cfd3697026ee4de7e4a4e9704de1eb9d5fff3e2cd1",
+  "f368015bf194969590a126272f8d8478ab7ccb5d127663c48a307b5ddc6de596",
+]
+manifest    = "manifests/clubbin-tech-house.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Four4_-_Clubbin_Tech_House/loops

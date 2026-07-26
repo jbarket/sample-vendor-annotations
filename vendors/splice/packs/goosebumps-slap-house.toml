@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 727 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Goosebumps - Slap House"
+slug = "goosebumps-slap-house"
+dir  = "Goosebumps - Slap House"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/production-master/goosebumps-slap-house"
+provider = "Production Master"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1647605337/g47jbwdptvhjh4jrgepi.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 2084424
+digest      = "45a90d0cc17af75205447dcf2ff88424acd30d0f11ace3ffcdf1f3a2206c7ac5"
+anchors     = [
+  "83fc424ef0670b996c28582d3998a5f4bf4fd2606f4be3d1bca1d6e8b0c96a0b",
+]
+manifest    = "manifests/goosebumps-slap-house.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Loops/Drum_&_Percussion_Loops

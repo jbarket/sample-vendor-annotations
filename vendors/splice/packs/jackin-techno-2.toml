@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 612 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Jackin' Techno 2"
+slug = "jackin-techno-2"
+dir  = "Jackin' Techno 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-magic/jackin-techno-2"
+provider = "Sample Magic"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1510687983/hhuhcw7nzkj9grb0ftd1.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 2064468
+digest      = "4cc0ca0394bad1a8a40037014174401b3d2d14535b78d983e1fcea0136cdb28e"
+anchors     = [
+  "2c31be69c01913470d459f7a4f98adc565ae774f52ec4d70d1cf9a4e8bc2b3e4",
+]
+manifest    = "manifests/jackin-techno-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  SM_White_Label_-_Jackin_Techno_2_-_Wav/drum_loops

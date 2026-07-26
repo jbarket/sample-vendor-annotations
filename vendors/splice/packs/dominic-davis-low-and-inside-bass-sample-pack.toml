@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 163 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Dominic Davis Low and Inside Bass Sample Pack"
+slug = "dominic-davis-low-and-inside-bass-sample-pack"
+dir  = "Dominic Davis Low and Inside Bass Sample Pack"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/splice/dominic-davis-pack"
+provider = "Splice"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1561124555/1561124539.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1693580
+digest      = "bf27e912e7e7bf2e5fbbc5ef4efc46f4847597dfe370063ac400ce3c6f4cace4"
+anchors     = [
+  "7b568a1b2fbb33d93965bafd5b91518333aa4739f232433393d5898da0e0b2cc",
+]
+manifest    = "manifests/dominic-davis-low-and-inside-bass-sample-pack.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  DOMINIC_DAVIS_sample_pack/DJD_coming_home_75

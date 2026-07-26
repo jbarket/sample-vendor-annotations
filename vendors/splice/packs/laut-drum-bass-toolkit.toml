@@ -1,0 +1,30 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 238 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "LAUT 'Drum & Bass Toolkit'"
+slug = "laut-drum-bass-toolkit"
+dir  = "Laut 'Drum & Bass Toolkit'"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/test-press/laut-drum-and-bass-toolkit"
+provider = "Test Press"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1715619166/wqvab9cdnedtl82iw3qz.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3
+audio_bytes = 2215752
+digest      = "7108803f95c025682c35ba013e48da477768f5ab58d6d7fd928685c035c3ada1"
+anchors     = [
+  "26f653a8933b1c3f037fa857ea117c9ed954504d2c83c46f491b36b33ebb5191",
+  "a75291300ca2f0828f262116bccd470899211b962972fe1e197ee44b136b689f",
+  "dad1e5710f11d1e1d09b2e65b5abbe54c4b9e2804d80541815f85108dcebaa02",
+]
+manifest    = "manifests/laut-drum-bass-toolkit.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        6  Test_Press_-_Laut__Drum___Bass_Toolkit_/Loops

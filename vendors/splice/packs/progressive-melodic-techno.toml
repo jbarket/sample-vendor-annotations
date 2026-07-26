@@ -1,0 +1,30 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 450 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Progressive Melodic Techno"
+slug = "progressive-melodic-techno"
+dir  = "Progressive Melodic Techno"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-tools-by-cr2/progressive-melodic-techno"
+provider = "Sample Tools by Cr2"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1695056841/ii6uax7rv8imjgvtaehu.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 9745716
+digest      = "c54e097c7844fa240dcb83d339b8f93b07acab6261a1d442651cd41430bee561"
+anchors     = [
+  "29f48da152162858408a7c2ce9bedc7011e4b4078267d9762760af0213c0cb2f",
+  "8c9c130454173cd1bfe21b96a82fe829abb7f6fd0f464a9657c120c437daf5a2",
+]
+manifest    = "manifests/progressive-melodic-techno.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Sample_Tools_by_Cr2_-_Progressive_Melodic_Techno/Loops
+#        1  Sample_Tools_by_Cr2_-_Progressive_Melodic_Techno/One_Shots

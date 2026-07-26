@@ -1,0 +1,20 @@
+# Splice — a distributor, not a label: packs here are BY many providers
+# (Sample Magic, Zenhiser, Black Octopus...), so pack files carry a
+# `provider` field. Observed against a Splice desktop-app library
+# (~/Splice/sounds/packs), 2026-07-26.
+
+[vendor]
+name     = "Splice"
+slug     = "splice"
+homepage = "https://splice.com"
+observed = 2026-07-26
+
+[packs]
+grammar = "top-level-dirs"
+# Splice desktop downloads per-sample, so local pack dirs are PARTIAL by
+# design — identity matching should expect fractions, not completeness.
+# No sibling zips; the app is the archive.
+# Pack metadata (name, url, provider, cover) resolved via Splice's public
+# GraphQL (surfaces-graphql.splice.com) by probing sample filenames —
+# filepath search returns the parent pack. Packs missing from Splice were
+# delisted after download; their stubs say so rather than guessing.

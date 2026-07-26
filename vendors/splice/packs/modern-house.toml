@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 655 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Modern House"
+slug = "modern-house"
+dir  = "Modern House"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/bingoshakerz/bs024_modern_house_wav-presets"
+provider = "Bingoshakerz"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1464725467/1464725466.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 4032044
+digest      = "3a7cf66ebf597eea756a8fbebdc852b671db1785d106ea89995b31d6b18874ea"
+anchors     = [
+  "06332f1669cc1a2494ece983d54acb409f6dd946501d856aa00240a4d7a5d8ae",
+]
+manifest    = "manifests/modern-house.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  BS024_Modern_House_WAV-Presets/Modern_House_WAV

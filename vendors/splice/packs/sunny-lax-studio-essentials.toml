@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 4747 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Sunny Lax Studio Essentials"
+slug = "sunny-lax-studio-essentials"
+dir  = "Sunny Lax Studio Essentials"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/freshly-squeezed-samples/sunny-lax-studio-essentials"
+provider = "Freshly Squeezed Samples"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1718030457/istcbvtkdgzyxwbdl7gb.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 7938156
+digest      = "5137376bd3ae44704caff1d49da31c70e21a667dcd4c1cddf1617bd78243d818"
+anchors     = [
+  "c47a93cc6e6f3cf0f3bc3b489b615c0ec529b04c7953d694b6c574d4d757e180",
+]
+manifest    = "manifests/sunny-lax-studio-essentials.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Loops/Vox_Loops

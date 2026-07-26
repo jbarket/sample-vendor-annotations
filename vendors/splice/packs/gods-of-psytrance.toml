@@ -1,0 +1,31 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 166 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Gods Of Psytrance"
+slug = "gods-of-psytrance"
+dir  = "Gods Of Psytrance"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/function-loops/gods-of-psytrance"
+provider = "Function Loops"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1641395255/o9rrerofxqvdgq3kzhec.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 4
+audio_bytes = 14161862
+digest      = "ec96de4235298ccba0a39fc75e951f576cf2fbd7382e5cf090063d934d6ef7bc"
+anchors     = [
+  "324f49160b92b8b209b65eeda46336f19be154e28f94b4f6fafee700a813d80a",
+  "b89efa412f0c6a4f3dc5ce3bd1a4c55dd0c5548c362b443112553f2e3a7c12ef",
+  "dda03ba25770ee065f9c396da8dd2afc2db16ec3f1748b2773d0362e32219aa4",
+  "fa5833ed507d610dc044e6af98ac3149c02795254d9bccf4355398488681f456",
+]
+manifest    = "manifests/gods-of-psytrance.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        6  Function_Loops_-_The_Gods_of_Psytrance/FL_TGP_143_Percussion_Loops

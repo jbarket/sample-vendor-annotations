@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 189 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Westwood Sounds Vol 4 - SugarBeats"
+slug = "westwood-sounds-vol-4-sugarbeats"
+dir  = "Westwood Sounds Vol 4 - SugarBeats"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/westwood-sounds-vol-4-sugarbeats"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1571842706/1571842700.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 5195834
+digest      = "aa0d5445671c03ca0f874739f673e7d955a9e967dd40db33050de6384181e95b"
+anchors     = [
+  "423fab0a67564a2349303106643c743339d10efc248ae2c2a49d6e7e8cdfd3d6",
+]
+manifest    = "manifests/westwood-sounds-vol-4-sugarbeats.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Black_Octopus_Sound_-_Westwood_Sounds_Vol_4_-_SugarBeats/Synth_-_Loops

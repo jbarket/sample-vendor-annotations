@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 452 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Organic House"
+slug = "organic-house"
+dir  = "Organic House"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/zenhiser/organic-house-zenhiser"
+provider = "Zenhiser"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1611859287/1611859283.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 8332468
+digest      = "35c564b9c05ad8f1babff5261ea412bdcd725574aff511519990320d06a8682f"
+anchors     = [
+  "a764bef95e41d9ae5c96454a2f79ae4ca3c2bfa2354e04359d0a8c03b91aaa0e",
+]
+manifest    = "manifests/organic-house.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Organic_House_-_Zenhiser/Loops

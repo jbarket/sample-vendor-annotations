@@ -1,0 +1,37 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 198 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Netrunner: Hollywood Cyberpunk"
+slug = "netrunner-hollywood-cyberpunk"
+dir  = "Netrunner Hollywood Cyberpunk"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/splice/netrunner-varien-pack"
+provider = "Splice"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1542383660/1542383659.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 198
+audio_bytes = 383896656
+digest      = "4101d7edab96ebe4a96aedbcc165ca56885db29227d5a8ec5ef1c4d510ad67d8"
+anchors     = [
+  "026346688f0579adae6055f03cd8bfa80d0cf14d6ef13cbd05f52ba101856650",
+  "04e3d9023f649f9ee3fd8d658578180b850556e355cdde535b4a307691ae25d0",
+  "04f4c654dce5d2ff900d761ca70b5f87d678ca2f51ee65cf93e7a0da09a8d14b",
+  "0505abc5860a414daa61b130df5c54097d3a73a7d857f53f84d9b12f5c171439",
+  "050fa736ea42e8b8d893590be893b675cd8912b489a99951abfdf302a373a998",
+  "06256a2dda502fd1c8d50e7e37b2d82b60a2c64376e1dd22d8bee1a1a74ef3ae",
+  "06812a2bd67cff6b32d2d73f2591eb1431e3bb964bad82f4f80be433360b3f5a",
+  "0684e97a9b04effb20ff597abfe141d2eb90fe9c5dcbc906ea4c9abd976ff74d",
+]
+manifest    = "manifests/netrunner-hollywood-cyberpunk.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      137  VARIEN_labeled_processed/VARIEN_tonal
+#       41  VARIEN_labeled_processed/VARIEN_fx
+#       20  VARIEN_labeled_processed/VARIEN_drums

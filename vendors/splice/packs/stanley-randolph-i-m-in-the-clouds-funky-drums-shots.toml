@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 325 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Stanley Randolph - I'm In The Clouds - Funky Drums & Shots"
+slug = "stanley-randolph-i-m-in-the-clouds-funky-drums-shots"
+dir  = "Stanley Randolph - I'm In The Clouds - Funky Drums & Shots"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/jammcard-samples/stanley-randolph-i-m-in-the-clouds-funky-drums-shots"
+provider = "Jammcard Samples"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1615941121/1615941116.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 4442972
+digest      = "a89a8b2f2abde75997eb594835aed9236204999a623e734c63744cb6c7592282"
+anchors     = [
+  "685f3902a523c2e246f9aa4899f9b139e831c2913e363b9559d63f66126dd987",
+]
+manifest    = "manifests/stanley-randolph-i-m-in-the-clouds-funky-drums-shots.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Jammcard_Samples_-_Stanley_Randolph_-_Master_Folder/loops

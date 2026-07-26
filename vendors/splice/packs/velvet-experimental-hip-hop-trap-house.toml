@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 540 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Velvet. - Experimental Hip Hop, Trap & House"
+slug = "velvet-experimental-hip-hop-trap-house"
+dir  = "Velvet. - Experimental Hip Hop, Trap & House"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/origin-sound/origin-sound-velvet"
+provider = "Origin Sound"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1541620464/1541620464.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 6359784
+digest      = "e9b28f55b4df65680d79dab738fd7059620bbe74c6a9a4b3fc3ed2249fa7706a"
+anchors     = [
+  "4128dbc3661a7561a2fbddb610909f365bb39304da027a809467deff147eebfc",
+]
+manifest    = "manifests/velvet-experimental-hip-hop-trap-house.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Origin_Sound_-_Velvet/SFX

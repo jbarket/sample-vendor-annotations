@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 329 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Dirty Disco Vol. 3"
+slug = "dirty-disco-vol-3"
+dir  = "Dirty Disco Vol. 3"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/that-sound/dirty-disco-vol-3"
+provider = "That Sound"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1645110025/mtz60x1gsmvsu4qrb0bt.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1954084
+digest      = "fb68f8612b409af687066972b9cfee734e3e0e170a78c7822cb509169946d9d1"
+anchors     = [
+  "12643e38ac89d765444d817e210c8299522292a9d7600c541759af80b724688c",
+]
+manifest    = "manifests/dirty-disco-vol-3.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  TS_DIRTY_DISCO_VOLUME_3/loops

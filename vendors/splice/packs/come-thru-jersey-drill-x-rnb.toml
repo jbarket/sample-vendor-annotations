@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 511 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Come Thru - Jersey Drill x RnB"
+slug = "come-thru-jersey-drill-x-rnb"
+dir  = "Come Thru - Jersey Drill x RnB"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/91vocals/come-thru-jersey-drill-x-rnb"
+provider = "91Vocals"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1708378810/jty32qvf32ebegkttgmi.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 132402
+digest      = "031cdd7f2a4b604d1336f3dba3fc8f77ba4e52afea1b3435cc7169c45c6cd0af"
+anchors     = [
+  "9276caa7de64ccf533b68b11fd8db4efd70dbba1eabb4be2bb90f53630f1bc67",
+]
+manifest    = "manifests/come-thru-jersey-drill-x-rnb.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  91Vocals_-_Come_Thru_-_Jersey_Drill_x_RnB/one_shots

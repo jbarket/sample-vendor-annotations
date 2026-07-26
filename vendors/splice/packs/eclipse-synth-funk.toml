@@ -1,0 +1,34 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 336 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Eclipse - Synth Funk"
+slug = "eclipse-synth-funk"
+dir  = "Eclipse - Synth Funk"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/eclipse-synth-funk"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1681129239/njr2mymxsiwkh77gzfzg.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 7
+audio_bytes = 35814634
+digest      = "971b9c5c6807d1b4b5412c76ff2423ba0d041f15a1d43480317efdb729f7e519"
+anchors     = [
+  "1d29d4707608d7ff560a9f2fffbc548c37fc50dc0853a48d9228d618206f5ad4",
+  "245ce75f4d948a31ff94509b12daf6ce1277d7b831b08116589030fb00eda67e",
+  "55d9246aba7dc4ae611ed02172e5b0710fb1f25ad38bbc722340d046dae1778f",
+  "719f801716e78289629c1547cb9f12f99995c66e7b0f6e4943ffaf56e8f5fac6",
+  "8492145bab5407ce8edce0feb3827c7bbfc8c0a474d565e9d54de4be31cde00d",
+  "e800af267466c9623f054644f971db0daababfcfc956c9a85f73fc5b1bcab915",
+  "ec98d44b72885a1fb3c9ff2d6819ef3b2567919e3f13ce734efb6965d23a96bb",
+]
+manifest    = "manifests/eclipse-synth-funk.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        9  Black_Octopus_Sound_-_Eclipse_-_Synth_Funk/Loops

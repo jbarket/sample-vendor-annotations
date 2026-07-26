@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 361 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Cristina Soto - Souls"
+slug = "cristina-soto-souls"
+dir  = "Cristina Soto - Souls"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-cristina-soto-souls"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1552318928/1552318928.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 13800044
+digest      = "8acd51d19e28145b516d6f62ad3bb603db77c55f90f7d5c5c1ede99a7bb7a196"
+anchors     = [
+  "f248d7f8e5d5bae20944b16a8cc6bb44ee0222f9f8997200d33ecf9b271576cf",
+]
+manifest    = "manifests/cristina-soto-souls.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Black_Octopus_Sound_-_Cristina_Soto_-_Souls/Vocals_-_Atmospheres

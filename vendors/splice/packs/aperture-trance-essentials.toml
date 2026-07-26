@@ -1,0 +1,29 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 384 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Aperture - Trance Essentials"
+slug = "aperture-trance-essentials"
+dir  = "Aperture - Trance Essentials"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/parallax/aperture-trance-essentials"
+provider = "Parallax"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1652193497/r8km4kp5aobm1xnnpnmx.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 1814972
+digest      = "0d5ffc1c216978aa0338c8b9dff9baeb0bbbd9c60b5c6b0087201762188576a0"
+anchors     = [
+  "16d0524cf69ca557b5ab0d3a57c0ca431dd3ee0540af0f8725df6b0cf4ac0770",
+  "73e9ce59ff852d5b60151fb30acad4225df5d4554a2e8e53cdb015e54e3ec94f",
+]
+manifest    = "manifests/aperture-trance-essentials.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        4  loops/percussion_&_top_loops

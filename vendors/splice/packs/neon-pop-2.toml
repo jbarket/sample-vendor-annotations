@@ -1,0 +1,31 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 378 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Neon Pop 2"
+slug = "neon-pop-2"
+dir  = "Neon Pop 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-magic/neon-pop-2"
+provider = "Sample Magic"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1683203590/jpz8bh6qz5ewahdzqwna.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 4
+audio_bytes = 11431806
+digest      = "ce17d32e0a791d85bb116f528e426880615cd6117f3a354a277d7744303d37cf"
+anchors     = [
+  "20d09f468d711007c649de2e1f055e0096303c5e0792d9f6e5f477ec65f822e2",
+  "7dfd45ddae31c08cef84e5fea48d52ecf6254029c7c46b2a828e53489cc86a56",
+  "894a83525c7cacb8840f272fcbefe6c803ffdc09df231deeaab0fd86e19a11f6",
+  "8b02a8e50d74a40eabfe9216cbf7778f96879923ef4332b13b47377ad35aedc3",
+]
+manifest    = "manifests/neon-pop-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        4  SM-3000-R_-_Sample_Magic_-_Neon_Pop_2_-_WAV/loops

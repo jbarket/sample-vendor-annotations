@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 384 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "TRAPSOUL VIBES"
+slug = "trapsoul-vibes"
+dir  = "TRAPSOUL VIBES"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/origin-sound/trapsoul-vibes"
+provider = "Origin Sound"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1651669285/hsqsqxga1qa0k0lwhfzl.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 5653298
+digest      = "41506f2a418c8556a4049ae90aec392bf6b3f080bc316b0472a5c3b55a090ead"
+anchors     = [
+  "d7f379f4c8200e3216d373cf0853b820876ffe1954ee6c585d406f70f171e1e4",
+]
+manifest    = "manifests/trapsoul-vibes.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Origin_Sound_-_TRAPSOUL_VIBES/SFX

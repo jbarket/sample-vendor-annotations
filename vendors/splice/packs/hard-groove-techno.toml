@@ -1,0 +1,35 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 358 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Hard Groove Techno"
+slug = "hard-groove-techno"
+dir  = "Hard Groove Techno"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/hard-groove-techno"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1756148251/gspezcgybz5u9eybmidf.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 27
+audio_bytes = 41763556
+digest      = "1a713d5a155d6351f18e9ccf63211a3a44d2343e4d63d0fca8c1cedeb018285c"
+anchors     = [
+  "0612b581f541c7c0898576caac04d6e76a1557010ae87e835cb7430367e5c6ad",
+  "0a760bd1b4d30dc51970528fe49da50492073d548cb40f4f72c1520d06e0b745",
+  "26513e116018c00dbe3aff9fada3a2d9e4efb8216f86211feb3d5a1d3adb6444",
+  "2f81ee8863b19b8428ea0bf9c2cca99d5b6fdb108186d36fc80737d5d077dcc2",
+  "375253efba0ca3980ac7eb42b99068f607cc5f4887d91aeb6089af0e41cac0ee",
+  "3937be334226f2b78f37f7a543a7ddb7b8d80de60b6863a894e1839c6cc8bc41",
+  "3f8fb71d7755805f44c6922796565396c4269bf823e145455ff436eb04220a20",
+  "495bff5ae04263accd7bf3b93e904d9eaeaeaac404c15b0e912c67f8ec92da5b",
+]
+manifest    = "manifests/hard-groove-techno.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       27  Black_Octopus_Sound_-_Hard_Groove_Techno/Loops

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 20 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Battle Gear"
+slug = "battle-gear"
+dir  = "Battle Gear"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/blastwave-fx/bw-gear"
+provider = "Blastwave FX"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1490299810/1490299809.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 23838444
+digest      = "385c00cf66666b5651af0278ba8d8fa0b1671d49905273e30fb7b231c9d1beec"
+anchors     = [
+  "12b4bf3e42d4285414c10cfdeb5c3de34fdd7325665e1b623630958b4a2f0a92",
+]
+manifest    = "manifests/battle-gear.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  GasMaskBreathe_BW.55039.wav

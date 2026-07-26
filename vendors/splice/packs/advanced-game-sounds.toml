@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 3102 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Advanced Game Sounds"
+slug = "advanced-game-sounds"
+dir  = "Advanced Game Sounds"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/epic-stock-media/esm-advanced-game-sounds"
+provider = "Epic Stock Media"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1502292840/1502292839.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 411362
+digest      = "720bb43d57a70b0f4782128222709365241d2a6eeb741c120d9a1f17dced9a8d"
+anchors     = [
+  "a2a3ef1a62977a2fce4dcb59d91b46e73f0862ef6f20c6ae57dcd92bd48a03ee",
+]
+manifest    = "manifests/advanced-game-sounds.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Advanced_Game_Sounds/Futuristic_Weapons

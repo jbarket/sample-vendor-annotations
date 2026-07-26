@@ -1,0 +1,23 @@
+# DELISTED from Splice (checked 2026-07-26): filepath and name searches
+# find nothing — no url/artwork available. Identity manifest still works.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Trance Afterburn"
+slug = "trance-afterburn"
+dir  = "Trance Afterburn"
+observed = 2026-07-26
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 75146552
+digest      = "e27db7318b0519fd6b3ce9c06400f3c11792f372c2a0cf63374f41d55ed1a5d0"
+anchors     = [
+  "235ff4e82e9e4ded8bc37922128e266a2bc0cf282babdcb653e4cf97b53f9eb4",
+]
+manifest    = "manifests/trance-afterburn.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  8/TRANCEAFTERBURN_-_002_Songstarter_130bpm_F#m

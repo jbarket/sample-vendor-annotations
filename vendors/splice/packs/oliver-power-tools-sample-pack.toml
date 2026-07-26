@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 790 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Oliver: Power Tools Sample Pack"
+slug = "oliver-power-tools-sample-pack"
+dir  = "Oliver Power Tools Sample Pack"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/splice/oliver-power-tools"
+provider = "Splice"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1543420860/1543420859.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 2718812
+digest      = "2b4dc329ad8193d7c24cf09ec2f8440f595c3325e817d659f665a37e94feb0c2"
+anchors     = [
+  "ada7311595d72efd3cf49b87029aa33deccba4ed14d7b32ca282d98dee1bf5b5",
+]
+manifest    = "manifests/oliver-power-tools-sample-pack.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  OLIVER_labeled_processed/OLIVER_fx

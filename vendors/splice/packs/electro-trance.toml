@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 379 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Electro Trance"
+slug = "electro-trance"
+dir  = "Electro Trance"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/parallax/electro-trance"
+provider = "Parallax"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1663684393/thid8tdtqavancnmemn0.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1984772
+digest      = "13f7dbb3c516645dcd955644b91d31c1f0ef1c4701120d76d2fb5a790809c7a1"
+anchors     = [
+  "9fe84f010d22be1efa0d105bcc7ba5877a7a4c3f6eab1f37311ca8b17d38de46",
+]
+manifest    = "manifests/electro-trance.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  PLX_-_Electro_Trance/loops

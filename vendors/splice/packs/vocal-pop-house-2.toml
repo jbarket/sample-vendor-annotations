@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 974 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Vocal Pop House 2"
+slug = "vocal-pop-house-2"
+dir  = "Vocal Pop House 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/dropgun-samples/vocal-pop-house-2"
+provider = "Dropgun Samples"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1653652894/jzpfetzqqwyuhellhojh.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 687864
+digest      = "ab8db656d0c0ea3b42a672b947fa7fd1e091b7288493138d00cb7668803a0b09"
+anchors     = [
+  "f69eb69ffa01bcdb4100bbf38470c0cbe22be4c5c41cddc57b31888f60666be5",
+]
+manifest    = "manifests/vocal-pop-house-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Dropgun_Samples_-_Vocal_Pop_House_2/One_Shots

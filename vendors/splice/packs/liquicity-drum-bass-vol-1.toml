@@ -1,0 +1,30 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 253 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Liquicity Drum & Bass Vol. 1"
+slug = "liquicity-drum-bass-vol-1"
+dir  = "Liquicity Drum & Bass Vol. 1"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/test-press/liquicity-drum-and-bass-vol-1"
+provider = "Test Press"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1696343326/n8uoudkpy6g0gy7z0ncw.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3
+audio_bytes = 3641894
+digest      = "b6958730277cbf62fce03d6db5d9a7bfe834814e2b90f5eeea4f531f1d7a9ef3"
+anchors     = [
+  "3d89f8c4a2ad061c09d80d7d159f4dc8652986aefa7fda167aa28c4e524fc297",
+  "a4d7074cb91ea52feae5ca31c1139ddb10d255a852dab61e2d7f729c8d1a44aa",
+  "a856152810e2ffae41f92ee8d14549d7f8ce432685026c7804841dd9086c9923",
+]
+manifest    = "manifests/liquicity-drum-bass-vol-1.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        6  Test_Press-_Liquicity_Drum_&_Bass_Vol_1/Loops

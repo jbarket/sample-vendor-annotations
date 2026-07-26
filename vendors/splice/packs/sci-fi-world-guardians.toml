@@ -1,0 +1,31 @@
+# DELISTED from Splice (checked 2026-07-26): filepath and name searches
+# find nothing — no url/artwork available. Identity manifest still works.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Sci-fi World Guardians"
+slug = "sci-fi-world-guardians"
+dir  = "Sci-fi World Guardians"
+observed = 2026-07-26
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 5
+audio_bytes = 173613396
+digest      = "e18421a4cffa20db1ef991c62929cf376ee65070bd563528f23efdb281bdbae9"
+anchors     = [
+  "20908c2bec22fcde15bfb27241112603b0a0ef7e613a64b28c0c716587c0a29e",
+  "8388af83f6624c341ff42d2ef00ace4be50f0879e69d2b482306d90a133b46e5",
+  "9de5e3178163e05f09250188041190e999c019509f32c100fec47c5ad8e009b5",
+  "c57c3d5ad3fb48cea789f0be70d2cca7eb1300a6988b20c021f593bbe390be8d",
+  "ff4f3ddd4d03111d82967ef985ff0e8c222554df1131ddfa0a7f3b15754c4df6",
+]
+manifest    = "manifests/sci-fi-world-guardians.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Sci-fi_World_Guardians_24bit_Ambience_Loops/ESM_Droid_Graveyard_Alt_Mix_2_Loop_Roomtone_Cm_122_Pad_Synth_Ambient.wav
+#        1  Sci-fi_World_Guardians_24bit_Ambience_Loops/ESM_Guardian_Mother_Ship_Alt_Mix_2_Loop_Roomtone_Em_132_Pad_Synth_Ambient.wav
+#        1  Sci-fi_World_Guardians_24bit_Ambience_Loops/ESM_Inside_the_Machine_Full_Loop_Roomtone_Cm_125_Pad_Synth_Ambient.wav
+#        1  Sci-fi_World_Guardians_24bit_Ambience_Loops/ESM_No_Way_Out_Alt_Mix_1_Loop_Roomtone_Cm_129_Pad_Synth_Ambient.wav
+#        1  Sci-fi_World_Guardians_24bit_Ambience_Loops/ESM_Technology_Printer_Alt_Mix_1_Loop_Roomtone_C_109_Pad_Synth_Ambient.wav

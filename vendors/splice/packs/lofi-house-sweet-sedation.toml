@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 268 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Lofi House: Sweet Sedation"
+slug = "lofi-house-sweet-sedation"
+dir  = "Lofi House Sweet Sedation"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/capsun-proaudio/lofi-house-sweet-sedation"
+provider = "Capsun ProAudio"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1608308113/1608308107.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 192484
+digest      = "81e02da951ff838336543f4f92bc930643da226f5a8a2f932cbfef53ee2fb260"
+anchors     = [
+  "954e4449f943210e528dd7881eeee753c7fed689f06c3d5e29f0b12ffc27be52",
+]
+manifest    = "manifests/lofi-house-sweet-sedation.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  CPA_Lofi_House_Sweet_Sedation/Drums_&_Perc_One_Shots

@@ -1,0 +1,36 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 402 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Soulful Drum & Bass Vocals"
+slug = "soulful-drum-bass-vocals"
+dir  = "Soulful Drum & Bass Vocals"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/91vocals/soulful-drum-and-bass-vocals"
+provider = "91Vocals"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1676303561/qo6lixhhxlrtznnsc5iv.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 11
+audio_bytes = 22703744
+digest      = "ff97caec6875cf77ebdfeb8de5e625fec6df4a8cb6d4b6c56c5c1f66cc1c9d24"
+anchors     = [
+  "07b5f7a9c8be7fe0f056e7472d4016caea221b00ded39c8e680ad495162bbb35",
+  "09e466a11190a89bb24277b0cb3ab2c525480ef87c008f927b9d228d540b4fbb",
+  "1346e61f15effd31e0c0362a90067740df57d3157552f501726b5f95bfc19f50",
+  "201c97a17af973a59a0f9f751375e9d24f974ef2bdb2a30a52b64a03f34425ca",
+  "41db25cae6cb2dd240d505ee68f4ab6eb2ebed239ebb5687e5dd0e04f39de3a2",
+  "4a19be01fcbd11b39a71c810b4f6cddacd9f58163ddd45c32be59bf2c23edf68",
+  "4ff21c535dfd6ccc3f225ac4905948880c91b62e50db561e8a336639e5449766",
+  "54109ae771b7bf69a58f3663fa2e13d52995b14660ac4f4b176bb5d090ed8c5e",
+]
+manifest    = "manifests/soulful-drum-bass-vocals.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       20  91Vocals_-_Soulful_DnB_Vocals/loops
+#        2  91Vocals_-_Soulful_DnB_Vocals/one_shots

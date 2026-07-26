@@ -1,0 +1,44 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 680 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Rave Stabs"
+slug = "rave-stabs"
+dir  = "Rave Stabs"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/shamanstems/rave-stabs"
+provider = "ShamanStems"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1564089598/1564089594.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 680
+audio_bytes = 595921734
+digest      = "7a7cbfd018e5e35db6b83e7e5faf84fb0471891681d02c3b3dafd1910e801078"
+anchors     = [
+  "001864629df50463efc8edbfd4393c6744f07263d2e57256a4ea8d901adf85e7",
+  "0057250393ca5565e36983a84502cc54c16d4c087b0ff924b1a1683f8c794589",
+  "00a1141d405f31aceab44f54b1b1e9dcfe023d09254c4f2c615e95adb05413a8",
+  "01d2fabf6ed1d7223d157db82bd61ee558170a5bfadec38ae2a7cf8bb000f95a",
+  "031569314dfafcc0f8e15bc0e0bd0a0a1fbdcc9f40374214eb8881e1b4b71687",
+  "031b445d0de69689661fe06d62d65f20bebd8fb3f0cdb96f7a94e170af44c6d2",
+  "03335cf7d42d4a34d19c5f5edbd6cf6772348fe06e5519fea549e3bb844da779",
+  "03515de5c1ecd4962cc7a3549c7ec23bb74725925267da1dce0c5279eb89f47f",
+]
+manifest    = "manifests/rave-stabs.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      154  ShamanStems_-_Rave_Stabs/Classic_and_Dusty
+#      123  ShamanStems_-_Rave_Stabs/Edgy_and_Tech
+#       89  ShamanStems_-_Rave_Stabs/Light_and_Positive
+#       72  ShamanStems_-_Rave_Stabs/Pads
+#       52  ShamanStems_-_Rave_Stabs/Xtra_Bass
+#       46  ShamanStems_-_Rave_Stabs/Xtra_Acid
+#       45  ShamanStems_-_Rave_Stabs/Pianos
+#       37  ShamanStems_-_Rave_Stabs/Organs
+#       36  ShamanStems_-_Rave_Stabs/Choirs
+#       26  ShamanStems_-_Rave_Stabs/Hoovers

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 311 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Vocal Megapack 10"
+slug = "vocal-megapack-10"
+dir  = "Vocal Megapack 10"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/audentity/audentity_records_vocal_megapack_10"
+provider = "Audentity Records"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1591626141/1591626097.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 24385626
+digest      = "b81ff6ac3677c7b24c2d4dbfaa14ee17f7948c0734a868d5587e1534c285da3f"
+anchors     = [
+  "a28fbace90b0f8a7a644f5d756f6c10f156e136edcc949e93e3e10ee308b5cc7",
+]
+manifest    = "manifests/vocal-megapack-10.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Audentity_Records_-_Vocal_Megapack_10_repack/One_Shots

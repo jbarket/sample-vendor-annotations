@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 173 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Jafunk's Future Funk & Soul Vol. 3"
+slug = "jafunk-s-future-funk-soul-vol-3"
+dir  = "Jafunk's Future Funk & Soul Vol. 3"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/splice/jafunk-vol-3-pack"
+provider = "Splice"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1593690004/1593690003.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1229366
+digest      = "8e8d90e3048dabbefd7b08b719049c761ed8e2ec999672ffda7b11ef6a14d179"
+anchors     = [
+  "f160021e707416f42ebf2f05f0d62cae84136ed133f5aaf20d069aa70af3470a",
+]
+manifest    = "manifests/jafunk-s-future-funk-soul-vol-3.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  JAFUNK_sample_pack/JAFUNK_fx

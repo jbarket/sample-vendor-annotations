@@ -1,0 +1,36 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 299 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Tropical Funk by Basement Freaks"
+slug = "tropical-funk-by-basement-freaks"
+dir  = "Tropical Funk by Basement Freaks"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/tropical-funk-by-basement-freaks"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1636471676/blkn8fvgaehux8x7kowu.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 299
+audio_bytes = 525072280
+digest      = "a8c894a26b72ff5d272e8fd0293f5f169d94ad1e43163ce8a3a5708f1f7392ae"
+anchors     = [
+  "00b43f9e6b45ea1e0e22c994c9449f8ca5b2fda41e23d92394f98531ec9fc3ec",
+  "01811388036f426c6ba2fa6dcea63db4c17a37e493cb9792d5b2fdce7083a02d",
+  "019a19504101333ca0df8c785b577892bdd75f496b6b09ed5e74525c86262fb2",
+  "01c65b725c1ce1b8c92f36e271b420713ad7d666be9e4db64b8fce78079bd485",
+  "04cbdac2c9fa0c231ba09f60ea86599f808880e749d27938f323bf6a3a1d0231",
+  "05d9bdb2dbfc0ca886ac55fb1037e00a514e074935dbdacf4d4b206bb2bd397a",
+  "05f9f5b27f20065867e83b93e76cc7476910907a2f853dfab1bab6066ceef935",
+  "07d619e520ef65d031b2fb4ff96e98edfc510b9162f25dab07c52fe9eb46a51b",
+]
+manifest    = "manifests/tropical-funk-by-basement-freaks.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      174  Black_Octopus_Sound_-_Tropical_Funk_by_Basement_Freaks/ONE_SHOTS
+#      125  Black_Octopus_Sound_-_Tropical_Funk_by_Basement_Freaks/LOOPS

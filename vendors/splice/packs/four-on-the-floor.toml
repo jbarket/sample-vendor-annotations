@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 117 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Four on the Floor"
+slug = "four-on-the-floor"
+dir  = "Four on the Floor"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/discotheque/four-on-the-floor"
+provider = "Discotheque"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1671562065/mvdtvvxfvmycjzp4dyhn.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 4233644
+digest      = "f3de16a50a4693b9a513fffdb11e8102aea5568819178752bf6cbe795fe22d76"
+anchors     = [
+  "4df75680828de1cddf8e9d2a389a652df94aadddbaa87ffe8e3a96efede01a0d",
+]
+manifest    = "manifests/four-on-the-floor.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Discotheque__-_Four_on_the_Floor/Loops

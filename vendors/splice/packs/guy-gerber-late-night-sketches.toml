@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 160 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Guy Gerber Late Night Sketches"
+slug = "guy-gerber-late-night-sketches"
+dir  = "Guy Gerber Late Night Sketches"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/splice/guy-gerber-pack"
+provider = "Splice"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1537800438/1537800437.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1587644
+digest      = "85bcc0908f35a132ff54db5898d92c5c6ca49529f7765509f52008dd085d9a3d"
+anchors     = [
+  "4e9a3ec5b949aaf6aa6666f67f43456fee8b8bcf74ac6e64f5541f76ae09b009",
+]
+manifest    = "manifests/guy-gerber-late-night-sketches.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  GUY_GERBER_labeled_processed/GUY_GERBER_drums

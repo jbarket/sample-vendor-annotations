@@ -1,0 +1,36 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 241 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Night Drive 2: Retrowave Essentials"
+slug = "night-drive-2-retrowave-essentials"
+dir  = "Night Drive 2 Retrowave Essentials"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/neon-wave/night-drive-2-retrowave-essentials"
+provider = "Neon Wave"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1695932259/gqrhmefx3fg8vrtmw31z.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 241
+audio_bytes = 648597094
+digest      = "6aedeedcef56470f23a2bd13d29a1ef35bae46a46550ac50e05172663f1199b9"
+anchors     = [
+  "000bead5a74765a1de9ba1e321e080a7f5872057a74ce0a4e9dcd4ae9740c602",
+  "00b74ca5cace179c87aa0e5bc34c175678ae22bba4c84d649596b64166ba5cf5",
+  "00d3321fedd6b73c9ba5f17e72a56bbeffdc3dc55617ce80053bece25a82287b",
+  "020fa2f40540b5c7d5a88e3dcd0a10aaf7f09daed14afc1b1d80a2ade187adec",
+  "02121d12d95b7df99636d105aa0f7b68e88b4b26e9ea095e80dba841f56d7061",
+  "02bc68b91f33906c324e3c7e2ebc99400fbc5be1ff588d25cd54047cf8c93884",
+  "05a6b8b328f78161a630fb8e48985fd9f50297dfa712da2167581237796a8476",
+  "05d9b067fb288f5ffcfa020606b76500657839d843cbfb82cd3bbb9142dfcf9b",
+]
+manifest    = "manifests/night-drive-2-retrowave-essentials.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      182  Night_Drive_2_-_Retrowave_Essentials_-_WAV/loops
+#       59  Night_Drive_2_-_Retrowave_Essentials_-_WAV/one-shots

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 140 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Steam - Ambient Loops & Textures"
+slug = "steam-ambient-loops-textures"
+dir  = "Steam - Ambient Loops & Textures"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/modeaudio/steam-ambient-loops-and-textures"
+provider = "ModeAudio"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1671035209/yncsnd2xr5qlihh6ncyb.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 5083006
+digest      = "a1e616e9500dd5988e6509abef0510b0750c56174168e8677100d84750e6dd8e"
+anchors     = [
+  "431fbd414639cf8174c0d39a6ae1e77ca52b997d626bac3d71caef493d6c8cb7",
+]
+manifest    = "manifests/steam-ambient-loops-textures.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  ModeAudio_-_Steam/loops

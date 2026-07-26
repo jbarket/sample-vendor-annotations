@@ -1,0 +1,31 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 283 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Vocal Atmospheres by Holly Drummond"
+slug = "vocal-atmospheres-by-holly-drummond"
+dir  = "Vocal Atmospheres by Holly Drummond"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-vocal-atmospheres-by-holly-drummond"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1516820781/1516820781.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3
+audio_bytes = 59791128
+digest      = "cb37e3fdd90224bf79b952450bad23ac113f2f30e1ffe6a63f6ddbf1268139ef"
+anchors     = [
+  "484f242149092d85cc6eb40ac732fd42846ec5a2323ffac5291e7aaeced72832",
+  "9e695dcc83a3848292894754a065c5be726ec4caacadaffb1ad6c9f71d227f76",
+  "e41ae387b55e1c6b380255cfaf6ae59a858fb84f4cccba978f32cc53dcbf8158",
+]
+manifest    = "manifests/vocal-atmospheres-by-holly-drummond.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        3  Black_Octopus_Sound_-_Vocal_Atmospheres_by_Holly_Drummond/Huge_Textures
+#        1  Black_Octopus_Sound_-_Vocal_Atmospheres_by_Holly_Drummond/Long_Atmospheres

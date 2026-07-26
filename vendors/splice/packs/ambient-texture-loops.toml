@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 50 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Ambient Texture Loops"
+slug = "ambient-texture-loops"
+dir  = "Ambient Texture Loops"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/modeaudio/ambient_texture_loops"
+provider = "ModeAudio"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1573664154/1573664152.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 3197580
+digest      = "7d793069e7bb34c5880ff14ebf73dd8af355e43723fe47b6203e0b01f3d75b38"
+anchors     = [
+  "2390bfcf0cf55fc5eed020cdac416c0820231c9162ab42b3ca0f27bde3f7b402",
+]
+manifest    = "manifests/ambient-texture-loops.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  ModeAudio_-_Ambient_Texture_Loops__WAV_/Ambiances

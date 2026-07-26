@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 394 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Industrial Techno"
+slug = "industrial-techno"
+dir  = "Industrial Techno"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/four4/four4-industrial-techno"
+provider = "Four4"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1665571317/nwvwyecluso9clqchji3.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1868030
+digest      = "6088cafc3dac21a817cdca0fc9031fb7e46f0a5c34e96bd5d7849bc0ea3f7837"
+anchors     = [
+  "124ae1eb3785ef4f94f30dc96b8251233fc0a425062f41c2ba5ade76b2ad5405",
+]
+manifest    = "manifests/industrial-techno.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Four4_-_Industrial_Techno/Loops

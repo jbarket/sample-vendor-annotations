@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 359 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Asterism - Progressive & Melodic Trance"
+slug = "asterism-progressive-melodic-trance"
+dir  = "Asterism - Progressive & Melodic Trance"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/parallax/asterism-progressive-and-melodic-trance"
+provider = "Parallax"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1721051437/vequcospxo2tgj5vpkkq.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1987276
+digest      = "7210d096dbde79dc7269bd1adaa6b6bb284cc0a376514f8f54f5e0bb54e8e553"
+anchors     = [
+  "35a639a91d8e42ee8d9476c4b6e1adee7b8b3312da00a4615f00a98b7f8ab717",
+]
+manifest    = "manifests/asterism-progressive-melodic-trance.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  PLX_-_Asterism_-_Progressive___Melodic_Trance/loops

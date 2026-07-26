@@ -1,0 +1,29 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 391 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Ascension - Techno & Trance"
+slug = "ascension-techno-trance"
+dir  = "Ascension - Techno & Trance"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/parallax/ascension-techno-and-trance"
+provider = "Parallax"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1691432903/hzvc8bdiz69bnomze3wu.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 1814864
+digest      = "2a9277d28e84c29160077fe4b7700dbd6bd6beb72bfacb6759463ecd0576109f"
+anchors     = [
+  "8fa7e206eb654554b138fd48cebdbefa08a23dd85ad32854fe05f4a8cda471de",
+  "fd64b9d4d7dc099a56c431de145b6ba9c031c35a2ae197fb08801e03a9693ee1",
+]
+manifest    = "manifests/ascension-techno-trance.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        4  PLX_-_Ascension_-_Techno_&_Trance/loops

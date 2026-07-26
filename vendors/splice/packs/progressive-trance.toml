@@ -1,0 +1,29 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 782 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Progressive Trance"
+slug = "progressive-trance"
+dir  = "Progressive Trance"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-magic/sm-progressive-trance"
+provider = "Sample Magic"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1558371658/1558371343.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 2001912
+digest      = "85ac8f3614d7f18edd8e9e70a4aaed7393a8b18987e9e8b4f6f5ca8b6183a368"
+anchors     = [
+  "129d7f83220b2e74081e16ab7803cb3ac20158fca76292852b4ab2f6a2f5de46",
+  "473726138abcf1d19b12a772cf886bad3eb2a2d06680424c9536de0d7dc155c0",
+]
+manifest    = "manifests/progressive-trance.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        3  SKU#SM234_-_SM211_-_Progressive_Trance_-_Splice/vocal_loops

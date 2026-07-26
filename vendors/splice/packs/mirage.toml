@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 65 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Mirage"
+slug = "mirage"
+dir  = "Mirage"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/soul-surplus/mirage"
+provider = "Soul Surplus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1682012844/wkitpptzyy2u1djlxknr.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 3769348
+digest      = "72e3b0218de9695baa1b856fad2d2c826d70a3ac2d217f5660fafa446c763fde"
+anchors     = [
+  "ef0baa40017608ffb1c2b8a8b05b06eb76f201cb21cdee86384a8a78f084c2e0",
+]
+manifest    = "manifests/mirage.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Mirage/Loops

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 353 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "50/50 Halftime Beats"
+slug = "5050-halftime-beats"
+dir  = "5050 Halftime Beats"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/test-press/50-50-halftime-beats"
+provider = "Test Press"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1660325306/h7aufeaynh5be0dwd4pw.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 3628960
+digest      = "a7f711f5eb14336b16be1f79e9d11619a45885de226f04f84e2441925b3887b6"
+anchors     = [
+  "ca9fe02f264edd4c299da0b8a8c471ca15f7e092c32b0daa0a72701d2d30c359",
+]
+manifest    = "manifests/5050-halftime-beats.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Test_Press_-_Halftime_Bass_-_Audio/Loops

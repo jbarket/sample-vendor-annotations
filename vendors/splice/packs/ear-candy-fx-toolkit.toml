@@ -1,0 +1,30 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 200 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Ear Candy FX Toolkit"
+slug = "ear-candy-fx-toolkit"
+dir  = "Ear Candy FX Toolkit"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-ear-candy-fx-toolkit"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1572438597/1572438595.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 3731866
+digest      = "6b424ad3932b2d19e367d178bb99cfa71dfdea385af868f06fcc9e06140014f1"
+anchors     = [
+  "0c6975b02255d3cf45ec4910504fec90cb2e98b74bdfc6fc37c36133bbe893f5",
+  "dbe7d027476d81535ba1d6f93b16dd0e5c8b6789b2ad63887582c0c4e7436fc3",
+]
+manifest    = "manifests/ear-candy-fx-toolkit.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Black_Octopus_Sound_-_Ear_Candy_FX_Toolkit/Drum_Fills
+#        2  Black_Octopus_Sound_-_Ear_Candy_FX_Toolkit/Stabs

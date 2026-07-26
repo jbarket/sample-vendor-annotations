@@ -1,0 +1,30 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 513 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Afterlife - Modern Deep House & House"
+slug = "afterlife-modern-deep-house-house"
+dir  = "Afterlife - Modern Deep House & House"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/production-master/afterlife-modern-deep-house-house"
+provider = "Production Master"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1626954029/1626954023.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 2151180
+digest      = "c56585ff38fc23a5ec5bb8fbdbaa9925591f439ecafb37754152725114a502ba"
+anchors     = [
+  "4e5512ebcc44bb5cbe694c1d8d2d69f212e92d98cd02b6e5bf8997de50abb880",
+  "d45d2a45ba3a8174f1d9b511dd8f0400a175c781fde332e7d90eaddd2db96f07",
+]
+manifest    = "manifests/afterlife-modern-deep-house-house.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Audio/LOOPS
+#        2  Audio/ONE_SHOTS

@@ -1,0 +1,32 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 3078 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Activa Trance Essentials Volume 2"
+slug = "activa-trance-essentials-volume-2"
+dir  = "Activa Trance Essentials Volume 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/freshly-squeezed-samples/activa-trance-essentials-volume-2"
+provider = "Freshly Squeezed Samples"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1658148577/cd4qgv1tncofwgfskk4f.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 5
+audio_bytes = 4675524
+digest      = "9dea05317e431a89dcaceefe2300aa6d25eca1e46e9cbb695bcf5ccd860bd536"
+anchors     = [
+  "0b77d5d198f611f832824d3a644c704475057cab94c3aea3aced10f9a7794756",
+  "3822d16235f170fc0c3dadae4aefbb87e7722614962b5acb077fced7a3be8d67",
+  "9ce7244e7913ad83a0b1e75329378f965116f812b7649dc41f77d845a7a36e45",
+  "d6d4fdb3caf818d3da4f5a86e71c3aed55c12e0f23b9ec669b9db5ba23343fc4",
+  "e87d3eb3790a31e9560ff58406f9f06337ce5cdd379c4b51a4d046e313d64e3e",
+]
+manifest    = "manifests/activa-trance-essentials-volume-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        6  Freshly_Squeezed_Samples_-_Activa_Trance_Essentials_Volume_2/Loops

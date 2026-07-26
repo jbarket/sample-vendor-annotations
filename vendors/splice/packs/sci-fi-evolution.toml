@@ -1,0 +1,37 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 1703 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Sci-fi Evolution"
+slug = "sci-fi-evolution"
+dir  = "Sci-fi Evolution"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/epic-stock-media/esm-sci-fi-evolution"
+provider = "Epic Stock Media"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1502303593/1502303593.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 16
+audio_bytes = 27264332
+digest      = "acc98fec8a568fdfe6ce8521b524b1b683880e42bd9ca6f0b48a743e8f2db9c2"
+anchors     = [
+  "1b6bdd029654c2d1484fc2f054bed0320d702b642ea231e3c76f21df4b862656",
+  "1c4df234eb22608413c8b6377080e3c329bd3c4f189000e23d99d887ecbc8b81",
+  "2dea2e8035891dad778d57ca8aded42ecbed1a3f72328350f0d34f621555f02e",
+  "3aca7e65eb598382f9c19130754a0ab03411bf1615a1b46bb533fac182f432fd",
+  "54787292c42b7b08bc38c444f62d3d705bafd7fd467be1f9926d39770466cdd7",
+  "60804fb9b94f61fe23e61bf2fa55a913ef302f3e5008ebf113bb2e8c8b20bd8d",
+  "836cf30641d06a5babc59b56b11b76a10fa216c25423017c8ee7dd4d6487efe0",
+  "8c940141fc2be9d74086e8454c7c8176b7e7b4a67ea0c8ddbe88f0ec23deee66",
+]
+manifest    = "manifests/sci-fi-evolution.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       10  Sci-fi_Evolution/Space_Tone_Loops
+#        5  Sci-fi_Evolution/Robotics_and_Tech
+#        1  Sci-fi_Evolution/Creative_Essentials

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 232 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Philthy Horns - Philip Lassiter"
+slug = "philthy-horns-philip-lassiter"
+dir  = "Philthy Horns - Philip Lassiter"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/jammcard-samples/philthy-horns-philip-lassiter"
+provider = "Jammcard Samples"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1598350328/1598350327.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 577578
+digest      = "95b320e2a96ec50fd489bd6f98790ccccedb866628c65029511f374fda5f30c3"
+anchors     = [
+  "47d25abfbc4a995413ce2c66db0ccf22e2512706eb27c29b21a4f4174d451f6d",
+]
+manifest    = "manifests/philthy-horns-philip-lassiter.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Jammcard_Samples_-_Philthy_Horns_-_Philip_Lassiter_-_WAV/loops

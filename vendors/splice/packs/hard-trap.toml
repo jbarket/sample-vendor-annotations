@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 344 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Hard Trap"
+slug = "hard-trap"
+dir  = "Hard Trap"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-tools-by-cr2/hard-trap-2"
+provider = "Sample Tools by Cr2"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1632408323/jcn0qojgbbctexbaho82.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 3029246
+digest      = "80202b1113426b9df8cf5a76141bd3623cbb56251e526206b45c57daea6116aa"
+anchors     = [
+  "078a477db2a824c0bf6fe3c4be36a5160a21476a9df8e8a5f8c8de97b868fe2f",
+]
+manifest    = "manifests/hard-trap.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Hard_Trap_Audio/Demo_Kits

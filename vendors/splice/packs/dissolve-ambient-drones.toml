@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 200 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Dissolve - Ambient Drones"
+slug = "dissolve-ambient-drones"
+dir  = "Dissolve - Ambient Drones"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/modeaudio/dissolve-ambient-drones"
+provider = "ModeAudio"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1563907760/1563907760.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 3196196
+digest      = "895df80a01fba3d13717ec5417c78f5765527daa71a1ef2a532b468668bed0d5"
+anchors     = [
+  "135547cb04bbb2ee8f2242871f89c9f89f3633b11efe385ab3710c620ea575b5",
+]
+manifest    = "manifests/dissolve-ambient-drones.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  ModeAudio_-_Dissolve__WAV_/Dissolve_Samples

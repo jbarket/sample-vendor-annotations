@@ -1,0 +1,36 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 60 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "AI - Speech Vocal Hooks"
+slug = "ai-speech-vocal-hooks"
+dir  = "AI - Speech Vocal Hooks"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/function-loops/ai-speech-vocal-hooks"
+provider = "Function Loops"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1666708245/tseuacdyh534rzqglvsh.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 18
+audio_bytes = 30244428
+digest      = "00449a7430487529ae63b52941424b91e43f0b2b10dc4fd37cf5f2833c63b081"
+anchors     = [
+  "112b67640c0eab69f70df46f1d8cf74c37da838d45f4b86e29470e3a815e4083",
+  "127ae3f1cf3212f55bf12cad632731a0a35125655b855b402806c9e0d67596e4",
+  "2236a461c143017ba8a6c4fdbb358726f8e86b321f48fd379fd95f72a3cc0d85",
+  "27f0a84ca063f4feaf3f9f4872932b62d7f19543cf3d38eef8c36df5c36617ef",
+  "41a276402020e2b8a21ea7f604594918cdc84b2e37313066e5af34a2facae006",
+  "49a4b7bc9a2a2bf45ed9f4cec917f77c163adbef5518758eb37e0ea8e9867c7b",
+  "6f89090a6337360f98037106fa71b5604b5487c32c1240b163897e4e1b0ab54b",
+  "8b4838f6cf57801b7a5bc58b0b01be72e159875889f5a9912c72ca94abbc5a6d",
+]
+manifest    = "manifests/ai-speech-vocal-hooks.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       21  Function_Loops_-_AI_-_Speech_Vocal_Hooks/FL_AIV_Spoken_Vocals_Dry
+#        5  Function_Loops_-_AI_-_Speech_Vocal_Hooks/FL_AIV_Spoken_Vocals_Wet

@@ -1,0 +1,36 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 192 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Murder Cyberpunk"
+slug = "murder-cyberpunk"
+dir  = "Murder Cyberpunk"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/audentity/murder-cyberpunk"
+provider = "Audentity Records"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1680020065/oof3lfi9ugfpbyplke1k.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 192
+audio_bytes = 154077240
+digest      = "ae8441535becd2d73d0fcfeb11ca8c8c8c4ad458442fce027be6a5078482a759"
+anchors     = [
+  "00060ed83c898248a4e58e9426d5b4c4ec5edde04da801b680dc97946113055c",
+  "03af9bc44651fc0f616ba24a35c731222e15dddf30f20393a87408fe3754abab",
+  "04a7256e3a7a7837dbdc50b2106967b6788130f8972c4beaf479cf7aef806552",
+  "04ab058145787c832d6c7449cdad447376c12b9261b692280ef21d566ceab88e",
+  "05e8976b683bbf09bbe27a06da8cc89d296ae83a6b8861a9afda01ae77f42c63",
+  "076e720f91597652c5eb792d4244798959aaa4835c65af350dac1eda1528f267",
+  "09f6e19602713b2d8e1298a76f0d3e5e2df78a090cb6a3d2081840f7585fb1d3",
+  "0a0246e24f0bbef3223f4fb47a68b6e2a1b01cb5027629241f3b8a5b2f7757d3",
+]
+manifest    = "manifests/murder-cyberpunk.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      118  Audentity_Records_-_Murder_Cyberpunk/One_Shots
+#       74  Audentity_Records_-_Murder_Cyberpunk/Loops

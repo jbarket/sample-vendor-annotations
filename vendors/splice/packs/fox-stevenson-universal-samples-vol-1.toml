@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 1077 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Fox Stevenson: Universal Samples Vol. 1"
+slug = "fox-stevenson-universal-samples-vol-1"
+dir  = "Fox Stevenson Universal Samples Vol. 1"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/disciple-samples/fox-stevenson-universal-samples-vol-1"
+provider = "Disciple Samples"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1622725524/1622725499.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1480034
+digest      = "8ec60b39a9021144fa5331051ee3626afd7be9617b64d93366d585a127f555dd"
+anchors     = [
+  "b9957c43f87cd4a549f4a86796fe07005a52a906b2aae62ae78246685f7c8d43",
+]
+manifest    = "manifests/fox-stevenson-universal-samples-vol-1.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Audio/drums

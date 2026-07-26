@@ -1,0 +1,33 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 73 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Sci-fi World Swarm Part 1"
+slug = "sci-fi-world-swarm-part-1"
+dir  = "Sci-fi World Swarm Part 1"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/epic-stock-media/sci-fi-world-swarm-part-1"
+provider = "Epic Stock Media"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1545247055/1545247055.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 6
+audio_bytes = 208269258
+digest      = "ad7f9007be577ac11523e7fd910f9652c19e2fe4308fd88af0c22dc283fad0ec"
+anchors     = [
+  "268591599dffe7983583b9a0b88f490a908fed09080823c420f07e8fefded047",
+  "46f2b25145ab71ff2465f8e8b3e375ce9897f7325660310067c902179df3b82f",
+  "4fb539db3795f1f320aaed913c5dad08fa758c367b98927bd44f93c773e6d77a",
+  "8bf342116faa5db0ac2d0b19c29887e21dd214be8e4867aeaab579eb8b047e9d",
+  "a7055cba8759fe8c53d58871165a8eb20969101e2f378dcf34e60606e5432fc7",
+  "a9d2e40c4141935a0782b233b72cf0c01656478aea1428a70b904894257b89a3",
+]
+manifest    = "manifests/sci-fi-world-swarm-part-1.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        6  Sci-fi_World_Swarm_Part_1/Ambience_Loops

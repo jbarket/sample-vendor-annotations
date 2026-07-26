@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 410 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Acid Techno"
+slug = "acid-techno"
+dir  = "Acid Techno"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/four4/acid-techno"
+provider = "Four4"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1628089965/nnl83sdbh6h13yg8o4xo.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 191210
+digest      = "78b1faaba0f08185440a648d7b97fbacf36cedecb767d74d512a75d28fd932d4"
+anchors     = [
+  "323082e11c931c56761484e5d3504edd10c55e7c11f22507a1f3b00842d49088",
+]
+manifest    = "manifests/acid-techno.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  one-shots/synth_one-shots

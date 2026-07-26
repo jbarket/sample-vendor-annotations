@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 302 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Toolroom Records Samples 05"
+slug = "toolroom-records-samples-05"
+dir  = "Toolroom Records Samples 05"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/toolroom-records/toolroom-records-samples-05"
+provider = "Toolroom"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1488401429/1488401429.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1105964
+digest      = "b4e1f1cd22780ddb63fb65758cd24eed699f56cc6355dac47dd71abbd47e1ae0"
+anchors     = [
+  "2b9afaa73057aaf6d979a6533f5192a1bfd5860dcc0aba938bafa0b0eea3fa5a",
+]
+manifest    = "manifests/toolroom-records-samples-05.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  TOOLROOM_RECORDS_SAMPLES_05/DRUM_LOOPS_125

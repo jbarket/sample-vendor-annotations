@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 333 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "SKYNITE: Drum & Bass"
+slug = "skynite-drum-bass"
+dir  = "SKYNITE Drum & Bass"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-tools-by-cr2/skynite-drum-and-bass"
+provider = "Sample Tools by Cr2"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1676386796/bnfzi0yjeiqvu1btmftj.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 727866
+digest      = "25ce033bb4ea6c2e6ba702ce40a878dfb27c0c446d3b4b719275dcb1bea35e25"
+anchors     = [
+  "db4127abd8ee20fd921895408a887bb3a9811f23d34059c3eba7077b36de7678",
+]
+manifest    = "manifests/skynite-drum-bass.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Sample_Tools_by_Cr2_-_SKYNET_Drum_&_Bass/Loops

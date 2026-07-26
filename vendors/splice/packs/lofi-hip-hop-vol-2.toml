@@ -1,0 +1,29 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 743 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Lofi Hip Hop Vol. 2"
+slug = "lofi-hip-hop-vol-2"
+dir  = "Lofi Hip Hop Vol. 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/renraku/lofi-hip-hop-vol-2"
+provider = "Renraku"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1615252335/1615252277.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 4666230
+digest      = "fff084b9913297394aeaca1026337cd484ce9891be5ce44255d917f1f77abed9"
+anchors     = [
+  "8599936207c10caf9f7a753c16e772bc52be525cde33a7e44302c7a9ed124fd4",
+  "c8ba7bbd73b7b027d96d784f7a3b7ac143d53d2e96c498a8c60a7ef33d20c15a",
+]
+manifest    = "manifests/lofi-hip-hop-vol-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Audio/Melodic_Loops

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 318 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Big Room Techno"
+slug = "big-room-techno"
+dir  = "Big Room Techno"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/four4/big-room-techno"
+provider = "Four4"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1617633589/1617633579.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 795264
+digest      = "1d5ee9483c493928ef2861615c31f41e4f1ca4028cc1b940f762b0473bc59be3"
+anchors     = [
+  "97971f177a3466e975a11d30ced7356ff0dfb746ea24f6aaaaf80347da39fa21",
+]
+manifest    = "manifests/big-room-techno.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  one-shots/synth_one-shots

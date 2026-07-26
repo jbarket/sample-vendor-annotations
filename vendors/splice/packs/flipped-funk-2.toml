@@ -1,0 +1,36 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 404 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Flipped Funk 2"
+slug = "flipped-funk-2"
+dir  = "Flipped Funk 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-magic/flipped-funk-2"
+provider = "Sample Magic"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1694197395/xs1stkgnh6hkcvcfnfhl.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 36
+audio_bytes = 87562398
+digest      = "fdf82da5d1443c146e6d6ecc7ee536d8938ccf0d6c87efad929e407cb7105453"
+anchors     = [
+  "09d697cb5ae189ecbbe8c650998d29cfa32daa58e4297e11c74db13073810160",
+  "0cd1f3f69c4fb521a25bc661c1dd45bc724c1827d468eb4768af248341f0966b",
+  "11a2203d1c2c8ad65c133e0e6f3e319c98da7cf70635f4f74492242eb6459535",
+  "1967abae0cd2f068ac02cb04b54843eda517e2fecc9f63d48fda33f25c85c383",
+  "2501583da1569db6ec4633b7ffdc8504fe42d84468a88e79831be9fb5da2b071",
+  "34c886f1cec6019a0a7e33c0a88527ee2d4a44e09539110d943e9b9c64b94611",
+  "40ef7db900b7e171cd683ac2d15c38fff47622791678e9a0f4ac01fd07c2ab4b",
+  "421053ae0d6a157749f22e9cd84fe443a55e3f38d34f8d556fd6895d49e305dd",
+]
+manifest    = "manifests/flipped-funk-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       34  SM-3002-R_-_Flipped_Funk_2_-_WAV/loops
+#        2  SM-3002-R_-_Flipped_Funk_2_-_WAV/one-shots

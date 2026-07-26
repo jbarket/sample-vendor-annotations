@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 745 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Sounds of KSHMR Vol. 4"
+slug = "sounds-of-kshmr-vol-4"
+dir  = "Sounds of KSHMR Vol. 4"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/dharma-studio/kshmr-sok4-sample-pack"
+provider = "Dharma Studio"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1654013325/g1du6xqlpcsot9jljkhs.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 2790912
+digest      = "50155d9a106b4dd6bccf607539e672a4dd1c5cad71749ec6cfe59c3fa67e47bb"
+anchors     = [
+  "c94a4954d1669c160d3ab104760378d3bb3da9d752c053450c4bfcdac043a76e",
+]
+manifest    = "manifests/sounds-of-kshmr-vol-4.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  KSHMR_fx/KSHMR_fx_loops

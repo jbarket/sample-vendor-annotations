@@ -1,0 +1,30 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 1000 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Oliver: Power Tools Sample Pack III"
+slug = "oliver-power-tools-sample-pack-iii"
+dir  = "Oliver Power Tools Sample Pack III"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/splice/oliver-vol-3"
+provider = "Splice"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1626102010/1626102009.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3
+audio_bytes = 302478
+digest      = "11d860f2fd2ca506258d390377570aa74af7077b34e4fe2851c4c9cd1cc61d1b"
+anchors     = [
+  "0a2fa26e736ac7cd893b886b9d266a381bc5d600297ece0deff01fa8a3ff831e",
+  "23769614631ebc306330f5a2e97a05bf3398a5fd8a209db89372f7bbf110e163",
+  "ce3bb2cf76c384cd258474d5dfa2b363e0971020f0a60b8fab772726c33f86ca",
+]
+manifest    = "manifests/oliver-power-tools-sample-pack-iii.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        6  OLIVER_VOL3_sample_pack/OLIVER_drums

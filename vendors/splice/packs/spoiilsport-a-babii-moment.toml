@@ -1,0 +1,29 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 207 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "SPOiiLSPORT, a BABii moment"
+slug = "spoiilsport-a-babii-moment"
+dir  = "SPOiiLSPORT, a BABii moment"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/moment/spoiilsport-a-babii-moment"
+provider = "Moment"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1682689592/h6u3sundmrbyjxjzrswa.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 2299056
+digest      = "f227fbe07a9cd84b804c0c12d563e17e15dfbfd3f2a86d8332eda7cba1682938"
+anchors     = [
+  "4ccf33055000f3a1c1ce5312151ed0ebf04e4d6c23dcdb598dd358a63b5d4355",
+  "72227dff96b893f0474c1e0db06a938fc8e174376e6219373ccb9b3d1990a245",
+]
+manifest    = "manifests/spoiilsport-a-babii-moment.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        4  Moment_BABii_SPOiiLSPORT/loops

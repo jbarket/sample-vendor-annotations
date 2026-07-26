@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 490 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Leftfield Techno 2"
+slug = "sm-white-label-leftfield-techno-2"
+dir  = "SM White Label - Leftfield Techno 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-magic/leftfield-techno-2"
+provider = "Sample Magic"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1563306335/1563306335.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1987144
+digest      = "a1f822a133ba7da0a7ad2e42c173cb8d6dc184a417ab09659ff45c95adfe1f8c"
+anchors     = [
+  "7b96cbd2c4aa54b79134a13c6d3bd92e33f21239d48b6409dec390931ecddb09",
+]
+manifest    = "manifests/sm-white-label-leftfield-techno-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  SKU#WL178_-_SM_White_Label_-_Leftfield_Techno_2_-_Splice/atmosphere_loops

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 253 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "bedroom soul. "
+slug = "bedroom-soul"
+dir  = "bedroom soul."
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/origin-sound/bedroom-soul"
+provider = "Origin Sound"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1682972191/hojokmvoxvtnhkmblnu3.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 3634638
+digest      = "3d517fe6c043f590db5834337ffa2abe2ac5ebf92c90bdb878c8311d05ebbde6"
+anchors     = [
+  "671f9bad81dcbea8195e6489dcd3dd2d1883ff20cef4955693fc58b823dbb77c",
+]
+manifest    = "manifests/bedroom-soul.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Origin_Sound_-_bedroom_soul/loops

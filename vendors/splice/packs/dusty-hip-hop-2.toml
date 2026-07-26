@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 557 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Dusty Hip-Hop 2"
+slug = "dusty-hip-hop-2"
+dir  = "Dusty Hip-Hop 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/sample-magic/dusty-hip-hop-2"
+provider = "Sample Magic"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1575489858/1575489847.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 2822444
+digest      = "bf848237f9dc8b7db63a62420265bab4ea2ec7032668d09abd45c0f9dfe63c79"
+anchors     = [
+  "244919f949ef5672fa045020a12fd21ebe2913bae2691a0c20c7efb164de5f5b",
+]
+manifest    = "manifests/dusty-hip-hop-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  SKU#SM291_-_SM225_-_Dusty_Hip-Hop_2/vocal_loops

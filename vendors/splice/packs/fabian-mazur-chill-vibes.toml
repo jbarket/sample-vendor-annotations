@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 125 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Fabian Mazur - Chill Vibes"
+slug = "fabian-mazur-chill-vibes"
+dir  = "Fabian Mazur - Chill Vibes"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/fabian-mazur-presents-elixir/chill-vibes"
+provider = "Fabian Mazur presents ELIXIR"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1518643183/1518643182.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 3057112
+digest      = "f0cbbcfe3019cae39cdd236fa9d1f4f39160ddb22fccbb6309ad8bde9b948542"
+anchors     = [
+  "d7223fa187bf1ca3c0edf064468354f12d1b39a0616eac55dcffc6f458674561",
+]
+manifest    = "manifests/fabian-mazur-chill-vibes.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  FM_sample_pack__Chill_Vibes_/FM_fx

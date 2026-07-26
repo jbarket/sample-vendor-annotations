@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 217 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Tech House 2"
+slug = "tech-house-2"
+dir  = "Tech House 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/spinnin-records/tech-house-2-2"
+provider = "Spinnin' Records"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1699306005/smvrx2awajjuscqun1eb.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 2016232
+digest      = "c0236ac837e9723f5b1c51c94a67b7109f732f41c82808606622b468af45818d"
+anchors     = [
+  "d4806d1afa53089c16a3399c3f314ed7a024e40484202b0ba52cf586563c9dfe",
+]
+manifest    = "manifests/tech-house-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Spinnin__Sounds_-_Tech_House_2/Loops

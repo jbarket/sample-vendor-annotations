@@ -1,0 +1,31 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 211 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Dawdio - Otherwordly Vocal Atmospheres"
+slug = "dawdio-otherwordly-vocal-atmospheres"
+dir  = "Dawdio - Otherwordly Vocal Atmospheres"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/dawdio-otherwordly-vocal-atmospheres"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1676462878/hh5fmshp73ckwwhbcbwx.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 4
+audio_bytes = 45773156
+digest      = "a2f1b2c675fcac4216a422c3c0721ff0e41fb691475d41e2687f3886355a38fc"
+anchors     = [
+  "155325db79a5aea329c4a97806311fcc4791167d055b01146e8c74bbfe0768ee",
+  "17499031c623e6fcc5398d305b461a048fe1e4eab63357a243ece2895204b259",
+  "b1eaa450f158015946e9881c34ac27e31aa6b943e924ee213afee979cad1f780",
+  "fd35000419a5e1d5b41dc31fdbbcb257fb1db5c2c5d8ee3a78f3c2ea586efd9c",
+]
+manifest    = "manifests/dawdio-otherwordly-vocal-atmospheres.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        8  Loops/Vocal_Atmosphere_-_Loops

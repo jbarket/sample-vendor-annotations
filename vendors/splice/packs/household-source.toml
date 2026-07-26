@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 2650 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Household Source"
+slug = "household-source"
+dir  = "Household Source"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/epic-stock-media/esm-household-source"
+provider = "Epic Stock Media"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1502294264/1502294264.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 116402
+digest      = "a86315bb0efa96069991d1ee44de79011af03b5c7575417f5e76d1b4888ab26e"
+anchors     = [
+  "07ad3864c240d8d175651487279df9d9f9efb5cb5c83ecc6627577eb880f9ebe",
+]
+manifest    = "manifests/household-source.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Household_Source/Office

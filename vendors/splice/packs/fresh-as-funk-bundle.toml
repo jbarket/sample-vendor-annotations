@@ -1,0 +1,31 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 1026 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Fresh as Funk Bundle"
+slug = "fresh-as-funk-bundle"
+dir  = "Fresh as Funk Bundle"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/fresh-as-funk-bundle"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1655468292/bv8p3qotruwf2eh8gmo9.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 4
+audio_bytes = 20149212
+digest      = "35accc64192348d675184e8654dbeb97a8e2e89991b5e2d0f609f9c70718cae9"
+anchors     = [
+  "05e9d39a003e0657b88de324f11de616eed41a5674b8cf58df9476caba3fe9f7",
+  "1f32ab7a0a0724ac597c1b94e6e94c38f6625f0d611b0ec28eeea0b1d822fc2b",
+  "514ec3eab4706a8d5bbfe8d42085065123108d35993ccbc153e3d57ea3fb5424",
+  "d06741ae622830813786b0dae6b32af7e343d8cee2257f650c629411aa205333",
+]
+manifest    = "manifests/fresh-as-funk-bundle.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        4  Loops/Horns_Loops

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 555 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Trailer Force"
+slug = "trailer-force"
+dir  = "Trailer Force"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/epic-stock-media/trailer-force"
+provider = "Epic Stock Media"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1659010600/m2rqvhcq3wcqfmkdxhlz.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 24015104
+digest      = "b7c5748feaa4d42ad56905a9e134328eaf7d66dc14abaa192c948516891393a1"
+anchors     = [
+  "5b822ca75f900b08644548effc0da332fa9df943a1570e882eba239b290029c2",
+]
+manifest    = "manifests/trailer-force.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Epic_Stock_Media_-_Trailer_Force/one_shot

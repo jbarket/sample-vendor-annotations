@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 190 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Westwood Sounds Vol 1 - Defunk"
+slug = "westwood-sounds-vol-1-defunk"
+dir  = "Westwood Sounds Vol 1 - Defunk"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/westwood-sounds-vol-1-defunk"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1571749669/1571749665.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 5080398
+digest      = "b7585f62eaa951354be008eaac6d8de30a41094a5dbddc0aabee092fdfd2e958"
+anchors     = [
+  "b095d225374e5178f05d935858e26c2391732fa0f0624de84d739b57b0e0e059",
+]
+manifest    = "manifests/westwood-sounds-vol-1-defunk.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  Black_Octopus_Sound_-_Westwood_Sounds_Vol_1_-_Defunk/Vocals_-_Loops

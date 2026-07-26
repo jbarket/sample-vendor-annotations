@@ -1,0 +1,29 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 282 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Latina House Vocals"
+slug = "latina-house-vocals"
+dir  = "Latina House Vocals"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-latina-house-vocals"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1553178944/1553178944.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 8328556
+digest      = "9cbe81d2eca0e3bbb055d0111533e7cfa8847df474e63c781d5560504d3b9dbd"
+anchors     = [
+  "d8bbb609088f79a6c5e8517f0ae3d400cb8580c7b7ddcb261098b80b5c7b5d21",
+  "dd0ef1ad2cda8291244df00a0a89943e210b1915baf58146fd669fe04dc1b0a0",
+]
+manifest    = "manifests/latina-house-vocals.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Black_Octopus_Sound_-_Latina_House_Vocals/Acapella_-_La_Vida_Gmin_122

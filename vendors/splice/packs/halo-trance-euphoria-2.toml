@@ -1,0 +1,31 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 276 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Halo - Trance Euphoria 2"
+slug = "halo-trance-euphoria-2"
+dir  = "Halo - Trance Euphoria 2"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/parallax/halo-trance-euphoria-2"
+provider = "Parallax"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1685541515/iyg6qlwgj8zdlibrik1v.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 4
+audio_bytes = 3629928
+digest      = "20693dd72d25579d32b897bc6b3be3483015f01592c1c92a5c388a8a135cec34"
+anchors     = [
+  "21b99e4bdc36d926b5b38302c369299058db04e7e50b32a2937de6ff0ddb6fde",
+  "21e0182289b3bf39a3b4649b099f52336af12144bee91b79a48b17e577dcf3d2",
+  "a2c16b99583271aa256b95ec81006d4421c92711cb783f6fff987c94c8388bab",
+  "e5f843545f7f332e806809fad69b6ebd1ea08008c63909ef731d5ee264c33315",
+]
+manifest    = "manifests/halo-trance-euphoria-2.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        4  PLX_-_Halo_-_Trance_Euphoria_2/loops

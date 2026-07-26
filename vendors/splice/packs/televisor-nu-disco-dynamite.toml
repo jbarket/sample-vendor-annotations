@@ -1,0 +1,31 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 732 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Televisor Nu Disco Dynamite"
+slug = "televisor-nu-disco-dynamite"
+dir  = "Televisor Nu Disco Dynamite"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-televisor-nu-disco-dynamite"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1466175718/1466175718.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3
+audio_bytes = 6551670
+digest      = "d18acd7d5ad057d535f1bc4f5a38994ced2516df9e59d2c5cf49d2acfb79dfef"
+anchors     = [
+  "0c70e178465f67046fec0a2dc2b790fefc15bb071d1dbcec0a0de8354fbf62b4",
+  "298ef1c77bb624b0c046a0ff92ea1a29e61b52fc01cc38830b66d7f1aa0fffa7",
+  "d975f9fcd89c6e41a7ed67314d47b047b82eee87285ba24ee3ddd5342255eb64",
+]
+manifest    = "manifests/televisor-nu-disco-dynamite.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        4  DRUMS/DRUM_LOOPS
+#        1  BASS/SYNTH_BASS

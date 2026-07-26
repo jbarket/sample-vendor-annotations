@@ -1,0 +1,36 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 450 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "DECAP - Drums That Knock X"
+slug = "decap-drums-that-knock-x"
+dir  = "DECAP - Drums That Knock X"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/decap-knock-audio/decap-drums-that-knock-x"
+provider = "DECAP - Knock Audio"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1685647597/nnypppxvrw40l79m2gfl.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 450
+audio_bytes = 562858338
+digest      = "eb7c2686d98e92dc00d23f64ad9a4614223edb629e9239c83f9f9976871c3a05"
+anchors     = [
+  "0051068912c0c01c561993bf5eea393a38082cef48befaec7164137ccc0e1400",
+  "00f8a45bc720721329c91fd7e74e1c2d41ccc625a29699ca09831789a4d614d3",
+  "013c865c5cd6d17f7bf029027b6053e30e13f1548f148bd28260a96c473fa096",
+  "01e4d7ba3165b308bf12732e4b59704588ca4d5d7c6a36a23cbe5c517569e713",
+  "0236d00f1fa48c9777ddbc31589a75dffcfc9c882fcfd6402d8e9943775af2c9",
+  "02d478fad7ad23d1ee7317deab05b53e961afe6b58318552acf16c736daddcaf",
+  "036ddd431dc99424346e85f3a2d6c33b88f6fd2f8ae033d58d440aba955f2334",
+  "03928c835df0b90fde3e3cc9cd9d1b951047e7469ea95ac92ca08a5074dc9c62",
+]
+manifest    = "manifests/decap-drums-that-knock-x.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      297  Decap_-_Drums_That_Knock_X/One_Shots
+#      194  Decap_-_Drums_That_Knock_X/Loops

@@ -1,0 +1,29 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 380 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Shadows - Dark Melodic Progressive"
+slug = "shadows-dark-melodic-progressive"
+dir  = "Shadows - Dark Melodic Progressive"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/parallax/shadows-dark-melodic-progressive"
+provider = "Parallax"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1615844118/1615844117.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2
+audio_bytes = 4032332
+digest      = "d9d2b272cc71ae05d27add1f489e0efd71e8b17ebe785ea924de03f2e1a420c4"
+anchors     = [
+  "5da6b3cc1df5c8eff1d6fe9db8d128186cdc4ebe925bbb9088df205d2d3a2bda",
+  "eb18e71fa9f1bb941545b8684d8c3b29d5587e066ed9a8a312c16123ed6c69c9",
+]
+manifest    = "manifests/shadows-dark-melodic-progressive.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        4  loops/percussion_&_top_loops

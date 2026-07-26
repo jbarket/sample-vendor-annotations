@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 199 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Form & Focus"
+slug = "form-focus"
+dir  = "Form & Focus"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/touch-loops/form-and-focus"
+provider = "Touch Loops"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1715011484/rp9c9rhqscxanxljn5j8.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 1462922
+digest      = "55ed27701d20ebd3aff6ca4d2b79999cb83f2100a9fb9556c4ced635561d57bb"
+anchors     = [
+  "95914be6222350493d39f7359d53a55dc1a1ed5282e62039c9c015db72fcc5fb",
+]
+manifest    = "manifests/form-focus.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        2  Form_Focus_TL/Loops

@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 388 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Berlin Techno"
+slug = "berlin-techno"
+dir  = "Berlin Techno"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/four4/four4-berlin-techno"
+provider = "Four4"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1600695424/1600695417.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 2016148
+digest      = "edcd0961e1dede475404adf019f432fb76a8ab7e33a47224ea8fa16f64dfc38a"
+anchors     = [
+  "9edd2257d2f40529fde86c154270bdc54c0f9ac94b8b0f4e0ae771cf494c9b94",
+]
+manifest    = "manifests/berlin-techno.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  loops/atmosphere_&_texture_loops

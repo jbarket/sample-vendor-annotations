@@ -1,0 +1,28 @@
+# Matched to Splice via graphql filepath probe (2026-07-26); pack has 531 samples, local dir is a partial download.
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Berserk Trap"
+slug = "berserk-trap"
+dir  = "Berserk Trap"
+observed = 2026-07-26
+url  = "https://splice.com/sounds/packs/black-octopus/bo-berserk-trap"
+provider = "Black Octopus"
+
+[meta]
+type  = "product"
+image = "https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1586364006/1586364004.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1
+audio_bytes = 226878
+digest      = "4c19053babefdf1f938ef78b507768dabdc515911ee1bdf713cae2a24d8515e2"
+anchors     = [
+  "25542f566fa2ba3c047dd83db100a513eb02eb41f6dad63ea50ab890c15b136e",
+]
+manifest    = "manifests/berserk-trap.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#        1  _Black_Octopus_Sound_-_Berserk_Trap/ONE_SHOTS
