@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/mirage-from-mars"
 archives = ["mirage_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "MIRAGE FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Mirage-Art-FINALWEB_grande.jpg?v=1699985706"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 2507

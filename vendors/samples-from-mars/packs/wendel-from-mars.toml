@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/wendel-from-mars"
 archives = ["wendel_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "WENDEL FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Artwork-WendelFromMars_grande.jpg?v=1606453187"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 1984

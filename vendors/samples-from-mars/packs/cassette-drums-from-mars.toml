@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/cassette-drums-from-mars"
 archives = ["cassette_drums_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "CASSETTE DRUMS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Artwork-CassetteDrumsFromMars_11886da6-9cf5-4767-ad4d-a032e3a11d1c_grande.jpg?v=1778702673"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 1184

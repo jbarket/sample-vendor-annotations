@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/sp-909-from-mars"
 archives = ["sp_909_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "SP 909 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/SP-909-Art_grande.jpg?v=1575003687"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 650

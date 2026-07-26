@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/dr-sample-from-mars"
 archives = ["dr_sample_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "DR SAMPLE FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/drsampleart_grande.jpg?v=1606453156"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 1921

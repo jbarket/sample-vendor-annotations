@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/mpc2000-snacks-from-mars"
 archives = ["mpc2000_snacks_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "MPC2000 SNACKS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/ArtworkNew-MPC2000WEB_grande.jpg?v=1625156714"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 288

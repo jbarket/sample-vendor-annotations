@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/linn60-from-mars"
 archives = ["linn60_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "LINN60 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/linn60_grande.jpg?v=1542983227"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 1289

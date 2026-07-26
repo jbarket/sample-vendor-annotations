@@ -8,6 +8,11 @@ dir  = "DX100 From Mars"
 url  = "https://samplesfrommars.com/products/dx100-from-mars"
 observed = 2026-07-18
 
+[meta]
+title = "DX100 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/dx-100-art_grande.jpg?v=1471551602"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 4500

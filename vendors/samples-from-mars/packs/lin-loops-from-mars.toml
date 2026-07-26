@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/lin-loops-from-mars"
 archives = ["lin_loops_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "LIN LOOPS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Lin-Loops-From-Mars-WEB_2460a26d-a4c5-4a18-90b1-7f47db54d0c0_grande.jpg?v=1747320401"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 380

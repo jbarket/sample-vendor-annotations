@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/mpc3000-from-mars"
 archives = ["mpc3000_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "MPC3000 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Artwork-MPC3000_grande.jpg?v=1593532815"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 3157

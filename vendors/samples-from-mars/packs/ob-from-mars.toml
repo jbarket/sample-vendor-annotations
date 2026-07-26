@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/ob-from-mars"
 archives = ["ob_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "OB FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Screen_Shot_2019-06-27_at_11.20.52_grande.png?v=1568393271"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 4286

@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/sdsv-from-mars"
 archives = ["sdsv_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "SDSV FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/SDSV-Art_grande.jpg?v=1466435069"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 2224

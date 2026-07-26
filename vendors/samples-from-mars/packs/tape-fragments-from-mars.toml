@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/tape-fragments-from-mars"
 archives = ["tape_fragments_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "TAPE FRAGMENTS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Artwork-TapeFragments_grande.jpg?v=1626723575"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 32

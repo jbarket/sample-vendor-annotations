@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/drumulator-from-mars"
 archives = ["drumulator_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "DRUMULATOR FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Drumulator-Art_grande.jpg?v=1542983220"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 648

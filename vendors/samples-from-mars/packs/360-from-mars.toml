@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/360-from-mars"
 archives = ["360_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "360 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Artwork-360FromMars_grande.jpg?v=1617984267"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 2025

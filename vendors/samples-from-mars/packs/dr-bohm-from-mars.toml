@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/dr-bohm-from-mars"
 archives = ["dr_bohm_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "DR BOHM FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Dr-Bohm-Art_grande.jpg?v=1573241524"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 540

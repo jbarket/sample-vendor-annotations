@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/modular-drum-loops-from-mars"
 archives = ["modular_drum_loops_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "MODULAR DRUM LOOPS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/hMpTdoBQ_grande.jpg?v=1606453167"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 225

@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/indie-tapes-from-mars"
 archives = ["indie_tapes_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "INDIE TAPES FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/SamplesFromMars-IndieTapesFromMars-CoverArt_grande.jpg?v=1752674654"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 974

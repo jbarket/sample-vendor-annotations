@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/jupiter-drums-from-mars"
 archives = ["jupiter_drums_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "JUPITER DRUMS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Jupiter_grande.jpg?v=1575003671"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 825

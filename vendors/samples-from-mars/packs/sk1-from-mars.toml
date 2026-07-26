@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/sk1-from-mars"
 archives = ["sk1_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "SK1 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/SK1-Art_grande.jpg?v=1542983240"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 956

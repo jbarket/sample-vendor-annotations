@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/vinyl-breaks-from-mars"
 archives = ["vinyl_breaks_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "VINYL BREAKS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Artwork---Vinyl-BreaksV23-Orange_grande.jpg?v=1758827374"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 200

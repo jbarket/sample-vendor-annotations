@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/found-sounds-from-mars"
 archives = ["found_sounds_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "FOUND SOUNDS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/found-sounds_grande.jpg?v=1458070740"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 667

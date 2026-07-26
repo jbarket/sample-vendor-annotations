@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/junos-from-mars"
 archives = ["junos_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "JUNOS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Junos-From-Mars---WEB_grande.jpg?v=1726071304"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 3307

@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/mpc1-from-mars"
 archives = ["mpc1_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "MPC1 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Art_657229ad-42f9-4c40-bfa8-79f078318942_grande.jpg?v=1575003677"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 1349

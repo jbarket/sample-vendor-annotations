@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/lo-fi-drum-machines-from-mars"
 archives = ["lo-fi_drum_machines_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "LO-FI DRUM MACHINES FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/SamplesFromMars-Lo-FiDrumMachinesFromMars-Cover-Art_grande.jpg?v=1770048614"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 2030

@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/606-from-mars"
 archives = ["606_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "606 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/606-Art_grande.jpg?v=1542983205"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 1855

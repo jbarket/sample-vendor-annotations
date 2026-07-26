@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/vinyl-sp-from-mars"
 archives = ["vinyl_sp_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "VINYL SP FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Artwork---Vinyl-SP-V4-Lighter_grande.jpg?v=1737735875"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 1939

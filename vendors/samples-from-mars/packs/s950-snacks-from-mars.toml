@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/s950-snacks-from-mars"
 archives = ["s950_snacks_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "S950 SNACKS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Artwork-S950SnacksFromMars_grande.jpg?v=1629914841"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 511

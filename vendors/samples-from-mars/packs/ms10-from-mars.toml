@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/ms10-from-mars"
 archives = ["ms10_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "MS10 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/ms10_grande.jpg?v=1542983234"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 2120

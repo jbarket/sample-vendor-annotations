@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/perkons-from-mars"
 archives = ["perkons_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "PERKONS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Artwork-PerkonsFromMarsWEB_grande.jpg?v=1742825706"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 1422

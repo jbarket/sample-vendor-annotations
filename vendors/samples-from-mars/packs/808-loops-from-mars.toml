@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/808-loops-from-mars"
 archives = ["808_loops_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "808 LOOPS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Artwork-808-Loops-From-Mars-WEB_2694393f-3ece-4b2b-8b5b-1afee0d7fbb9_grande.jpg?v=1747320305"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 725

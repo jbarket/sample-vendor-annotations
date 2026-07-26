@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/vinyl-synths-from-mars"
 archives = ["vinyl_synths_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "VINYL SYNTHS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Artwork---Vinyl-Synths-From-Mars-WEB_grande.jpg?v=1668450555"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 393

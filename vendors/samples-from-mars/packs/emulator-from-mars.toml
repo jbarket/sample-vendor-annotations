@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/emulator-from-mars"
 archives = ["emulator_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "EMULATOR FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Emulator-Art-V4_grande.jpg?v=1760973983"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 2367

@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/vinyl-drum-machines-from-mars"
 archives = ["vinyl_drum_machines_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "VINYL DRUM MACHINES FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Artwork-VinylDrumMachinesFromMarsWEB_grande.jpg?v=1685723192"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 2931

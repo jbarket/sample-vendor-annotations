@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/mini-from-mars"
 archives = ["mini_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "MINI FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Mini-Artwork_grande.jpg?v=1464222524"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 3385

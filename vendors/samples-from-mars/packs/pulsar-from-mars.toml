@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/pulsar-from-mars"
 archives = ["pulsar_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "PULSAR FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/files/Artwork-PulsarFromMarsWEB_grande.jpg?v=1692388513"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 707

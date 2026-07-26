@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/kawaii-dreams-from-mars"
 archives = ["kawaii_dreams_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "KAWAII DREAMS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/KawaiiDreamsWeb_grande.jpg?v=1622045400"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 928

@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/lindrum-from-mars"
 archives = ["lindrum_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "LINDRUM FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/lindrum-art_grande.jpg?v=1542983226"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 1793

@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/minipops-snacks-from-mars"
 archives = ["minipops_snacks_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "MINIPOPS SNACKS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Artwork-MinipopsSnacksFromMars_grande.jpg?v=1623954927"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 384

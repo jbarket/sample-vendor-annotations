@@ -9,6 +9,11 @@ url  = "https://samplesfrommars.com/products/tom-from-mars"
 archives = ["tom_from_mars.zip"]
 observed = 2026-07-18
 
+[meta]
+title = "TOM FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Artwork-TOMFromMars_grande.jpg?v=1606453183"
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 4320
