@@ -11,10 +11,11 @@ archives = ["acid_from_mars.zip"]
 observed = 2026-07-18
 
 [meta]
-title       = "ACID FROM MARS"
-type        = "product"
-image       = "https://samplesfrommars.com/cdn/shop/products/acid-from-mars_grande.jpg"
-description = "TB-303 through tube amps and tape — square and saw acid bass with harmonic distortion, spacey organs, dreamy polyphony, subs fatter than the actual 303, weirdo FX. Multisampled patches plus 120 BPM C-minor tape loops and SP-1200/MPC4000 drums."
+title = "ACID FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/acid-from-mars_grande.jpg"
+# description deliberately absent: vendor prose stays with the vendor —
+# consumers fetch og:description from `url` and cache locally.
 
 [identity]
 algo        = "sha256-sorted-v1"

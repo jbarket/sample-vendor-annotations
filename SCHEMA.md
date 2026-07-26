@@ -112,20 +112,23 @@ samples_listed = 315               # the vendor's own sample count — the
                                    # pack vendors
 ```
 
-### [meta] — display metadata, og:-style
+### [meta] — display pointers, og:-style
 
 Lifted from the vendor's product page (OpenGraph tags exist for exactly
-this). For UI cards: image, type, blurb.
+this). **Pointers only**: this repo distributes facts and links, never the
+vendor's creative content. An image *URL* is a fact; the image bytes are
+not. A title is an identifying fact; the marketing description is prose —
+consumers that want it fetch the `url`'s og tags themselves and cache
+locally, outside this repo.
 
 ```toml
 [meta]
-title       = "ACID FROM MARS"   # og:title as published
-type        = "product"          # og:type
-image       = "https://samplesfrommars.com/cdn/shop/products/acid-from-mars_grande.jpg"
-description = "TB-303 through tubes and tape — acid bass, spacey organs, subs, weirdo FX."
+title = "ACID FROM MARS"   # og:title as published — identifying, keep
+type  = "product"          # og:type
+image = "https://samplesfrommars.com/cdn/shop/products/acid-from-mars_grande.jpg"
+# NO description field: og:description is the vendor's copy. Link, don't
+# reproduce. Same reason no prices: dated instantly, one click via `url`.
 ```
-
-No prices — they date instantly and are one click away via `url`.
 
 ### [identity] — "oh, you have this pack"
 
@@ -194,6 +197,10 @@ vendor's naming.
 - Taste ("the good kicks are in folder X")
 - Per-user state (ratings, favorites)
 - Anything you haven't verified against a real copy of the library
+- **The vendor's creative content**: descriptions, marketing copy, image
+  files, audio — link to it (`url`, `image`), never reproduce it. Facts
+  and pointers distribute; prose and pixels get fetched by the consumer
+  and cached locally
 - Content hashes (planned — content-SHA pack identity so declared packs
   are recognizable across users — but the shape isn't settled; don't
   freelance it)
