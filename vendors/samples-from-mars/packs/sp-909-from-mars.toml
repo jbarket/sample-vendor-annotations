@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "SP 909 From Mars"
+slug = "sp-909-from-mars"
+dir  = "SP 909 From Mars"
+url  = "https://samplesfrommars.com/products/sp-909-from-mars"
+archives = ["sp_909_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 650
+audio_bytes = 31733768
+digest      = "ed740ad2b04078cba11a9de1a310cb9c791a91280cca7e94717b8357ec341baf"
+anchors     = [
+  "004034b9eea76ea37c3c20be7f389903e35a25fd95bfa70453173dfd3139385b",
+  "0045c24e3f3072a019b5e0a96888f2785256d7388d9a60c59b94ccc483e22ae8",
+  "0063a5e436ddc9fc87ca12f54e4fbafeb72b3eb10441b1d9a9816600159e0b68",
+  "006e5c80a8329ca899fced5e2eb16ec5b1cdf9021cc5d3d5cfa1addcca1dabe6",
+  "00b22e016cc1ddff93725e6a33f5c762a07da88f2fc5d42f2da07a0c61b5affb",
+  "012daa389b5bcb1bf9db2c6e48fb0049e70e82de1ca69ff3900a4919219b012c",
+  "016cfc5100a5cf9761b57d7c14f9ccba55f65dab17aadd751d05d3db5cbd91ec",
+  "019e2149485d390bf2c3ac4636637bde2fa0a7baa014e6dda7e615744371f5f6",
+]
+manifest    = "manifests/sp-909-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      304  WAV/01. Individual Hits
+#      136  Maschine/SP 909 From Mars
+#      131  MPC Live & MPC X/SP 909 From Mars
+#      131  MPC1000 & MPC2500/SP 909 From Mars
+#      128  WAV/02. Kits
+#       25  Kontakt/SP 909 From Mars
+#       25  Logic EXS/SP 909 From Mars
+#       25  Reason NN-XT/SP 909 From Mars
+#       25  SFZ/SP 909 From Mars
+#       12  Ableton/SP 909 From Mars Project
+#        8  Battery/SP 909 From Mars
+#        8  FL Studio/SP 909 From Mars
+#        8  Grooves/Ableton
+#        8  Grooves/MIDI
+#        4  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Artwork - SP 909 From Mars.jpg
+#        1  Docs/Installation Instructions For All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf

@@ -1,0 +1,48 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "101 Drums From Mars"
+slug = "101-drums-from-mars"
+dir  = "101 Drums From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/101-drums-from-mars
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 120
+audio_bytes = 14826132
+digest      = "1f4a0f2ce1d3d542edfeafbd14e8586b2a382b3e66c4f0a1fefe289a8b008fa1"
+anchors     = [
+  "01c13697a452bc500dfd4ac2ac111f67badc3417c7837fde4faab9fa9037697d",
+  "01ca1e586a377cd92f36f137e5f377a463d39a4006d857d8011d2f4128062baf",
+  "03556e3771f4f8aa571ed0866a5c4a2ed68d97310542a5b3c83f2b03c5027dc1",
+  "03be669e82d2dacdf54181e37965f8758ceae63db4bae90baccfe4731b599d3d",
+  "0491e0e7ac96b2119dfcf5c48ce25097f5b1f16b160f36b04ff09ee1747e7fa7",
+  "06003b0fda3bd86315a44b2d7c06f38e46b4e5701ed83be52a444ffefbbef633",
+  "0854407903bfed03177bc4fbaeee82ed96389376f2f8f1785aa9f429e336f614",
+  "092f4dd5124d5a4f05e43a1b0ec14830be8e01f53f2964faa4f6ca5ee1552239",
+]
+manifest    = "manifests/101-drums-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      121  Ableton Live 9.7/101 Drums From Mars Project
+#       61  Kontakt 5.6/Samples
+#        2  Ableton Live 9.7/Docs
+#        1  Ableton Live 9.7/Icon
+#        1  Icon
+#        1  Kontakt 5.6/Docs
+#        1  Kontakt 5.6/Icon
+#        1  Kontakt 5.6/Instruments
+#        1  Logic EXS/101 Drums From Mars
+#        1  Logic EXS/Docs
+#        1  Logic EXS/Icon
+#        1  WAV/101_Drums_01.wav
+#        1  WAV/101_Drums_02.wav
+#        1  WAV/101_Drums_03.wav
+#        1  WAV/101_Drums_04.wav
+#        1  WAV/101_Drums_05.wav
+#        1  WAV/101_Drums_06.wav
+#        1  WAV/101_Drums_07.wav
+#        1  WAV/101_Drums_08.wav
+#        1  WAV/101_Drums_09.wav

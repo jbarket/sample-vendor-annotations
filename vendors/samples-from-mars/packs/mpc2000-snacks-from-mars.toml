@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "MPC2000 Snacks From Mars"
+slug = "mpc2000-snacks-from-mars"
+dir  = "MPC2000 Snacks From Mars"
+url  = "https://samplesfrommars.com/products/mpc2000-snacks-from-mars"
+archives = ["mpc2000_snacks_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 288
+audio_bytes = 25114204
+digest      = "a0e6a1cd50793c788a8cddd901868e51f9aff4f9b10c4a25ea41e1a7d77d8bc6"
+anchors     = [
+  "01ac22ac1990b5241fd212500786f23a2aff65d5f4c2aabc60acb08c7b25fb8b",
+  "03f63f2fec9d7f04f17a39cf1374d85e8387d552cca1b37a27bba710fa8847d3",
+  "068694c2504d66a2d9ec6e9a2523df62912847b10185d95d6a4cdf83987da98c",
+  "06ce22bdf040ba0dad9adfa41fa2a68b4ddde5271cddfcb74ccfbbf75840f703",
+  "06de5cc896894b0f7997a590e33ba66f234dbc93cca878382d251150db374454",
+  "08d818ac84dded86288a7d9a697cf43f0984ea5c01804af0725578639a975dde",
+  "090c2b39ae67b6a0e01c2c1aa4cad93efe801324b2df3856fd38f9576f122f3c",
+  "0a19fc9b76640a5d45d81d978960d337aa6f58b01737742ddd237d61199e51f7",
+]
+manifest    = "manifests/mpc2000-snacks-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      102  Maschine/MPC2000 Snacks From Mars
+#       98  MPC/MPC 1000 & 2500
+#       98  MPC/MPC 5000
+#       98  MPC/MPC Live & X
+#       97  MPC/MPC 2000
+#       58  Grooves/MPC2000 Snacks From Mars
+#       16  WAV/01. MCMXCIII
+#       16  WAV/02. Techno Cave
+#       16  WAV/03. 83 on Myrtle
+#       16  WAV/04. LM Vinyl
+#       16  WAV/05. Tite & Polite
+#       16  WAV/06. Quarantine Club
+#        6  Battery/MPC2000 Snacks From Mars
+#        6  FL Studio/MPC2000 Snacks From Mars
+#        6  Kontakt/MPC2000 Snacks From Mars
+#        6  Logic EXS/MPC2000 Snacks From Mars
+#        6  Reason/Reason Kong
+#        6  Reason/Reason NN-XT
+#        6  SFZ/MPC 2000 Snacks From Mars
+#        5  Docs/Installation Instructions For Ableton

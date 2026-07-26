@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "MPC3000 From Mars"
+slug = "mpc3000-from-mars"
+dir  = "MPC3000 From Mars"
+url  = "https://samplesfrommars.com/products/mpc3000-from-mars"
+archives = ["mpc3000_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3157
+audio_bytes = 238845928
+digest      = "674cd45f1795e163efc6420bf40b641a04088aaa794252ff1aff94a3263a747c"
+anchors     = [
+  "000a3502e31870facfe3bcd30505456375012e2da09775a7bc32ab8d0bf506f0",
+  "001b0d51407872df3e9fbb35d4962975befeb96deb2db3975158870e529ac85f",
+  "0022e9560869d2142f81ade1b41928cc23d23abe8dc3b30795fe62612d50ea55",
+  "004809e02e645a4635763cceaec3a115bcc553873d1dc380ac62032e28267925",
+  "007229c709564b6c8d4b7fdae77cc6e054706a3bd643d39ae38a06664d5c920c",
+  "008ce5822137112decfaec8891f1985cbb5987d19a26ab398a3d618b51ffcf21",
+  "00a0701ce3c48b7293559c063270eed7ab09446998ea85c65b116e79a7fbda0a",
+  "00bb4f64d18346a82ac87080e71a748b3bcfd714544936b9592e6db31c663895",
+]
+manifest    = "manifests/mpc3000-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     2203  WAV/01. Individual Hits
+#      340  Maschine/MPC3000 From Mars
+#      335  Kontakt/MPC3000 From Mars
+#      335  Logic EXS/MPC3000 From Mars
+#      335  Reason NN-XT/MPC3000 From Mars
+#      335  SFZ/MPC3000 From Mars
+#      325  MPC/MPC Live & MPC X
+#      325  MPC/MPC1000 & MPC2500
+#      321  MPC/MPC 3000
+#      320  WAV/02. Kits
+#       58  Grooves/MPC3000 From Mars
+#       26  Ableton/MPC3000 From Mars Project
+#       20  Battery/MPC3000 From Mars
+#       20  FL Studio/MPC3000 From Mars
+#       20  Reason Kong/MPC3000 From Mars
+#        5  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Artwork - MPC3000.jpeg
+#        1  Docs/Installation Instructions For All.rtf

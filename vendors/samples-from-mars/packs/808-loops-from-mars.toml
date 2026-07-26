@@ -1,0 +1,48 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "808 Loops From Mars"
+slug = "808-loops-from-mars"
+dir  = "808 Loops From Mars"
+url  = "https://samplesfrommars.com/products/808-loops-from-mars"
+archives = ["808_loops_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 725
+audio_bytes = 1681703940
+digest      = "196e19ed66028557ec4ebe87faa5325817ced0a477b34579575bec3c2f79e87e"
+anchors     = [
+  "00cd541f539fb4f60119650f9dbd49922af902c278098a85d095f79c2441c055",
+  "00d6fd724d2cbc26f46517254edf481a3fb43ade580880041213b3558dd33066",
+  "00dd7417bee4ae7ffd33b5fbbbcebca04486b7b3bf780cfc5ffad426d1f7b067",
+  "0155c0fc11eb913958d802fe53a7615a714ba62cd25a71a5f08cf6dc7cec9794",
+  "0182f401da8bd46a9ee0ca91df168c3378090eb389bc8304b2ea6c9ffd0e7e2f",
+  "01d5bf2c7a0169356725336c0cf51b208a919e4c4ee8bd9b96764166f6cc3b4c",
+  "022ced96f14a2241060c0b0adf723278c84ad32c972dace82e231604ac4a83ad",
+  "0240a7c6eded8755aadd2ea363f89cf1706f79e75f4a6106a48a2406bf376a8f",
+]
+manifest    = "manifests/808-loops-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      131  WAV/08. Hi Hat
+#      100  WAV/01. Full Loops
+#       90  WAV/03. Bass Drum
+#       70  WAV/02. Tops
+#       50  WAV/04. Snare
+#       42  WAV/13. Tom & Conga Combos
+#       40  WAV/05. Clap
+#       40  WAV/11. Tom
+#       36  WAV/14. Cymbal
+#       30  WAV/10. Maraca
+#       30  WAV/12. Conga
+#       28  WAV/06. Rim
+#       22  WAV/09. Cowbell
+#       16  WAV/07. Clave
+#        3  Presets/Ableton
+#        1  Docs/808 Loops From Mars - About.rtf
+#        1  Docs/Artwork -808 Loops From Mars.jpg
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

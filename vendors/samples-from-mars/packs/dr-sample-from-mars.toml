@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Dr Sample From Mars"
+slug = "dr-sample-from-mars"
+dir  = "Dr Sample From Mars"
+url  = "https://samplesfrommars.com/products/dr-sample-from-mars"
+archives = ["dr_sample_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1921
+audio_bytes = 1712115296
+digest      = "414cb9452f0cd77beb6fc0ddcd32dd4fb35a62d9867322ea307e3470371dc9f0"
+anchors     = [
+  "000ea4b1411000be2e6243d562f883313b51f82a944e1424e2e61e2ef8c1908b",
+  "002af2f41bfc0bd2ee43793fe1290ac224697901659936f62454a3359757877f",
+  "003a5a75d77288fb2d02d5cbcdb8ca7e0d4f690ac0a3b28aa940e5c71ee6910c",
+  "003b4029e6a1ecf687c162a9e954150fa8a885653fa9065898903f40bda5419c",
+  "0063fa868b447f264b57f0ae8f38c94bde1a15c072f08d29284b3675777985b5",
+  "008322841b7e7ff0d43a55d6209470068fa321409dbee40d539b8ea4bde66d4e",
+  "008bbccbf6a5aabef790c01b92cc598cde85a9af2439129b89cd13cac7bb307f",
+  "009a558725aed9bead51fb62ae0b7967f958979cca6d01afc12116d69317aedb",
+]
+manifest    = "manifests/dr-sample-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      440  Maschine/Dr Sample From Mars
+#      421  MPC Live & MPC X/Dr Sample From Mars
+#      421  MPC1000 & MPC2500/DrSampleFromMars
+#      393  WAV/01. Drums
+#      160  WAV/07. Textures
+#      153  WAV/03. Keys
+#      137  WAV/02. Bass
+#      113  WAV/04. Pads
+#       94  WAV/06. Chords
+#       59  FL Studio/Dr Sample From Mars
+#       59  Kontakt/Dr Sample From Mars
+#       59  Logic EXS/Dr Sample From Mars
+#       59  Reason NN-XT/Dr Sample From Mars
+#       59  SFZ/Dr Sample From Mars
+#       53  Ableton/Dr Sample From Mars Project
+#       47  WAV/05. Guitar
+#       26  Battery/Dr Sample From Mars
+#       26  Reason Kong/Dr Sample From Mars
+#        5  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS

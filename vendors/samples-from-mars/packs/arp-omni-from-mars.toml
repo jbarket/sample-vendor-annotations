@@ -1,0 +1,44 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Arp Omni From Mars"
+slug = "arp-omni-from-mars"
+dir  = "Arp Omni From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/arp-omni-from-mars
+archives = ["arp_omni_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 145
+audio_bytes = 74184278
+digest      = "f2a28f2112aae8b99d4cdc1fdc6ad1863cb52c1976b24c5a4dab0d9f4f7731d3"
+anchors     = [
+  "03794077426550de5f54913e18016c694a1e9f64a39eb4d1075586989acc3a78",
+  "052df06a8cf4967f0319e5cf381afc986faeab0ee7ee2db0c686368d1d2c7bdb",
+  "08eb16b6f9b686ce81aea01240f8fdfc5806d0c104b0f30d32dca2c308c3fcfc",
+  "09262021fa9197d651c3a1b541ac9ab5456aa88ec1287cff8b0e439413aaa450",
+  "09720eb9d0d651f2cbd55a7436119712363245baedb686912c164efb6cbc87dd",
+  "0ac07f7f6ea3fe5824689820402e1c056c746d25bd5962fcb0323cc7134d9b79",
+  "0ac1505dda31ae34156f4c417a952a0efbb2620003f649f8dd6dbf9ebd47801f",
+  "0b4a0b3f47deb09b24c1fc165d47ab2f73cbaca859dab010ddb0bc639a7b7da4",
+]
+manifest    = "manifests/arp-omni-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       25  WAV/Open Filter Saturated
+#       20  WAV/Double Octave
+#       20  WAV/Double Octave Saturated
+#       20  WAV/Long
+#       20  WAV/Long & Saturated
+#       20  WAV/Open Double Octave
+#       20  WAV/Short & Funky Saturated
+#       11  Ableton Live/Arp Omni From Mars
+#        7  FL Studio/Arp Omni From Mars
+#        7  Kontakt/Arp Omni From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        1  Docs/Art - Arp Omni From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Icon

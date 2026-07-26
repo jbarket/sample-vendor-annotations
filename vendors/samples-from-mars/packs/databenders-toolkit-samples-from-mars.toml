@@ -1,0 +1,37 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Databenders_Toolkit - Samples From Mars"
+slug = "databenders-toolkit-samples-from-mars"
+dir  = "Databenders_Toolkit - Samples From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/databenders-toolkit-samples-from-mars
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 317
+audio_bytes = 236076090
+digest      = "20e8685bd690937a44666f71e5a4ceb734af90277dcff68780bc1e23feabc271"
+anchors     = [
+  "0025886bba6f1ba1691664538dfe599ab64adbef05f0df776ebc944d02fded97",
+  "015b6bd9b7e6c08e73f8717810f983e66e71b35dd9c1315b2b41c3d54a1a2354",
+  "02ac5efde95eb9f0de30f000e0acd89f25c70dcae20b486a940a70d7f0002ed4",
+  "02e8143e8e6c5a484f4632e4add7fded534b5577adde28ceb68397a30fdc38c0",
+  "0551d45e749a83f0a42beba13fbd57676ab593b57fb2e22f977a1cda8957e96c",
+  "072320ab66284721b9ee43641571818d0b8a4db741e0c725f26fecff851957e1",
+  "074c0454ffdf67ed669bc46bf6a2056b1e6775ddf11bbd1f0f959ecc84015963",
+  "088ae8d785c2b88ea0439fc93e8f9e2e32f97a1b9a736a5d7bddd42057c659a5",
+]
+manifest    = "manifests/databenders-toolkit-samples-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      137  WAV/FX
+#       54  WAV/STABS
+#       50  WAV/DRUMS
+#       42  WAV/MISC
+#       34  WAV/MORPHBOT
+#       18  Ableton/Databenders_Toolkit Project
+#       17  Logic EXS/Databenders_Toolkit
+#       16  Kontakt/Databenders_Toolkit
+#        1  Icon

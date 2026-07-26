@@ -1,0 +1,48 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Emulator From Mars"
+slug = "emulator-from-mars"
+dir  = "Emulator From Mars"
+url  = "https://samplesfrommars.com/products/emulator-from-mars"
+archives = ["emulator_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2367
+audio_bytes = 1392953502
+digest      = "073f59d94548ac229576ec6b06bcaf46c01836ead37bbc04b9c663487c400caf"
+anchors     = [
+  "000812f44368c9d3c17b6e55e0f91125d81546e0337803b86605cdb0c375bf98",
+  "000929f5e45df3a3c4ea1a555a075c8bcf604502548cf7765dadbde4b7060367",
+  "003c63ba7dbf75b4b88c7e911da67419489ba42f9d723ca60e172a01489d2d69",
+  "009b24b2264ab345deb73d3b074cd6f40878d87f72ae9ef00967cdec56c697be",
+  "00b3004d589325dc5029562ce85c6ce2875a77337984eb82efe91e2b09de3027",
+  "00df68906d235fe0a63ad514bde1ec70b87544720a666dbfcb2905f166c765e5",
+  "0105e1197b6253d687c9a723b82fac488cd02ab6e79443f426c46909e907164d",
+  "010c1249901fab47aa1f784847b45c58612d4b3b3d1ae513e996edbec0ef89b1",
+]
+manifest    = "manifests/emulator-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      488  WAV/01. Bass
+#      339  WAV/03. Leads
+#      306  WAV/04. Pads
+#      293  WAV/08. FX
+#      289  WAV/02. Keys
+#      260  WAV/06. Orchestral
+#      224  WAV/07. Percussion
+#      170  WAV/05. Vocal
+#       43  Presets/Ableton
+#       40  Presets/FL Studio
+#       40  Presets/Kontakt
+#       40  Presets/Logic EXS
+#       40  Presets/Reason NN-XT
+#       40  Presets/SFZ
+#       12  Docs/Installation
+#        1  Docs/Artwork - Emulator From Mars.jpg
+#        1  Docs/Emulator From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

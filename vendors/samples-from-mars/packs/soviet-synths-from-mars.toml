@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Soviet Synths From Mars"
+slug = "soviet-synths-from-mars"
+dir  = "Soviet Synths From Mars"
+url  = "https://samplesfrommars.com/products/soviet-synths-from-mars"
+archives = ["soviet_synths_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3846
+audio_bytes = 1701540702
+digest      = "decc28b3ff4124deade07ca1ba16b0fbb5fd3fa1c11701445228488688014207"
+anchors     = [
+  "000091ed8f56b097bd1a97569cb26b444d878f582c76f2ba4d6ed494618f5c19",
+  "000753eec70527c4157360ac8cf90d2b9dcff52c3ba144a9e1e4b08e91c0b355",
+  "000e332dc83ac90f7208ab444a0aecba30b99e051597fa6d39168a644dcdc02e",
+  "002994976fed5c9ec2dbdb19e9e056cd36fea130ff2171abd966fa1dd7939952",
+  "0037989040aca394599bbcbcf836e7611bea3ba0e7f300a311b3f86d90812392",
+  "003b1b2715552b594a73bfc3e1e8d2ae30877aac5771cc0384ef8179364a37f9",
+  "003ea1e4a15dd818b5efb4b79f2573b1c42b3d6cf37b9e4bd7eea18e0d32d7b0",
+  "0052826482587a9291d852c3cbe68e3ab4063c8353dffc11f89c6e3fac0c2532",
+]
+manifest    = "manifests/soviet-synths-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1033  WAV/01. Bass
+#      787  WAV/02. Leads
+#      647  WAV/06. Basic Waveforms
+#      503  WAV/04. Keys and Chords
+#      494  WAV/03. Pads
+#      282  WAV/05. Strings
+#      100  WAV/07. Drums
+#       54  Ableton Live/Soviet Synths From Mars
+#       51  FL Studio/Soviet Synths From Mars
+#       51  Kontakt/Soviet Synths From Mars
+#       51  Logic EXS/Soviet Synths From Mars
+#       51  Reason NN-XT/Soviet Synths From Mars
+#       51  SFZ/Soviet Synths From Mars
+#        3  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For FL Studio.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For Reason.rtf
+#        1  Docs/Soviet Synths From Mars - Art.jpg

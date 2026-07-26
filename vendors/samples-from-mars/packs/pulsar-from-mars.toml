@@ -1,0 +1,47 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Pulsar From Mars"
+slug = "pulsar-from-mars"
+dir  = "Pulsar From Mars"
+url  = "https://samplesfrommars.com/products/pulsar-from-mars"
+archives = ["pulsar_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 707
+audio_bytes = 611192762
+digest      = "959be382032f81a50c7221b27e0f2491a52615d6c9db7f248e659aa7d4c57827"
+anchors     = [
+  "0002e704c3c354951234dcf18d7789a8bf31c2185e2b0e6ea76020f332ccb5a0",
+  "000859ae7e206af6f6f8a6f0af252bc0ce4c502caa1c78bf612ee914083c8867",
+  "004d42c456492187c9756016b9428ac2b5d29998f6522cf5817505d0bc017ac5",
+  "0105ef0bb3232c55b3d30aef36e4844634480b596d6eb13616f334e5a011b476",
+  "019b3383fb66ddb116f360423a49fb45e874b187d82dbbf5dfc551000c94b906",
+  "01f068d76f0274c69c308570a6f43e1f272c50fd0415b4c20e2f5cfdeb9b1f5d",
+  "02688736d64c50fd78af2b25f2d3264711d60255a75060e0315e7393eb6885cb",
+  "027840472c9767c83efbdfad152ca4ed6b67bf08300fd7a9d18b9e3454248521",
+]
+manifest    = "manifests/pulsar-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      328  WAV/01. One Shots
+#      267  Presets/MPC
+#      250  WAV/02. Loops
+#      136  Presets/Maschine
+#       18  Docs/Installation
+#       16  Presets/FL Studio
+#       16  Presets/Kontakt
+#       16  Presets/Logic EXS
+#       16  Presets/Reason NN-XT
+#       16  Presets/SFZ
+#       12  Presets/Ableton
+#        8  Presets/Battery
+#        8  Presets/Reason Kong
+#        4  Presets/Grooves
+#        1  Docs/Artwork - Pulsar From Mars.jpg
+#        1  Docs/Pulsar From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

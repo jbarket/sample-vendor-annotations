@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "727 From Mars"
+slug = "727-from-mars"
+dir  = "727 From Mars"
+url  = "https://samplesfrommars.com/products/727-from-mars"
+archives = ["727_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1292
+audio_bytes = 90179276
+digest      = "f1c300447bf4cb2ac5ad402f96269f3aacd080ed5c380483162eecf20f44bb60"
+anchors     = [
+  "002813ce961aa6d33b089ffaf122fc60860ac38cdd7556c73c6225ebe55acadf",
+  "00421ffa01e59c7a598009b1c18e6da34d4404c52dab1fb14acfe0a01493a3f0",
+  "0050cde13b871befb3a01194605e32180a5762ccc58dfc832335537ef5b49664",
+  "00512ec3878a3801cf66e827e9a2ea86e4cd8b70da799c30248b4cfe32f3fff0",
+  "00760f3aea072f3d2035a1f126101aa612f40f5085968c4cabd22a08b45c831e",
+  "00bab133ae599395ef440cac9851ad779f344ff595c86a19a50e4c1766a85956",
+  "00d27388e4bff76646437df346ae4272b59f965c81a16be56f6e8a1db9e70ef0",
+  "00d4ba567aab839f6e7006ed6939b0889c19c2d1f402fb80a9afe799be7c6069",
+]
+manifest    = "manifests/727-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1117  WAV/02. Tape
+#      170  Battery/727 From Mars
+#      170  Maschine/727 From Mars
+#      160  WAV/03. Kits
+#      137  MPC1000 & MPC2500/727 From Mars
+#       40  Kontakt/727 From Mars
+#       40  Logic EXS/727 From Mars
+#       40  Reason NN-XT/727 From Mars
+#       35  WAV/01. Clean
+#       10  FL Studio/727 From Mars
+#        5  Ableton Live/727 From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        2  Docs/Installation Instructions for MPC
+#        1  Docs/About.rtf
+#        1  Docs/Art - 727 From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf

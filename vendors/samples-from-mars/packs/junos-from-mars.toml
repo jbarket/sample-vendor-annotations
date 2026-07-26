@@ -1,0 +1,46 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Junos From Mars"
+slug = "junos-from-mars"
+dir  = "Junos From Mars"
+url  = "https://samplesfrommars.com/products/junos-from-mars"
+archives = ["junos_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3307
+audio_bytes = 3095775154
+digest      = "9de80657ea2e5dc749d10fe0fc4b7552e36283c05bf6af66100d0405e411ba19"
+anchors     = [
+  "00331e05edbfd52c6915eb92b2ddfe1ea1838892f1d52e121f000a37ddea1014",
+  "0037a9aaeb010550ac4d94b0329470ac117bb04a16077fd65c2387eeb8bc4a59",
+  "003dad2c2d6269c7a22dc5d0dc0eed70e42be5df716fb83c4c48ba393177450e",
+  "0062f82cd9095dca5a743be732d7f4fd0b2e804e9166d1b67b374b834e8a45ef",
+  "006dad876cb25068cba223a5bbbb558d175674f0fcbf02c615aaa50238783928",
+  "006f7991a902f6949157cd0b3b597f6926566859bca77194944907c559e1fc26",
+  "00821697aabab2284e53af7ee20a650f1519123571f92f016c299a2dcef81597",
+  "009499920435a8a2fc9ecec6b433053e070dab7797efb5a1493063bfbd037a85",
+]
+manifest    = "manifests/junos-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      918  WAV/02. Bass
+#      858  WAV/01. Keys
+#      806  WAV/04. Pads
+#      525  WAV/03. Leads
+#      118  WAV/06. FX
+#       82  WAV/05. Chords
+#       37  Presets/Ableton
+#       35  Presets/FL Studio
+#       35  Presets/Kontakt
+#       35  Presets/Logic EXS
+#       35  Presets/Reason NN-XT
+#       35  Presets/SFZ
+#       12  Docs/Installation
+#        1  Docs/Artwork - Junos From Mars.jpg
+#        1  Docs/Junos From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Vinyl Synths From Mars"
+slug = "vinyl-synths-from-mars"
+dir  = "Vinyl Synths From Mars"
+url  = "https://samplesfrommars.com/products/vinyl-synths-from-mars"
+archives = ["vinyl_synths_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 393
+audio_bytes = 331423878
+digest      = "e30de67adecbd223c6bf27aca3f4edd75451962e9dd6e1fd45f97114bf0e2c14"
+anchors     = [
+  "000bc1bc3320e5c2536fd6cad87246c843a6bb50e97d71dbc11a0c3f86114402",
+  "0032d255c5e3468775b0b57290a8f90db4354ef5bcc0405969323cd4264069bf",
+  "00757a421786b4b0356541a946af2cc5ddd151893484a6a150e154ae6f671ecd",
+  "00aa60d60858cedd738fddf458376d36f95851b2830ea074928671819f86f301",
+  "01aaa05950b355b30b8df9202df4119a8d32a6f6de009b927a0cbe2f9782788e",
+  "02032f1d75700f98d53b4ee4ab55515cf9b1ecad845b631d40a9cfcf75715a25",
+  "028c88590948d14f1078d5e05e428be26f066457337b34573ab9ecbad4c1ac89",
+  "02e5c51726f4fb35fa2827a42ba6b8c81e8b79e420ecd9023da3986a790f58ff",
+]
+manifest    = "manifests/vinyl-synths-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      222  Presets/Ableton
+#      215  Presets/Kontakt
+#      215  Presets/Logic EXS
+#      215  Presets/Reason NN-XT
+#      215  Presets/SFZ
+#      214  Presets/FL Studio
+#      104  Presets/MPC
+#       65  WAV/01. Bass
+#       64  WAV/02. Keys & Pads
+#       51  Presets/Maschine
+#       38  WAV/03. Leads
+#       34  WAV/04. Chords
+#       27  WAV/05. Percussive
+#       22  WAV/06. FX
+#       18  Docs/Installation
+#        3  Presets/Battery
+#        3  Presets/Reason Kong
+#        1  Docs/Artwork - Vinyl Synths From Mars.jpg
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Docs/Vinyl Synths From Mars - About.rtf

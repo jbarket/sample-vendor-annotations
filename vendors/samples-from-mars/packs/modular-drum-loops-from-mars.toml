@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Modular Drum Loops From Mars"
+slug = "modular-drum-loops-from-mars"
+dir  = "Modular Drum Loops From Mars"
+url  = "https://samplesfrommars.com/products/modular-drum-loops-from-mars"
+archives = ["modular_drum_loops_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 225
+audio_bytes = 282463564
+digest      = "5fd2a705100c667f6e61b67ddb55d7cb7963c9ca4d0c14bd71b12eeb0d0f83e7"
+anchors     = [
+  "003f6bd2068e9f2c84e23e547de69571e3a48e215a01137bc4c2659c4ed3e098",
+  "0424418319f6776fd078b7ba2e9b3a6efb890cb2ef6d21eea8d3ffaeab7a80e4",
+  "057bb86ab9c94645a9d336c215194098e08bc0dbf8a528384481a4b3df3e2be9",
+  "05a7f2dacc3cfbb652ec71e28e45ba03b66090fcc64d29671aafdc2be7b4657f",
+  "07cc07faaeb366f4eaf35ef92530e1e457a490a651205c5853d8f6cbb4e1c402",
+  "089bfa33dd6d3fc9a94d9bc3cc051c18c56e23a5fb8460c99b430b82b5b14ba3",
+  "098c8ee7986cd757ca0d74983ac5ff7bfc55cb58a35a0a84ca7192356b356dfa",
+  "09adfb9f68a995bc9eeecac76126a6d2d9f7d8f4a4587632d256709273ce14d6",
+]
+manifest    = "manifests/modular-drum-loops-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       50  REX2/01. Bass Drum
+#       50  WAV/01. Bass Drum
+#       46  REX2/06. Tops
+#       46  WAV/06. Tops
+#       42  REX2/03. HH Maraca & Cymbal
+#       42  WAV/03. HH Maraca & Cymbal
+#       33  REX2/05. Perc
+#       33  WAV/05. Perc
+#       24  REX2/07. Full Beats
+#       24  WAV/07. Full Beats
+#       22  REX2/02. Snare & Clap
+#       22  WAV/02. Snare & Clap
+#        8  REX2/04. Toms
+#        8  WAV/04. Toms
+#        7  Kontakt/Modular Drum Loops From Mars
+#        3  Ableton/Modular Drum Loops From Mars Project
+#        1  Docs/Artwork - Modular Drum Loops From Mars.jpg
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Modular Drum Loops From Mars - About.rtf
+#        1  Docs/REX2 Installation Instructions.rtf

@@ -1,0 +1,36 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Sample Journal From Mars"
+slug = "sample-journal-from-mars"
+dir  = "Sample Journal From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/sample-journal-from-mars
+archives = ["sample_journal_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 225
+audio_bytes = 60363606
+digest      = "a749b95816a51b3ea301825f170d63654e82ea1d7314c140d46f6755afc97877"
+anchors     = [
+  "02e29ca72a322e2a84c64274d0df46e0cecd09f1606f7faf1225e987f34ff0c7",
+  "035e237f312a3040fc45f89fbf72bbad5f5afebfa9951db235dca48249bfb1d2",
+  "0475e0f5f7c4e56e71ff73bc14b160a9515bf131b503fae11d43f1ebf7323db4",
+  "053592880e0a8d48ab1987af24283e95952150b42529e35b716332b16d780b31",
+  "0895a5ee45ed6ac0ff5647df717ac952aa15b9950551e4ea90095b77fdfc0e19",
+  "092b2147af2fcd27ce9c99921c773b38fc54948159bf4041847f260594e48b40",
+  "094e97323b373b343073629bc586f8cb6ba588ba59f1aab362fbac291a1d90dd",
+  "0ac4f653dd4686a994d34ace7664cf1605187887ba9ef46c5f250748b8aedf6c",
+]
+manifest    = "manifests/sample-journal-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      116  Samples/LM1 Comparison
+#       57  Samples/909 Tube Kit
+#       36  Samples/Model200 Kit
+#       25  Samples/Ampeg 808 Kit
+#        5  Docs/About
+#        5  Docs/Artwork
+#        1  Icon

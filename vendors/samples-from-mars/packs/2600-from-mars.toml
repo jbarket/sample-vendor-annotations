@@ -1,0 +1,41 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "2600 From Mars"
+slug = "2600-from-mars"
+dir  = "2600 From Mars"
+url  = "https://samplesfrommars.com/products/2600-from-mars"
+archives = ["2600_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 4069
+audio_bytes = 1812569778
+digest      = "a39cb9da281110b796f5900ce9d6092f4e6c3189a0ba78deb009a063f167ec8e"
+anchors     = [
+  "0000d0060316c22e676b12376eb8474c21611d9ea837481b5884a29cea29d2f3",
+  "000930b18eeaecd4f9cf00c53864d4e4bd67553f1e8abcba3df1705c19a1c56f",
+  "000cd06c50fd550ab9201378739c547409d547643d06a6d1e7c84fac34dbe0b4",
+  "002a5899c14cd74aae0f95376ae796ff1db260d3c62d2040e74d8545f63048d6",
+  "0030890baed7e68c30f757561d2301d548c06c318b082788aa05abc19b70cb09",
+  "0030e44b0926e4e00ae4946df8fd543f90340cb9745b5fc83fc4a21149926bff",
+  "004fef4517e3fd60a72141b3c93a2c4187875e8dbd20ecdd2f74b480faef5bdb",
+  "008f7eb9b5e1589e5414bf62d42addae86ead40af350be00735084fbb0a32e1f",
+]
+manifest    = "manifests/2600-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     3743  WAV/Instrument Samples
+#      426  WAV/One Hits
+#       47  Ableton Live/2600 From Mars
+#       40  FL Studio/2600 From Mars
+#       40  Kontakt/2600 From Mars
+#       40  Logic EXS/2600 From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/Art - 2600 From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Icon

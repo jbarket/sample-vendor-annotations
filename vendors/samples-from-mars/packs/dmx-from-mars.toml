@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "DMX From Mars"
+slug = "dmx-from-mars"
+dir  = "DMX From Mars"
+url  = "https://samplesfrommars.com/products/dmx-from-mars"
+archives = ["dmx_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2390
+audio_bytes = 135798198
+digest      = "81772d72372a2b10e407d4c758f941788f553f5bf129f2a330ee9960c3299d96"
+anchors     = [
+  "0001709583d0ad3f75bd416f27f2d16c8aa5adb8b9ce749a931b8b33c07a38aa",
+  "00294c5ed63e633c4442daa918764e1d350c7b5edc9eca5ae6924b7b958d88c3",
+  "00989f9dd7475d5d8b887d3c76d445222c748f382fdae5e6daa6eb86c1fc0428",
+  "00ae43b852d47ab663aa41240e1846ef7fb42624350e271853d845c49e0a140c",
+  "00e66fcbf154f8bf49e030c9b16ad6206f970a95ce1c9a5ec701a78c7d48742b",
+  "00f3db9216fa49a17122544c3cd2aa675bfad73c3115a2706b9b33f60bc3dcd7",
+  "010a2003517a3f460809c44b9c06db52bf347886db127bf0db34a41173b48d33",
+  "013cbb0168a4b265bdc951e33d738f6a970911b3a0ff9e23ced3683184eb8df4",
+]
+manifest    = "manifests/dmx-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     2084  WAV/01. Individual Hits
+#      221  Maschine/DMX From Mars
+#      212  MPC1000 & MPC2500/DMX From Mars
+#      208  WAV/02. Kits
+#      101  Kontakt/DMX From Mars
+#      101  Logic EXS/DMX From Mars
+#      101  Reason NN-XT/DMX From Mars
+#      101  SFZ/DMX From Mars
+#       23  Ableton Live/DMX From Mars
+#       13  Battery/DMX From Mars
+#       13  FL Studio/DMX From Mars
+#        3  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For FL Studio.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC.rtf
+#        1  Docs/Installation Instructions For Reason.rtf

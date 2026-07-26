@@ -1,0 +1,48 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "DX100 From Mars"
+slug = "dx100-from-mars"
+dir  = "DX100 From Mars"
+url  = "https://samplesfrommars.com/products/dx100-from-mars"
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 4500
+audio_bytes = 2448789164
+digest      = "f8f15c03f9ce42a10699086c17a832768657d57d182f7356fda68db144e213a5"
+anchors     = [
+  "0002757949334017288ec70f5781a114b837bb681eaf54bf8fc914c79ad46aa9",
+  "000e8814ba1276a37a979e561708384d692e6d7169cb3075074ed005afbccf5d",
+  "00319a349b00b55846cdce569ffbfbec3ea3e2d079be5295fc61aa86fc233eeb",
+  "003350b41d383d47f5212998053d83aadcb2520501316a55b1579e863f5aaffe",
+  "00455a99e05fd22a965f14cf72f4830356e9744ee2174b6aec1638cbfa640ffb",
+  "005a7d06c8255beadc6674391592f2e40b0a56599d524eeddc8f76e9b9e96eb9",
+  "005ba915187a292b358c91ab8e9fcc3d6a40e40033800955ee6aeed76e7d5835",
+  "006fc6e25f429edf25426b540bb5f46d1a5a81cc645fef180b3b452685acb94d",
+]
+manifest    = "manifests/dx100-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      336  WAV/Synthe Bass
+#      255  WAV/Tubular Bells
+#      252  WAV/Solid Bass
+#      193  WAV/Pristine Celeste
+#      192  WAV/Digi Pianet
+#      192  WAV/Easy Clav
+#      192  WAV/Warble Celeste
+#      170  WAV/FM Square Distorted
+#      170  WAV/Harpsi FM
+#      168  WAV/Filth Rocket FX
+#      168  WAV/Metal Tube
+#       97  WAV/Star Piano
+#       96  WAV/Hard Brass
+#       96  WAV/Mono Bass
+#       96  WAV/Xylo Snare
+#       92  WAV/FM Sawtooth
+#       85  WAV/Marimba
+#       84  WAV/Alarm Call FX
+#       84  WAV/Clean Sine
+#       84  WAV/David Lynch

@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "MS10 From Mars"
+slug = "ms10-from-mars"
+dir  = "MS10 From Mars"
+url  = "https://samplesfrommars.com/products/ms10-from-mars"
+archives = ["ms10_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2120
+audio_bytes = 1411021149
+digest      = "cf9a74a79c74782f0363fba25c7af030ea6bade9c9b3a07f28c73a16190715c2"
+anchors     = [
+  "00140480df43c0f584223b56c766462a9435d07f68a34b0ac3610aea46f3f38e",
+  "003ff116e1c5b9358695f07fa6b2082591265cff38bf5486a4c3800a7f31ae81",
+  "004b93e905e16e1f01d885533a124a587b2bb62e2a50dd2135f32c5980749fde",
+  "00a2203eeeeed55d79c3bc6f0094ed523f61062021d79af5734da4110fc9911e",
+  "00c3ceb3ed4c2f1831b29e20b9ff5074f9bcc7d293c4efad091e1f4608da32b5",
+  "00ce86cabfc5820a3ea18937e1ef4f05b734fe57ee74ae989896068a722bd45f",
+  "0147d2e411d17acbe95b9a99cd9067367b52a7aa75b2859e4df387a75ff823bc",
+  "017c05c09e791be0489730701f50b0bb9fd258510ace4974523efb01896eb1b1",
+]
+manifest    = "manifests/ms10-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      301  WAV/SuperPulse
+#      264  WAV/3PulseWaves
+#      228  WAV/MultiPulseMod
+#      170  WAV/SharpEric
+#      146  WAV/AdvancedLazer
+#      143  WAV/ChillingGhosts
+#      135  WAV/MexicanHistory
+#       89  WAV/Triangle
+#       88  WAV/PulseEGMod
+#       88  WAV/Sawtooth
+#       80  WAV/MsDub
+#       73  WAV/1Shot
+#       68  WAV/MrPink
+#       68  WAV/PoorMansSeq
+#       67  WAV/LA1991
+#       55  WAV/UpSlide
+#       32  WAV/PartialEuro
+#       25  WAV/SweeterPushin
+#       21  Ableton Live/MS10 From Mars
+#       18  FL Studio/MS10 From Mars

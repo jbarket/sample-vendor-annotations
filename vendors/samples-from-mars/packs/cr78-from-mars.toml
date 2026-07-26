@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "CR78 From Mars"
+slug = "cr78-from-mars"
+dir  = "CR78 From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/cr78-from-mars
+archives = ["cr78_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 376
+audio_bytes = 60313812
+digest      = "1f9bd7fdb27dcbd80650340409a342d85d5b520d4c6b450a0e4b0fc4f85ccb1c"
+anchors     = [
+  "00b22f2989799d519f502f8ea1e647b6c5c612d7ef37a7de3fbeb5b195835c66",
+  "00d2dc25cb6590a19558b670ce1cd036c637b98e0ca9f460f86dadf368769ebb",
+  "014195daa2c2f337bcf725f7552d4fbbb3c97f4d0525e59e2e8290abcbe9852d",
+  "02f5f9a117e23b9eaa2230dba805cd018c60c1ea493fd494de2525e48d82a5ee",
+  "047674546ac70eceb525c194d8401fbb47c179ac88e8f09b2645148bbb79a37c",
+  "049f79195f4e8f02e2940b402f227057fddf037b6df965afe7c204f06021af0b",
+  "04e22e0a4c42707a72a0b2e604e1a19a5281962f2d2db4a40b5d0919f4567748",
+  "05948eaf8532e0f895e5d193784d3cf8d4dcfd8caec2a1204107081f1c5e7652",
+]
+manifest    = "manifests/cr78-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      199  WAV/One Shots
+#      102  WAV/Drum Loops 120 BPM
+#       51  Apple Loops 120 BPM/Clean
+#       51  Apple Loops 120 BPM/Distorted
+#       51  REX2 120 BPM/Clean
+#       51  REX2 120 BPM/Distorted
+#       34  Grooves/Ableton
+#       34  Grooves/Midi
+#        5  Ableton Live/CR78 From Mars
+#        5  Kontakt/CR78 From Mars
+#        5  Logic EXS/CR78 From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  FL Studio/CR78 From Mars
+#        1  Docs/Art - CR78 From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Apple Loops.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For REX2.rtf
+#        1  Icon

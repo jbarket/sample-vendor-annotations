@@ -1,0 +1,46 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Indie Tapes From Mars"
+slug = "indie-tapes-from-mars"
+dir  = "Indie Tapes From Mars"
+url  = "https://samplesfrommars.com/products/indie-tapes-from-mars"
+archives = ["indie_tapes_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 974
+audio_bytes = 1477370240
+digest      = "d78621779476533d5147f5a60ffe99ace8979f82f7096f3296e8411522fdf220"
+anchors     = [
+  "0058becb5a9838bbf81fec6dc36945d4fa7a5b65f70e57e23ebd809bdac7dddf",
+  "00cdb59341b84ff3c326da46688e765f8308c06197e203c84aa8c73da6434d47",
+  "00fea0aa56a30228f7c024df331cd4151344ff525c99a3508c0973db42dc553a",
+  "012979e248f9ca5a8d82361a74aea9d8e87b44cdaa51a535b1cb75abcd54f832",
+  "013b51098f5ed66814821cac05618c87513066e3047d54f7f4c0db480d539ef4",
+  "02061177d3d07afecb0ba653fa33de8a81d5cccef6f300abd242a8e5b64fecd9",
+  "020b6e1e23552eef1efdfcc575b70ac56f4bbe1798dce84eb4bf7a7a0ba98fb7",
+  "022e3be75f4426a36f57c86ef1ac5a0cd47f0af0ce4752ff0dc1d739f3a67f30",
+]
+manifest    = "manifests/indie-tapes-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      400  WAV/02. Loops
+#      296  WAV/01. One Shots
+#      202  Presets/MPC
+#      102  Presets/Maschine
+#       19  Presets/Reason
+#       18  Docs/Installation
+#       13  Presets/FL Studio
+#       13  Presets/Kontakt
+#       13  Presets/Logic EXS
+#       13  Presets/SFZ
+#       11  Presets/Ableton
+#        6  Presets/Battery
+#        1  Docs/Artwork - Indie Tapes From Mars.jpg
+#        1  Docs/Indie Tapes From Mars - About.rtf
+#        1  Docs/Indie Tapes From Mars - Melodic Chord Progression Reference.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

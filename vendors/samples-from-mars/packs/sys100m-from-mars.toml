@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "SYS100M From Mars"
+slug = "sys100m-from-mars"
+dir  = "SYS100M From Mars"
+url  = "https://samplesfrommars.com/products/sys100m-from-mars"
+archives = ["sys100m_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2737
+audio_bytes = 1662807746
+digest      = "cb956383748342b72bc5764a3a89eef34994f29eaeba7c6dba62fa2936640a56"
+anchors     = [
+  "0003c940d55b91923836d27d1b7e03d0301db3994de2cd9d3bfb2cc604136d5c",
+  "0019261ec0adc95cfb782571ab5226b72d35624e631118e7430f32fc873a1477",
+  "002dfce6776485d9535ef9ca52d7b76698f9d1c8918738ae96e6017b2ae4af57",
+  "00312922f22752e266b07c7c742cf72f99d9233a7e768fc02f1496014aac707d",
+  "003617db0ec02f7d181021d18ab00b65def6edfe05ed50ff5b5a78f9551d19f6",
+  "0063fb96c6bb019dd9231cf5d13217dac6b8d1566cfd256b509e69381175a4cf",
+  "00646c4ab07c75a481526d4cea06b1c237946c77a0a1331c77b560a824d9bb38",
+  "0079d416cc9c5b393925b3b9beb85173e831d881a98779c3040fed68f26f2e6a",
+]
+manifest    = "manifests/sys100m-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      170  WAV/TheClap
+#      109  WAV/Bad Signs
+#      109  WAV/Dual SineWave
+#      109  WAV/DualModulatingSquare
+#      109  WAV/GigerCounter
+#      109  WAV/GoodSigns
+#       97  WAV/You'reLittlePeople
+#       96  WAV/Dual Sawtooth
+#       95  WAV/PokemanAreBack
+#       88  WAV/SystemIsDown
+#       85  WAV/BionicHands
+#       85  WAV/BowiesInSpace
+#       85  WAV/HalfSub_Tri
+#       85  WAV/PutARingOneIt
+#       85  WAV/Sisters
+#       85  WAV/Wombats
+#       83  WAV/1200BC
+#       82  Loops (120BPM)/REX2
+#       81  Loops (120BPM)/Apple Loops
+#       81  Loops (120BPM)/WAV

@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "TOM From Mars"
+slug = "tom-from-mars"
+dir  = "TOM From Mars"
+url  = "https://samplesfrommars.com/products/tom-from-mars"
+archives = ["tom_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 4320
+audio_bytes = 165909552
+digest      = "92b160d7ae00725c8e54ec6c922e83e88cc99510a84a6ea73b10f7b7c79ff7a9"
+anchors     = [
+  "00018355c00acb1c4352676f82c1c41fdd589bcbf3b9116c5926370449f7584d",
+  "000944778433327808df2856a837067711303a859cdaac8addb7920e52d6b096",
+  "000a5c1eb662d3131df54edd2be73f83217bec54a726019132348daad47ece54",
+  "00162c337e2b824d48ec74c8c8c25e2dcd5279eef0c77252a8d62697d8c12321",
+  "002404abfc4f78d8aebd5b8de6ad96df7a3ebb2457e76fad5aacc70631ce21c7",
+  "003ce9f865bab83b6eb3fdb23d98564df07f8861643225ea610628d44273b2f6",
+  "0043c68b1c2a816efce2d8c02b1442ba4cb26d51c2a70b9862c9c38d55e008e8",
+  "004b7cfe1d3cc265e2c12f8bb2a53c6f5e40874a7f57edd1059c1d6807014117",
+]
+manifest    = "manifests/tom-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     3648  WAV/01. Individual Hits
+#      238  Maschine/TOM From Mars
+#      228  MPC Live & MPC X/TOM From Mars
+#      228  MPC1000 & MPC2500/TOM From Mars
+#      224  WAV/02. Kits
+#      119  FL Studio/TOM From Mars
+#      119  Kontakt/TOM From Mars
+#      119  Logic EXS/TOM From Mars
+#      119  Reason NN-XT/TOM From Mars
+#      119  SFZ/TOM From Mars
+#       19  Ableton/TOM From Mars Project
+#       14  Battery/TOM From Mars
+#       14  Reason Kong/TOM From Mars
+#        5  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Artwork - TOM From Mars.jpg
+#        1  Docs/Installation Instructions For All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For FL Studio.rtf

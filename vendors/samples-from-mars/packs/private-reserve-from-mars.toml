@@ -1,0 +1,46 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Private Reserve From Mars"
+slug = "private-reserve-from-mars"
+dir  = "Private Reserve From Mars"
+url  = "https://samplesfrommars.com/products/private-reserve-from-mars"
+archives = ["private_reserve_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 922
+audio_bytes = 175728102
+digest      = "df03dddf41a0a1df0753c0d73e42d4a7b8a0bee52db69822fa6058488aa0e2d0"
+anchors     = [
+  "0075f938d7bd51d8ba343a320c7d3975818314926e8d619a201297dca6c4e647",
+  "0138b4861de734cc0440b75c4f2ba1bedefaacd7eaa32f27800fb27307ac36db",
+  "01ae44b4f2c84aa640a920ba07adfc98d3e6c9d19585316b1bc5c7e5cbb23a21",
+  "01e441e327426ff3ec0089658c5d770e927cad5f096cc5be02a1b92b6a86aaef",
+  "01e5bcee4f9b372615eff295fb4b0489150caa7079e7100b39a63455ab4fa234",
+  "025910e76355d41ef3267448bcf6a99d32284914132ee54d150231c2611bc832",
+  "02b6039dbc3c111afc7f1e8be4771d8d28d5cc295a6763467627fee4acfae101",
+  "02c7717181839f1c10af3328cff98aa6758e4537872bede10390a49d61522759",
+]
+manifest    = "manifests/private-reserve-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      442  WAV/01. Individual Hits
+#      326  Presets/MPC
+#      170  Presets/Maschine
+#      160  WAV/02. Kits
+#       21  Presets/FL Studio
+#       21  Presets/Kontakt
+#       21  Presets/Logic EXS
+#       21  Presets/Reason NN-XT
+#       21  Presets/SFZ
+#       17  Docs/Installation
+#       15  Presets/Ableton
+#       10  Presets/Battery
+#       10  Presets/Reason Kong
+#        1  Docs/Artwork - Private Reserve From Mars.jpeg
+#        1  Docs/Private Reserve From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

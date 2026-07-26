@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Kawaii Dreams From Mars"
+slug = "kawaii-dreams-from-mars"
+dir  = "Kawaii Dreams From Mars"
+url  = "https://samplesfrommars.com/products/kawaii-dreams-from-mars"
+archives = ["kawaii_dreams_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 928
+audio_bytes = 1707343208
+digest      = "4e54cdc7c917b7672848d4e13eed83d586786570025e5bfb26dc5a53ae3fb653"
+anchors     = [
+  "0056afd35f74ec02cad4a71ba96c3e1afd8dcda892eb3fc1df13ed6411fe2af1",
+  "006041713ae6b6d737daf03c011a78b2f65051b256113935ff1801b5c20b4ada",
+  "00ce83ed62fa4937619fe92e4934112512b285af0f4b09a7f352d5f45a944a57",
+  "016c6cf6fb63c80eb1d2ac869cf733055a394cd12fba6491d59833f8868010a8",
+  "017aa03a66638fc32877eafe07226cdb0ae8a06b56f8c19aa6e713b49c91dc1b",
+  "01cd071a3b164229932e53a452e95e29f7e5aab49dd7760c735ac86c109f8c25",
+  "0260f7c404e1848c8f4f17980cb9acc4b45852fb4f4c6e2d495f271b49afa6d5",
+  "0267d247427740a454119055f5253127d7f77bc17bc5894c4bcf0a63a19678f4",
+]
+manifest    = "manifests/kawaii-dreams-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      386  WAV/02. Keys
+#      224  WAV/01. Voices
+#      161  WAV/04. Organs
+#      157  WAV/03. Pads
+#       17  Ableton/Kawaii Dreams From Mars Project
+#       15  FL Studio/Kawaii Dreams From Mars
+#       15  Kontakt/Kawaii Dreams From Mars
+#       15  Logic EXS/Kawaii Dreams From Mars
+#       15  Reason NN-XT/Kawaii Dreams From Mars
+#       15  SFZ/Kawaii Dreams From Mars
+#        5  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/Artwork - Kawaii Dreams From Mars.jpg
+#        1  Docs/Installation Instructions For All.rtf
+#        1  Docs/Installation Instructions For FL Studio.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For Reason NNXT.rtf
+#        1  Docs/Installation Instructions For SFZ.rtf
+#        1  Docs/Kawaii Dreams From Mars - About.rtf
+#        1  Icon

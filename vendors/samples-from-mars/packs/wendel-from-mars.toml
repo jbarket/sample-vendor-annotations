@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Wendel From Mars"
+slug = "wendel-from-mars"
+dir  = "Wendel From Mars"
+url  = "https://samplesfrommars.com/products/wendel-from-mars"
+archives = ["wendel_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1984
+audio_bytes = 127643954
+digest      = "c12881d2c149ad20987803510d1457e2f2bcb81b2a953d15bacc03919b298536"
+anchors     = [
+  "0006cd011068722b15b63e956f03f9f49f9f2ed2a247275cdc4d221748d1c6fb",
+  "00134ee0f742e5deeef4ba7a6d8b9ff9387e8dd687439ae608c3300b2a134280",
+  "002ab593b02ebdf8fac7707201bc9f68bbcde13af7d3941ac1ba8fbda24287d3",
+  "006dcdc1a02950c94b57bade889ac93fce3b509bed734c02d365654d07df4e9c",
+  "00cade5652a0440aeb44dd625038ef8a6ceabc7cc0a8b68581d8db222d7826a8",
+  "00eaf29a65317b5df268c849ffbea7e502a28725853d14ee9f45342decad66fa",
+  "00f8cff4f28a4b9bd85d16c27fe714299d97d1b7e7c59c3cc5a3f575fd78edb4",
+  "01459e7879e7b8cb9a745b8e000b3cd01909a507d8c6cec7c07dd5b5423e0b94",
+]
+manifest    = "manifests/wendel-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1536  WAV/01. Individual Hits
+#      119  Maschine/Wendel From Mars
+#      114  MPC Live & MPC X/Wendel From Mars
+#      114  MPC1000 & MPC2500/Wendel From Mars
+#      112  WAV/02. Kits
+#       71  FL Studio/Wendel From Mars
+#       71  Kontakt/Wendel From Mars
+#       71  Logic EXS/Wendel From Mars
+#       71  Reason NNXT/Wendel From Mars
+#       71  SFZ/Wendel From Mars
+#       12  Ableton/Wendel From Mars Project
+#        7  Battery/Wendel From Mars
+#        7  Reason Kong/Wendel From Mars
+#        5  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Artwork - Wendel From Mars.jpg
+#        1  Docs/Installation Instructions For All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For FL Studio.rtf

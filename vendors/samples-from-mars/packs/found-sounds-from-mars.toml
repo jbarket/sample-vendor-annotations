@@ -1,0 +1,48 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Found Sounds From Mars"
+slug = "found-sounds-from-mars"
+dir  = "Found Sounds From Mars"
+url  = "https://samplesfrommars.com/products/found-sounds-from-mars"
+archives = ["found_sounds_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 667
+audio_bytes = 1190495671
+digest      = "28fa9ea964e9bda471ac592badf1852ec915492cd1b7dc075e1b896874ff2268"
+anchors     = [
+  "00216f5463014eef2527f916dd1600e79e85216bf3cf9ddda7f73503e541d5a3",
+  "0037991865e6ec81b341da474ba62da4b117d830da3314a07bc4b1c913626854",
+  "00496a113524b0edab07fc8715553e8992f2ed4fc452eb49fea5427579f0e0a2",
+  "00c80aeaa7930ea9cedc66f73c506ed1d59904f56c69ec99b1d62ee10639e784",
+  "00cbdf6811f665aab263702fa45604f957bbd98abca4c20f3ed0520296265253",
+  "023e098242821e6a2b63fa1f969d3bc440bfdb9753e7e732e17a9288e6e97c64",
+  "026cdb5c09b0a1998efad3a5d58dff8a4f04a57f95ec74cbe0e31c7bfcd53033",
+  "026fc541bce22c99c6d930977f44a1291e1d977c143fa9e221806bc4c3ab8a93",
+]
+manifest    = "manifests/found-sounds-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      123  WAV/Outdoors
+#      120  WAV/Mechanical
+#      112  WAV/FX Textures
+#       65  WAV/Wood
+#       64  WAV/Body Misc
+#       64  WAV/Metal
+#       64  WAV/Plastic Glass
+#       58  WAV/Vortex
+#       18  Ableton Live/Found Sounds From Mars Project
+#       15  FL Studio/Found Sounds From Mars
+#       15  Kontakt/Found Sounds From Mars
+#       15  Logic EXS/Found Sounds From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/Art - Found Sounds From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For FL Studio.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Icon

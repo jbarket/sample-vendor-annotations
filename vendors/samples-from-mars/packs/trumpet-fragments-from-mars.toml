@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Trumpet Fragments From Mars"
+slug = "trumpet-fragments-from-mars"
+dir  = "Trumpet Fragments From Mars"
+url  = "https://samplesfrommars.com/products/trumpet-fragments-from-mars"
+archives = ["trumpet_fragments_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 27
+audio_bytes = 22884070
+digest      = "fa8b12fe547b5a9470651dd201ad80754bc2c2daa6eca73278b99003751ab81c"
+anchors     = [
+  "0146f1cd813b423b909fb2a7ab0a5d4c29cf47a2ca952e39ceb45f9c9b65d2bd",
+  "01f0fdcbf25cfe31faf53dec43d112cbc92e2cd15c374c3b4c6baec5d323bcb3",
+  "0a4c61581461756ac9c810468a8a86c7ecc2d6be4a59f328482e001e85f99653",
+  "1b4263e5835c8265e444d060db1b1c0c603e22bb89e87a7451b6e456b05adfb1",
+  "1ec18d52f800fa8a57422f85c0a02c6584c34fcdb1866453c05079271284c6e3",
+  "2fa9bb54c07b7532b01dd1540b29ec92c7b08ca8bcbe55ec629a48ee7dadc670",
+  "317fb921fdc1e126b68feeb32165da855fba026537ef3fc03e3893d196d3f244",
+  "35863a6586525a31f9dffe8cc74c2293db89adf6c2fd9e9ddf71f88d13dcadc9",
+]
+manifest    = "manifests/trumpet-fragments-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       28  Presets/Ableton
+#       26  Presets/FL Studio
+#       26  Presets/Kontakt
+#       26  Presets/Logic EXS
+#       26  Presets/Reason NN-XT
+#       26  Presets/SFZ
+#       12  Docs/Installation
+#        1  Docs/Artwork - Trumpet Fragments From Mars.jpg
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Docs/Trumpet Fragments From Mars - About.rtf
+#        1  Icon
+#        1  WAV/Breezy Trumpet F2.wav
+#        1  WAV/Broken String Trumpet G3.wav
+#        1  WAV/Chordal Reef 01 Trumpet C3.wav
+#        1  WAV/Chordal Reef 02 Trumpet C3.wav
+#        1  WAV/Clouds Trumpet G#2.wav
+#        1  WAV/Deathray Trumpet C3.wav
+#        1  WAV/Desert Pad Trumpet C4.wav
+#        1  WAV/Dont Cry Trumpet A3.wav
+#        1  WAV/Doomsday Trumpet G3.wav

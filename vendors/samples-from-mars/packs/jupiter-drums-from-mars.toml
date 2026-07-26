@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Jupiter Drums From Mars"
+slug = "jupiter-drums-from-mars"
+dir  = "Jupiter Drums From Mars"
+url  = "https://samplesfrommars.com/products/jupiter-drums-from-mars"
+archives = ["jupiter_drums_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 825
+audio_bytes = 57725426
+digest      = "4725ca1db6c4b98242d698685a73269d20dfa921dd880ea5771012a1e159a3dc"
+anchors     = [
+  "005ecf00776152bb83ce31a6ec18e6fda40a38acddb04fbafa9b805b10fda43e",
+  "00a946aeeacbbc2bbf7589c64dd20f410899e2d597c427f0ee7caedbb20a75cd",
+  "01446b76532d61305a4dfaa12d32e7d82b9f4b2950f89bdf6ba562d4803bbe6c",
+  "01501d6904d4a57c45254be9b3b00d991582f2fd55a93166b7c71ff51dca7168",
+  "01b9d6604dd3f789666f3569e28012d3024cdef02e9374f886a89ee875321ba4",
+  "020d60dccaeee6665a43fefd1ee2d06b681c8e443ef6971afa0ba90a7d16ec1e",
+  "020ffd249574013e52260f87dd71abd5ab8b5cfcc7e0eaf68757ef217301b18e",
+  "028fd99e61851d7d022a4b625ecbd0270eae4e969e84f5c7e869fae829cad3c5",
+]
+manifest    = "manifests/jupiter-drums-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      221  Maschine/Jupiter Drums From Mars
+#      212  MPC Live & MPC X/Jupiter Drums From Mars
+#      212  MPC1000 & MPC2500/JupiterDrumsFromMars
+#      208  WAV/02. Kits
+#      192  WAV/01. Individual Hits
+#       21  Kontakt/Jupiter Drums From Mars
+#       21  Logic EXS/Jupiter Drums From Mars
+#       21  Reason NN-XT/Jupiter Drums From Mars
+#       21  SFZ/Jupiter Drums From Mars
+#       17  Ableton/Jupiter Drums From Mars Project
+#       13  Battery/Jupiter Drums From Mars
+#       13  FL Studio/Jupiter Drums From Mars
+#        4  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Artwork - Jupiter Drums From Mars.jpg
+#        1  Docs/Installation Instructions For All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Grooves.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf

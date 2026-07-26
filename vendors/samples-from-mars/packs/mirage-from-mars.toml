@@ -1,0 +1,47 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Mirage From Mars"
+slug = "mirage-from-mars"
+dir  = "Mirage From Mars"
+url  = "https://samplesfrommars.com/products/mirage-from-mars"
+archives = ["mirage_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2507
+audio_bytes = 1549835066
+digest      = "a4fc7b111e39ee58dc4f64c91556c4857dd7e31c6cea4bd924ca4b54d62ef47c"
+anchors     = [
+  "0003b90dccb75414ba312ca63241e7d51bbc5e903a9a31bcdd78d7ddab0a0067",
+  "002c46ed87e3b63fcbfffdd53b314a9ff2870060dd19bfa528793d335ba8f363",
+  "003d18f303c3368e2b6a321e42be14c1c10385074a8b410d4aa2995af165b339",
+  "0059074ca5a0d555b3dcf010d6a1bf074811784a0c24f22ad627c3c32df51176",
+  "0094c96a2e38960ce86c4249578e811b64a8c4dd01d84499a393b8f61ae5bf1b",
+  "00a8a5fcb21898d3d432f0cd9b2049a6b07d0b441e3b35949dcb634dca630006",
+  "00b916f6c61f95dc8443b27fa542c3b49203f86b1e4ac0233fa61b3351d4201b",
+  "00bfb2692c842d6a3f9595770f6d25e86453c3f4b269b0dc33397551ef68bfac",
+]
+manifest    = "manifests/mirage-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      648  WAV/05. Synth
+#      437  WAV/01. Keys
+#      436  WAV/02. Orchestral
+#      433  WAV/04. Guitar
+#      290  WAV/03. Bass
+#      219  WAV/06. Vox
+#       44  WAV/07. Various One Shots
+#       37  Presets/Ableton
+#       35  Presets/FL Studio
+#       35  Presets/Kontakt
+#       35  Presets/Logic EXS
+#       35  Presets/Reason NN-XT
+#       35  Presets/SFZ
+#       12  Docs/Installation
+#        1  Docs/Artwork - Mirage From Mars.jpg
+#        1  Docs/Mirage From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "OB From Mars"
+slug = "ob-from-mars"
+dir  = "OB From Mars"
+url  = "https://samplesfrommars.com/products/ob-from-mars"
+archives = ["ob_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 4286
+audio_bytes = 1640539922
+digest      = "512695954fede0f956ab3cd8f4161054a46f502166972d4e5b3efa2f9bdcd54e"
+anchors     = [
+  "0007dbcdd02ecfda420dff67af5a887727c1883debe89fa69c34b5ab8bc6c82c",
+  "000d628a8795b84f8ced9960963400209ad32d31517e8154dda4dc4b42a2e259",
+  "00380102dcc4b79a4e617b47b4024cdb067ae7228e1b149a22f5f0773bbf94fc",
+  "0057797744deabb07fd975de752cd4c54da52881e33cd838b37d0aaf884df716",
+  "00602b252efb68785606fc0a74d4b0a57a945a1ab7a3e74036c361edbf7e3bb2",
+  "0062c530ca42219177fbf4f54b6812e546c543d608d12381704e974c720954b5",
+  "0072ff7314442f3669478cd858bfda7f744c385e8aeeafc19115b4ba70f25be4",
+  "007f0c358676c968036ea5ef0cd31199cadc80b3737649bf43a9ef71823ea5d2",
+]
+manifest    = "manifests/ob-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1020  WAV/Keys
+#      935  WAV/Bass
+#      717  WAV/FX
+#      680  WAV/Leads
+#      424  WAV/Brass & Woodwinds
+#      255  WAV/Organs
+#      255  WAV/Strings
+#       45  Ableton/OB From Mars Project
+#       42  FL Studio/OB From Mars
+#       42  Kontakt/OB From Mars
+#       42  Logic EXS/OB From Mars
+#       42  Reason NN-XT/OB From Mars
+#       42  SFZ/OB From Mars
+#        4  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/Artwork - OB From Mars.jpg
+#        1  Docs/Installation Instructions For All.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For Reason.rtf
+#        1  Docs/Installation Instructions For SFZ.rtf

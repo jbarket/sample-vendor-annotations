@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Synare From Mars"
+slug = "synare-from-mars"
+dir  = "Synare From Mars"
+url  = "https://samplesfrommars.com/products/synare-from-mars"
+archives = ["synare_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2268
+audio_bytes = 1853211568
+digest      = "c8e24c421df0997c52d719cf232b525dee4f0cb095629dbfd7977cfbe4f46707"
+anchors     = [
+  "00041cdf18eb9366bfad452a4965e1700699df6c4993e78ce4a3005bf6944c27",
+  "001457e3bffd5f30398383b9f92e46ef46b6f2c7ace571f6b561e0f81812a687",
+  "0019910385a5731800bee7056ae37c0c0a1772c88cfe6c84686f44b6db426949",
+  "00265f6c0ec2eb02aa8cd957bb4846f9839021260e49216d0eaec48751fdb13e",
+  "008b60f4edb79e2d8f30c17653113b9fdc8933ad66b6c3e787de8e513ebd792f",
+  "00c542deaf9b6b657ee17c5aa959a7f6cc652c33099435d091f862e5f637f0b0",
+  "01273b01c39127f8888fcc4d4db1a8b6af0a8b950aa9ca68603b2f3b1071fb3c",
+  "014e06b4371e57c81075203e75199226f44a5ee86ef6531bdd96e9950909c70e",
+]
+manifest    = "manifests/synare-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      832  WAV/01. One Hits
+#      794  WAV/03. Effected
+#      330  WAV/02. Chromatic
+#      170  Maschine/Synare From Mars
+#      162  MPC1000 & MPC2500/Synare From Mars
+#      160  WAV/04. Kits
+#       52  Kontakt/Synare From Mars
+#       52  Logic EXS/Synare From Mars
+#       52  Reason NN-XT/Synare From Mars
+#       52  Structure/Synare From Mars
+#       14  Ableton Live/Synare From Mars
+#       10  Battery/Synare From Mars
+#       10  FL Studio/Synare From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Art - Synare From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC.rtf

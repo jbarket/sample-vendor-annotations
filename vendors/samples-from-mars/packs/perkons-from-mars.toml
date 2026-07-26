@@ -1,0 +1,47 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Perkons From Mars"
+slug = "perkons-from-mars"
+dir  = "Perkons From Mars"
+url  = "https://samplesfrommars.com/products/perkons-from-mars"
+archives = ["perkons_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1422
+audio_bytes = 940909014
+digest      = "f2fe81357006e5dd03c9fd29b096ff8b137fffb1499bde0999969964f70637be"
+anchors     = [
+  "0014f25e6322519e869eee6fc044e91405114cbce57967224f8b9a225d9fafc1",
+  "002585a29a467d926a57ab4399d35d89bea79a3c48b5e73cd394c59d27d4c793",
+  "003c60c59cd06efd9ce7db26c26861498e6a5ebff16e3e67036ded0ec9d3a5b2",
+  "0043f0d514b0cced1397d5fafefd0f4ff441dc857ea8512dd36ac0813c9e0e9a",
+  "00875051fb8d732bde15e08e919cf667a78554ec5c22aa0df248dc9904e8022b",
+  "008be4f0fe5fd7345f83f41b6596362a88ff5bdbad89e017081f8470da71281c",
+  "008f1192e933f4c5670beb9f9d43b60fb4a58efc48a512ca76050f3918d0bcd0",
+  "00efc0ec6a244dcddb999b2c8b185c321d0ca1f5a726b17575e9b811516f27c6",
+]
+manifest    = "manifests/perkons-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      778  WAV/01. One Shots
+#      357  WAV/02. Loops
+#      269  Presets/MPC
+#      136  Presets/Maschine
+#       72  Presets/Grooves
+#       19  Docs/Installation
+#       19  Presets/FL Studio
+#       19  Presets/Kontakt
+#       19  Presets/Logic EXS
+#       19  Presets/Reason NN-XT
+#       19  Presets/SFZ
+#       13  Presets/Ableton
+#        8  Presets/Battery
+#        8  Presets/Reason Kong
+#        1  Docs/Artwork - Perkons From Mars.jpg
+#        1  Docs/Perkons From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

@@ -1,0 +1,48 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Modular Creations From Mars"
+slug = "modular-creations-from-mars"
+dir  = "Modular Creations From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/modular-creations-from-mars
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 404
+audio_bytes = 1530950968
+digest      = "a40de9150e87c0d4471cfc88dc75d05608890efae27dd0e1f83d7bbb7f6176c1"
+anchors     = [
+  "0015138604d441c755568c72330403fa97714118b1f1341cd18f224ca7d18c30",
+  "01389bbfe36eb749a57f7154c219b7206fa155e9ed36f0cebfdec3ac309ad294",
+  "0199e73ab86fa83d9bcf0113ee1f066e1ff6dbcd151bc9389c093115ae9e87f1",
+  "01b54bbb4a850a825442926cee1785e36dd58811736b1ff50934b4901571608c",
+  "025f617a7318c9f6f408c76614d5aa8de933785334a42eb0a21d4df1bd56ad73",
+  "02ad9515986ce47c778d6e1fd9ebe71495d9ec6e7d16f95c4983704b8393a30e",
+  "02e304d273313e8aa00fadc817aebc81aaf9c4cad442bb34593b9e6e19d40481",
+  "035ee7e66da811530e3c738b0ea0b92cc5b13503c21be21795d17c15b25473d4",
+]
+manifest    = "manifests/modular-creations-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      154  4. Modular Instruments/Ableton Live
+#      143  1. Modular Loops (120 BPM)/Apple Loops
+#      143  1. Modular Loops (120 BPM)/REX2
+#      143  1. Modular Loops (120 BPM)/WAV
+#       92  4. Modular Instruments/Kontakt 5.5
+#       24  4. Modular Instruments/FL Studio
+#       24  4. Modular Instruments/Logic EXS
+#       18  3. Modular Raw Voltage/DPO
+#       17  2. Modular Drones/Dark Modulator
+#       15  2. Modular Drones/Teleharmonic
+#       14  2. Modular Drones/Elements
+#        9  3. Modular Raw Voltage/Model15
+#        8  3. Modular Raw Voltage/Mother
+#        3  5. Docs/Ableton Installation Instructions
+#        1  5. Docs/Apple Loops Installation Instructions.rtf
+#        1  5. Docs/Installation Instructions For FL Studio.rtf
+#        1  5. Docs/Kontakt Installation Instructions.rtf
+#        1  5. Docs/Logic EXS - Installation Instructions.rtf
+#        1  5. Docs/REX2 Installation Instructions.rtf
+#        1  Icon

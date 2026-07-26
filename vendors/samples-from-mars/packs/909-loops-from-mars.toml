@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "909 Loops From Mars"
+slug = "909-loops-from-mars"
+dir  = "909 Loops From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/909-loops-from-mars
+archives = ["909_loops_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1000
+audio_bytes = 1145554734
+digest      = "05287f4c85bd141a4095216f511983be3c113d769b263d218fb64031cfb4a999"
+anchors     = [
+  "000d317ba6d8ec4fa8bf7a45cfe8a17a350d1a0f56445411a45a2026665f7acf",
+  "0168d2b2947e7cd848df05db747ce376c6e315321640391af479100c09d2ea10",
+  "0177f76f86c206f3d3970f216958f70cab151d317850b8637d5f00daccde23ed",
+  "018da641f1401d7bcfe343701579fb9603a4abb8bb03a00afc6deea9ab946f78",
+  "01f908ac7f2ad8143583df7720de3ebf6e8f6980db004b4b3bc5ccf74a63017f",
+  "021dbbf0b1bd555007adafb34b2d78d29eed86e824a4e764f2b2680b1d7ac638",
+  "025cca4ee711e7b17f6fee2eeae69c0ae78eb064a7a516ecfa1ef619a3b92c86",
+  "027a7caf3bc1dbef88db663d5b305bccc0bead2ebdeb50468c5a21b911171de8",
+]
+manifest    = "manifests/909-loops-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      102  Apple Loops/10. Whole Beats
+#      102  REX2/10. Whole Beats
+#      102  WAV/10. Whole Beats
+#       87  Apple Loops/05. HH
+#       87  REX2/05. HH
+#       87  WAV/05. HH
+#       63  Apple Loops/09. Various Tops and Combos
+#       63  REX2/09. Various Tops and Combos
+#       63  WAV/09. Various Tops and Combos
+#       62  Apple Loops/01. Bass Drum
+#       62  REX2/01. Bass Drum
+#       62  WAV/01. Bass Drum
+#       58  Apple Loops/08. Ride and Crash
+#       58  REX2/08. Ride and Crash
+#       58  WAV/08. Ride and Crash
+#       56  Apple Loops/02. Snare
+#       56  REX2/02. Snare
+#       56  WAV/02. Snare
+#       24  Apple Loops/03. Clap
+#       24  REX2/03. Clap

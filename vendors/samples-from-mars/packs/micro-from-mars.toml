@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Micro From Mars"
+slug = "micro-from-mars"
+dir  = "Micro From Mars"
+url  = "https://samplesfrommars.com/products/micro-from-mars"
+archives = ["micro_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1673
+audio_bytes = 948516300
+digest      = "13a75351df7a166fd6a73bfd4f8e10ac3ae466a92365db258f5ccdd9401959c3"
+anchors     = [
+  "00279535a45491dc22bde9f8697267974cad492ada254e3a2ddc7d2bb70972d3",
+  "005c1280edce76a291413e526ce8549ad1c6f7925b670e7d748eaadbb5cbe5c6",
+  "008cc30d4a8d48378d1ea82c7b3e39d2a3facee89404f0fb193647c4ac579701",
+  "00ab9e7fe9b8f4c5f566b74caff96c11594709267a738beeb68a70fc002c82e3",
+  "00b3364b4e364c1c2eb72ef508c1f6fd28e7d65fad0818dfc92993d3ef8e7914",
+  "00dcedcaae343a7c956ebb6b2468c6906123f52adc36cdd27ada0d15c2fdf8ec",
+  "012aa95337ddf50e288ff062a5d24336cd19fd5a1604c5ce886ccbfe8087ac6b",
+  "015aa2c8dd9308aac41bae4d7d66ef95a72294e151cc436da2d2f90ded53506c",
+]
+manifest    = "manifests/micro-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       78  WAV/MicroMoog 25
+#       73  WAV/MicroMoog 2
+#       73  WAV/MicroMoog 23
+#       73  WAV/MicroMoog 26
+#       70  WAV/MicroMoog 13
+#       69  WAV/MicroMoog 27
+#       69  WAV/MicroMoog 3
+#       68  WAV/MicroMoog 18
+#       68  WAV/MicroMoog 19
+#       68  WAV/MicroMoog 4
+#       67  WAV/MicroMoog 17
+#       61  WAV/MicroMoog 1
+#       61  WAV/MicroMoog 15
+#       61  WAV/MicroMoog 16
+#       61  WAV/MicroMoog 20
+#       61  WAV/MicroMoog 24
+#       61  WAV/MicroMoog 5
+#       56  WAV/MicroMoog 7
+#       54  WAV/MicroMoog 11
+#       54  WAV/MicroMoog 22

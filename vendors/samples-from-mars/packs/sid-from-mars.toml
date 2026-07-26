@@ -1,0 +1,44 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Sid From Mars"
+slug = "sid-from-mars"
+dir  = "Sid From Mars"
+url  = "https://samplesfrommars.com/products/sid-from-mars"
+archives = ["sid_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2783
+audio_bytes = 3956474726
+digest      = "d3e802f45f66c0bad44b1c39daf33af6302013a742f443de17eba76e0f327d3f"
+anchors     = [
+  "000b1c1e4287e470144623965e30102e821ee7f434101900fe4aab7ce7dbaa4b",
+  "00d6db93c3cb58027cc53ccd65466a77eccb93c466c266407327ed167f9c6e7b",
+  "00f580334cb7786457049fa5a7c7971585d24b9bae9ae4dc4ec575ad67744d83",
+  "010398797a8bc186a9e9c072303890547093bf609fc365a1c8c3e042edb279e0",
+  "0110e1a25d83db99eba5c323e4a681cd277d7ca0fefbdaef9f49037eccd82113",
+  "0111ba6628da1607cd0b69a37cf2dd8c6ef35a1676197601380b0ba18db2aba5",
+  "014fcf7e3bc6502ac840824c10b409d37c35ce0187bd7b9c24a3625d6f8b75ae",
+  "01738a67ab7fa22b4066c02f58bcd3ee947ee101126bd546e534184f0b1f7f70",
+]
+manifest    = "manifests/sid-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      961  WAV/Leads
+#      889  WAV/Pads
+#      484  WAV/Bass
+#      449  WAV/FX
+#       32  Ableton Live/SID From Mars
+#       30  FL Studio/SID From Mars
+#       30  Kontakt/SID From Mars
+#       30  Logic EXS/SID From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/Art - Sid From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For FL Studio.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Icon

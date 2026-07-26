@@ -1,0 +1,47 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Recodrum From Mars"
+slug = "recodrum-from-mars"
+dir  = "Recodrum From Mars"
+url  = "https://samplesfrommars.com/products/recodrum-from-mars"
+archives = ["recodrum_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 912
+audio_bytes = 108291357
+digest      = "119e33134766e90b4aab1dd084766dbc38c8372b8a6f105f036190e67d633f0f"
+anchors     = [
+  "003dfe1372040b176bb33eb7d43916618b5e557e8fd00d41e5b51be2eb6ca20f",
+  "005bdab967395d2a7555c79cca90d23c12933fed46cb1218f2095c7d88051ac2",
+  "00962a7ceba4f92856021004b5a39d2a16721995a7a62a1e699ebd038787ecdb",
+  "00b6e75959fd7a061bce6fb60a910cdb3a3f8302ffa2b9ddd7ecf9d3986be637",
+  "00bb52369d716605f1a6dc2bc3d651877357a8c0d12731301206021276aea94e",
+  "01b193f4ad06144897e2dd2fd6fa922da5268329d85f27d210ac9c3dff14e976",
+  "0211d24035a2048811f881237230b1c08a4442d410ff372113aaa13253b3b45a",
+  "02db0395b712874fc14313834dac145a024be41e67b09a9f3d350b350f6606ff",
+]
+manifest    = "manifests/recodrum-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      624  WAV/01. Individual Hits
+#      203  Presets/MPC
+#      102  Presets/Maschine
+#       96  WAV/02. Kits
+#       56  Presets/Kontakt
+#       56  Presets/Logic EXS
+#       56  Presets/Reason NN-XT
+#       56  Presets/SFZ
+#       54  Presets/FL Studio
+#       19  Docs/Installation
+#        9  Presets/Ableton
+#        6  Presets/Battery
+#        6  Presets/Reason Kong
+#        4  Presets/Grooves
+#        1  Docs/Artwork - Recodrum From Mars.jpg
+#        1  Docs/Recodrum From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

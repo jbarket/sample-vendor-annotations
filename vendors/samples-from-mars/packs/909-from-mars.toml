@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "909 From Mars"
+slug = "909-from-mars"
+dir  = "909 From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/909-from-mars
+archives = ["909_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1517
+audio_bytes = 77707642
+digest      = "c730e19902832a45f54c7e3ef7a57585bf83ccad9a826e0438dd58a36d24118b"
+anchors     = [
+  "003c2c6217eda40f92adbcfad304356a6986e8e35da82b690cae0e979b935a69",
+  "005615b8d0233a0058b2a5915a76112d5238182eb20a6ce1ebc90627cfc74df3",
+  "005b0ee04c5c90bf4ea86efc6806ff5ebef3e503cd71bb43542384ee704e6750",
+  "00a921ebf8814e9d9bf73599c86af0d259dad2df27ed3dc5a783cea183b67b82",
+  "00ddc5b79f1948f067651494a08ad12d78c14c3af296c46440e6c43332b8de1c",
+  "00e9547f84c8f7dbd0ad8335c1daf362688373571fb5263467c98b164f32f6a7",
+  "00f29eef17f0ece537743fd9534483cc4c838a5690cb2ce4f014c88a2ff61e32",
+  "01524bcfe2602c90243b9f85cdbb4605dbab2c9b10fec5e26af87c97b86313a1",
+]
+manifest    = "manifests/909-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1410  WAV/Individual Hits
+#      102  Maschine/909 From Mars
+#       96  WAV/Kits
+#       92  MPC1000 and MPC2500/909 From Mars
+#       46  Kontakt/909 From Mars
+#       46  Logic EXS/909 From Mars
+#       46  Reason NN-XT/909 From Mars
+#        9  Ableton Live/909 From Mars
+#        6  Battery/909 From Mars
+#        6  FL Studio/909 From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Art - 909 From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC.rtf
+#        1  Docs/Installation Instructions For Reason.rtf
+#        1  Icon

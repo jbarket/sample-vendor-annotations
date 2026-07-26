@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Dr Bohm From Mars"
+slug = "dr-bohm-from-mars"
+dir  = "Dr Bohm From Mars"
+url  = "https://samplesfrommars.com/products/dr-bohm-from-mars"
+archives = ["dr_bohm_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 540
+audio_bytes = 185207556
+digest      = "ed1118570d07205f23a694ef855800246e0f749d1112a1ecc3a9afb370d0b98b"
+anchors     = [
+  "000d1c9a83c4cb43e3e876e577b65d24223df326117926d8c54e55ff60aeb565",
+  "005331de738ce8edf3f49ef16862b82d30da0c451173365187547026d62e56df",
+  "008034e3a776c8dcee138c7ce5193096c776a18aa8a6ae307724bace8f29cbde",
+  "0207c87059c575a29207d19e8f455c0b469565dc649131881fcb9dc6b491ccc9",
+  "030b6b5746666888f3b81f5f080a118611752c837bc722d6f52852583dfdfda0",
+  "030fa4afc0eb1ac250f4b2bc7b2d0388826665bd80dc62143c840e2645e3c27a",
+  "0315e3ed3f1173f001ea568d80a0925e8841c72b7139c57afca5cc894a2e5c04",
+  "038d88c192108266bde64a80651718c307f87fe1834abf59b7968604f5c1fbed",
+]
+manifest    = "manifests/dr-bohm-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      160  Apple Loops/Dr Bohm From Mars
+#      160  WAV/Loops
+#       80  Grooves/Dr Bohm From Mars
+#       59  Maschine/Dr Bohm From Mars
+#       57  MPC 1000 & 2500/Dr Bohm Mars
+#       57  MPC Live & X/Dr Bohm From Mars
+#       55  WAV/Individual Hits
+#       49  Ableton/Dr Bohm From Mars
+#       40  REX2/Custom Patterns
+#       40  REX2/Factory Patterns
+#       40  REX2/Fills
+#       40  REX2/Stripped Patterns
+#        6  Kontakt/Dr Bohm From Mars
+#        4  Battery/Dr Bohm From Mars
+#        4  Docs/Installation Instructions For Ableton
+#        4  Reason Kong/Dr Bohm From Mars
+#        3  Logic/Ultrabeat
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        2  FL Studio/Dr Bohm From Mars

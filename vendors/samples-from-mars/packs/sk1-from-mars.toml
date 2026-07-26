@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "SK1 From Mars"
+slug = "sk1-from-mars"
+dir  = "SK1 From Mars"
+url  = "https://samplesfrommars.com/products/sk1-from-mars"
+archives = ["sk1_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 956
+audio_bytes = 445185752
+digest      = "c151dbaa18d86399012df7630600cfd53a0ddd29d0e8b1e3152ec383ffb0e4a1"
+anchors     = [
+  "002250fb7a1d6f00b90705f4c68b8521e9a2ada66a45b0c82b1b400154175cec",
+  "002ab21b0472f963057e8827b0a77a69d96b04f284e1c0d5c2a80c973f6174ba",
+  "008106200cdecf5691d7f01daaab2d4fc857ad7589286aea9d6816bbf6ee79ce",
+  "010dc5b548664aa0038ae6af27ea3291cff2d1d27cb6b73f65d9823627a8bd8f",
+  "012886d0e231c8cd11f62895b0cf321ca0f515f26d76ec7bf92c2e9ca8274c5c",
+  "01740813348f331c9434382c31d834f59ee598e201d5ea56e8db8c151d6911d4",
+  "01a95e509838078897260c4e48ae61275552eed9a6d95173cb1d9a1f41b967d0",
+  "028ddaf77090493493be2252651d3ea1e405eb1121cb893c2aa92fac9973d0c5",
+]
+manifest    = "manifests/sk1-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      478  WAV/Synthesizer
+#      434  WAV/Sampler
+#       22  WAV/Drum Loops 120 BPM
+#       20  Ableton Live/SK1 From Mars
+#       18  FL Studio/SK1 From Mars
+#       18  Kontakt/SK1 From Mars
+#       18  Logic EXS/SK1 From Mars
+#       18  Reason NN-XT/SK1 From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Apple Loops 120 BPM/4Beat SK1.aif
+#        1  Apple Loops 120 BPM/4BeatFill SK1.aif
+#        1  Apple Loops 120 BPM/BossaNova SK1.aif
+#        1  Apple Loops 120 BPM/BossaNovaFill SK1.aif
+#        1  Apple Loops 120 BPM/Disco SK1.aif
+#        1  Apple Loops 120 BPM/DiscoFill SK1.aif
+#        1  Apple Loops 120 BPM/March SK1.aif
+#        1  Apple Loops 120 BPM/MarchFill SK1.aif
+#        1  Apple Loops 120 BPM/Pops SK1.aif
+#        1  Apple Loops 120 BPM/PopsFill SK1.aif

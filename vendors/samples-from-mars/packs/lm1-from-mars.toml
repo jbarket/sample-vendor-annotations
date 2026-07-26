@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "LM1 From Mars"
+slug = "lm1-from-mars"
+dir  = "LM1 From Mars"
+url  = "https://samplesfrommars.com/products/lm1-from-mars"
+archives = ["lm1_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3675
+audio_bytes = 153051006
+digest      = "002a94fce6181d2ebf717a0349e0fbec630f15d514e0bc141fb2743b87a02caf"
+anchors     = [
+  "00026e22ab0086730172ba9a258f51ad3dbe4bb5478ff074d485588e84e6d5dd",
+  "00176feac6b1dacfdfa805c82505b7fcfa8d85a0240840456539f58cff67fb9f",
+  "002573c23ad1a9e43b6897741eba9e12fca2d9bfd6a12fda76545095717a5bfe",
+  "002b5c0d00ba4f274a073983c4f75b220b9e7373a79371381a352d6bc0d7fb45",
+  "0035a0b6462ae8908b8f86600bda43b9c25573f0437ca076b5550e9009863521",
+  "003b61732fc5587a70030d162558977316c20e0693606c81684bd9902f189413",
+  "0045516d0d96b3bb5a595f298ae8351c7fd0a1072e1279cc761fa015e4faa481",
+  "004b7c0c2baf6cc650939ce75fe6c06a29fc49ca9f8fafa721d4cb729c3f313f",
+]
+manifest    = "manifests/lm1-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     3374  WAV/01. Individual Hits
+#      204  Maschine/LM1 From Mars
+#      195  MPC1000 & MPC2500/LM1 From Mars
+#      192  WAV/02. Kits
+#      118  Kontakt/LM1 From Mars
+#      118  Logic EXS/LM1 From Mars
+#      118  Reason NN-XT/LM1 From Mars
+#      118  SFZ/LM1 From Mars
+#       16  Ableton Live/LM1 From Mars
+#       12  Battery/LM1 From Mars
+#       12  FL Studio/LM1 From Mars
+#        8  Grooves/Ableton Live
+#        8  Grooves/Midi
+#        3  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions - Grooves.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf

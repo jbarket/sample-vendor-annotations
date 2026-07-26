@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "808 From Mars"
+slug = "808-from-mars"
+dir  = "808 From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/808-from-mars
+archives = ["808-from-mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1724
+audio_bytes = 222378096
+digest      = "5381b6834ad1c2c6fa1259cbea827c35abb914be2ada093a3d4925fe7ae8a279"
+anchors     = [
+  "004408f307443ce3babe871331d4bc4f12385fc2232e9c164e7601521308676a",
+  "00d070d04c70cab3764cc2026f4976704e34694e2ccaff4590120c4b3d130c4c",
+  "00ebaae970c219163a635e1f077d676ac616776e167efacd09d14626f8ed2a55",
+  "00f0a87e95a7ffbb64cb7883aee66a84cadf5fa6b007cad3d8e0ed0182749e5c",
+  "013313cd5ea089016cc7179e9602191fca0f819a19d84ef32f543e250bfd0bde",
+  "015787249ab77fddbef7f526214aacd18a365e32fd9000162398b388d33aecf5",
+  "018ca8c4cc2131117777a5a68926f7d49f7e6d84cada35722074f019e7374adc",
+  "018f978a54d5b7fcb983ce710ce1e9d8a138fad76f4f15c68abd219340d10a67",
+]
+manifest    = "manifests/808-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1370  WAV/01. Individual Hits
+#      204  Maschine/808 From Mars
+#      195  MPC1000 & MPC2500/808 From Mars
+#      192  WAV/02. Kits
+#       97  Kontakt/808 From Mars
+#       97  Logic EXS/808 From Mars
+#       97  Reason NN-XT/808 From Mars
+#       97  SFZ/808 From Mars
+#       17  Ableton Live/808 From Mars
+#       12  Battery/808 From Mars
+#       12  FL Studio/808 From Mars
+#        3  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/808 From Mars - About.rtf
+#        1  Docs/808 From Mars - Art.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC1000 & MPC2500.rtf

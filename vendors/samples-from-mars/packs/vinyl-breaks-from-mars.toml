@@ -1,0 +1,36 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Vinyl Breaks From Mars"
+slug = "vinyl-breaks-from-mars"
+dir  = "Vinyl Breaks From Mars"
+url  = "https://samplesfrommars.com/products/vinyl-breaks-from-mars"
+archives = ["vinyl_breaks_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 200
+audio_bytes = 926886886
+digest      = "851e783b18679e6c53070cab47e92bc1e8acb0905f9f76fd58410636e9176cd7"
+anchors     = [
+  "00417ad970c1e6dd05c692ae2c2950601ae96d92148c5f10388ca804a95d7589",
+  "023630eb368381ec108766901921d37ea6b3930f5100f832640c716538cd5f59",
+  "0427438e7d47d2384a12f109d0ab42211f7c213b22a4e971c2fccf353c7c82b9",
+  "06484c02f8445bfa3b8d69789dde08da517bfe6e1750f712acc286e7f53743d7",
+  "06a04fe1a91e652ba9f9236086b925194f7548e6856db05c6fd7d4b01f14786e",
+  "06c461f0a9b8ca60c2e4e1046fbba6bba7a2646045320b80bf0375290ee9d304",
+  "0befcb1e9ad30d788a8981d9a6f64ff59d9f9bf64ff6af0525a0ed4815a03bfa",
+  "0c77bcc937baba5a82a658086acbd0a2c16abb389b5a58b06139796d28487951",
+]
+manifest    = "manifests/vinyl-breaks-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      150  WAV/Breaks
+#       50  WAV/Percussion
+#        3  Presets/Ableton
+#        1  Docs/Artwork - Vinyl Breaks From Mars.jpg
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Docs/Vinyl Breaks From Mars - About.rtf
+#        1  Icon

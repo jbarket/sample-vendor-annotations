@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "707 From Mars"
+slug = "707-from-mars"
+dir  = "707 From Mars"
+url  = "https://samplesfrommars.com/products/707-from-mars"
+archives = ["707_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1649
+audio_bytes = 163188580
+digest      = "402e78285e2c2161e994c9a7dd997f9b00760f834bc798162c55096f38bdfd67"
+anchors     = [
+  "004b4793e6fc64cf3aff99ae75feefc926e871cd913a18642b9363ebf594c8f8",
+  "004e429efaf8c9f33b02f17357aa85bdb73e28ed2888677c1e892a434483aafe",
+  "0055eda3a73cbf1193ce6f38be0964086490e14ba8abf2f7a273d305d0a3d519",
+  "006e4d35099a318068c11a34c13465267f049f759b83baa87819b6a7b730d453",
+  "0074e6bf2de8b59e19935b03d10d336b3093bbf652463e55f9f5df4d60c9f0e7",
+  "007f58b791963120cef10feeff5e393c4396fd341093eec107d25e5f3e9ec878",
+  "009870c7a31e0ce2a7565fb8c5bd6ffdc1a072357051e410b2efe3dbaab7fbe4",
+  "0130adb10d4580e3608de0c1f00b3f6b10ca2e15e4db7c17570078c98f718550",
+]
+manifest    = "manifests/707-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1416  WAV/01. Individual Hits
+#      143  WAV/02. Kits
+#      101  Maschine/707 SP1200 From Mars
+#       97  MPC1000 & MPC2500/707 SP1200 From Mars
+#       67  Maschine/707 From Mars
+#       64  MPC1000 & MPC2500/707 From Mars
+#       47  Kontakt/707 From Mars
+#       47  Logic EXS/707 From Mars
+#       47  SFZ/707 From Mars
+#       46  Reason NN-XT/707 From Mars
+#       15  Ableton Live/707 From Mars
+#        6  Battery/707 SP1200 From Mars
+#        6  FL Studio/707 SP1200 From Mars
+#        4  Battery/707 From Mars
+#        4  FL Studio/707 From Mars
+#        3  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/707-From-Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf

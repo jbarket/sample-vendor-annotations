@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "MPC1 From Mars"
+slug = "mpc1-from-mars"
+dir  = "MPC1 From Mars"
+url  = "https://samplesfrommars.com/products/mpc1-from-mars"
+archives = ["mpc1_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1349
+audio_bytes = 77614568
+digest      = "33de7c48d21452febc6bc5c047b805c77625da2c331d5c2fc489de54cdd3fbf8"
+anchors     = [
+  "0099d9a590c4567b7dc9c92c58e4f11633d4f03dd09c1ea298409c3a34bbcc9b",
+  "009a9af306db929d794d4e6821371ba80001fcbf0f0b713a0bf56e10c75e50d6",
+  "00c0682dc8936d834dbb0e1dd09e56431469c1ef9c80f07a5c94731cd0b8dd54",
+  "00ef5669c64402d1006108666a72c92472c2798daa8e66582db49e487f7507a4",
+  "00f13f2e98fee38e83dc7357c47d5d846650c2a9e7281513aa64faa77b3c9d4d",
+  "00fb383c6a5fb8eb15ad083c4a16f7d14a5420d11e8e292757c5cd9569f2557b",
+  "017761c46f1366c79beccb3f753339d76b966f37a4a848d0ee857026c71a0cb3",
+  "0190c9abd0a89784613b6f6c3849fce15bb4fcb38a54304aa85a5482b2e88f93",
+]
+manifest    = "manifests/mpc1-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      874  WAV/01. Individual Hits
+#      170  Maschine/MPC1 From Mars
+#      163  MPC Live & MPC X/MPC1 From Mars
+#      163  MPC1000 & MPC2500/MPC1 From Mars
+#      160  WAV/02. Kits
+#       64  Kontakt/MPC1 From Mars
+#       64  Logic EXS/MPC1 From Mars
+#       64  Reason NN-XT/MPC1 From Mars
+#       64  SFZ/MPC1 From Mars
+#       14  Ableton/MPC1 From Mars
+#       10  Battery/MPC1 From Mars
+#       10  FL Studio/MPC1 From Mars
+#        4  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions - Grooves.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC Live & MPC X.rtf

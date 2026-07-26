@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Mini From Mars"
+slug = "mini-from-mars"
+dir  = "Mini From Mars"
+url  = "https://samplesfrommars.com/products/mini-from-mars"
+archives = ["mini_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3385
+audio_bytes = 2560569785
+digest      = "d700f6de7990f6b508a14f199e06e1f55a5ee5e08bd2561a5392eb14ee45ebf3"
+anchors     = [
+  "000d4d7368caa100bf3673c96f6fda8adac47ad26d1a36467f65733fb9cc6125",
+  "0010c7e8c929b02c74bec51a5028bcf5f31b1cd8daea08800187ec4ee5b7b0f0",
+  "0018fe2072fe8967903e213ea2f80c72b7f6f7b448a45d220e959be11de2819f",
+  "0028eebf4d29b2cdf1c5ec6ac4af5a8a7ed68512b59ff578c5cefd2e799ac6de",
+  "004e9f50952f3eca6d19720e5cc0cff802e50c593da42b6efca27325f8775dd1",
+  "005997d6ef01759e18e7378d28463cf5905c7d5017cedd219b1150ce2bc6f5c0",
+  "006b15aaf81f602dafcf748189bc8233834c397341fb5d689d6d0c5e6afc0ccd",
+  "0072edf5b11aebb85d201b6661328d1931460f47211f3232459cf13f27602a03",
+]
+manifest    = "manifests/mini-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      340  WAV/Funky Crunch
+#      327  WAV/3 Stack Bass
+#      255  WAV/Haus Baby
+#      109  WAV/Combo Organ
+#      109  WAV/Easy Wave
+#      109  WAV/Hairy Dog
+#      109  WAV/Magic Spell
+#      109  WAV/Octave Jumper
+#       97  WAV/Dippin Rez Octave
+#       97  WAV/Dystopia Bass
+#       97  WAV/Electricity Tear
+#       97  WAV/Fat N Creamy Split
+#       97  WAV/High Speed FX
+#       97  WAV/Hyper Future
+#       97  WAV/Mad Bass
+#       97  WAV/Mama Bass
+#       97  WAV/Saw It Down Bass
+#       97  WAV/Sea Sick
+#       97  WAV/Sharp Lead
+#       97  WAV/Some Bass, B

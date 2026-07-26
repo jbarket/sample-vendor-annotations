@@ -1,0 +1,43 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "101 From Mars"
+slug = "101-from-mars"
+dir  = "101 From Mars"
+url  = "https://samplesfrommars.com/products/101-from-mars"
+archives = ["101_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 4050
+audio_bytes = 2212846556
+digest      = "a514ba298fddd683ad167f30335f259e6d0f6cb954f6d5ecd4d355140d08686f"
+anchors     = [
+  "000ad9f2572239aeac807269219c86760e6f78dbed65e5315dcedd24096f4120",
+  "0025170f905aa7ed49b5df82ae2f45582dde451e33b085acc73d8e9c39962de8",
+  "002f1b43938888da8bdf36ddef2597aa8dece17d5219ed09663c1ebaf8e2ccd0",
+  "004dd569d303934abef2d56651d5cca18d8bc6f39f5bcb4cdf9f9b58bde261e5",
+  "004e24e56085e7fdc9fe16cd1d949b940ce588ad2debdf70f8f85fa218b6688e",
+  "004fdf8e1c99ff13c321b05d44e7391bcaf914cff7f7c4181a41e5354b69f220",
+  "0051143c80806d070dcdbac02e1ca4361d9dc563f4c234208820c61bcb9e19f7",
+  "00574c5d6ad15769cc7fa2c3edbee2aaa80688306a4ee24630fe5126aa015dc6",
+]
+manifest    = "manifests/101-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1625  WAV/Keys and Pads
+#      885  WAV/Bass
+#      831  WAV/Leads
+#      709  WAV/FX
+#       42  Ableton Live/101 From Mars
+#       40  Kontakt/101 From Mars
+#       40  Logic EXS/101 From Mars
+#       38  FL Studio/101 From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/101 From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Icon

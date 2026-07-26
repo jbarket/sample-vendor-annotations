@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Voyetra From Mars"
+slug = "voyetra-from-mars"
+dir  = "Voyetra From Mars"
+url  = "https://samplesfrommars.com/products/voyetra-from-mars"
+archives = ["voyetra_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3732
+audio_bytes = 2425686814
+digest      = "8f187669cfb064d39cfc3648a70aa2a0b57920f2815e153dcd3efa3f50637d49"
+anchors     = [
+  "000366033d5d8450fd55f9187e6f1a618311d701e106b074cb6c69a8688ed7d1",
+  "00191946ca5cdc3c83ef60ac3e97f7b1333785b4ca14046e7fa756bbb8e2c6e3",
+  "002ece276fdf6ec8e7eba58e4377f78fa41725240417053794342756b633a1b4",
+  "004dc0298a5ed7acad26fd3f7243f5d3458e5bc9d7d09d0f509468eece9ccb15",
+  "00587ff6892b26967081c9a31551d9ca63a9aa3a0e0eb19acd9ab3b31dd0c574",
+  "005947061119c57c8efeb81c5574f5172cdb6f69e447ee937ead7ff23964dc0c",
+  "006383bc47b574eed79723071aebfa150521adc4765440e06e8a43349ef6b504",
+  "006729544a3b2db05d99bb357fcb1e62a25c6a70c0112aa5efad16470e7d30fc",
+]
+manifest    = "manifests/voyetra-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      220  WAV/LFO Synth
+#      172  WAV/Massive Poly
+#      156  WAV/Rez Bass
+#      128  WAV/Ascending Sine FX
+#      120  WAV/Interval Glide Synth
+#      116  WAV/Bouncing Saw FX
+#      116  WAV/Envelope Saw
+#      116  WAV/Envelope Square
+#      116  WAV/In Unison
+#      116  WAV/New Age Harpsichord
+#      116  WAV/Square
+#      115  WAV/Organ
+#      115  WAV/Resonant Square Bass
+#      109  WAV/Nasal Voices FX
+#      109  WAV/Saw Glide
+#      109  WAV/Sync Lite
+#      109  WAV/Sync Mod
+#      104  WAV/Noisey Saw LFO
+#       97  WAV/Enveloped Horns
+#       97  WAV/Fat Saw Bass

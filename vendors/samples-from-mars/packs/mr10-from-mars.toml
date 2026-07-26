@@ -1,0 +1,48 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "MR10 From Mars"
+slug = "mr10-from-mars"
+dir  = "MR10 From Mars"
+url  = "https://samplesfrommars.com/products/mr10-from-mars"
+archives = ["mr10_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 521
+audio_bytes = 196633928
+digest      = "4732e94de94853582a6dd701766fd33466d59536f35d8f8bff66ec88ee376bff"
+anchors     = [
+  "0060451923615bbd1e00668cfd502cdb1559726bd83e6c3464c628d5b05fb102",
+  "00ec0f270576ec4a646bf67f30514b512f09dcd0d2d555c89a8d5bc1e5a381ae",
+  "0186731ffc11415658133de6498f02cbf8fdf5fb15f3ce0f3c40f2953e8ced03",
+  "01ce24be6768d4b1825346f34a12fec45c1ff9d0ccd43077b895ccda4468d625",
+  "01d19f857e35ce5162dce846d3306514c1e049995003d955560543ab775e9712",
+  "01d692e52eb6fb234686a04f4df53293acca11899fce2e2e5ae604d2a5d777ea",
+  "022f53cc7241d650b48d1a3a821fb643ccc60a023af6ac1da2d4bef7142c5294",
+  "0291e544274a8b102dcd071377e27126a3208b3ef7ff68df0464bb703f412c71",
+]
+manifest    = "manifests/mr10-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      171  Presets/MPC
+#      138  WAV/01. Individual Hits
+#       85  Presets/Maschine
+#       80  WAV/02. Kits
+#       66  WAV/03. Loops
+#       19  Docs/Installation
+#       11  Presets/FL Studio
+#       11  Presets/Kontakt
+#       11  Presets/Logic EXS
+#       11  Presets/Reason NN-XT
+#       11  Presets/SFZ
+#        8  Presets/Ableton
+#        8  Presets/Grooves
+#        5  Presets/Battery
+#        5  Presets/Reason Kong
+#        1  Docs/Artwork - MR10 From Mars.jpg
+#        1  Docs/MR10 From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Tape Fragments From Mars"
+slug = "tape-fragments-from-mars"
+dir  = "Tape Fragments From Mars"
+url  = "https://samplesfrommars.com/products/tape-fragments-from-mars"
+archives = ["tape_fragments_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 32
+audio_bytes = 13233838
+digest      = "b751069ab249dd712af41ddc040fe1670d0fa08d18000d79ea594ff029286f7c"
+anchors     = [
+  "075f23d77c976899e379ef00d8f8ac51064a0c0ca05ee1f8fbe3dafc8dff6449",
+  "0f60576f0e6dabaa095b4baf2db8025af842f17c23815a6c0f590cc8a6bcbba0",
+  "1762df32f6e49e95d77eb4a2deff151c9ddcea3953a6729ee7aba9510eb82e79",
+  "1c6447c35aad25ccffdcf237cf1afbcd9af8f29e8eaac5dcdb25e394723a3f24",
+  "1e2e6d2beb9790dc0350540249478f8508e1ccb8a76260f95251d8e873f1b0b0",
+  "2a4fb2cc409d618993624474ec5928a23d303cc094b62b13c22994e4a68f27dd",
+  "2af4db7d45d62d82c31a1c717e0fde2fda071a3ccd7f961c63f12bcf59f4d2a2",
+  "33b97eb64e6767cb92bf46bbf8efbfc6dda098ff7138e63ad489a6f250699881",
+]
+manifest    = "manifests/tape-fragments-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#       34  Presets/Ableton
+#       32  Presets/FL Studio
+#       32  Presets/Kontakt
+#       32  Presets/Logic EXS
+#       32  Presets/Reason NN-XT
+#       32  Presets/SFZ
+#       12  Docs/Installation
+#        1  Docs/Artwork - Tape Fragments From Mars.jpg
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Docs/Tape Fragments From Mars - About.rtf
+#        1  Icon
+#        1  WAV/Artifact Bass Tape Fragments G2.wav
+#        1  WAV/Awaiting Raptor Tape Fragments.wav
+#        1  WAV/Blip in Space Tape Fragments G4.wav
+#        1  WAV/Blips In Space Tape Fragments G4.wav
+#        1  WAV/Bullet Train Tape Fragments C4.wav
+#        1  WAV/Celestial Waters Tape Fragments G3.wav
+#        1  WAV/Cerebral Swell Tape Fragments G2.wav
+#        1  WAV/Dainty Boe Tape Fragments C4.wav
+#        1  WAV/Fevering Ghost Tape Fragments A#3.wav

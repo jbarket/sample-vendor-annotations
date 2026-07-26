@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "VP330 From Mars"
+slug = "vp330-from-mars"
+dir  = "VP330 From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/vp330-from-mars
+archives = ["vp330_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2598
+audio_bytes = 3682553646
+digest      = "45e52fde82bd86f192b74cf94097c6d12a59bd8b95befaaa07af2343024bde04"
+anchors     = [
+  "00192ebba846881b33e4bd03a7472d9206bc7c2cb367e6c3a235e2235695063f",
+  "002ced4137c8a22f2e8b437e783c40cf803c56930a8f04e38008f8b22e7669e1",
+  "0045a8da3d73e5171274f8ac094030131c2fed54c1f55c1e2020419d1bbbdee5",
+  "004c75dd09e242363ddd0694076bc32875e343b4b8e5c212a0b0e08378d99054",
+  "0054eba26377d3b5b6a4bde9d2f8ef398765d3af27bff454175a06ef4d0bd526",
+  "006bf10822b7a412b2d026b551c300be22f0b4c538082cd38ea36d0a7f2d77d0",
+  "006c2e2a531cd019561cf932d8cc1b965b22e1a37bc1fe6cc2e590a7f6166d0c",
+  "00b9c653ce6d41ea5395e2d2d850a17ff3e7edbc826bfdebabd634aba34f2c15",
+]
+manifest    = "manifests/vp330-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      121  WAV/SVC350 OneShots
+#       95  WAV/WalterBeckerCombo
+#       59  Ableton Live/VP330 From Mars
+#       57  FL Studio/VP330 From Mars
+#       57  Kontakt/VP330 From Mars
+#       57  Logic EXS/VP330 From Mars
+#       50  SVC350 Loops/01. WAV
+#       50  SVC350 Loops/02. Apple Loops
+#       50  SVC350 Loops/03. REX2
+#       49  WAV/AreaCode
+#       49  WAV/AurynPad
+#       49  WAV/CameronInEgypt
+#       49  WAV/DrunkInSpace
+#       49  WAV/DustyStringfield
+#       49  WAV/EnglishGangsters
+#       49  WAV/EnsembleMaleVibe1
+#       49  WAV/EnsembleMaleVibe2
+#       49  WAV/HallOatsCombo
+#       49  WAV/Hey
+#       49  WAV/KillingAnAlien

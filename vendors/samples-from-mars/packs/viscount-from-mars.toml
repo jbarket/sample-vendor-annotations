@@ -1,0 +1,48 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Viscount From Mars"
+slug = "viscount-from-mars"
+dir  = "Viscount From Mars"
+url  = "https://samplesfrommars.com/products/viscount-from-mars"
+archives = ["viscount_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1028
+audio_bytes = 791850860
+digest      = "62c9889d524bd6fb04ae1e328fd5c6c41a9d20f31705f69bf4b22ed1c775e506"
+anchors     = [
+  "000d50a404b58d4f573d199666ad6379130ca2e2350076155e407c1a02ef824c",
+  "0019b5bf9e901e99846aa586a5fe4cccacee3f04d030abdbf2c108bfbc4a70ba",
+  "005069df0c94135373ff4c1538ef348d39c3cfef1d666e90ac64064bb85ccb92",
+  "00556e30fa999f5324bf3e287f35e195ae20f45b946af792f26cdae67c900359",
+  "008cf9011aa41a9fcd6ec6adf372ed15c41a916fba414f825fc995137185567c",
+  "00c7de5743a47d20f7894dd7d9ab4e4f46193ab05c8a4acb311cb16ef13d877c",
+  "00ca2dffab225487f093f6293998e54bd27ad39df31f270c974d8228b9004835",
+  "00cce4423bfe30016a7e7d33c1d23c554b28783180969302b0780084b383cf22",
+]
+manifest    = "manifests/viscount-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      470  WAV/03. Loops
+#      240  WAV/01. Individual Hits
+#      170  Presets/MPC
+#       85  Presets/Maschine
+#       80  WAV/02. Kits
+#       19  Docs/Installation
+#       19  Presets/FL Studio
+#       19  Presets/Kontakt
+#       19  Presets/Logic EXS
+#       19  Presets/Reason NN-XT
+#       19  Presets/SFZ
+#        8  Presets/Ableton
+#        8  Presets/Grooves
+#        5  Presets/Battery
+#        5  Presets/Reason Kong
+#        1  Docs/Artwork - Viscount From Mars.jpg
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Docs/Viscount From Mars - About.rtf
+#        1  Icon

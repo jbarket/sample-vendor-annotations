@@ -1,0 +1,46 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "S950 Snacks From Mars"
+slug = "s950-snacks-from-mars"
+dir  = "S950 Snacks From Mars"
+url  = "https://samplesfrommars.com/products/s950-snacks-from-mars"
+archives = ["s950_snacks_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 511
+audio_bytes = 99263378
+digest      = "c3f1c97aded237353665e710061d99eb6a76cba0b8f5063989e6dab884698b5c"
+anchors     = [
+  "00589f806cc598d7fd0d747c8305522f4b3af99aa6aea3bc56ff48fb38ce2887",
+  "0070a8d502e0ea3936b8beda019e1a96a360c1ef43759ef7c574bd0b1bf1c30a",
+  "01756925fec869a14b519455f90787682e01e3c52be5ab8038dca8849e7f108e",
+  "02fde4766dc8e3fc0ad4b3e51e985fcea6330976b86632f4e0803fc88a6738d2",
+  "0339e5bb70d0973a43f65e9e4d16b077305cdb741659d118a5f0a92aa91ef388",
+  "03522e0a21383557cec91fd23f01ea49fe5c613482ea9734d3aae14b17c78b71",
+  "050da365f8bc541b48ce3829d05a2979d00008af069af2cb51f5846ec1d2aea6",
+  "0552f6355591e0dc87465b24c5d88f549241665004d6ed7b53ac4471d9354318",
+]
+manifest    = "manifests/s950-snacks-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      245  WAV/Keys
+#      228  Presets/MPC
+#      224  WAV/Drums
+#      119  Presets/Maschine
+#       74  Presets/FL Studio
+#       37  Presets/Kontakt
+#       37  Presets/Logic EXS
+#       37  Presets/Reason NN-XT
+#       37  Presets/SFZ
+#       32  Presets/Ableton
+#       17  Docs/Installation
+#        7  Presets/Battery
+#        7  Presets/Reason Kong
+#        1  Docs/Artwork - S950 Snacks From Mars.jpeg
+#        1  Docs/S950 Snacks From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

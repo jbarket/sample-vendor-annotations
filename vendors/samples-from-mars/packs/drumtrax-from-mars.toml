@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Drumtrax From Mars"
+slug = "drumtrax-from-mars"
+dir  = "Drumtrax From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/drumtrax-from-mars
+archives = ["drumtrax_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 430
+audio_bytes = 27062214
+digest      = "ac9209adbdfe41e626a5c6fe1d1a81803edac212a29ad723998f7c36f4cac6d0"
+anchors     = [
+  "0145d6089de92cb18c94480df4abf9a51b79b03da4f983a4b32d4eadbf6872f3",
+  "0168e94f019ad6e48ecf4786b7dde1cdcccc0d9bf4fe33be0541d66ae4ad31e9",
+  "01c7ec7dbbf0d6c226f4aaf24aaa0aa4f99452d918c7695fcf1b2dfa05c7b26d",
+  "03774eb3f89ec8e2bd27fecbde3cc117ce3e0b910780644c3d736bcd148e530c",
+  "04234f2b755220ebf1d4f0d790b350bda3028938f77015f6af175952da243c40",
+  "0448681554f046db39699b0926e9296518d43b9208423a23cbf51c9c5d030ec7",
+  "0467b191a09c8908e6ba2fdddad5bd470583222e4d7369d78c15fce98055bb24",
+  "054cb5f2ee748ddd5f0f16fb9658fd0f5a2de243450cfbfbe641a40b814e37da",
+]
+manifest    = "manifests/drumtrax-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      384  WAV/01. Individual Hits
+#       51  Battery/Drumtrax From Mars
+#       51  Maschine/Drumtrax From Mars
+#       48  WAV/02. Kits
+#       47  MPC1000 & MPC2500/Drumtrax From Mars
+#       23  Kontakt/Drumtrax From Mars
+#       23  Logic EXS/Drumtrax From Mars
+#       23  Reason NN-XT/Drumtrax From Mars
+#        6  Ableton Live/Drumtrax From Mars
+#        3  FL Studio/Drumtrax From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Art - Drumtrax From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC.rtf
+#        1  Docs/Installation Instructions For Reason.rtf
+#        1  Icon

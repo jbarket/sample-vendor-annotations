@@ -1,0 +1,44 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "DX From Mars"
+slug = "dx-from-mars"
+dir  = "DX From Mars"
+url  = "https://samplesfrommars.com/products/dx-from-mars"
+archives = ["dx_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 947
+audio_bytes = 95129850
+digest      = "1bc7335fc64e838e4e2bfdbd0d67f34305e6c9643b0d3f89ce3402bca8db3fe7"
+anchors     = [
+  "00131480efca8684e4c1e49df9bafb10105bfec933996ac6258813df454968aa",
+  "004cb7fc6ee7d39db2c69ee093a0d38fc36eb19cf2d964393e8e695501f22d17",
+  "007442589599fde29736aafcfeb1620273977759e5bc685cb92018aa266b14da",
+  "00afcc848eef2704bbcabc50a61a2a2f61acb1230efa705e04dbfdbe866eeb80",
+  "00bfb86f1958cc3c2b1082336f02b29b0c77127729f30a58f657d4146c0ebdd5",
+  "01041a8829e87deb1cedb52a013d8bd65d1639188b9f0d6d88ffe7c5a6ffb18d",
+  "01a751a62278733df0d2e10d0e7031cec3a19d2ebde442f61e5db85b5af7167d",
+  "01f6d766bb66d8c89e18220ee82e42b7479a6892636449de3458907da28aaf0d",
+]
+manifest    = "manifests/dx-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      809  WAV/Individual Hits
+#      616  Kontakt/DX From Mars
+#      170  Maschine/DX From Mars
+#       48  WAV/Kits
+#       25  Logic EXS/DX From Mars
+#        6  Ableton Live/DX From Mars
+#        3  FL Studio/DX From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Art - DX From Mars.jpg
+#        1  Docs/DX From Mars - Kontakt Manual.pdf
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Kontakt Installation Instructions.rtf
+#        1  Icon

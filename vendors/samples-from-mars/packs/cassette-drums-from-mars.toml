@@ -1,0 +1,45 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Cassette Drums From Mars"
+slug = "cassette-drums-from-mars"
+dir  = "Cassette Drums From Mars"
+url  = "https://samplesfrommars.com/products/cassette-drums-from-mars"
+archives = ["cassette_drums_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1184
+audio_bytes = 395924602
+digest      = "bba6225008cd397029331e83c682f840d3f4d684b5024f6e9f09b13c47efeef6"
+anchors     = [
+  "00030a4862b11c70f3215710ad113c28fa7fc0025d0c428fbc67d326e0531b46",
+  "0011c94408f78c76575800a1d5bbdfaf926bb08897966e71148ea94b043f2f51",
+  "00187aa870bc8d287abb62bb7e7ccdc2bdaa3a279f30aaaa4c5ae084ca1e5123",
+  "0064c53d66d7659fadbbbb37b9c00ab92fb26a13fc0b6be0a575caeb0bb171aa",
+  "00d5048162541cf49e52aaa44ab13ddc834ba1f2ab7a40d485207b39692eff27",
+  "014bf0fe25280d08eb9aafce73281ddedadaa251bc545c64d1608c453ce491e0",
+  "01b42440cfd329711e472b22f81bb1cf179dde95ffcc2f4374dd5bb8a8b5acef",
+  "01c86af7d71c01d9df7149667147a09ee3cb67b6f8b29fe0cd510c79875dc64a",
+]
+manifest    = "manifests/cassette-drums-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      430  WAV/01. Individual Hits
+#      398  Presets/MPC
+#      204  Presets/Maschine
+#      192  WAV/02. Kits
+#       34  Presets/Reason
+#       22  Presets/FL Studio
+#       22  Presets/Kontakt
+#       22  Presets/Logic EXS
+#       22  Presets/SFZ
+#       18  Docs/Installation
+#       15  Presets/Ableton
+#       12  Presets/Battery
+#        1  Docs/Artwork - Cassette Drums From Mars.jpg
+#        1  Docs/Cassette Drums From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

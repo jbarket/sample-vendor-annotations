@@ -1,0 +1,82 @@
+# Samples From Mars — observed against a full library copy (84 packs,
+# ~175k cataloged files, scanned 2026-07-17). Counts cited in comments are
+# from that scan; they date, the grammar mostly doesn't.
+
+[vendor]
+name     = "Samples From Mars"
+slug     = "samples-from-mars"
+aliases  = ["SFM"]
+homepage = "https://samplesfrommars.com"
+observed = 2026-07-18
+
+[packs]
+grammar     = "top-level-dirs"
+dir_pattern = "* From Mars"       # 83 of 84 pack dirs
+exceptions  = ["Databenders Toolkit"]
+sibling_zip = "archival-original" # every pack dir has a matching zip beside it
+zip_name_grammar = "lower_snake or lower-hyphen of the dir name, e.g. '808 From Mars' → 808-from-mars.zip, '909 Loops From Mars' → 909_loops_from_mars.zip"
+
+[formats]
+canonical_dir = "WAV"             # 126k of 150k audio files live under it
+# Variants seen per pack vintage; match loosely. A few packs skip the
+# format level entirely and put audio dirs at pack root ("Modular
+# Creations From Mars", "SYS100M From Mars").
+parallel_dirs = [
+  "Presets", "Maschine", "Ableton Live*", "Kontakt*", "Logic*",
+  "Reason*",                      # "Reason NN-XT", "Reason NNXT", "Reason Kong"
+  "MPC*",                         # "MPC", "MPC1000 & MPC2500", "MPC 1000 & 2500",
+                                  # "MPC Live & MPC X", "MPC Live & X"
+  "FL Studio", "Battery", "SFZ", "Structure",
+  "REX2*", "Apple Loops*",        # sometimes suffixed with BPM: "REX2 120 BPM"
+  "Docs",                         # also seen numbered inside packs: "5. Docs"
+]
+sidecar_extensions = [
+  ".asd", ".als", ".adg", ".agr",       # Ableton
+  ".nki", ".ncw", ".nkr",               # Kontakt
+  ".exs", ".sxt", ".sfz", ".fst", ".dwp", ".rx2",
+  ".rtf", ".pdf", ".txt",               # docs
+]
+
+# ---------------------------------------------------------------------------
+# Category grammar. SFM's folder names drift across pack vintages — the
+# variant lists ARE the annotation. Numbered prefixes ("01. ") are ordering
+# only; match with and without.
+
+[[category]]
+id    = "one-shots"
+match = ["*Individual Hits*", "*One Shots*", "*One Hits*"]
+# observed: "01. Individual Hits" (31572 files), "Individual Hits" (7834),
+# "1. Individual Hits" (707), "01. One Shots" (1690), "01. One Hits" (832)
+
+[[category]]
+id    = "kits"
+match = ["*Kits*"]
+# observed: "02. Kits" (5242), "Kits" (744)
+
+[[category]]
+id              = "loops"
+match           = ["*Loop*", "*Full Beats*", "*Whole Beats*"]
+dedicated_packs = ["* Loops From Mars"]
+# observed in-pack: "01./02./03. Loops", "Loops", "Acid Loops",
+# "Drum Loops 120 BPM"; dedicated packs: "808 Loops From Mars",
+# "909 Loops From Mars", "Lin Loops From Mars" (whole pack is loops,
+# internally split by part: "01. Full Loops", "08. Hi Hat", "02. Tops")
+
+[[category]]
+id    = "multisamples"
+match = ["*Instrument Samples*", "*Basic Waveforms*"]
+# Synth packs also spread multisamples across instrument-named dirs
+# ("Leads", "Bass", "Keys and Pads", "05. Synth") with no marker token —
+# category matching alone can't claim those; pack-level annotation would.
+
+[[category]]
+id    = "fx"
+match = ["FX", "*. FX"]
+
+[naming]
+dir_order_prefix = "NN. "         # "01. Individual Hits" — strippable
+note_suffix      = "_<note><octave>"  # pitched: "37_ItsASurprise_2600_C#1.wav";
+                                  # sharps use '#' (hostile to several samplers)
+take_suffix      = " NN"          # variations count at the tail: "Kick 01..06" —
+                                  # the distinguishing token is LAST, which
+                                  # cropped hardware displays hide

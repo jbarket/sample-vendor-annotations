@@ -1,0 +1,47 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Minipops Snacks From Mars"
+slug = "minipops-snacks-from-mars"
+dir  = "Minipops Snacks From Mars"
+url  = "https://samplesfrommars.com/products/minipops-snacks-from-mars"
+archives = ["minipops_snacks_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 384
+audio_bytes = 129330356
+digest      = "c4114ee39947cde884557ecf74ee978852d61f3cc87f036602de98abda35872a"
+anchors     = [
+  "00a095d0b2f3eda164bf47a3c87ed6550a6a7cf89367d8aa8b28249581fb51f7",
+  "0126cf9c752c5d4d85ef43e4e0ff176489e6e34826c84c87299d0565058ef189",
+  "012af31cbd8f5d594e46e5962629c3daa771dc97cbc4a6e788db2e7ac854a03b",
+  "02ab5d2f0fdbfed43404f45e58375ab4cca371b8108337ba25a04dd04e76ffe2",
+  "02e4b3a2aa5f378369b796d5537543f253a1e3fa83b580374df8207f3496b712",
+  "03bc16c20dfd024fb2b9d6e0b327c9d32f36a5a0a241fb024e975f130cf1c66d",
+  "045b95b470906f4884db315b6aa4126c30cc78d56602e966cceb23cdbd2e693a",
+  "0462a029e09c6e700d716504abbcbc4ef8855ff8819312bb9d5a447df63da195",
+]
+manifest    = "manifests/minipops-snacks-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      164  Presets/MPC
+#       85  Presets/Maschine
+#       80  WAV/02. One Hits
+#       64  Presets/REX
+#       64  WAV/01. Loops
+#       18  Docs/Installation
+#        8  Presets/Ableton
+#        5  Presets/Battery
+#        5  Presets/FL Studio FPC
+#        5  Presets/Kontakt
+#        5  Presets/Logic EXS
+#        5  Presets/Reason Kong
+#        5  Presets/Reason NN-XT
+#        5  Presets/SFZ
+#        1  Docs/Artwork - Minipops Snacks From Mars.jpg
+#        1  Docs/Minipops Snacks From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

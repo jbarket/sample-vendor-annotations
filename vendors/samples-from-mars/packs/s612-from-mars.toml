@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "S612 From Mars"
+slug = "s612-from-mars"
+dir  = "S612 From Mars"
+url  = "https://samplesfrommars.com/products/s612-from-mars"
+archives = ["s612_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2858
+audio_bytes = 1016627530
+digest      = "3bc05a33be68543bc476c3c2bd74a24cc810650244c9070a77ccff61cc817d65"
+anchors     = [
+  "000a33da01094950fc7310a7e9503b7e29d1de4501392b673428755efc66fd35",
+  "001eb4bbf8ac1b28672e6c2887113213b42c27a43a7614f356637dbf58035ce2",
+  "0020afb63dda7219ab980d1df5e7759e5fd9dc5e31702362ed64e9b927dba2ea",
+  "00210e2108340790f2605978858257be9847b2ee15e2fbf4aa9de7fea1c1a4ca",
+  "0023a64dab4366d62c868ea459002317acd8fb3ef77cae2c803d5713440d0698",
+  "005beb0dd004ea6055bbfa213337bee597a570ee524e801ed024a8efe752b266",
+  "0083ce5b36c4e26e6ef2ab58a761c33478e229ac3f48014d547ee990e709be17",
+  "00842bb4ecb639fbdcaa35676d0d578b648dd179a71d66b100041660e9d5a1f4",
+]
+manifest    = "manifests/s612-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     2049  WAV/Synths
+#      703  WAV/Drums
+#      170  Maschine/S612 From Mars
+#      163  MPC1000 & MPC2500/S612 From Mars
+#      108  Kontakt/S612 From Mars
+#      108  Logic EXS/S612 From Mars
+#      108  Reason NN-XT/S612 From Mars
+#      108  SFZ/S612 From Mars
+#       50  Ableton Live/S612 From Mars
+#       45  FL Studio/S612 From Mars
+#       10  Battery/S612 From Mars
+#        3  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC1000 & MPC2500.rtf
+#        1  Docs/Installation Instructions For Reason.rtf
+#        1  Docs/S612 From Mars - Art.jpg

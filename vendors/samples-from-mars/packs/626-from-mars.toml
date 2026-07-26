@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "626 From Mars"
+slug = "626-from-mars"
+dir  = "626 From Mars"
+url  = "https://samplesfrommars.com/products/626-from-mars"
+archives = ["626_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1028
+audio_bytes = 47499538
+digest      = "84e3f6f8d0a38a0bf40c17b2e2da69c8321651851c13c1278579b4182e497bf5"
+anchors     = [
+  "0074c93bdb67a8ac5eff6f144b2f0d961fc16153209ab6e322bb046d89bb971a",
+  "007bc55db5baf4b6064f3c22c7827418bdf8926b585bc7276eb812aa8cde869d",
+  "008b300dc5634f452374396fcc8e59c3c95fbdd70c0da1244230b40b6b696dcc",
+  "00beed2f18ad7d64fc5a9b554b177576297066fdf416389e69d38dce22829c41",
+  "0100601a88dd8068328323796e33dc576924b61cd256c05a942e0796bd640bfe",
+  "010f051242faa9e43d6fb41b7d597f27e7e4f0411ae9e6be763948817c03da89",
+  "0132fc82e75da84dd375613feddbeb6e061ca16aa034a1abdb8eb74787e9c5f3",
+  "01a607453b3fd71a42e511257fb378ab96ce6b78112ee32a2de1bee8dd09eb4c",
+]
+manifest    = "manifests/626-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      900  WAV/01. Individual Hits
+#      136  Maschine/626 From Mars
+#      130  MPC1000 and MPC2500/626 From Mars
+#      128  WAV/02. Kits
+#       50  Kontakt/626 From Mars
+#       50  Logic EXS/626 From Mars
+#       50  Reason NN-XT/626 From Mars
+#       11  Ableton Live/626 From Mars
+#        8  Battery/626 From Mars
+#        8  FL Studio/626 From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Art - 626 From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC.rtf
+#        1  Docs/Installation Instructions For Reason.rtf
+#        1  Icon

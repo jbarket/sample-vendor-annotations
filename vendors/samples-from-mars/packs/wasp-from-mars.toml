@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Wasp From Mars"
+slug = "wasp-from-mars"
+dir  = "Wasp From Mars"
+url  = "https://samplesfrommars.com/products/wasp-from-mars"
+archives = ["wasp_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3277
+audio_bytes = 2481368528
+digest      = "d0fe0e85542e154cd567147f63a819489b94a390b03a520bb199e8418ca605e0"
+anchors     = [
+  "001816ac42ba0200fa8a492c7e6db95f33d47045a8648a9be25445f07469566d",
+  "004e42388df55922f06e120eb3fcce0110cdc810920779cc25d5df79ef4b9984",
+  "0058f52fc85787b53aad699c9eb65baa60fd5d56e20cb27a1ffb482500c7e991",
+  "0071d9bb9cf77253ad84221662e5162d6525c11f4543eb76fda6e29cf2c0d377",
+  "0090fede60c8250f96a0378c12127c0e47f4f73421626f8a26f86638da7538a2",
+  "009f9c815ad1c92f479307034292537204afbe50b8985cca91c6e8bc3631aebe",
+  "00cd42a29a69044d48c5f42055e1082c60005bbfa1c8cdf165629f446c36f183",
+  "00d515d7cce8831595084b74976a52124c781445a4fd49d9f4326abb1ccd6afb",
+]
+manifest    = "manifests/wasp-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      291  WAV/EnvelopeAcid
+#      183  WAV/LaMordidita
+#      146  WAV/BrokenSystem
+#      146  WAV/BuzzWave
+#      146  WAV/KilledAccordion
+#      146  WAV/SampleAndSting
+#       98  WAV/InsectBling
+#       73  WAV/2SAWS
+#       73  WAV/2Squares
+#       73  WAV/80sThreats
+#       73  WAV/BeeThousand
+#       73  WAV/Compuporn
+#       73  WAV/ElementaryScience
+#       73  WAV/Franky4Fingers
+#       73  WAV/GrimSweeper
+#       73  WAV/HueyLewis
+#       73  WAV/LowsHiFi
+#       73  WAV/RainbowYellow
+#       73  WAV/SAW
+#       73  WAV/SquareWhite

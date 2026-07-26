@@ -1,0 +1,40 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "SDSV From Mars"
+slug = "sdsv-from-mars"
+dir  = "SDSV From Mars"
+url  = "https://samplesfrommars.com/products/sdsv-from-mars"
+archives = ["sdsv_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2224
+audio_bytes = 244988783
+digest      = "9707ce0714fc5738e88193b45d6a632b6f2ab348c30b8629691aceca5bc00102"
+anchors     = [
+  "0020ddab401c821b37c6b04cd6e143ed6e9b1e78f2cb6604491824dc7248fc2f",
+  "0068fc7a28a2f58953b5be674991f7954d85f677f19caec31ce9d61d1c5830ae",
+  "009273cc9ffbe1003ed2a8cf162cb5c39cd09687b0740717f53a09acdb5bc788",
+  "00a165016d197fc8914597f68e0364ded12f36274722d27ab5eb760c5341b875",
+  "00e41770e734c18e16c53b0bb20cfd8eefae4fa8d2daba2fd5181ea546c13142",
+  "0145b01a6fc5cbcb9252531d24d11beec0dd734f56b68c591da741db75e5dab1",
+  "0176d1f219f0c4813ab3f7b3a4c59c14539282bce049f0074e945fdbc9a4448d",
+  "017785937964f10343ccd1b714cb9141f663a639bc35e74e7a3d27025f1807b3",
+]
+manifest    = "manifests/sdsv-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1317  Ableton Live/SDSV From Mars
+#      988  WAV/Individual Hits
+#       64  WAV/Kits
+#       15  Kontakt/SDSV From Mars
+#       15  Logic EXS/SDSV From Mars
+#        4  FL Studio/SDSV From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/Art - SDSV From Mars.jpg
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Icon

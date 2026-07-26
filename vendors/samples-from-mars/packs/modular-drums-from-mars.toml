@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Modular Drums From Mars"
+slug = "modular-drums-from-mars"
+dir  = "Modular Drums From Mars"
+url  = "https://samplesfrommars.com/products/modular-drums-from-mars"
+archives = ["modular_drums_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2261
+audio_bytes = 153143139
+digest      = "d8f5ebb8837e4a1fd8921bda9d66258f1e0721ba668c067b89170cfe54bafe65"
+anchors     = [
+  "00106b31f66b80f3c92394fe8d27d9ca5d4a608182201fc7b0a09c5fc1d8a44f",
+  "001a73e64af61c4dcc9964efbfe34777e842ec984cd3bd1ec0637d8cbb3dbacb",
+  "0021cb0e14c25e070962ea8c0b8f65e0fe0b99663de067fc5f9f1f105014154a",
+  "0027d76f39d642c8366fc949b541e0a32a724cc9383c26e237225da91d3940f1",
+  "0029f1f5a555d721cdae0e75e71c7232e6cc2591bddbc662084e3e83b1861a1f",
+  "004e10f4806454b8907d5f6ce08e4f1ad4423e2283bf3985757b18a32e1282b0",
+  "0058215729d302341b2ea45bf308723756d0059a856f7f39d9100883447f69d0",
+  "0087c12f4b1c5dbe87ea9e6ad090668ab61fb850c7f87cc858e79e3cc0491f07",
+]
+manifest    = "manifests/modular-drums-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1249  WAV/01. Individual Hits
+#      408  Maschine/Modular Drums From Mars
+#      395  WAV/02. Kits
+#      332  MPC/MPC LIVE & MPC X
+#      332  MPC/MPC1000 & MPC2500
+#      114  Kontakt/Modular Drums From Mars
+#      114  Logic EXS/Modular Drums From Mars
+#      114  Reason NN-XT/Modular Drums From Mars
+#      114  SFZ/Modular Drums From Mars
+#       28  Ableton Live/Modular Drums From Mars
+#       24  Battery/Modular Drums From Mars
+#       24  FL Studio/Modular Drums From Mars
+#        3  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC Live & MPC X.rtf
+#        1  Docs/Installation Instructions For MPC1000 & MPC2500.rtf

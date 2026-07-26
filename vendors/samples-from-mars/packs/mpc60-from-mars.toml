@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "MPC60 From Mars"
+slug = "mpc60-from-mars"
+dir  = "MPC60 From Mars"
+url  = "https://samplesfrommars.com/products/mpc60-from-mars"
+archives = ["mpc60_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 3784
+audio_bytes = 203011352
+digest      = "6b0528f5ed86cd4f2d9674a8dd8632350c1afaf54d2845dbd328610d4e51cc98"
+anchors     = [
+  "000b16a7f00563c13b13adde79545a84bad91679a4eb03eb8430c509396e14fb",
+  "002109c61bc44416e68273b277ab65a1eb3e6cfd53be871b9acd2dfc49158b82",
+  "002533b50162a5d36ef56a7327cbca0767b7c477af7790ad313bd6cb2082e960",
+  "00253e6b940d2703dde1de0e989fd9fa0291c9b835ab361e5cb887488a555341",
+  "0027577815d8374c5463244d29ca55e5cbaeafe6515e2a5e5a0a4aeead03e2dd",
+  "00353988a58e19f848c8001c39908dbe2313dbd605c016044d21d4d49f04026d",
+  "003b36dfa7fdd1237e9461e296aa669697a9b3f1be5f8a38caba40dd55182260",
+  "00479aee1aa29a8330dde4df9f483f24f41b7d19f78209f037cf6ee76a7f37cf",
+]
+manifest    = "manifests/mpc60-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     3021  WAV/Individual Hits
+#      713  MPC1000 & MPC2500/MPC60 From Mars
+#      456  WAV/Simple WAV
+#      374  Battery/MPC60 From Mars
+#      367  Maschine/MPC60 From Mars
+#      342  WAV/Kits
+#       35  Ableton Live/MPC60 From Mars
+#       23  Kontakt/MPC60 From Mars
+#       23  Logic EXS/MPC60 From Mars
+#       23  Reason NN-XT/MPC60 From Mars
+#       20  FL Studio/MPC60 From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For MPC
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Art - MPC60 From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For Reason.rtf

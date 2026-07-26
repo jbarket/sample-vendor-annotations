@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "360 From Mars"
+slug = "360-from-mars"
+dir  = "360 From Mars"
+url  = "https://samplesfrommars.com/products/360-from-mars"
+archives = ["360_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2025
+audio_bytes = 1951358206
+digest      = "d6dfe0f323aa4f9d50078521a030cea359afdd2deb1b1799fc53c508b9d154c7"
+anchors     = [
+  "000fa4851696b497365946cdefbbd6defe0f82ae79162ea1ac8d8337a0a5dad2",
+  "00134b57d81a9e47dbfc195901bba79d1c49276e282d52cd33ae6395119caaba",
+  "002af954b6250e74ccabc107be62c66bd1bafd08525e801897a62aeb0773e0c2",
+  "003ae03cc2fccb57ac04bf509e1d8b642022c96bc96f3d0543185a54011fcd5a",
+  "003c22592a3d7e0387e26ce64d340c31249267e4a0708785606a082dcdfd01ee",
+  "004cfd54367c13a3148c1d97e4809d7573295b67bff48020baefed786d1902a7",
+  "004ef2816c57e04ee7e2371e1f2643379a5bd383486d1ddd53c2f9c01d9c4919",
+  "008ceefcae7383d6c6406970bfaa01462630394533e1e1a56805e75b921566b7",
+]
+manifest    = "manifests/360-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      527  WAV/04. Brass & Woodwind
+#      315  WAV/05. Bass
+#      297  WAV/06. Perc
+#      285  WAV/02. Strings
+#      255  WAV/03. Keys
+#      238  WAV/01. Guitars
+#      108  WAV/07. Stacks
+#       40  Ableton/360 From Mars Project
+#       37  FL Studio/360 From Mars
+#       37  Kontakt/360 From Mars
+#       37  Logic EXS/360 From Mars
+#       37  Reason NN-XT/360 From Mars
+#       37  SFZ/360 From Mars
+#        5  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/360 From Mars - About.rtf
+#        1  Docs/Artwork - 360 From Mars.jpg
+#        1  Docs/Installation Instructions For All.rtf
+#        1  Docs/Installation Instructions For FL Studio.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf

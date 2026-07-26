@@ -1,0 +1,43 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Modern Oddities From Mars"
+slug = "modern-oddities-from-mars"
+dir  = "Modern Oddities From Mars"
+url  = "https://samplesfrommars.com/products/modern-oddities-from-mars"
+archives = ["modern_oddities_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 798
+audio_bytes = 57930626
+digest      = "ec9aef72766584a98652eb5af6e707f81b8f78ccce7e8738d3ac7f3536ff705b"
+anchors     = [
+  "0000f104af4fab70612f4d8da95f9f0f53fc050d8d99e074bdce18505dbf27e9",
+  "0010b66a76af489b8dde59e2fd9b06b59193ce14afbc4747fd1fcda055b7b0df",
+  "00fcb3635c8daf8a157cbf6d40e828669997d460713661a8089f7e7c1ce8bdad",
+  "01198cd3ed8d0fd7eabbeddedadcd470f923885d89341f27b5e3e0d392bc0dd3",
+  "011b08cbc97580d7c3ca5a213f23d806cb42c3a8a0e18b48ffac232ba39406bb",
+  "013a8b71ecaf273544075a67f5dda5f6186f6f3da08f852dbf6f478ff8977ea2",
+  "01f4b8fd57f6ea682d402d82e5b0a36734422b879c9ca21a89a6fcfcdb7516b9",
+  "029bf72d3e098787c067283d47de9127962505ad27a8567be94214dde118b209",
+]
+manifest    = "manifests/modern-oddities-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      707  WAV/1. Individual Hits
+#       96  WAV/2. Kits
+#       27  Kontakt/Modern Oddities From Mars
+#       27  Logic EXS/Modern Oddities From Mars
+#       27  Reason NN-XT/Modern Oddities From Mars
+#       13  Ableton Live/Modern Oddities From Mars
+#        6  FL Studio/Modern Oddities From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/Art - Modern Oddities From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For Reason.rtf
+#        1  Icon

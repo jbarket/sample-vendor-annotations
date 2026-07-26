@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "SH5 From Mars"
+slug = "sh5-from-mars"
+dir  = "SH5 From Mars"
+url  = "https://samplesfrommars.com/products/sh5-from-mars"
+archives = ["sh5_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 5701
+audio_bytes = 3882605827
+digest      = "cac42665403188ecf92dc9234dc6be9d9f905f5890613ce0bc40a7cfd3163f98"
+anchors     = [
+  "001d64983c15581e1487898ba306163dda1839ccf48a0b416260666ae6f5157a",
+  "0038ca04d865322619de2c503337ccf5854cb97aa8f1cb222f4b08217c287e2f",
+  "0041561b09494d2059e324b9a69e5d2febd45c8f757a6c83b5d76d7731498235",
+  "0041b859102d740d2964a20d5d390a013f34b57c7c12aeec4d2f3857dd717b41",
+  "00535681c039b2a9d833ac029b66577a2eaa31f52d00e4669219e9564492394d",
+  "0059e54f8f0ef43643ce1ae7208ed031c6b4e3957a056672b5a79e35595ee264",
+  "006b311bde9123988f0eaa0453fc3e9c55a815b02995ee8d1eea42eecb9d3a00",
+  "006eb3829cb00eada0432ceaef0fe5b731b574d9132b298940d83a66a92eb4cf",
+]
+manifest    = "manifests/sh5-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      568  WAV/Mr Edgar
+#      484  WAV/Syn Toms
+#      327  WAV/Pink Noise Multi
+#      327  WAV/Squared Up Noise
+#      327  WAV/Tri & Pulse
+#      242  WAV/Slow Rise Res
+#      218  WAV/Stereo Beast
+#      121  WAV/Bowed Zap Bass
+#      121  WAV/Double Pulsin
+#      121  WAV/Lost Radio FX
+#      109  WAV/Baby Vibraphone
+#      109  WAV/Double Osc Saws
+#      109  WAV/Duck Growl
+#      109  WAV/Exact Pulse
+#      109  WAV/Fat Interval Lead
+#      109  WAV/FunkWhiz
+#      109  WAV/Hendrix Fuzz
+#      109  WAV/Hiss Machine
+#      109  WAV/Moving Square
+#      109  WAV/Resonant Flute

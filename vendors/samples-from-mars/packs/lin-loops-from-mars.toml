@@ -1,0 +1,41 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Lin Loops From Mars"
+slug = "lin-loops-from-mars"
+dir  = "Lin Loops From Mars"
+url  = "https://samplesfrommars.com/products/lin-loops-from-mars"
+archives = ["lin_loops_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 380
+audio_bytes = 984950414
+digest      = "0d6c3601ec0c55666fd32b57af426127a0ab48c5ba61329c088c5d7a58b43fb6"
+anchors     = [
+  "005339b47352c579a0a52bc4038211336117963c60101a72a545b9bc812d98c3",
+  "015e3ed662b1ea840c46f378aef2540e4971035f2a7d28ee6cf8187216c1f655",
+  "0172d7ce9e1494910254e15f73635644de27246764e8851d93f58c494cedfbaf",
+  "01e4d81217f73cab73591e51d9e2a21937b9458b85fd462db8411c7d42caed36",
+  "01e54285967f684fb93e72206d082fa931264a4e93a23edb4e5f0fc34d58c571",
+  "01e7dfaecc95f387fa39abcad3e67327d30c69c5583c8bcc28e33de04ba46796",
+  "022ee96979597b7456125b51bf43eca5e480991f7aebb997d6f383686e8b3698",
+  "0248ba5593fad34ed13bf0180f60b310534ed6dc053085e68f7743b512b45d7a",
+]
+manifest    = "manifests/lin-loops-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      148  WAV/01. Full Beats
+#      120  WAV/05. Various
+#       48  WAV/02. Tops
+#       32  Presets/Grooves
+#       32  WAV/03. Bass Drum
+#       32  WAV/04. Hi Hat
+#        2  Presets/Ableton
+#        1  Docs/Artwork - Lin Loops From Mars.jpg
+#        1  Docs/Installation Instructions for Grooves.rtf
+#        1  Docs/Lin Loops From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

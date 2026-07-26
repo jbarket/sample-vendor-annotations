@@ -1,0 +1,47 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Ekko From Mars"
+slug = "ekko-from-mars"
+dir  = "Ekko From Mars"
+url  = "https://samplesfrommars.com/products/ekko-from-mars"
+archives = ["ekko_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 652
+audio_bytes = 590249920
+digest      = "c90ad4510ed8da4cb335e146d57e54afecf93b046b28ac762f2a70de2b384470"
+anchors     = [
+  "001ab6477b170353d20f6365d37b9e8bc49ddc4e965ae67b6ffb15d6337f96a1",
+  "007ea17ec1e523266160479d7ccb7db580d0ea855e12e54ca65cd496db67d888",
+  "014cad7c62d82c025a09840718608ed65c1ce031bf0c30866b73026d0231de6a",
+  "0195848bd6f220e36bbd8aadadea89b7439053a6dc85cfa09d81b6f547169c00",
+  "01f332e28e5781939c56547f309c37c421f076dc9f7883642c7cdac1a757e1ed",
+  "0280766dc7e1ed6331330152fee594a7071e4a5905551f2a4fbbed946cc281aa",
+  "02d43af2cfaecf14dbe2e94d13ccd811c761efb1e8272a0e2a62d621b1b274ff",
+  "02d7f268838141675c8593a40e0852d4e4ba1f85714521855dd96d324bfb6ead",
+]
+manifest    = "manifests/ekko-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      288  WAV/01. One Shots
+#      275  WAV/02. Loops
+#      105  Presets/MPC
+#       51  Presets/Maschine
+#       19  Docs/Installation
+#       18  Presets/FL Studio
+#       18  Presets/Kontakt
+#       18  Presets/Logic EXS
+#       18  Presets/Reason NN-XT
+#       18  Presets/SFZ
+#        6  Presets/Ableton
+#        4  Presets/Grooves
+#        3  Presets/Battery
+#        3  Presets/Reason Kong
+#        1  Docs/Artwork - Ekko From Mars.jpg
+#        1  Docs/Ekko From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

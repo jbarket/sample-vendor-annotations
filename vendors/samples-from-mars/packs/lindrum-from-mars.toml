@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Lindrum From Mars"
+slug = "lindrum-from-mars"
+dir  = "Lindrum From Mars"
+url  = "https://samplesfrommars.com/products/lindrum-from-mars"
+archives = ["lindrum_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1793
+audio_bytes = 73909926
+digest      = "9535c0d6799a776a2aac44614cdbb7cfe96b59fdc8d0922913cc35edbfa5ccca"
+anchors     = [
+  "0047416c247cadccb4f4a61ac4ceabd55843d1d247f424fdb6a5e41da3cda648",
+  "004c2b32eaf8a4a8a4fbf45870297db4816d4224b02840e04783559d41087085",
+  "00d12771e7c3e73e3b6a801ba7fa912ce31c21499eeee2223ea32d69455e8aa8",
+  "00e6a33797781c4553ed0b46fbad37db464bef719da1faf845fd1fb7e2985d69",
+  "011685ba49f2f9ee01b802040584a78c0328ef96ac670d296b7307a700d0d36b",
+  "013684d019244cb38951cbcb32f0a9fdc67499c35e26c7a534137eb5dc415335",
+  "0158e9ed7897c009b5b9195cc6d8871a9622ef4feda7be2ec4bb8870677ce20d",
+  "0170c03c37a304b1ef0ac5eb5bdd291e0805f30f11699e1101698f2208385fc5",
+]
+manifest    = "manifests/lindrum-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1456  WAV/01. Individual Hits
+#      170  Maschine/Lindrum From Mars
+#      163  MPC Live & MPC X/Lindrum From Mars
+#      163  MPC1000 & MPC2500/LindrumFromMars
+#      160  WAV/02. Kits
+#       57  Kontakt/Lindrum From Mars
+#       57  Logic EXS/Lindrum From Mars
+#       57  Reason NN-XT/Lindrum From Mars
+#       57  SFZ/Lindrum From Mars
+#       15  Ableton/Lindrum From Mars Project
+#       14  Grooves/Ableton
+#       14  Grooves/Midi
+#       10  Battery/Lindrum From Mars
+#       10  FL Studio/Lindrum From Mars
+#        4  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Art - Lindrum From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions - Grooves.rtf

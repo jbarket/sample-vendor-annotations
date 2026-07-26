@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "606 From Mars"
+slug = "606-from-mars"
+dir  = "606 From Mars"
+url  = "https://samplesfrommars.com/products/606-from-mars"
+archives = ["606_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1855
+audio_bytes = 228797408
+digest      = "8d00fa2f83c11e0178516df9a337863ab91eeb4390a5c0816dc78117d64bf9ad"
+anchors     = [
+  "00059cdc57ba072a8a9038bbc6ab002eaa1c95893a53163d619755ae6e350d04",
+  "000f48ee9c7c0e0edabd5226793f714e5bf3afab8bc9c8edebe3aa8f8802f6eb",
+  "002b094d8a18e8ec5973e3640c207b48a2296f79645de3ddfb40058e357693dc",
+  "00300a0d072f04a2ff2f5ece60d2035cab60d1694e5e9194bebf537804807b3d",
+  "00444ec967acf2d11316914b9f0f506f71be02e836dab91bc92ec9abb14972f2",
+  "005e8ef17b0bcb62bd964d6251976d0d8617506367a88c60f7bb5370adc95566",
+  "00aeaf43ff0baf097f4811d60ffe2ec28ede60c76ba6bb92c727eb873b621ad6",
+  "00b6bb44f6ef52f46838944412b63efaff5e33f5f947ab2dd7b3837e156d57c3",
+]
+manifest    = "manifests/606-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1667  WAV/01. Individual Hits
+#      136  Maschine/606 From Mars
+#      128  WAV/02. Kits
+#      127  MPC1000 and MPC2500/606 From Mars
+#       56  Kontakt/606 From Mars
+#       56  Logic EXS/606 From Mars
+#       55  SFZ/606 From Mars
+#       54  Reason NN-XT/606 From Mars
+#       12  Ableton Live/606 From Mars
+#        8  Battery/606 From Mars
+#        8  FL Studio/606 From Mars
+#        3  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/606-Art.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC1000 & MPC2500.rtf
+#        1  Docs/Installation Instructions For Reason.rtf

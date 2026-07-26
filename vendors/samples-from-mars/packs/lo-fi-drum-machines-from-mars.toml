@@ -1,0 +1,45 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Lo-Fi Drum Machines From Mars"
+slug = "lo-fi-drum-machines-from-mars"
+dir  = "Lo-Fi Drum Machines From Mars"
+url  = "https://samplesfrommars.com/products/lo-fi-drum-machines-from-mars"
+archives = ["lo-fi_drum_machines_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2030
+audio_bytes = 165376861
+digest      = "be91a4d9d7487297cba9c8e465a1976e708baf01942e7cf04f0906d6c6ea5621"
+anchors     = [
+  "000b120fe7d73aa89928512658c8751fa3688de1e4e62c959ad12f53fc58f3d3",
+  "00162ec798a42078e3025926e27290f6fd50dcbef0a5e52257e6946de289e33a",
+  "0037e4cba7c0fda8fdab060323587dd5ab731738d2e11aa82136c2f13b98f19f",
+  "005c2522c55c643e581f30a31dc79f4dc636243cd8ffe052f54b357d00dcd9c2",
+  "008b6495dd17bcee5ee279a9f841a01a92a9403b9dabc6732aa33b2d70144b05",
+  "009ccfd0605df3d7ffdaa559738394d509fca38b820b8fedf7d0fc43010115fd",
+  "009d1541e0751b1b0a3d98c620a31c1e40b4e5a59b5f5abbdc32f1dff1c4e5e5",
+  "00be704a8e9193adc3c28f479401cc66fb00847145c9224adda595909926de57",
+]
+manifest    = "manifests/lo-fi-drum-machines-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      750  WAV/01. Individual Hits
+#      660  Presets/MPC
+#      340  Presets/Maschine
+#      320  WAV/02. Kits
+#       51  Presets/Reason
+#       31  Presets/FL Studio
+#       31  Presets/Kontakt
+#       31  Presets/Logic EXS
+#       31  Presets/SFZ
+#       24  Presets/Ableton
+#       20  Presets/Battery
+#       18  Docs/Installation
+#        1  Docs/Artwork - Lo-Fi Drum Machines From Mars.jpg
+#        1  Docs/Lo-Fi Drum Machines From Mars - About.rtf
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Icon

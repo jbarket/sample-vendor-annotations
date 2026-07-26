@@ -1,0 +1,41 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "SP1200 From Mars"
+slug = "sp1200-from-mars"
+dir  = "SP1200 From Mars"
+# url guess (unverified): https://samplesfrommars.com/products/sp1200-from-mars
+archives = ["sp1200_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2555
+audio_bytes = 270033842
+digest      = "6be79e1e4bc93b5fb21f977349555b10680a9ecacd349bfa5019a243dcb1467d"
+anchors     = [
+  "0011d518bf7605dc9cc57389ba8a808010e85b41aa654529dfaf0fc0469130a9",
+  "0020143c8e9e4c8c7a5ffa9c32af6111ba8e5fe2fea4ff580d049b0d6fa21872",
+  "002b5df89d6b72d0c51199496a082c64546a309156f07640542fd38a99514975",
+  "00b0ab0cc4b5f3bef8636b2ddce03b491a578bff7172603dd827e880842ca95c",
+  "00b16a31713dda23bb45593a193d5374a57c9c8e4bd01c1dd991648f920231e7",
+  "00b3b7f12ffe9ab17b422a1847a186cea6fcd5b0ce386fd573e6ea4f612738a6",
+  "00fefc23020c330ebd557b51aab671b5b282bab7136c1b8ff44cd349a5fd8318",
+  "00ff053be2cb45059dd7da140f54b0ecca82dbf9dacefb385ec55eb7f80cf4e0",
+]
+manifest    = "manifests/sp1200-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     2222  WAV/Drums
+#      333  WAV/Synths
+#       46  Kontakt/SP1200 From Mars
+#       46  Logic EXS/SP1200 From Mars
+#       29  Ableton Live/SP 1200 From Mars
+#        6  FL Studio/SP1200 From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        1  Docs/Art - SP1200 From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Icon

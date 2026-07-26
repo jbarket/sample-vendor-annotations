@@ -1,0 +1,80 @@
+# The exemplar pack file: [pack]/[identity] generated, [meta] lifted from
+# the product page's OpenGraph tags, [[dir]] map hand-annotated from the
+# shipped tree. Copy this shape.
+
+[pack]
+name = "Acid From Mars"
+slug = "acid-from-mars"
+dir  = "Acid From Mars"
+url  = "https://samplesfrommars.com/products/acid-from-mars"
+archives = ["acid_from_mars.zip"]
+observed = 2026-07-18
+
+[meta]
+title       = "ACID FROM MARS"
+type        = "product"
+image       = "https://samplesfrommars.com/cdn/shop/products/acid-from-mars_grande.jpg"
+description = "TB-303 through tube amps and tape — square and saw acid bass with harmonic distortion, spacey organs, dreamy polyphony, subs fatter than the actual 303, weirdo FX. Multisampled patches plus 120 BPM C-minor tape loops and SP-1200/MPC4000 drums."
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 907
+audio_bytes = 980777809
+digest      = "54044bf6b8c1ab0dbe63cfb7440e695b47af0715d3b42dd3840274dba04fb413"
+anchors     = [
+  "001236bf6cf73b743d30d8c1175e562c20c6350b688296d68a3397a15b179023",
+  "001955d5d32280c59100116437bdf14fefc045bf03e51c0720d51f87762ea98a",
+  "0067c09f5f0d0f970adbcfe9b7aa8ff0e22174c237f3ecf671abd35585276ecd",
+  "006ff9364cbc8710b48dd5fd12abdcea75677b3fdf547677174b265693160a9e",
+  "011eeeb82ec6e8a2ae1ffde6503f50afb29c198ff05cf4158375b82be8e26af2",
+  "014813885354fcbdd327192b60550a7b3bf1843a05d44ab29d9dd8b39e7cdaf1",
+  "01e8beb341e184da91255495747a6d6b2a96ed697f105532db9943ec43fa4d6e",
+  "02b4063b4b124d279f62314e7fb568e0a85adc1505c421111a458d1f37abbbbc",
+]
+manifest    = "manifests/acid-from-mars.sha256"
+
+[[dir]]
+path = "WAV"
+role = "canonical-audio"
+
+[[dir]]
+path     = "WAV/Acid Synths"
+category = "multisamples"
+tags     = ["303", "acid", "synth"]
+desc     = "Multisampled TB-303 patches, per-note across the range — tube/tape processed. Subdirs are one patch each (Basic Sub, Square, Moving Saw Poly, Echo Square...); Multi Res is the big velocity-layered set."
+
+[[dir]]
+path     = "WAV/Acid Synths/Basic Sub"
+tags     = ["sub", "bass"]
+
+[[dir]]
+path     = "WAV/Acid Loops"
+category = "loops"
+tags     = ["303", "acid", "120bpm", "c-minor"]
+desc     = "Royalty-free 303 lines recorded to tape, 120 BPM, C minor"
+
+[[dir]]
+path     = "WAV/Acid Drums"
+category = "one-shots"
+tags     = ["drums", "sp1200", "mpc4000"]
+desc     = "SP-1200 and MPC4000 drum hits to sit under the acid lines"
+
+[[dir]]
+path = "Ableton Live"
+role = "format-tree"
+
+[[dir]]
+path = "Kontakt"
+role = "format-tree"
+
+[[dir]]
+path = "Logic EXS"
+role = "format-tree"
+
+[[dir]]
+path = "FL Studio"
+role = "format-tree"
+
+[[dir]]
+path = "Docs"
+role = "docs"

@@ -1,0 +1,47 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Vinyl Drums From Mars"
+slug = "vinyl-drums-from-mars"
+dir  = "Vinyl Drums From Mars"
+url  = "https://samplesfrommars.com/products/vinyl-drums-from-mars"
+archives = ["vinyl_drums_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 2101
+audio_bytes = 457733751
+digest      = "32bf03467d6e70dab450b5ee447b85f7f9c527d383a2d380d3fd1f0c72dbe2dd"
+anchors     = [
+  "00020a09a3d0c75cd427d1814915dbee86d9ad6bff86b58af09de0598ad9c7ed",
+  "00043e4c059d08e834c6617d81f45a87727281b0651845ef367e1321480184dc",
+  "000a191ad02251fea5ea708caada8c90486f4ae899aecb89d01cdb73d3778c16",
+  "000b257fb876f8b44f9b7c30c40346057b70385188801116e291ff1c19e20daf",
+  "002a7f1f2b6705fdbc974003e0184897d7a50744db9d00a4a752c6c1579142e4",
+  "003628ef2b2a1e2ff52b9d974903ce0785b7860352b77f806fdfb7ae66d20138",
+  "0059ab58ca66f152d2591fb1c3c77e4578b86ad59f08409b4bd8d331f8886eb0",
+  "008b1e0ed832cd94d1e53f83bfd22c448a671d33a75de937388f5ee1b2d0c581",
+]
+manifest    = "manifests/vinyl-drums-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      981  WAV/01. Individual Hits
+#      695  Presets/MPC
+#      357  Presets/Maschine
+#      336  WAV/02. Kits
+#       67  Presets/FL Studio
+#       67  Presets/Kontakt
+#       67  Presets/Logic EXS
+#       67  Presets/Reason NN-XT
+#       67  Presets/SFZ
+#       28  Presets/Ableton
+#       20  Presets/Battery
+#       20  Presets/Reason Kong
+#       18  Docs/Installation
+#        1  Docs/Artwork - Vinyl Drums From Mars.jpeg
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Docs/Vinyl Drums From Mars - About.rtf
+#        1  Icon
+#        1  WAV/03. Demo

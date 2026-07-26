@@ -1,0 +1,49 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Linn60 From Mars"
+slug = "linn60-from-mars"
+dir  = "Linn60 From Mars"
+url  = "https://samplesfrommars.com/products/linn60-from-mars"
+archives = ["linn60_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1289
+audio_bytes = 71707818
+digest      = "3504b27de73f0252206e9e1c484f4da62fdf77c92dd1b4cdedb6ea333ef52a92"
+anchors     = [
+  "00191c74f6fcbc40273aff19add988fd68023875b263db608e72b3b356311b9f",
+  "00a7ed22e17683171af60ca235ce8eb24ad3fe53fbd17534a29b7cda49cf16b0",
+  "00ac693040c4b4b210be5b2a1454c8c737c7f95c1b159d81334a6c35fe320b8a",
+  "00bfc80f91f1ffbe11b45daf37f7e6b2ab57c60d069dd59810fcce50bb11e5ff",
+  "00f02a87aef116f61c4c79b5c2bcb56a40c64e6265da4a4190488d532c8d7cd7",
+  "00f88a45a994932ddac30caa10f436cb88390ad3dfa6b47b28d13b0d2692ecf6",
+  "00faa94947bdd708273787eebe2b390bb26bb0049c964bcceac7910e86857d35",
+  "01601d5423a06fa90e04922cd7d17f147fa7f8d25eb0833bbedbbe65d41c43d7",
+]
+manifest    = "manifests/linn60-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#     1168  WAV/01. Individual Hits
+#      136  Maschine/Linn60 From Mars
+#      128  WAV/02. Kits
+#      123  MPC1000 and MPC2500/Linn60 From Mars
+#       23  Kontakt/Linn60 From Mars
+#       23  Logic EXS/Linn60 From Mars
+#       23  Reason NN-XT/Linn60 From Mars
+#        8  Battery/Linn60 From Mars
+#        8  FL Studio/Linn60 From Mars
+#        5  Ableton Live/Linn60 From Mars
+#        2  Docs/Installation Instructions For Ableton
+#        2  Docs/Installation Instructions For Logic EXS
+#        2  Docs/Installation Instructions For Maschine
+#        1  Docs/Art - Linn60 From Mars.jpg
+#        1  Docs/Installation Instructions - All.rtf
+#        1  Docs/Installation Instructions For Battery.rtf
+#        1  Docs/Installation Instructions For Kontakt.rtf
+#        1  Docs/Installation Instructions For MPC.rtf
+#        1  Docs/Installation Instructions For Reason.rtf
+#        1  Icon

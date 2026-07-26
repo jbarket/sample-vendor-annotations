@@ -1,0 +1,45 @@
+# Generated stub — [pack]/[identity] are computed; add [meta] from the
+# product page and grow the [[dir]] map from the skeleton below.
+
+[pack]
+name = "Vinyl SP From Mars"
+slug = "vinyl-sp-from-mars"
+dir  = "Vinyl SP From Mars"
+url  = "https://samplesfrommars.com/products/vinyl-sp-from-mars"
+archives = ["vinyl_sp_from_mars.zip"]
+observed = 2026-07-18
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 1939
+audio_bytes = 106651708
+digest      = "3dfbe32577b20068da339244346c8c5485855fc50ca74949bd0fe4252cf9a663"
+anchors     = [
+  "0000754511baff94d5d767064ff061c2562c74e738e9ab672c993d3fe34f2505",
+  "001e3cef621686e47c9894dc143b962c2a203b7b406f08d10d1230ed7aa49372",
+  "006d2d4485845d34be35f593ca49ca8a70070772594a7d28b08b71f55208a20b",
+  "00adbf9d5a6eac3c15ec5ea380a6bfff7c97dda5795d23d957ac6a6458a957f9",
+  "00c316794230d7545cd621b7ceec4739e03c472239177f3be9f90bb0903ed16f",
+  "00e5a1c8f3dcbe421f7b0433c4c8074158597c363edea247c2ee15bb6aed9595",
+  "00fcb7fbd22794535b28c490bf0c41838d5e511afcb1bfb8d1d8bdb5e8946173",
+  "0116f8f478dd4f240215f41b7a4bc0e8f70a6004515b11263613640bde054e3c",
+]
+manifest    = "manifests/vinyl-sp-from-mars.sha256"
+
+# Layout skeleton (top two levels, file counts) — annotate with [[dir]]:
+#      700  WAV/01. Individual Hits
+#      660  Presets/MPC
+#      340  Presets/Maschine
+#      320  WAV/02. Kits
+#       51  Presets/Reason
+#       31  Presets/FL Studio
+#       31  Presets/Kontakt
+#       31  Presets/Logic EXS
+#       31  Presets/SFZ
+#       24  Presets/Ableton
+#       20  Presets/Battery
+#       18  Docs/Installation
+#        1  Docs/Artwork - Vinyl SP From Mars.jpg
+#        1  Docs/Samples From Mars - Terms and Conditions.pdf
+#        1  Docs/Vinyl SP From Mars - About.rtf
+#        1  Icon
