@@ -9,6 +9,7 @@ dir  = "Mirage"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/soul-surplus/mirage"
 provider = "Soul Surplus"
+samples_listed = 65  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

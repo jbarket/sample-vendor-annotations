@@ -9,6 +9,7 @@ dir  = "Vocal Philosophy with Lokka Vox"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/function-loops/vocal-philosophy-with-lokka-vox"
 provider = "Function Loops"
+samples_listed = 90  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

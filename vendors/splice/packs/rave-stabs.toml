@@ -9,6 +9,7 @@ dir  = "Rave Stabs"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/shamanstems/rave-stabs"
 provider = "ShamanStems"
+samples_listed = 680  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

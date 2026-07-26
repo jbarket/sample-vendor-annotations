@@ -9,6 +9,7 @@ dir  = "AI - Speech Vocal Hooks"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/function-loops/ai-speech-vocal-hooks"
 provider = "Function Loops"
+samples_listed = 60  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Guy Gerber Late Night Sketches"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/guy-gerber-pack"
 provider = "Splice"
+samples_listed = 160  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

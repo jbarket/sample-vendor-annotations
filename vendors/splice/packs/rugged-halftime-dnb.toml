@@ -9,6 +9,7 @@ dir  = "Rugged Halftime DnB"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/rugged-halftime-dnb"
 provider = "Black Octopus"
+samples_listed = 549  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

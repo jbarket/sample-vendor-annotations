@@ -9,6 +9,7 @@ dir  = "Studio Essentials - Deep House"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/studio-essentials-deep-house"
 provider = "Zenhiser"
+samples_listed = 497  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

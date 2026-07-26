@@ -9,6 +9,7 @@ dir  = "Dark Techno"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/audentity/audentity-dark-techno"
 provider = "Audentity Records"
+samples_listed = 367  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

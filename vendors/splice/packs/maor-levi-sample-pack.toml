@@ -9,6 +9,7 @@ dir  = "Maor Levi Sample Pack"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/maor-levi-sample-pack"
 provider = "Splice"
+samples_listed = 120  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

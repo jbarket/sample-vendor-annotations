@@ -9,6 +9,7 @@ dir  = "Flipped Funk 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/flipped-funk-2"
 provider = "Sample Magic"
+samples_listed = 404  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Toolroom Records Samples 05"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/toolroom-records/toolroom-records-samples-05"
 provider = "Toolroom"
+samples_listed = 302  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

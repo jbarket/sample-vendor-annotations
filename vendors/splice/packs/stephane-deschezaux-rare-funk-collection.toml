@@ -9,6 +9,7 @@ dir  = "Stephane Deschezaux Rare Funk Collection"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/bingoshakerz/bs038_stephane_deschezeaux_rare_funk_collection-wav"
 provider = "Bingoshakerz"
+samples_listed = 291  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Fox Stevenson Universal Samples Vol. 1"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/disciple-samples/fox-stevenson-universal-samples-vol-1"
 provider = "Disciple Samples"
+samples_listed = 1077  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

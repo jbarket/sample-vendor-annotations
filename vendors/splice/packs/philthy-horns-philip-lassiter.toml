@@ -9,6 +9,7 @@ dir  = "Philthy Horns - Philip Lassiter"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/jammcard-samples/philthy-horns-philip-lassiter"
 provider = "Jammcard Samples"
+samples_listed = 232  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

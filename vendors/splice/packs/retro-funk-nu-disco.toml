@@ -9,6 +9,7 @@ dir  = "Retro Funk & Nu-Disco"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/vox/retro-funk-and-nu-disco"
 provider = "VOX"
+samples_listed = 239  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

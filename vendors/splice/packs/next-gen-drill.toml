@@ -9,6 +9,7 @@ dir  = "Next Gen Drill"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/komorebi-audio/next-gen-drill"
 provider = "Komorebi Audio"
+samples_listed = 349  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

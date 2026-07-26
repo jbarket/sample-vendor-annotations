@@ -9,6 +9,7 @@ dir  = "Steam - Ambient Loops & Textures"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/modeaudio/steam-ambient-loops-and-textures"
 provider = "ModeAudio"
+samples_listed = 140  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

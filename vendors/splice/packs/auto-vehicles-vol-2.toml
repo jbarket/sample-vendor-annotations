@@ -9,6 +9,7 @@ dir  = "Auto Vehicles Vol. 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-vehicle-auto-vol-2"
 provider = "Blastwave FX"
+samples_listed = 1109  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

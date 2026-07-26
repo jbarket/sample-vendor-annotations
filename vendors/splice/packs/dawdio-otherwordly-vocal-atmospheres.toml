@@ -9,6 +9,7 @@ dir  = "Dawdio - Otherwordly Vocal Atmospheres"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/dawdio-otherwordly-vocal-atmospheres"
 provider = "Black Octopus"
+samples_listed = 211  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

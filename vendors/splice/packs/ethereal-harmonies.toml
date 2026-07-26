@@ -9,6 +9,7 @@ dir  = "Ethereal Harmonies"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/touch-loops/ethereal-harmonies"
 provider = "Touch Loops"
+samples_listed = 318  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

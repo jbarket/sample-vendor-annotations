@@ -9,6 +9,7 @@ dir  = "Club Progressive"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/club-progressive"
 provider = "Four4"
+samples_listed = 455  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

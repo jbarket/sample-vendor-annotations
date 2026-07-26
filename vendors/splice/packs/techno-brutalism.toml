@@ -9,6 +9,7 @@ dir  = "Techno Brutalism"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/touch-loops/techno-brutalism"
 provider = "Touch Loops"
+samples_listed = 131  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

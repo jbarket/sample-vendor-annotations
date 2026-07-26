@@ -9,6 +9,7 @@ dir  = "Ambient Panoramas 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/production-master/production-master-ambient-panoramas-2"
 provider = "Production Master"
+samples_listed = 480  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

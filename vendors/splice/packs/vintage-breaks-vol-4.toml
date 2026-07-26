@@ -9,6 +9,7 @@ dir  = "Vintage Breaks Vol 4"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/vintage-breaks-vol-4"
 provider = "Sample Magic"
+samples_listed = 101  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

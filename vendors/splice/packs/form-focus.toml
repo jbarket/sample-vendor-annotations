@@ -9,6 +9,7 @@ dir  = "Form & Focus"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/touch-loops/form-and-focus"
 provider = "Touch Loops"
+samples_listed = 199  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

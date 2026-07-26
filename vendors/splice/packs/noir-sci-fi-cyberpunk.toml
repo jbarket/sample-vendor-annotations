@@ -9,6 +9,7 @@ dir  = "Noir & Sci-Fi Cyberpunk"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/neon-wave/noir-and-sci-fi-cyberpunk"
 provider = "Neon Wave"
+samples_listed = 172  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Jafunk's Future Funk & Soul Vol. 3"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/jafunk-vol-3-pack"
 provider = "Splice"
+samples_listed = 173  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

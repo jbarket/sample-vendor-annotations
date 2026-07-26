@@ -9,6 +9,7 @@ dir  = "Sounds of KSHMR Vol. 4"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/dharma-studio/kshmr-sok4-sample-pack"
 provider = "Dharma Studio"
+samples_listed = 745  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

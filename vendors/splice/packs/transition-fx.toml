@@ -9,6 +9,7 @@ dir  = "Transition FX"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/touch-loops/transition-fx"
 provider = "Touch Loops"
+samples_listed = 224  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

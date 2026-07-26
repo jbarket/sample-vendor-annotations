@@ -9,6 +9,7 @@ dir  = "Laut 'Drum & Bass Toolkit'"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/test-press/laut-drum-and-bass-toolkit"
 provider = "Test Press"
+samples_listed = 238  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

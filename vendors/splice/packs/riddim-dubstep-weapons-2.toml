@@ -9,6 +9,7 @@ dir  = "Riddim Dubstep Weapons 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/production-master/production-master-riddim-dubstep-weapons-2"
 provider = "Production Master"
+samples_listed = 405  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

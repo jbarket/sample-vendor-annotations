@@ -9,6 +9,7 @@ dir  = "Hard Trap"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-tools-by-cr2/hard-trap-2"
 provider = "Sample Tools by Cr2"
+samples_listed = 344  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

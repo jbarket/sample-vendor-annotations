@@ -9,6 +9,7 @@ dir  = "Phantom Cyberpunk"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/audentity/phantom-cyberpunk"
 provider = "Audentity Records"
+samples_listed = 253  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

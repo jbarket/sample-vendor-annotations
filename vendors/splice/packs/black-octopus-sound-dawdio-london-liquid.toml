@@ -9,6 +9,7 @@ dir  = "Black Octopus Sound - Dawdio London Liquid"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-dawdio-london-liquid"
 provider = "Black Octopus"
+samples_listed = 265  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

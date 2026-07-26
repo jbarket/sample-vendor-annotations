@@ -9,6 +9,7 @@ dir  = "TeeBee – Subterranean DnB Vol. 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/test-press/teebee-subterranean-dnb-vol-2"
 provider = "Test Press"
+samples_listed = 490  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

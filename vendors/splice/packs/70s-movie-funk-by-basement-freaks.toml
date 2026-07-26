@@ -9,6 +9,7 @@ dir  = "70s Movie Funk by Basement Freaks"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-70s-movies-funk-by-basement-freaks"
 provider = "Black Octopus"
+samples_listed = 285  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

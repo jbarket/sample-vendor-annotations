@@ -9,6 +9,7 @@ dir  = "Netrunner Hollywood Cyberpunk"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/netrunner-varien-pack"
 provider = "Splice"
+samples_listed = 198  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

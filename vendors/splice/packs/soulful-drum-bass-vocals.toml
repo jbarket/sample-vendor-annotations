@@ -9,6 +9,7 @@ dir  = "Soulful Drum & Bass Vocals"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/91vocals/soulful-drum-and-bass-vocals"
 provider = "91Vocals"
+samples_listed = 402  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

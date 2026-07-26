@@ -9,6 +9,7 @@ dir  = "NuDisco Horns"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sonic-collective/nudisco-horns"
 provider = "Sonic Collective"
+samples_listed = 208  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

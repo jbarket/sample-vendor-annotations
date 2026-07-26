@@ -9,6 +9,7 @@ dir  = "Solarpunk"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/shamanstems/solarpunk"
 provider = "ShamanStems"
+samples_listed = 124  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

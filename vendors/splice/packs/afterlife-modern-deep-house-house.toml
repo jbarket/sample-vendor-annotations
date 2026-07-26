@@ -9,6 +9,7 @@ dir  = "Afterlife - Modern Deep House & House"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/production-master/afterlife-modern-deep-house-house"
 provider = "Production Master"
+samples_listed = 513  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

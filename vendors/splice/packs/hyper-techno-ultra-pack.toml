@@ -9,6 +9,7 @@ dir  = "Hyper Techno Ultra Pack"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/91vocals/hyper-techno-ultra-pack"
 provider = "91Vocals"
+samples_listed = 884  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Acid House and Rave"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-tools-by-cr2/acid-house-and-rave"
 provider = "Sample Tools by Cr2"
+samples_listed = 466  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

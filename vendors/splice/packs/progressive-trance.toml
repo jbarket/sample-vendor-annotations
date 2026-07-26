@@ -9,6 +9,7 @@ dir  = "Progressive Trance"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/sm-progressive-trance"
 provider = "Sample Magic"
+samples_listed = 782  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

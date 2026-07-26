@@ -9,6 +9,7 @@ dir  = "Lofi Hip Hop Vol. 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/renraku/lofi-hip-hop-vol-2"
 provider = "Renraku"
+samples_listed = 743  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

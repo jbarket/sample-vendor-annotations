@@ -9,6 +9,7 @@ dir  = "Parallel - Drum & Bass"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/parallel-drum-and-bass"
 provider = "Zenhiser"
+samples_listed = 320  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

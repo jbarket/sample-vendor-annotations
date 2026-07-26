@@ -9,6 +9,7 @@ dir  = "Hydrogen - Melodic House & Techno"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/hydrogen-melodic-house-and-techno"
 provider = "Zenhiser"
+samples_listed = 627  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

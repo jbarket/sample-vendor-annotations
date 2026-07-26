@@ -9,6 +9,7 @@ dir  = "Machine Guns"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-machine-guns"
 provider = "Blastwave FX"
+samples_listed = 994  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

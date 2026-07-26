@@ -9,6 +9,7 @@ dir  = "Stanley Randolph - I'm In The Clouds - Funky Drums & Shots"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/jammcard-samples/stanley-randolph-i-m-in-the-clouds-funky-drums-shots"
 provider = "Jammcard Samples"
+samples_listed = 325  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

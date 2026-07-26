@@ -9,6 +9,7 @@ dir  = "Four on the Floor"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/discotheque/four-on-the-floor"
 provider = "Discotheque"
+samples_listed = 117  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

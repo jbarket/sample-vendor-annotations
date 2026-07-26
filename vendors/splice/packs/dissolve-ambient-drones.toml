@@ -9,6 +9,7 @@ dir  = "Dissolve - Ambient Drones"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/modeaudio/dissolve-ambient-drones"
 provider = "ModeAudio"
+samples_listed = 200  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

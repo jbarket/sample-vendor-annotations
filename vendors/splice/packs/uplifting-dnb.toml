@@ -9,6 +9,7 @@ dir  = "Uplifting DnB"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/test-press/uplifting-dnb"
 provider = "Test Press"
+samples_listed = 325  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

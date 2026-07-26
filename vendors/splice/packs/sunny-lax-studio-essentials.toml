@@ -9,6 +9,7 @@ dir  = "Sunny Lax Studio Essentials"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/freshly-squeezed-samples/sunny-lax-studio-essentials"
 provider = "Freshly Squeezed Samples"
+samples_listed = 4747  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Liquicity Drum & Bass Vol. 1"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/test-press/liquicity-drum-and-bass-vol-1"
 provider = "Test Press"
+samples_listed = 253  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

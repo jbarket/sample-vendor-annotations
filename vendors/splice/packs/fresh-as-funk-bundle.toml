@@ -9,6 +9,7 @@ dir  = "Fresh as Funk Bundle"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/fresh-as-funk-bundle"
 provider = "Black Octopus"
+samples_listed = 1026  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

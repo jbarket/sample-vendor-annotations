@@ -9,6 +9,7 @@ dir  = "Revolution"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/discotheque/revolution"
 provider = "Discotheque"
+samples_listed = 91  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "SPOiiLSPORT, a BABii moment"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/moment/spoiilsport-a-babii-moment"
 provider = "Moment"
+samples_listed = 207  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

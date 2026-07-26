@@ -9,6 +9,7 @@ dir  = "Psychedelic Toolbox Vol 2 By Marula Music"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/psychedelic-toolkit-volume-2"
 provider = "Black Octopus"
+samples_listed = 190  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

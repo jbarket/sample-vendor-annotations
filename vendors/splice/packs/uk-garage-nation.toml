@@ -9,6 +9,7 @@ dir  = "UK Garage Nation"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/uk-garage-nation"
 provider = "Sample Magic"
+samples_listed = 430  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

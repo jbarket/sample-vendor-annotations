@@ -9,6 +9,7 @@ dir  = "Mark Knight Vol. 5 - Trademark Series"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/toolroom-records/mark-knight-vol-5-trademark-series"
 provider = "Toolroom"
+samples_listed = 551  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

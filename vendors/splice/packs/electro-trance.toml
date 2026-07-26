@@ -9,6 +9,7 @@ dir  = "Electro Trance"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/parallax/electro-trance"
 provider = "Parallax"
+samples_listed = 379  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

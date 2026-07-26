@@ -9,6 +9,7 @@ dir  = "The One - RnB Love Songs"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/91vocals/the-one-rnb-love-songs"
 provider = "91Vocals"
+samples_listed = 434  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

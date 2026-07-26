@@ -9,6 +9,7 @@ dir  = "Clubbin Tech House"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/clubbin-tech-house"
 provider = "Four4"
+samples_listed = 374  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

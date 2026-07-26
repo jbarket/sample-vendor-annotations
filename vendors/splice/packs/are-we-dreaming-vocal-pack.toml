@@ -9,6 +9,7 @@ dir  = "Are We Dreaming Vocal Pack"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/are-we-dreaming-vocal-pack"
 provider = "Splice"
+samples_listed = 237  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Cinematic Cyberpunk"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/function-loops/cinematic-cyberpunk"
 provider = "Function Loops"
+samples_listed = 144  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

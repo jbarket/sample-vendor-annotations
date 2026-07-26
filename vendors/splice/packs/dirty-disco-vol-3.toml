@@ -9,6 +9,7 @@ dir  = "Dirty Disco Vol. 3"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/that-sound/dirty-disco-vol-3"
 provider = "That Sound"
+samples_listed = 329  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

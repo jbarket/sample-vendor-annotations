@@ -9,6 +9,7 @@ dir  = "Melodic Techno"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/four4-melodic-techno"
 provider = "Four4"
+samples_listed = 427  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

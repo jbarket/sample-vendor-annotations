@@ -9,6 +9,7 @@ dir  = "Lofi House Sweet Sedation"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/capsun-proaudio/lofi-house-sweet-sedation"
 provider = "Capsun ProAudio"
+samples_listed = 268  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

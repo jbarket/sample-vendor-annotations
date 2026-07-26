@@ -9,6 +9,7 @@ dir  = "Vocal Megapack 10"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/audentity/audentity_records_vocal_megapack_10"
 provider = "Audentity Records"
+samples_listed = 311  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

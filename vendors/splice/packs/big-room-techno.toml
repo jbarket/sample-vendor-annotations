@@ -9,6 +9,7 @@ dir  = "Big Room Techno"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/big-room-techno"
 provider = "Four4"
+samples_listed = 318  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

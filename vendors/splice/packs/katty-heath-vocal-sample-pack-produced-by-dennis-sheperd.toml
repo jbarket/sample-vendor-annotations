@@ -9,6 +9,7 @@ dir  = "Katty Heath Vocal Sample Pack produced by Dennis Sheperd"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-katty-heath-vocal-sample-pack-produced-by-dennis-sheperd"
 provider = "Black Octopus"
+samples_listed = 639  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

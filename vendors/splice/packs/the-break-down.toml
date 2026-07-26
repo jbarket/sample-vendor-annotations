@@ -9,6 +9,7 @@ dir  = "The Break Down"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/that-sound/the-break-down"
 provider = "That Sound"
+samples_listed = 186  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

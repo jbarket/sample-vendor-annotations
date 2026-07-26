@@ -9,6 +9,7 @@ dir  = "Shotguns and Rifles"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-shotgun-and-rifle"
 provider = "Blastwave FX"
+samples_listed = 577  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

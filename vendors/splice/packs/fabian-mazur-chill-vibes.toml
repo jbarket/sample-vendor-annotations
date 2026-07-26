@@ -9,6 +9,7 @@ dir  = "Fabian Mazur - Chill Vibes"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/fabian-mazur-presents-elixir/chill-vibes"
 provider = "Fabian Mazur presents ELIXIR"
+samples_listed = 125  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

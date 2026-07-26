@@ -9,6 +9,7 @@ dir  = "Essential Flamenco Guitars"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/prime-loops/essential-flamenco-guitars"
 provider = "Prime Loops"
+samples_listed = 348  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

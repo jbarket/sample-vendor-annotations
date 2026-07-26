@@ -9,6 +9,7 @@ dir  = "Hollywood Explosions"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-hollywood-explosions"
 provider = "Blastwave FX"
+samples_listed = 428  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

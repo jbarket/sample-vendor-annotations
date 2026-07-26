@@ -9,6 +9,7 @@ dir  = "NYC Rhythms"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/touch-loops/nyc-rhythms"
 provider = "Touch Loops"
+samples_listed = 167  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

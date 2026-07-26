@@ -9,6 +9,7 @@ dir  = "Shoegaze"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/shoegaze"
 provider = "Sample Magic"
+samples_listed = 393  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

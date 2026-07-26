@@ -9,6 +9,7 @@ dir  = "Heart and Breath Ambient Hypnotic"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/montage/heart-and-breath-ambient-hypnotic"
 provider = "Montage by Splice"
+samples_listed = 220  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

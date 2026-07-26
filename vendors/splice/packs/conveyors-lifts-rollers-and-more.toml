@@ -9,6 +9,7 @@ dir  = "Conveyors, Lifts, Rollers and More"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/big-room-sound/brs-conveyors-lifts-and-rollers"
 provider = "Big Room Sound"
+samples_listed = 126  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

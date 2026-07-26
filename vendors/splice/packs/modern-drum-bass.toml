@@ -9,6 +9,7 @@ dir  = "Modern Drum & Bass"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/origin-sound/origin-sound-modern-drum-and-bass"
 provider = "Origin Sound"
+samples_listed = 276  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

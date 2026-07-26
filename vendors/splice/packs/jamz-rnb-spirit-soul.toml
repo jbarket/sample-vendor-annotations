@@ -9,6 +9,7 @@ dir  = "Jamz - RNB Spirit & Soul"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/origin-sound/jamz-rnb-spirit-and-soul"
 provider = "Origin Sound"
+samples_listed = 390  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

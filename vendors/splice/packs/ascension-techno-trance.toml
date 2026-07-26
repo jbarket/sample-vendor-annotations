@@ -9,6 +9,7 @@ dir  = "Ascension - Techno & Trance"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/parallax/ascension-techno-and-trance"
 provider = "Parallax"
+samples_listed = 391  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

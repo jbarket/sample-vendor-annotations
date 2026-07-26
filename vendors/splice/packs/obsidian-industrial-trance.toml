@@ -9,6 +9,7 @@ dir  = "Obsidian - Industrial Trance"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/parallax/obsidian-industrial-trance"
 provider = "Parallax"
+samples_listed = 364  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

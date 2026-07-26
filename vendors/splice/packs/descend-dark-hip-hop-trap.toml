@@ -9,6 +9,7 @@ dir  = "Descend - Dark Hip Hop & Trap"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/origin-sound/origin-sound-descend"
 provider = "Origin Sound"
+samples_listed = 249  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

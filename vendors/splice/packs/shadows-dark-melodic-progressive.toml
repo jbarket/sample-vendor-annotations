@@ -9,6 +9,7 @@ dir  = "Shadows - Dark Melodic Progressive"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/parallax/shadows-dark-melodic-progressive"
 provider = "Parallax"
+samples_listed = 380  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

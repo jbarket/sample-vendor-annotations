@@ -9,6 +9,7 @@ dir  = "Activa Trance Essentials Volume 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/freshly-squeezed-samples/activa-trance-essentials-volume-2"
 provider = "Freshly Squeezed Samples"
+samples_listed = 3078  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

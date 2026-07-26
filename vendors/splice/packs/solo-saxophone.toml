@@ -9,6 +9,7 @@ dir  = "Solo Saxophone"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sonic-collective/sc_solo_saxophone"
 provider = "Sonic Collective"
+samples_listed = 209  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

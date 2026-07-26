@@ -9,6 +9,7 @@ dir  = "Fragmented House 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/fragmented-house-2"
 provider = "Sample Magic"
+samples_listed = 334  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

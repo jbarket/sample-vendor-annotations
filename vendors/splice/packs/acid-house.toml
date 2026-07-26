@@ -9,6 +9,7 @@ dir  = "Acid House"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/acid-house"
 provider = "Sample Magic"
+samples_listed = 903  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

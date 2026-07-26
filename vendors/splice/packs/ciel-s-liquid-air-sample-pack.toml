@@ -9,6 +9,7 @@ dir  = "Ciel's Liquid Air Sample Pack"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/ciel-pack"
 provider = "Splice"
+samples_listed = 136  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "RARE - Tape Jams 3"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/renraku/rare-tape-jams-3"
 provider = "Renraku"
+samples_listed = 510  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

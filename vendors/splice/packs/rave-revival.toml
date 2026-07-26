@@ -9,6 +9,7 @@ dir  = "Rave Revival"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/rave-revival"
 provider = "Sample Magic"
+samples_listed = 408  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Dark Modular Techno"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/orbit-sounds/dark-modular-techno"
 provider = "Orbit Sounds"
+samples_listed = 357  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

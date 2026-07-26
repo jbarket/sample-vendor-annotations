@@ -9,6 +9,7 @@ dir  = "Ambient Trap Vocals"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/91vocals/ambient-trap-vocals"
 provider = "91Vocals"
+samples_listed = 166  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

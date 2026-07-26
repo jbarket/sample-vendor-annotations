@@ -9,6 +9,7 @@ dir  = "Spiral - Psytrance"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/spiral-psytrance-zenhiser"
 provider = "Zenhiser"
+samples_listed = 619  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

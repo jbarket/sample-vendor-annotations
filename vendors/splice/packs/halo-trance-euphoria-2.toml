@@ -9,6 +9,7 @@ dir  = "Halo - Trance Euphoria 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/parallax/halo-trance-euphoria-2"
 provider = "Parallax"
+samples_listed = 276  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

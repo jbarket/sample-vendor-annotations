@@ -9,6 +9,7 @@ dir  = "Raw Techno"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/raw-techno"
 provider = "Sample Magic"
+samples_listed = 697  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Westwood Sounds Vol 1 - Defunk"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/westwood-sounds-vol-1-defunk"
 provider = "Black Octopus"
+samples_listed = 190  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

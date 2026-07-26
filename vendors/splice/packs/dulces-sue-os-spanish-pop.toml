@@ -9,6 +9,7 @@ dir  = "Dulces Sueños Spanish Pop"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/91vocals/dulce-suenos-pop-vocal-pack"
 provider = "91Vocals"
+samples_listed = 418  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

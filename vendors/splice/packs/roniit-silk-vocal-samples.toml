@@ -9,6 +9,7 @@ dir  = "Roniit Silk Vocal Samples"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/roniit-silk-vocal-samples"
 provider = "Splice"
+samples_listed = 168  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

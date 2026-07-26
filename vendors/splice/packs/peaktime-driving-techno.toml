@@ -9,6 +9,7 @@ dir  = "Peaktime - Driving Techno"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/peaktime-driving-techno"
 provider = "Zenhiser"
+samples_listed = 437  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

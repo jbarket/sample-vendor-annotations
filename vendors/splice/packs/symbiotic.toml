@@ -9,6 +9,7 @@ dir  = "Symbiotic"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/symbiotic"
 provider = "Zenhiser"
+samples_listed = 460  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

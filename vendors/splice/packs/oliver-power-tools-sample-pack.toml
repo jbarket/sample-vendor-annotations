@@ -9,6 +9,7 @@ dir  = "Oliver Power Tools Sample Pack"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/oliver-power-tools"
 provider = "Splice"
+samples_listed = 790  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

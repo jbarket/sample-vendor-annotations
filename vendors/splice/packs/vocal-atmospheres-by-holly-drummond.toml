@@ -9,6 +9,7 @@ dir  = "Vocal Atmospheres by Holly Drummond"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-vocal-atmospheres-by-holly-drummond"
 provider = "Black Octopus"
+samples_listed = 283  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

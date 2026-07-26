@@ -9,6 +9,7 @@ dir  = "Sci-fi Evolution"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/epic-stock-media/esm-sci-fi-evolution"
 provider = "Epic Stock Media"
+samples_listed = 1703  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

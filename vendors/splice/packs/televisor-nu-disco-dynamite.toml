@@ -9,6 +9,7 @@ dir  = "Televisor Nu Disco Dynamite"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-televisor-nu-disco-dynamite"
 provider = "Black Octopus"
+samples_listed = 732  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

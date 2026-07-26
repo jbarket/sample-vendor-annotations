@@ -9,6 +9,7 @@ dir  = "Modern House"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/bingoshakerz/bs024_modern_house_wav-presets"
 provider = "Bingoshakerz"
+samples_listed = 655  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

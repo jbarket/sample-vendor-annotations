@@ -9,6 +9,7 @@ dir  = "Battle Gear"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-gear"
 provider = "Blastwave FX"
+samples_listed = 20  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Tech House 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/spinnin-records/tech-house-2-2"
 provider = "Spinnin' Records"
+samples_listed = 217  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

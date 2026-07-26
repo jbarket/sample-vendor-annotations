@@ -9,6 +9,7 @@ dir  = "Trailer Essentials"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/field-foley/trailer-essentials"
 provider = "Field & Foley"
+samples_listed = 298  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

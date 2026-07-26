@@ -9,6 +9,7 @@ dir  = "Dusty Hip-Hop 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/dusty-hip-hop-2"
 provider = "Sample Magic"
+samples_listed = 557  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

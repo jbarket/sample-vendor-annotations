@@ -9,6 +9,7 @@ dir  = "Human Nature"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/field-foley/human-nature"
 provider = "Field & Foley"
+samples_listed = 210  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

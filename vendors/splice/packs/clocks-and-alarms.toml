@@ -9,6 +9,7 @@ dir  = "Clocks and Alarms"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/field-foley/clocks-and-alarms"
 provider = "Field & Foley"
+samples_listed = 302  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

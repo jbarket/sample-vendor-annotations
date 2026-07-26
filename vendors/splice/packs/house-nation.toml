@@ -9,6 +9,7 @@ dir  = "House Nation"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/house-nation"
 provider = "Sample Magic"
+samples_listed = 1179  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

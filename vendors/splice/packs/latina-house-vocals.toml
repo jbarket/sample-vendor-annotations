@@ -9,6 +9,7 @@ dir  = "Latina House Vocals"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/black-octopus-sound-latina-house-vocals"
 provider = "Black Octopus"
+samples_listed = 282  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

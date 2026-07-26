@@ -9,6 +9,7 @@ dir  = "Melodic Deep House 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/dropgun-samples/melodic-deep-house-2"
 provider = "Dropgun Samples"
+samples_listed = 587  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

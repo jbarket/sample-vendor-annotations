@@ -9,6 +9,7 @@ dir  = "Industry Vol. 1"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-industry-vol-1"
 provider = "Blastwave FX"
+samples_listed = 832  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Tropical Funk by Basement Freaks"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/tropical-funk-by-basement-freaks"
 provider = "Black Octopus"
+samples_listed = 299  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

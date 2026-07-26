@@ -9,6 +9,7 @@ dir  = "Dominic Davis Low and Inside Bass Sample Pack"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/dominic-davis-pack"
 provider = "Splice"
+samples_listed = 163  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

@@ -9,6 +9,7 @@ dir  = "Airflow Scifi Cinematic Loops"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/modeaudio/airflow-scifi-cinematic-loops"
 provider = "ModeAudio"
+samples_listed = 183  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

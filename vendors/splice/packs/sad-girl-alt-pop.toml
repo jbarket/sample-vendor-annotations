@@ -9,6 +9,7 @@ dir  = "Sad Girl Alt Pop"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/91vocals/91v-sad-girl-alt-pop"
 provider = "91Vocals"
+samples_listed = 326  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

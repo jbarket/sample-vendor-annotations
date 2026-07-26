@@ -9,6 +9,7 @@ dir  = "Indie Rocker"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/that-sound/indie-rocker"
 provider = "That Sound"
+samples_listed = 417  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

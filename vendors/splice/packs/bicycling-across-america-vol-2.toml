@@ -9,6 +9,7 @@ dir  = "Bicycling Across America Vol. 2"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice-soundscapes/bicycling-across-america-vol-2"
 provider = "Splice Soundscapes"
+samples_listed = 489  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

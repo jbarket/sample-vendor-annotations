@@ -9,6 +9,7 @@ dir  = "Vocal Hooks with Sandrah"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/function-loops/vocal-hooks-with-sandrah"
 provider = "Function Loops"
+samples_listed = 200  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

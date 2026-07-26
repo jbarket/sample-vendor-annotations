@@ -9,6 +9,7 @@ dir  = "OBSESSIONS Ambient Trap & RnB"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/capsun-proaudio/obsessions-ambient-trap-and-rnb"
 provider = "Capsun ProAudio"
+samples_listed = 221  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

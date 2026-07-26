@@ -9,6 +9,7 @@ dir  = "Gods Of Psytrance"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/function-loops/gods-of-psytrance"
 provider = "Function Loops"
+samples_listed = 166  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

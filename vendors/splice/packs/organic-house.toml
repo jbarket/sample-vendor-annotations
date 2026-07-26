@@ -9,6 +9,7 @@ dir  = "Organic House"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/organic-house-zenhiser"
 provider = "Zenhiser"
+samples_listed = 452  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"

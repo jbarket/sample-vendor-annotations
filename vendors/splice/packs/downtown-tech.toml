@@ -9,6 +9,7 @@ dir  = "Downtown Tech"
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/bingoshakerz/bingoshakerz-downtown-tech"
 provider = "Bingoshakerz"
+samples_listed = 220  # per Splice; local dirs are partial downloads
 
 [meta]
 type  = "product"
