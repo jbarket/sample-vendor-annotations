@@ -5,9 +5,14 @@
 name = "VP330 From Mars"
 slug = "vp330-from-mars"
 dir  = "VP330 From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/vp330-from-mars
+url  = "https://samplesfrommars.com/products/vp-330-from-mars"
 archives = ["vp330_from_mars.zip"]
 observed = 2026-07-18
+
+[meta]
+title = "VP-330 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/vp-330-art_grande.jpg?v=1542983250"
 
 [identity]
 algo        = "sha256-sorted-v1"

@@ -5,8 +5,13 @@
 name = "Databenders_Toolkit - Samples From Mars"
 slug = "databenders-toolkit-samples-from-mars"
 dir  = "Databenders_Toolkit - Samples From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/databenders-toolkit-samples-from-mars
+url  = "https://samplesfrommars.com/products/databenders_toolkit"
 observed = 2026-07-18
+
+[meta]
+title = "DATABENDERS_TOOLKIT"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/image_grande.png?v=1542983217"
 
 [identity]
 algo        = "sha256-sorted-v1"

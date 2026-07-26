@@ -1,13 +1,20 @@
 # Generated stub — [pack]/[identity] are computed; add [meta] from the
 # product page and grow the [[dir]] map from the skeleton below.
+# Local copy is the collected series (909 Tube Kit, Ampeg 808, LM1, Model200);
+# vendor now sells kits separately — url points at the collection.
 
 [pack]
 name = "Sample Journal From Mars"
 slug = "sample-journal-from-mars"
 dir  = "Sample Journal From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/sample-journal-from-mars
+url  = "https://samplesfrommars.com/collections/sample-journal"
 archives = ["sample_journal_from_mars.zip"]
 observed = 2026-07-18
+
+[meta]
+title = "Sample Journal"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/t/206/assets/logo.png?v=4976552338449183691780509477"
 
 [identity]
 algo        = "sha256-sorted-v1"

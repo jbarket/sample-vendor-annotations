@@ -5,9 +5,14 @@
 name = "Drumtrax From Mars"
 slug = "drumtrax-from-mars"
 dir  = "Drumtrax From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/drumtrax-from-mars
+url  = "https://samplesfrommars.com/products/drumtrax-samples"
 archives = ["drumtrax_from_mars.zip"]
 observed = 2026-07-18
+
+[meta]
+title = "DRUMTRAX FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Drumtrax_small_0760db67-d5e8-44b3-b69b-a14a1a401d8a_grande.jpg?v=1416413428"
 
 [identity]
 algo        = "sha256-sorted-v1"

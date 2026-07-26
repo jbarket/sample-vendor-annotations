@@ -5,8 +5,13 @@
 name = "Modular Creations From Mars"
 slug = "modular-creations-from-mars"
 dir  = "Modular Creations From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/modular-creations-from-mars
+url  = "https://samplesfrommars.com/products/modular-creations"
 observed = 2026-07-18
+
+[meta]
+title = "MODULAR CREATIONS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/Modular-Creations-Art_grande.jpg?v=1474579511"
 
 [identity]
 algo        = "sha256-sorted-v1"

@@ -5,9 +5,14 @@
 name = "Arp Omni From Mars"
 slug = "arp-omni-from-mars"
 dir  = "Arp Omni From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/arp-omni-from-mars
+url  = "https://samplesfrommars.com/products/arp-omni-synth"
 archives = ["arp_omni_from_mars.zip"]
 observed = 2026-07-18
+
+[meta]
+title = "ARP OMNI FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/ARPOMNI_grande.jpg?v=1542983216"
 
 [identity]
 algo        = "sha256-sorted-v1"

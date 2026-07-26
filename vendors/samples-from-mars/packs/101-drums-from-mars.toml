@@ -5,8 +5,13 @@
 name = "101 Drums From Mars"
 slug = "101-drums-from-mars"
 dir  = "101 Drums From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/101-drums-from-mars
+url  = "https://samplesfrommars.com/products/free-101-drums-from-mars"
 observed = 2026-07-18
+
+[meta]
+title = "101 DRUMS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/101-drums_grande.jpg?v=1542983201"
 
 [identity]
 algo        = "sha256-sorted-v1"

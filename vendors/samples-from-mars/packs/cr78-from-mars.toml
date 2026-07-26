@@ -5,9 +5,14 @@
 name = "CR78 From Mars"
 slug = "cr78-from-mars"
 dir  = "CR78 From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/cr78-from-mars
+url  = "https://samplesfrommars.com/products/cr-78-samples"
 archives = ["cr78_from_mars.zip"]
 observed = 2026-07-18
+
+[meta]
+title = "CR-78 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/CR78-samples_grande.jpg?v=1542983217"
 
 [identity]
 algo        = "sha256-sorted-v1"

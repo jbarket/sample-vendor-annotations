@@ -5,9 +5,14 @@
 name = "909 Loops From Mars"
 slug = "909-loops-from-mars"
 dir  = "909 Loops From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/909-loops-from-mars
+url  = "https://samplesfrommars.com/products/909-loops"
 archives = ["909_loops_from_mars.zip"]
 observed = 2026-07-18
+
+[meta]
+title = "909 LOOPS FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/909-loops-art_grande.jpg?v=1542983210"
 
 [identity]
 algo        = "sha256-sorted-v1"

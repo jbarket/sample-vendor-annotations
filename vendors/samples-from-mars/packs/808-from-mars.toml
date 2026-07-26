@@ -5,9 +5,14 @@
 name = "808 From Mars"
 slug = "808-from-mars"
 dir  = "808 From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/808-from-mars
+url  = "https://samplesfrommars.com/products/tr-808-samples"
 archives = ["808-from-mars.zip"]
 observed = 2026-07-18
+
+[meta]
+title = "808 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/808_grande.jpg?v=1542983208"
 
 [identity]
 algo        = "sha256-sorted-v1"

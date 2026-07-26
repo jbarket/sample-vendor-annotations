@@ -5,9 +5,14 @@
 name = "SP1200 From Mars"
 slug = "sp1200-from-mars"
 dir  = "SP1200 From Mars"
-# url guess (unverified): https://samplesfrommars.com/products/sp1200-from-mars
+url  = "https://samplesfrommars.com/products/sp-1200-from-mars"
 archives = ["sp1200_from_mars.zip"]
 observed = 2026-07-18
+
+[meta]
+title = "SP 1200 FROM MARS"
+type  = "product"
+image = "https://samplesfrommars.com/cdn/shop/products/SP1200_grande.jpg?v=1456598182"
 
 [identity]
 algo        = "sha256-sorted-v1"
