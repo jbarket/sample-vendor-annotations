@@ -105,6 +105,11 @@ archives = ["acid_from_mars.zip"]  # download names as the vendor ships them —
 provider = "Sample Tools by Cr2"   # for distributor vendors (Splice): the
                                    # label the pack is BY; omit when the
                                    # vendor is the label
+samples_listed = 315               # the vendor's own sample count — the
+                                   # honest denominator when local copies
+                                   # are partial (Splice downloads
+                                   # per-sample); omit for unzip-the-whole-
+                                   # pack vendors
 ```
 
 ### [meta] — display metadata, og:-style
