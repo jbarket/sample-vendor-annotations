@@ -6,6 +6,7 @@
 name = "Vocal Pop House 2"
 slug = "vocal-pop-house-2"
 dir  = "Vocal Pop House 2"
+tags = ["edm", "pop", "vocal", "male", "pitched", "chorus"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/dropgun-samples/vocal-pop-house-2"
 provider = "Dropgun Samples"

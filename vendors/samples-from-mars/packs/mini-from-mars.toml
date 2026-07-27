@@ -7,6 +7,7 @@ slug = "mini-from-mars"
 dir  = "Mini From Mars"
 url  = "https://samplesfrommars.com/products/mini-from-mars"
 archives = ["mini_from_mars.zip"]
+tags = ["analog", "synth", "modern"]
 observed = 2026-07-18
 
 [meta]

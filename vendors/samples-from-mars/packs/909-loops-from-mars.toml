@@ -7,6 +7,7 @@ slug = "909-loops-from-mars"
 dir  = "909 Loops From Mars"
 url  = "https://samplesfrommars.com/products/909-loops"
 archives = ["909_loops_from_mars.zip"]
+tags = ["909", "analog", "drum-machine", "loops", "roland-tr"]
 observed = 2026-07-18
 
 [meta]

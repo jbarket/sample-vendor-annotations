@@ -6,6 +6,7 @@
 name = "Dominic Davis Low and Inside Bass Sample Pack"
 slug = "dominic-davis-low-and-inside-bass-sample-pack"
 dir  = "Dominic Davis Low and Inside Bass Sample Pack"
+tags = ["bass", "jazz", "rock", "funk", "electric"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/dominic-davis-pack"
 provider = "Splice"

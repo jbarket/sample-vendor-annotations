@@ -6,6 +6,7 @@
 name = "Lo-Fi Techno 2"
 slug = "lo-fi-techno-2"
 dir  = "Lo-Fi Techno 2"
+tags = ["techno", "minimal-techno", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/sm224-lo-fi-techno-2"
 provider = "Sample Magic"

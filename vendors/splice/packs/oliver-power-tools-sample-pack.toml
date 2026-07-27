@@ -6,6 +6,7 @@
 name = "Oliver: Power Tools Sample Pack"
 slug = "oliver-power-tools-sample-pack"
 dir  = "Oliver Power Tools Sample Pack"
+tags = ["disco", "funk", "pop", "drums", "synth", "bass"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/oliver-power-tools"
 provider = "Splice"

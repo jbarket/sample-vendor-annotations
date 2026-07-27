@@ -7,6 +7,7 @@ slug = "dmx-from-mars"
 dir  = "DMX From Mars"
 url  = "https://samplesfrommars.com/products/dmx-from-mars"
 archives = ["dmx_from_mars.zip"]
+tags = ["8bit", "80s", "drums", "digital", "drum-machine"]
 observed = 2026-07-18
 
 [meta]

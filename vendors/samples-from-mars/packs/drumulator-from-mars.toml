@@ -7,6 +7,7 @@ slug = "drumulator-from-mars"
 dir  = "Drumulator From Mars"
 url  = "https://samplesfrommars.com/products/drumulator-from-mars"
 archives = ["drumulator_from_mars.zip"]
+tags = ["12bit", "80s", "drums", "digital", "drum-machine"]
 observed = 2026-07-18
 
 [meta]

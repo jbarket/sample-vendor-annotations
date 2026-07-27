@@ -6,6 +6,7 @@
 name = "Revolution"
 slug = "revolution"
 dir  = "Revolution"
+tags = ["disco", "retro", "70s", "electric"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/discotheque/revolution"
 provider = "Discotheque"

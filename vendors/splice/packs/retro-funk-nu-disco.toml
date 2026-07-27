@@ -6,6 +6,7 @@
 name = "Retro Funk & Nu-Disco"
 slug = "retro-funk-nu-disco"
 dir  = "Retro Funk & Nu-Disco"
+tags = ["funk", "pop", "nu-disco", "vocal"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/vox/retro-funk-and-nu-disco"
 provider = "VOX"

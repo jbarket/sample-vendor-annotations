@@ -6,6 +6,7 @@
 name = "Dark Modular Techno"
 slug = "dark-modular-techno"
 dir  = "Dark Modular Techno"
+tags = ["techno", "synth", "modular", "drums", "percussion"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/orbit-sounds/dark-modular-techno"
 provider = "Orbit Sounds"

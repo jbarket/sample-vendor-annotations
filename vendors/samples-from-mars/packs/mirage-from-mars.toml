@@ -7,6 +7,7 @@ slug = "mirage-from-mars"
 dir  = "Mirage From Mars"
 url  = "https://samplesfrommars.com/products/mirage-from-mars"
 archives = ["mirage_from_mars.zip"]
+tags = ["8bit", "80s", "synth", "acoustic", "analog", "digital"]
 observed = 2026-07-18
 
 [meta]

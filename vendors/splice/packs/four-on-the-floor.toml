@@ -6,6 +6,7 @@
 name = "Four on the Floor"
 slug = "four-on-the-floor"
 dir  = "Four on the Floor"
+tags = ["disco", "nu-disco", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/discotheque/four-on-the-floor"
 provider = "Discotheque"

@@ -6,6 +6,7 @@
 name = "Peaktime - Driving Techno"
 slug = "peaktime-driving-techno"
 dir  = "Peaktime - Driving Techno"
+tags = ["techno", "hard-techno", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/peaktime-driving-techno"
 provider = "Zenhiser"

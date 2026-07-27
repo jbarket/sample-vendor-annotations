@@ -6,6 +6,7 @@
 name = "90s Rave"
 slug = "90s-rave"
 dir  = "90s Rave"
+tags = ["rave", "acid-house", "90s", "techno", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-tools-by-cr2/90srave"
 provider = "Sample Tools by Cr2"

@@ -6,6 +6,7 @@
 name = "Indie Rocker"
 slug = "indie-rocker"
 dir  = "Indie Rocker"
+tags = ["drums", "live-sounds", "rock", "indie", "indie-rock", "groove"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/that-sound/indie-rocker"
 provider = "That Sound"

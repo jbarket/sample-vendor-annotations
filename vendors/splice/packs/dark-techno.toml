@@ -6,6 +6,7 @@
 name = "Dark Techno"
 slug = "dark-techno"
 dir  = "Dark Techno"
+tags = ["techno", "minimal", "tech-house", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/audentity/audentity-dark-techno"
 provider = "Audentity Records"

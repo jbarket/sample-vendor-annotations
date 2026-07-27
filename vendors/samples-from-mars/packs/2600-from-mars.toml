@@ -7,6 +7,7 @@ slug = "2600-from-mars"
 dir  = "2600 From Mars"
 url  = "https://samplesfrommars.com/products/2600-from-mars"
 archives = ["2600_from_mars.zip"]
+tags = ["70s", "synth", "analog", "arp", "modular", "percussion"]
 observed = 2026-07-18
 
 [meta]

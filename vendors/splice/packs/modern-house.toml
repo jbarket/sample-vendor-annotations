@@ -6,6 +6,7 @@
 name = "Modern House"
 slug = "modern-house"
 dir  = "Modern House"
+tags = ["deep-house", "house", "tech-house", "future-house", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/bingoshakerz/bs024_modern_house_wav-presets"
 provider = "Bingoshakerz"

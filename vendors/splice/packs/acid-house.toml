@@ -6,6 +6,7 @@
 name = "Acid House"
 slug = "acid-house"
 dir  = "Acid House"
+tags = ["electro", "house", "techno", "acid-house", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/acid-house"
 provider = "Sample Magic"

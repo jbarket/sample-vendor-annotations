@@ -7,6 +7,7 @@ slug = "minipops-snacks-from-mars"
 dir  = "Minipops Snacks From Mars"
 url  = "https://samplesfrommars.com/products/minipops-snacks-from-mars"
 archives = ["minipops_snacks_from_mars.zip"]
+tags = ["70s", "drums", "analog", "drum-machine", "loops", "snacks"]
 observed = 2026-07-18
 
 [meta]

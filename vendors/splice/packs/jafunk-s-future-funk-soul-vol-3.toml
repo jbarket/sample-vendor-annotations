@@ -6,6 +6,7 @@
 name = "Jafunk's Future Funk & Soul Vol. 3"
 slug = "jafunk-s-future-funk-soul-vol-3"
 dir  = "Jafunk's Future Funk & Soul Vol. 3"
+tags = ["house", "funk", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/jafunk-vol-3-pack"
 provider = "Splice"

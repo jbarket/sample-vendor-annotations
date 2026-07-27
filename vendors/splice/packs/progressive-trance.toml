@@ -6,6 +6,7 @@
 name = "Progressive Trance"
 slug = "progressive-trance"
 dir  = "Progressive Trance"
+tags = ["trance", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/sm-progressive-trance"
 provider = "Sample Magic"

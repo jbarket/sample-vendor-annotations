@@ -6,6 +6,7 @@
 name = "Pistols and Revolvers"
 slug = "pistols-and-revolvers"
 dir  = "Pistols and Revolvers"
+tags = ["fx", "cinematic", "gun", "gunshot", "warfare", "weapon", "firearm", "pistols-and-revolvers"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-pistol-and-revolver"
 provider = "Blastwave FX"

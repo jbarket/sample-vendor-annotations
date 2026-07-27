@@ -6,6 +6,7 @@
 name = "Jackin' Techno 2"
 slug = "jackin-techno-2"
 dir  = "Jackin' Techno 2"
+tags = ["techno", "drums", "percussion"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/jackin-techno-2"
 provider = "Sample Magic"

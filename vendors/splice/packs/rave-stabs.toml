@@ -6,6 +6,7 @@
 name = "Rave Stabs"
 slug = "rave-stabs"
 dir  = "Rave Stabs"
+tags = ["rave", "acid-house", "synth", "leads", "fx"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/shamanstems/rave-stabs"
 provider = "ShamanStems"

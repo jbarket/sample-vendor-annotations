@@ -6,6 +6,7 @@
 name = "Goosebumps - Slap House"
 slug = "goosebumps-slap-house"
 dir  = "Goosebumps - Slap House"
+tags = ["house", "slap-house", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/production-master/goosebumps-slap-house"
 provider = "Production Master"

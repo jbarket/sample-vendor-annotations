@@ -6,6 +6,7 @@
 name = "Berlin Techno"
 slug = "berlin-techno"
 dir  = "Berlin Techno"
+tags = ["techno", "minimal-techno", "hard-techno", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/four4-berlin-techno"
 provider = "Four4"

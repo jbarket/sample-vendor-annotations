@@ -6,6 +6,7 @@
 name = "Traditional Telephones"
 slug = "traditional-telephones"
 dir  = "Traditional Telephones"
+tags = ["fx", "cinematic", "phone", "telephone", "phones-and-mics", "machines-and-devices"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-traditional-telephones"
 provider = "Blastwave FX"

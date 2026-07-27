@@ -7,6 +7,7 @@ slug = "modern-oddities-from-mars"
 dir  = "Modern Oddities From Mars"
 url  = "https://samplesfrommars.com/products/modern-oddities-from-mars"
 archives = ["modern_oddities_from_mars.zip"]
+tags = ["digital", "drum-machine", "fx", "modern", "drums"]
 observed = 2026-07-18
 
 [meta]

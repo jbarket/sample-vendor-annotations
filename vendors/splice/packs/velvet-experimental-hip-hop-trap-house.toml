@@ -6,6 +6,7 @@
 name = "Velvet. - Experimental Hip Hop, Trap & House"
 slug = "velvet-experimental-hip-hop-trap-house"
 dir  = "Velvet. - Experimental Hip Hop, Trap & House"
+tags = ["house", "downtempo", "hip-hop", "trap", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/origin-sound/origin-sound-velvet"
 provider = "Origin Sound"

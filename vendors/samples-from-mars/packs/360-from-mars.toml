@@ -7,6 +7,7 @@ slug = "360-from-mars"
 dir  = "360 From Mars"
 url  = "https://samplesfrommars.com/products/360-from-mars"
 archives = ["360_from_mars.zip"]
+tags = ["80s", "synth", "analog", "lo-fi", "percussion"]
 observed = 2026-07-18
 
 [meta]

@@ -7,6 +7,7 @@ slug = "dr-bohm-from-mars"
 dir  = "Dr Bohm From Mars"
 url  = "https://samplesfrommars.com/products/dr-bohm-from-mars"
 archives = ["dr_bohm_from_mars.zip"]
+tags = ["12bit", "80s", "drums", "analog"]
 observed = 2026-07-18
 
 [meta]

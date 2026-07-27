@@ -6,6 +6,7 @@
 name = "Uplifting DnB"
 slug = "uplifting-dnb"
 dir  = "Uplifting DnB"
+tags = ["drum-and-bass", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/test-press/uplifting-dnb"
 provider = "Test Press"

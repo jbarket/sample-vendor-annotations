@@ -7,6 +7,7 @@ slug = "modular-drum-loops-from-mars"
 dir  = "Modular Drum Loops From Mars"
 url  = "https://samplesfrommars.com/products/modular-drum-loops-from-mars"
 archives = ["modular_drum_loops_from_mars.zip"]
+tags = ["analog", "digital", "fm", "loops", "modular"]
 observed = 2026-07-18
 
 [meta]

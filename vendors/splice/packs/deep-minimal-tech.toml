@@ -6,6 +6,7 @@
 name = "Deep Minimal Tech"
 slug = "deep-minimal-tech"
 dir  = "Deep Minimal Tech"
+tags = ["tech-house", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-tools-by-cr2/deep-minimal-tech-2"
 provider = "Sample Tools by Cr2"

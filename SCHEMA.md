@@ -192,6 +192,30 @@ This is where the free stuff comes from: **views by pack** (identity),
 any consumer that can walk a tree gets them without understanding the
 vendor's naming.
 
+## Tags — `tags.toml` and `[pack] tags`
+
+Canonical tag vocabulary lives at the repo root in `tags.toml`. The rules,
+in order:
+
+1. **Mechanical normalization first** (implemented by consumers, never by
+   alias entries): lowercase, non-alphanumerics collapse to `-`. Vendor
+   "House" and "house" are the same tag by construction.
+2. **`[aliases]`** — vendor phrasing → one or more canonical tags. For
+   compounds ("80s Drum Samples" → `80s` + `drums`), renames
+   (`lofi` → `lo-fi`), and plural/singular ("kicks" → `kick`).
+3. **`drop`** — glob patterns for vendor tags that describe compatibility
+   or store plumbing, not sound (`ableton*`, `mpc*`, `wav-samples`).
+
+Conventions: instrument pieces singular (`kick`, `snare`), families
+collective (`drums`, `percussion`), decades bare (`80s`), genres
+kebab-cased (`acid-house`).
+
+Pack files carry the RESULT: `tags = ["808", "80s", "drums"]` in `[pack]`
+is always canonical — harvest tooling translates before writing. A pack's
+tags are facts about the pack (like its title) and distribute; per-FILE
+vendor metadata (bpm, key, per-sample tags) is the vendor's database and
+stays in the consumer's local cache, never in this repo.
+
 ## What does not belong
 
 - Taste ("the good kicks are in folder X")

@@ -7,6 +7,7 @@ slug = "micro-from-mars"
 dir  = "Micro From Mars"
 url  = "https://samplesfrommars.com/products/micro-from-mars"
 archives = ["micro_from_mars.zip"]
+tags = ["70s", "synth", "analog"]
 observed = 2026-07-18
 
 [meta]

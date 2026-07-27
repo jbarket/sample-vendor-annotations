@@ -6,6 +6,7 @@
 name = "Big Room Techno"
 slug = "big-room-techno"
 dir  = "Big Room Techno"
+tags = ["techno", "hard-techno", "minimal-techno", "big-room-techno", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/big-room-techno"
 provider = "Four4"

@@ -6,6 +6,7 @@
 name = "\"Are We Dreaming\" Vocal Pack"
 slug = "are-we-dreaming-vocal-pack"
 dir  = "Are We Dreaming Vocal Pack"
+tags = ["live-sounds", "pop", "vocal", "female", "dry", "wet"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/are-we-dreaming-vocal-pack"
 provider = "Splice"

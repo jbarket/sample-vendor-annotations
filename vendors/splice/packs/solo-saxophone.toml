@@ -6,6 +6,7 @@
 name = "Solo Saxophone"
 slug = "solo-saxophone"
 dir  = "Solo Saxophone"
+tags = ["live-sounds", "brass-woodwinds", "saxophone", "jazz", "funk", "riffs"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sonic-collective/sc_solo_saxophone"
 provider = "Sonic Collective"

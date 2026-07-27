@@ -6,6 +6,7 @@
 name = "Advanced Game Sounds"
 slug = "advanced-game-sounds"
 dir  = "Advanced Game Sounds"
+tags = ["fx", "cinematic", "game-audio", "positive"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/epic-stock-media/esm-advanced-game-sounds"
 provider = "Epic Stock Media"

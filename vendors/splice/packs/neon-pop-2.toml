@@ -6,6 +6,7 @@
 name = "Neon Pop 2"
 slug = "neon-pop-2"
 dir  = "Neon Pop 2"
+tags = ["pop", "synthwave", "synth-pop", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/neon-pop-2"
 provider = "Sample Magic"

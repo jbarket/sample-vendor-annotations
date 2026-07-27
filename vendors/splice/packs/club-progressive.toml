@@ -6,6 +6,7 @@
 name = "Club Progressive"
 slug = "club-progressive"
 dir  = "Club Progressive"
+tags = ["house", "progressive-house", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/club-progressive"
 provider = "Four4"

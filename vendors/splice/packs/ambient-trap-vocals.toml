@@ -6,6 +6,7 @@
 name = "Ambient Trap Vocals"
 slug = "ambient-trap-vocals"
 dir  = "Ambient Trap Vocals"
+tags = ["trap", "rnb", "pop", "vocal", "female", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/91vocals/ambient-trap-vocals"
 provider = "91Vocals"

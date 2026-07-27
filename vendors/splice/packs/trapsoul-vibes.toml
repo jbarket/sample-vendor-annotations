@@ -6,6 +6,7 @@
 name = "TRAPSOUL VIBES"
 slug = "trapsoul-vibes"
 dir  = "TRAPSOUL VIBES"
+tags = ["soul", "trap", "rnb", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/origin-sound/trapsoul-vibes"
 provider = "Origin Sound"

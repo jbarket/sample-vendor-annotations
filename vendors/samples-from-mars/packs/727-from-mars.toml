@@ -7,6 +7,7 @@ slug = "727-from-mars"
 dir  = "727 From Mars"
 url  = "https://samplesfrommars.com/products/727-from-mars"
 archives = ["727_from_mars.zip"]
+tags = ["12bit", "80s", "drums", "digital", "drum-machine", "roland-tr"]
 observed = 2026-07-18
 
 [meta]

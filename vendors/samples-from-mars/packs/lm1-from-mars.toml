@@ -7,6 +7,7 @@ slug = "lm1-from-mars"
 dir  = "LM1 From Mars"
 url  = "https://samplesfrommars.com/products/lm1-from-mars"
 archives = ["lm1_from_mars.zip"]
+tags = ["80s", "drums", "digital", "drum-machine"]
 observed = 2026-07-18
 
 [meta]

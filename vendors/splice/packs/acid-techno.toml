@@ -6,6 +6,7 @@
 name = "Acid Techno"
 slug = "acid-techno"
 dir  = "Acid Techno"
+tags = ["techno", "acid", "minimal-techno", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/acid-techno"
 provider = "Four4"

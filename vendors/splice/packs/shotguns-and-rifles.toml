@@ -6,6 +6,7 @@
 name = "Shotguns and Rifles"
 slug = "shotguns-and-rifles"
 dir  = "Shotguns and Rifles"
+tags = ["fx", "cinematic", "gun", "warfare", "weapon", "hunting", "firearm", "shotguns-and-rifles"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-shotgun-and-rifle"
 provider = "Blastwave FX"

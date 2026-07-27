@@ -6,6 +6,7 @@
 name = "Spiral - Psytrance"
 slug = "spiral-psytrance"
 dir  = "Spiral - Psytrance"
+tags = ["trance", "psy-trance", "synth", "drums", "wet"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/spiral-psytrance-zenhiser"
 provider = "Zenhiser"

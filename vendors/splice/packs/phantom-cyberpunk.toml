@@ -6,6 +6,7 @@
 name = "Phantom Cyberpunk"
 slug = "phantom-cyberpunk"
 dir  = "Phantom Cyberpunk"
+tags = ["synthwave", "synth-pop", "tearout-dubstep", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/audentity/phantom-cyberpunk"
 provider = "Audentity Records"

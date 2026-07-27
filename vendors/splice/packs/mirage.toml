@@ -6,6 +6,7 @@
 name = "Mirage"
 slug = "mirage"
 dir  = "Mirage"
+tags = ["hip-hop", "soul", "rnb", "synth", "wet"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/soul-surplus/mirage"
 provider = "Soul Surplus"

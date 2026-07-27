@@ -6,6 +6,7 @@
 name = "Obsidian - Industrial Trance"
 slug = "obsidian-industrial-trance"
 dir  = "Obsidian - Industrial Trance"
+tags = ["trance", "industrial", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/parallax/obsidian-industrial-trance"
 provider = "Parallax"

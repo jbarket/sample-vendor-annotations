@@ -6,6 +6,7 @@
 name = "Melodic Techno"
 slug = "melodic-techno"
 dir  = "Melodic Techno"
+tags = ["techno", "trance", "melodic-techno", "drums", "hard-techno", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/four4-melodic-techno"
 provider = "Four4"

@@ -6,6 +6,7 @@
 name = "Night Drive 2: Retrowave Essentials"
 slug = "night-drive-2-retrowave-essentials"
 dir  = "Night Drive 2 Retrowave Essentials"
+tags = ["synthwave", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/neon-wave/night-drive-2-retrowave-essentials"
 provider = "Neon Wave"

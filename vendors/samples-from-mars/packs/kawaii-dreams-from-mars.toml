@@ -7,6 +7,7 @@ slug = "kawaii-dreams-from-mars"
 dir  = "Kawaii Dreams From Mars"
 url  = "https://samplesfrommars.com/products/kawaii-dreams-from-mars"
 archives = ["kawaii_dreams_from_mars.zip"]
+tags = ["8bit", "80s", "synth", "analog", "digital", "lo-fi"]
 observed = 2026-07-18
 
 [meta]

@@ -6,6 +6,7 @@
 name = "Aperture - Trance Essentials"
 slug = "aperture-trance-essentials"
 dir  = "Aperture - Trance Essentials"
+tags = ["trance", "psy-trance", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/parallax/aperture-trance-essentials"
 provider = "Parallax"

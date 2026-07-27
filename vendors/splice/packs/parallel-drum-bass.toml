@@ -6,6 +6,7 @@
 name = "Parallel - Drum & Bass"
 slug = "parallel-drum-bass"
 dir  = "Parallel - Drum & Bass"
+tags = ["drum-and-bass", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/parallel-drum-and-bass"
 provider = "Zenhiser"

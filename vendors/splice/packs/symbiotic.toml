@@ -6,6 +6,7 @@
 name = "Symbiotic"
 slug = "symbiotic"
 dir  = "Symbiotic"
+tags = ["drum-and-bass", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/symbiotic"
 provider = "Zenhiser"

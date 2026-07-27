@@ -6,6 +6,7 @@
 name = "NYC Rhythms"
 slug = "nyc-rhythms"
 dir  = "NYC Rhythms"
+tags = ["drums", "disco", "breaks", "groove", "fill"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/touch-loops/nyc-rhythms"
 provider = "Touch Loops"

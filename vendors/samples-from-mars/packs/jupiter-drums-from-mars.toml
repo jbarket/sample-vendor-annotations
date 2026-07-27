@@ -7,6 +7,7 @@ slug = "jupiter-drums-from-mars"
 dir  = "Jupiter Drums From Mars"
 url  = "https://samplesfrommars.com/products/jupiter-drums-from-mars"
 archives = ["jupiter_drums_from_mars.zip"]
+tags = ["70s", "drums", "synth", "80s", "analog"]
 observed = 2026-07-18
 
 [meta]

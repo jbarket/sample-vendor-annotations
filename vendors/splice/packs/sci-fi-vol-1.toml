@@ -6,6 +6,7 @@
 name = "Sci-Fi Vol. 1"
 slug = "sci-fi-vol-1"
 dir  = "Sci-Fi Vol. 1"
+tags = ["fx", "cinematic", "science-fiction", "beeps"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-sci-fi-vol-1"
 provider = "Blastwave FX"

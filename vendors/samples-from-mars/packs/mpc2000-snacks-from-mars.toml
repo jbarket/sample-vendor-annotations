@@ -7,6 +7,7 @@ slug = "mpc2000-snacks-from-mars"
 dir  = "MPC2000 Snacks From Mars"
 url  = "https://samplesfrommars.com/products/mpc2000-snacks-from-mars"
 archives = ["mpc2000_snacks_from_mars.zip"]
+tags = ["drum-machine", "snacks", "drums"]
 observed = 2026-07-18
 
 [meta]

@@ -6,6 +6,7 @@
 name = "Sci-fi Evolution"
 slug = "sci-fi-evolution"
 dir  = "Sci-fi Evolution"
+tags = ["fx", "cinematic", "game-audio", "pickup", "mechanical"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/epic-stock-media/esm-sci-fi-evolution"
 provider = "Epic Stock Media"

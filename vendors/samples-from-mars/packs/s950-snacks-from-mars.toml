@@ -7,6 +7,7 @@ slug = "s950-snacks-from-mars"
 dir  = "S950 Snacks From Mars"
 url  = "https://samplesfrommars.com/products/s950-snacks-from-mars"
 archives = ["s950_snacks_from_mars.zip"]
+tags = ["12bit", "80s", "drums", "analog", "drum-machine", "modern", "snacks", "drum-synth-samples"]
 observed = 2026-07-18
 
 [meta]

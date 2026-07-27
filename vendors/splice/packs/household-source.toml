@@ -6,6 +6,7 @@
 name = "Household Source"
 slug = "household-source"
 dir  = "Household Source"
+tags = ["fx", "cinematic", "foley", "indoor", "household", "kitchen"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/epic-stock-media/esm-household-source"
 provider = "Epic Stock Media"

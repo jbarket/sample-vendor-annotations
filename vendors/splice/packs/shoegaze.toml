@@ -6,6 +6,7 @@
 name = "Shoegaze"
 slug = "shoegaze"
 dir  = "Shoegaze"
+tags = ["indie-electronic", "indie", "shoegaze", "indie-rock", "drums", "electric"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/shoegaze"
 provider = "Sample Magic"

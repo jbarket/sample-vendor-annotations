@@ -6,6 +6,7 @@
 name = "Hard Trap"
 slug = "hard-trap"
 dir  = "Hard Trap"
+tags = ["edm", "trap-edm", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-tools-by-cr2/hard-trap-2"
 provider = "Sample Tools by Cr2"

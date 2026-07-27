@@ -6,6 +6,7 @@
 name = "Tech House 2"
 slug = "tech-house-2"
 dir  = "Tech House 2"
+tags = ["house", "tech-house", "funky-house", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/spinnin-records/tech-house-2-2"
 provider = "Spinnin' Records"

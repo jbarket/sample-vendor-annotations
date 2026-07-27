@@ -7,6 +7,7 @@ slug = "recodrum-from-mars"
 dir  = "Recodrum From Mars"
 url  = "https://samplesfrommars.com/products/recodrum-from-mars"
 archives = ["recodrum_from_mars.zip"]
+tags = ["analog", "drum-machine", "drum-synth", "modern", "drums"]
 observed = 2026-07-18
 
 [meta]

@@ -6,6 +6,7 @@
 name = "50/50 Halftime Beats"
 slug = "5050-halftime-beats"
 dir  = "5050 Halftime Beats"
+tags = ["downtempo", "leftfield-bass", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/test-press/50-50-halftime-beats"
 provider = "Test Press"

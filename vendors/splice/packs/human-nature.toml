@@ -6,6 +6,7 @@
 name = "Human Nature"
 slug = "human-nature"
 dir  = "Human Nature"
+tags = ["cinematic", "game-audio", "vocal", "dialogue", "fx", "foley", "male", "vocalizations"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/field-foley/human-nature"
 provider = "Field & Foley"

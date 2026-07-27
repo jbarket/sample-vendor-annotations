@@ -6,6 +6,7 @@
 name = "LAUT 'Drum & Bass Toolkit'"
 slug = "laut-drum-bass-toolkit"
 dir  = "Laut 'Drum & Bass Toolkit'"
+tags = ["drum-and-bass", "jungle", "bass-music", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/test-press/laut-drum-and-bass-toolkit"
 provider = "Test Press"

@@ -7,6 +7,7 @@
 name = "Grit - Tech House"
 slug = "grit-tech-house"
 dir  = "Grit - Tech House"
+tags = ["synth", "deep-house", "techno", "tech-house", "future-house", "chords", "stabs"]
 observed = 2026-07-26
 
 [identity]

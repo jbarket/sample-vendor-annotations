@@ -6,6 +6,7 @@ name = "Modular Creations From Mars"
 slug = "modular-creations-from-mars"
 dir  = "Modular Creations From Mars"
 url  = "https://samplesfrommars.com/products/modular-creations"
+tags = ["analog", "synth", "digital", "loops", "modern", "modular"]
 observed = 2026-07-18
 
 [meta]

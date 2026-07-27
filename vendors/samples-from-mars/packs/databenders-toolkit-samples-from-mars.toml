@@ -6,6 +6,7 @@ name = "Databenders_Toolkit - Samples From Mars"
 slug = "databenders-toolkit-samples-from-mars"
 dir  = "Databenders_Toolkit - Samples From Mars"
 url  = "https://samplesfrommars.com/products/databenders_toolkit"
+tags = ["databending", "digital", "fx", "weird"]
 observed = 2026-07-18
 
 [meta]

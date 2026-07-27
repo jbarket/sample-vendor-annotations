@@ -7,6 +7,7 @@ slug = "linn60-from-mars"
 dir  = "Linn60 From Mars"
 url  = "https://samplesfrommars.com/products/linn60-from-mars"
 archives = ["linn60_from_mars.zip"]
+tags = ["12bit", "8bit", "80s", "drums", "drum-machine"]
 observed = 2026-07-18
 
 [meta]

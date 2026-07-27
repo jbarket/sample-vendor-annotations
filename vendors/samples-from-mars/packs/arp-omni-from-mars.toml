@@ -7,6 +7,7 @@ slug = "arp-omni-from-mars"
 dir  = "Arp Omni From Mars"
 url  = "https://samplesfrommars.com/products/arp-omni-synth"
 archives = ["arp_omni_from_mars.zip"]
+tags = ["70s", "synth", "analog", "arp"]
 observed = 2026-07-18
 
 [meta]

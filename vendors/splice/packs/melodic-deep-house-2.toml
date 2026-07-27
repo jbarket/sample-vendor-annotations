@@ -6,6 +6,7 @@
 name = "Melodic Deep House 2"
 slug = "melodic-deep-house-2"
 dir  = "Melodic Deep House 2"
+tags = ["deep-house", "vocal", "female"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/dropgun-samples/melodic-deep-house-2"
 provider = "Dropgun Samples"

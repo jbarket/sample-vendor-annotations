@@ -7,6 +7,7 @@ slug = "mpc60-from-mars"
 dir  = "MPC60 From Mars"
 url  = "https://samplesfrommars.com/products/mpc60-from-mars"
 archives = ["mpc60_from_mars.zip"]
+tags = ["12bit", "digital", "drum-machine", "drums"]
 observed = 2026-07-18
 
 [meta]

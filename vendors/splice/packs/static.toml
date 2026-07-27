@@ -6,6 +6,7 @@
 name = "Static"
 slug = "static"
 dir  = "Static"
+tags = ["fx", "ambient", "cinematic", "downtempo", "field-recordings", "textures", "noise", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/modeaudio/mode-audio-static"
 provider = "ModeAudio"

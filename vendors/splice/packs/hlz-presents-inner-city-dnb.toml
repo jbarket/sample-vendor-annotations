@@ -6,6 +6,7 @@
 name = "HLZ Presents Inner City DnB"
 slug = "hlz-presents-inner-city-dnb"
 dir  = "HLZ Presents Inner City DnB"
+tags = ["drum-and-bass", "bass-music", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/test-press/hlz-presents-inner-city-dnb"
 provider = "Test Press"

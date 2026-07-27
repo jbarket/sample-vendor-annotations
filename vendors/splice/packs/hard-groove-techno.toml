@@ -6,6 +6,7 @@
 name = "Hard Groove Techno"
 slug = "hard-groove-techno"
 dir  = "Hard Groove Techno"
+tags = ["techno", "hard-techno", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/hard-groove-techno"
 provider = "Black Octopus"

@@ -6,6 +6,7 @@
 name = "Stealth Game"
 slug = "stealth-game"
 dir  = "Stealth Game"
+tags = ["fx", "game-audio", "foley"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/epic-stock-media/stealth-game"
 provider = "Epic Stock Media"

@@ -7,6 +7,7 @@ slug = "s612-from-mars"
 dir  = "S612 From Mars"
 url  = "https://samplesfrommars.com/products/s612-from-mars"
 archives = ["s612_from_mars.zip"]
+tags = ["12bit", "acoustic", "analog", "synth", "drum-synth-samples"]
 observed = 2026-07-18
 
 [meta]

@@ -6,6 +6,7 @@
 name = "Game Weapons"
 slug = "game-weapons"
 dir  = "Game Weapons"
+tags = ["cinematic", "game-audio", "fx", "foley", "weapon", "gunshot"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/epic-stock-media/game-weapons"
 provider = "Epic Stock Media"

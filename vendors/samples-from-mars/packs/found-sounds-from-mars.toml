@@ -7,6 +7,7 @@ slug = "found-sounds-from-mars"
 dir  = "Found Sounds From Mars"
 url  = "https://samplesfrommars.com/products/found-sounds-from-mars"
 archives = ["found_sounds_from_mars.zip"]
+tags = ["acoustic", "foley", "weird", "fx"]
 observed = 2026-07-18
 
 [meta]

@@ -6,6 +6,7 @@
 name = "Clubbin Tech House"
 slug = "clubbin-tech-house"
 dir  = "Clubbin Tech House"
+tags = ["house", "tech-house", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/clubbin-tech-house"
 provider = "Four4"

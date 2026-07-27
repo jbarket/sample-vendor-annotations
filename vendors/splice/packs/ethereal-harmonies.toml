@@ -6,6 +6,7 @@
 name = "Ethereal Harmonies"
 slug = "ethereal-harmonies"
 dir  = "Ethereal Harmonies"
+tags = ["vocal", "ambient", "female", "rnb", "pop", "experimental", "dry", "adlib"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/touch-loops/ethereal-harmonies"
 provider = "Touch Loops"

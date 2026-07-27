@@ -1,0 +1,57 @@
+# Canonical tag vocabulary + vendor-tag translation.
+#
+# Canonical form is MECHANICAL first: lowercase, non-alphanumerics collapse
+# to "-" (so SFM "House" and Splice "house" can never fork over a capital
+# letter — code does this, this file never needs a case alias).
+# This file handles what mechanics can't:
+#
+#   [aliases]  vendor phrasing → one or more canonical tags
+#              ("80s Drum Samples" is really two facts: 80s + drums)
+#   drop       vendor tags that aren't about the SOUND (DAW/format
+#              compatibility, store plumbing) — glob patterns
+#
+# Conventions: instrument pieces are singular (kick, snare, hat, clap);
+# families stay collective (drums, percussion, synth). Decades are bare
+# ("80s"). Genres keep their common name, kebab-cased ("acid-house").
+# Observed from real vendor data 2026-07-26 (SFM Shopify tags, Splice
+# taxonomy labels); extend as new vendors show up.
+
+drop = [
+  "ableton*", "kontakt*", "logic*", "reason*", "fl-studio", "battery*",
+  "maschine", "mpc*", "sfz", "rex*", "apple-loops", "wav-samples",
+  "wav-loops", "free", "rompler", "samplers",
+]
+
+[aliases]
+# SFM compound tags → their component facts
+"80s-drum-samples" = ["80s", "drums"]
+"70s-drum-samples" = ["70s", "drums"]
+"modern-drum-samples" = ["modern", "drums"]
+"drum-machine-samples" = ["drum-machine"]
+"drum-machine-loops" = ["drum-machine", "loops"]
+"rhythm-boxes" = ["drum-machine"]
+"analog-synths" = ["analog", "synth"]
+"80s-synths" = ["80s", "synth"]
+"70s-synths" = ["70s", "synth"]
+"drum-synths" = ["drum-synth"]
+"synth-percussion" = ["synth", "percussion"]
+"12-bit" = ["12bit"]
+"8-bit" = ["8bit"]
+"lofi" = ["lo-fi"]
+"tr" = ["roland-tr"]
+"fm-synthesis" = ["fm"]
+# SFM product "type" values, harvested as tags
+"drum-samples" = ["drums"]
+"synth-samples" = ["synth"]
+"drum-and-synth-samples" = ["drums", "synth"]
+# Splice instrument plurals → singular pieces
+"kicks" = ["kick"]
+"snares" = ["snare"]
+"hats" = ["hat"]
+"claps" = ["clap"]
+"cymbals" = ["cymbal"]
+"toms" = ["tom"]
+"vocals" = ["vocal"]
+"grooves" = ["groove"]
+"fills" = ["fill"]
+"one-shots" = ["one-shot"]

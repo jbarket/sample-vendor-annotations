@@ -6,6 +6,7 @@
 name = "Dirt"
 slug = "dirt"
 dir  = "Dirt"
+tags = ["house", "techno", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/audiotent/dirt"
 provider = "Audiotent"

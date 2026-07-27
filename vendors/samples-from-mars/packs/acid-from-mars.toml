@@ -8,6 +8,7 @@ slug = "acid-from-mars"
 dir  = "Acid From Mars"
 url  = "https://samplesfrommars.com/products/acid-from-mars"
 archives = ["acid_from_mars.zip"]
+tags = ["analog", "synth", "loops"]
 observed = 2026-07-18
 
 [meta]

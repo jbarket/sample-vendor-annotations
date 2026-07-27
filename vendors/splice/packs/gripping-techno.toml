@@ -6,6 +6,7 @@
 name = "Gripping Techno"
 slug = "gripping-techno"
 dir  = "Gripping Techno"
+tags = ["techno", "hard-techno", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/gripping-techno"
 provider = "Four4"

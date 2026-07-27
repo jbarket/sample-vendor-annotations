@@ -6,6 +6,7 @@
 name = "Studio Essentials - Deep House"
 slug = "studio-essentials-deep-house"
 dir  = "Studio Essentials - Deep House"
+tags = ["deep-house", "house", "drums", "groove", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/studio-essentials-deep-house"
 provider = "Zenhiser"

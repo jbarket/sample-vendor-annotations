@@ -7,6 +7,7 @@ slug = "lin-loops-from-mars"
 dir  = "Lin Loops From Mars"
 url  = "https://samplesfrommars.com/products/lin-loops-from-mars"
 archives = ["lin_loops_from_mars.zip"]
+tags = ["8bit", "80s", "drums", "drum-machine", "loops"]
 observed = 2026-07-18
 
 [meta]

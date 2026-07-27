@@ -7,6 +7,7 @@ slug = "lindrum-from-mars"
 dir  = "Lindrum From Mars"
 url  = "https://samplesfrommars.com/products/lindrum-from-mars"
 archives = ["lindrum_from_mars.zip"]
+tags = ["12bit", "80s", "drums", "analog", "digital", "drum-machine", "groove-templates"]
 observed = 2026-07-18
 
 [meta]

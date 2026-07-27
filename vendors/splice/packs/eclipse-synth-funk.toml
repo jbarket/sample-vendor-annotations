@@ -6,6 +6,7 @@
 name = "Eclipse - Synth Funk"
 slug = "eclipse-synth-funk"
 dir  = "Eclipse - Synth Funk"
+tags = ["funk", "synth-pop", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/eclipse-synth-funk"
 provider = "Black Octopus"

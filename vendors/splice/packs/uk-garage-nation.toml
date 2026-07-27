@@ -6,6 +6,7 @@
 name = "UK Garage Nation"
 slug = "uk-garage-nation"
 dir  = "UK Garage Nation"
+tags = ["deep-house", "house", "uk", "uk-garage", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/uk-garage-nation"
 provider = "Sample Magic"

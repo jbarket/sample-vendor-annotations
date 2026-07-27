@@ -6,6 +6,7 @@
 name = "Noir & Sci-Fi: Cyberpunk"
 slug = "noir-sci-fi-cyberpunk"
 dir  = "Noir & Sci-Fi Cyberpunk"
+tags = ["synthwave", "hardwave", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/neon-wave/noir-and-sci-fi-cyberpunk"
 provider = "Neon Wave"

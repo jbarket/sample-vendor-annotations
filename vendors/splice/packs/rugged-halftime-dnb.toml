@@ -6,6 +6,7 @@
 name = "Rugged Halftime DnB"
 slug = "rugged-halftime-dnb"
 dir  = "Rugged Halftime DnB"
+tags = ["drum-and-bass", "drumstep", "bass-music", "synth", "drums", "fx"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/rugged-halftime-dnb"
 provider = "Black Octopus"

@@ -6,6 +6,7 @@
 name = "Dissolve - Ambient Drones"
 slug = "dissolve-ambient-drones"
 dir  = "Dissolve - Ambient Drones"
+tags = ["ambient", "fx", "atmospheres", "synth", "bass", "sub"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/modeaudio/dissolve-ambient-drones"
 provider = "ModeAudio"

@@ -6,6 +6,7 @@
 name = "House Nation"
 slug = "house-nation"
 dir  = "House Nation"
+tags = ["deep-house", "house", "tech-house", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/house-nation"
 provider = "Sample Magic"

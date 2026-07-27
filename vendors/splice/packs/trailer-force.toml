@@ -6,6 +6,7 @@
 name = "Trailer Force"
 slug = "trailer-force"
 dir  = "Trailer Force"
+tags = ["fx", "cinematic", "synth", "noise", "hit"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/epic-stock-media/trailer-force"
 provider = "Epic Stock Media"

@@ -6,6 +6,7 @@
 name = "Hydrogen - Melodic House & Techno"
 slug = "hydrogen-melodic-house-techno"
 dir  = "Hydrogen - Melodic House & Techno"
+tags = ["house", "progressive-house", "techno", "melodic-techno", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/hydrogen-melodic-house-and-techno"
 provider = "Zenhiser"

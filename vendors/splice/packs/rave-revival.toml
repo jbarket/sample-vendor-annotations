@@ -6,6 +6,7 @@
 name = "Rave Revival"
 slug = "rave-revival"
 dir  = "Rave Revival"
+tags = ["deep-house", "house", "techno", "rave", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/rave-revival"
 provider = "Sample Magic"

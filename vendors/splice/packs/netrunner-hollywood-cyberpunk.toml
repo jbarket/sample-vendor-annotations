@@ -6,6 +6,7 @@
 name = "Netrunner: Hollywood Cyberpunk"
 slug = "netrunner-hollywood-cyberpunk"
 dir  = "Netrunner Hollywood Cyberpunk"
+tags = ["fx", "cinematic", "synth", "bass"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/netrunner-varien-pack"
 provider = "Splice"

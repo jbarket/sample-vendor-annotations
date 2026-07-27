@@ -7,6 +7,7 @@ slug = "cr78-from-mars"
 dir  = "CR78 From Mars"
 url  = "https://samplesfrommars.com/products/cr-78-samples"
 archives = ["cr78_from_mars.zip"]
+tags = ["70s", "drums", "analog", "drum-machine", "loops"]
 observed = 2026-07-18
 
 [meta]

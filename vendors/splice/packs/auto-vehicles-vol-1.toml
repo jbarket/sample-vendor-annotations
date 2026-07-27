@@ -6,6 +6,7 @@
 name = "Auto Vehicles Vol. 1"
 slug = "auto-vehicles-vol-1"
 dir  = "Auto Vehicles Vol. 1"
+tags = ["fx", "cinematic", "transportation", "auto-vehicles", "car", "truck"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-vehicle-auto-vol-1"
 provider = "Blastwave FX"

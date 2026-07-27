@@ -6,6 +6,7 @@
 name = "Cinematic Cyberpunk"
 slug = "cinematic-cyberpunk"
 dir  = "Cinematic Cyberpunk"
+tags = ["cinematic", "synthwave", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/function-loops/cinematic-cyberpunk"
 provider = "Function Loops"

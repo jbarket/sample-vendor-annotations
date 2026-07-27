@@ -6,6 +6,7 @@
 name = "Machine Guns"
 slug = "machine-guns"
 dir  = "Machine Guns"
+tags = ["fx", "cinematic", "gun", "gunshot", "military", "warfare", "weapon", "machine-guns"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-machine-guns"
 provider = "Blastwave FX"

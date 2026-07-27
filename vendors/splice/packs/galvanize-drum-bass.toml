@@ -6,6 +6,7 @@
 name = "Galvanize - Drum & Bass"
 slug = "galvanize-drum-bass"
 dir  = "Galvanize - Drum & Bass"
+tags = ["drum-and-bass", "drums", "breaks", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/galvanizednb-zenhiser"
 provider = "Zenhiser"

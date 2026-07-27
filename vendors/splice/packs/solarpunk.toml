@@ -6,6 +6,7 @@
 name = "Solarpunk"
 slug = "solarpunk"
 dir  = "Solarpunk"
+tags = ["ambient", "cinematic", "experimental", "science-fiction", "new-age", "synth", "pads", "fx"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/shamanstems/solarpunk"
 provider = "ShamanStems"

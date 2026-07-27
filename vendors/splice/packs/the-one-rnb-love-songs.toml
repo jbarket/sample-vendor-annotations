@@ -6,6 +6,7 @@
 name = "The One - RnB Love Songs"
 slug = "the-one-rnb-love-songs"
 dir  = "The One - RnB Love Songs"
+tags = ["hip-hop", "rnb", "vocal"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/91vocals/the-one-rnb-love-songs"
 provider = "91Vocals"

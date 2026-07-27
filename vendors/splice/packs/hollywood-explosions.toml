@@ -6,6 +6,7 @@
 name = "Hollywood Explosions"
 slug = "hollywood-explosions"
 dir  = "Hollywood Explosions"
+tags = ["fx", "cinematic", "explosion", "warfare", "artillery", "bombs", "fireworks"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-hollywood-explosions"
 provider = "Blastwave FX"

@@ -6,6 +6,7 @@
 name = "Electro Trance"
 slug = "electro-trance"
 dir  = "Electro Trance"
+tags = ["electro", "trance", "progressive-trance", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/parallax/electro-trance"
 provider = "Parallax"

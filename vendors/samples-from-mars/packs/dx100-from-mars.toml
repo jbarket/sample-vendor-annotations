@@ -6,6 +6,7 @@ name = "DX100 From Mars"
 slug = "dx100-from-mars"
 dir  = "DX100 From Mars"
 url  = "https://samplesfrommars.com/products/dx100-from-mars"
+tags = ["80s", "synth", "fm"]
 observed = 2026-07-18
 
 [meta]

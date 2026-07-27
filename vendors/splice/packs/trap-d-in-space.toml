@@ -6,6 +6,7 @@
 name = "Trap'd in Space"
 slug = "trap-d-in-space"
 dir  = "Trap'd in Space"
+tags = ["hip-hop", "trap", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/function-loops/function-loops-trapd-in-space"
 provider = "Function Loops"

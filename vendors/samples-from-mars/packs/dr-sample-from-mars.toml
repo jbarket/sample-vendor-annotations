@@ -7,6 +7,7 @@ slug = "dr-sample-from-mars"
 dir  = "Dr Sample From Mars"
 url  = "https://samplesfrommars.com/products/dr-sample-from-mars"
 archives = ["dr_sample_from_mars.zip"]
+tags = ["12bit", "analog", "synth", "digital", "drum-machine", "lo-fi", "drum-synth-samples"]
 observed = 2026-07-18
 
 [meta]

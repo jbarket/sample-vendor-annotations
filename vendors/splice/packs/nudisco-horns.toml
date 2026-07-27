@@ -6,6 +6,7 @@
 name = "NuDisco Horns"
 slug = "nudisco-horns"
 dir  = "NuDisco Horns"
+tags = ["brass-woodwinds", "disco", "funk", "organic", "nu-disco", "melody", "bright", "horns"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sonic-collective/nudisco-horns"
 provider = "Sonic Collective"

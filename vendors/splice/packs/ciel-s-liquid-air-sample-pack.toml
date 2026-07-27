@@ -6,6 +6,7 @@
 name = "Ciel's Liquid Air Sample Pack"
 slug = "ciel-s-liquid-air-sample-pack"
 dir  = "Ciel's Liquid Air Sample Pack"
+tags = ["techno", "breakbeat", "leftfield-bass", "fx", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/splice/ciel-pack"
 provider = "Splice"

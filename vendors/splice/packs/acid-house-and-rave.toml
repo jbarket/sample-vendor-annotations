@@ -6,6 +6,7 @@
 name = "Acid House and Rave"
 slug = "acid-house-and-rave"
 dir  = "Acid House and Rave"
+tags = ["tech-house", "rave", "acid-house", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-tools-by-cr2/acid-house-and-rave"
 provider = "Sample Tools by Cr2"

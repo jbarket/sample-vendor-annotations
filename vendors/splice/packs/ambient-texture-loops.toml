@@ -6,6 +6,7 @@
 name = "Ambient Texture Loops"
 slug = "ambient-texture-loops"
 dir  = "Ambient Texture Loops"
+tags = ["fx", "ambient", "cinematic", "atmospheres", "ambience", "experimental", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/modeaudio/ambient_texture_loops"
 provider = "ModeAudio"

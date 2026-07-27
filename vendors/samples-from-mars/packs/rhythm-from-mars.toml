@@ -7,6 +7,7 @@ slug = "rhythm-from-mars"
 dir  = "Rhythm From Mars"
 url  = "https://samplesfrommars.com/products/rhythm-from-mars"
 archives = ["rhythm_from_mars.zip"]
+tags = ["70s", "drums", "analog", "drum-machine"]
 observed = 2026-07-18
 
 [meta]

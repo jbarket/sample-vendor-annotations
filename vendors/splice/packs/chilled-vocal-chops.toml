@@ -6,6 +6,7 @@
 name = "Chilled Vocal Chops"
 slug = "chilled-vocal-chops"
 dir  = "Chilled Vocal Chops"
+tags = ["vocal", "pop", "chops"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/sm101-chilled-vocal-chops"
 provider = "Sample Magic"

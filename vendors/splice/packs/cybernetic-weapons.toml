@@ -6,6 +6,7 @@
 name = "Cybernetic Weapons"
 slug = "cybernetic-weapons"
 dir  = "Cybernetic Weapons"
+tags = ["fx", "cinematic", "game-audio", "science-fiction", "weapon", "warfare", "organic", "gun"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/epic-stock-media/esm-cybernetic-weapons"
 provider = "Epic Stock Media"

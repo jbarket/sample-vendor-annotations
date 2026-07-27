@@ -6,6 +6,7 @@
 name = "Organic House"
 slug = "organic-house"
 dir  = "Organic House"
+tags = ["deep-house", "house", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/zenhiser/organic-house-zenhiser"
 provider = "Zenhiser"

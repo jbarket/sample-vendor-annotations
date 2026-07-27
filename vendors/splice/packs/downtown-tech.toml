@@ -6,6 +6,7 @@
 name = "Downtown Tech"
 slug = "downtown-tech"
 dir  = "Downtown Tech"
+tags = ["house", "techno", "tech-house", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/bingoshakerz/bingoshakerz-downtown-tech"
 provider = "Bingoshakerz"

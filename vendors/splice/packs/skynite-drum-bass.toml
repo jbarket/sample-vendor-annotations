@@ -6,6 +6,7 @@
 name = "SKYNITE: Drum & Bass"
 slug = "skynite-drum-bass"
 dir  = "SKYNITE Drum & Bass"
+tags = ["drum-and-bass", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-tools-by-cr2/skynite-drum-and-bass"
 provider = "Sample Tools by Cr2"

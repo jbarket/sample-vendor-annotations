@@ -6,6 +6,7 @@
 name = "Horror Vol. 1"
 slug = "horror-vol-1"
 dir  = "Horror Vol. 1"
+tags = ["fx", "cinematic", "horror"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-horror-vol-1"
 provider = "Blastwave FX"

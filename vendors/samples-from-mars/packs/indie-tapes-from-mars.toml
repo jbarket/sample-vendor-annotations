@@ -7,6 +7,7 @@ slug = "indie-tapes-from-mars"
 dir  = "Indie Tapes From Mars"
 url  = "https://samplesfrommars.com/products/indie-tapes-from-mars"
 archives = ["indie_tapes_from_mars.zip"]
+tags = ["70s", "drums", "80s", "synth", "acoustic", "analog", "drum-machine", "loops", "drum-synth-samples"]
 observed = 2026-07-18
 
 [meta]

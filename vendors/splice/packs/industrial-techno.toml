@@ -6,6 +6,7 @@
 name = "Industrial Techno"
 slug = "industrial-techno"
 dir  = "Industrial Techno"
+tags = ["techno", "industrial", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/four4/four4-industrial-techno"
 provider = "Four4"

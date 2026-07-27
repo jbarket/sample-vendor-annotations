@@ -6,6 +6,7 @@
 name = "Gods Of Psytrance"
 slug = "gods-of-psytrance"
 dir  = "Gods Of Psytrance"
+tags = ["trance", "psy-trance", "synth", "fx", "noise", "leads", "wet"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/function-loops/gods-of-psytrance"
 provider = "Function Loops"

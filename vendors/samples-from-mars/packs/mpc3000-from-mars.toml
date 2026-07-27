@@ -7,6 +7,7 @@ slug = "mpc3000-from-mars"
 dir  = "MPC3000 From Mars"
 url  = "https://samplesfrommars.com/products/mpc3000-from-mars"
 archives = ["mpc3000_from_mars.zip"]
+tags = ["drum-machine", "drums"]
 observed = 2026-07-18
 
 [meta]

@@ -6,6 +6,7 @@
 name = "Noirspace - Cyberpunk"
 slug = "noirspace-cyberpunk"
 dir  = "Noirspace - Cyberpunk"
+tags = ["synthwave", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/neon-wave/noirspace-cyberpunk"
 provider = "Neon Wave"

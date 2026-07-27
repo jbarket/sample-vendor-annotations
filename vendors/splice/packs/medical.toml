@@ -6,6 +6,7 @@
 name = "Medical"
 slug = "medical"
 dir  = "Medical"
+tags = ["fx", "cinematic", "emergency", "medical"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-medical"
 provider = "Blastwave FX"

@@ -6,6 +6,7 @@
 name = "Steam - Ambient Loops & Textures"
 slug = "steam-ambient-loops-textures"
 dir  = "Steam - Ambient Loops & Textures"
+tags = ["ambient", "experimental", "fx", "atmospheres", "drones", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/modeaudio/steam-ambient-loops-and-textures"
 provider = "ModeAudio"

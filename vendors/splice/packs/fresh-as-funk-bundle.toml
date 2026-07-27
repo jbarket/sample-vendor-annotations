@@ -6,6 +6,7 @@
 name = "Fresh as Funk Bundle"
 slug = "fresh-as-funk-bundle"
 dir  = "Fresh as Funk Bundle"
+tags = ["disco", "funk", "melody", "brass-woodwinds", "horns", "electric", "guitar", "electric-guitar"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/black-octopus/fresh-as-funk-bundle"
 provider = "Black Octopus"

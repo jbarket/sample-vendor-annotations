@@ -6,6 +6,7 @@
 name = "Next Gen Drill"
 slug = "next-gen-drill"
 dir  = "Next Gen Drill"
+tags = ["drill", "uk-drill", "synth", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/komorebi-audio/next-gen-drill"
 provider = "Komorebi Audio"

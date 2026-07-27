@@ -6,6 +6,7 @@ name = "101 Drums From Mars"
 slug = "101-drums-from-mars"
 dir  = "101 Drums From Mars"
 url  = "https://samplesfrommars.com/products/free-101-drums-from-mars"
+tags = ["80s", "synth", "analog"]
 observed = 2026-07-18
 
 [meta]

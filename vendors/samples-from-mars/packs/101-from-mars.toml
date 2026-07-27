@@ -7,6 +7,7 @@ slug = "101-from-mars"
 dir  = "101 From Mars"
 url  = "https://samplesfrommars.com/products/101-from-mars"
 archives = ["101_from_mars.zip"]
+tags = ["80s", "synth", "analog"]
 observed = 2026-07-18
 
 [meta]

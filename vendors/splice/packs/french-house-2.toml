@@ -6,6 +6,7 @@
 name = "French House 2"
 slug = "french-house-2"
 dir  = "French House 2"
+tags = ["house", "french-house", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/sm202-french-house-2"
 provider = "Sample Magic"

@@ -7,6 +7,7 @@ slug = "808-loops-from-mars"
 dir  = "808 Loops From Mars"
 url  = "https://samplesfrommars.com/products/808-loops-from-mars"
 archives = ["808_loops_from_mars.zip"]
+tags = ["808", "80s", "drums", "analog", "drum-machine", "loops", "roland-tr"]
 observed = 2026-07-18
 
 [meta]

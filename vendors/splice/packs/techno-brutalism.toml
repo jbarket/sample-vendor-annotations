@@ -6,6 +6,7 @@
 name = "Techno Brutalism"
 slug = "techno-brutalism"
 dir  = "Techno Brutalism"
+tags = ["techno", "hard-techno", "hard-dance", "synth", "fx", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/touch-loops/techno-brutalism"
 provider = "Touch Loops"

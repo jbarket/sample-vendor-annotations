@@ -6,6 +6,7 @@
 name = "Ascension - Techno & Trance"
 slug = "ascension-techno-trance"
 dir  = "Ascension - Techno & Trance"
+tags = ["techno", "trance", "drums", "synth"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/parallax/ascension-techno-and-trance"
 provider = "Parallax"

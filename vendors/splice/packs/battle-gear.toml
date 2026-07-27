@@ -6,6 +6,7 @@
 name = "Battle Gear"
 slug = "battle-gear"
 dir  = "Battle Gear"
+tags = ["fx", "cinematic", "battle", "military", "warfare", "gas", "breathing"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/blastwave-fx/bw-gear"
 provider = "Blastwave FX"

@@ -6,6 +6,7 @@
 name = "Dirty Disco Vol. 3"
 slug = "dirty-disco-vol-3"
 dir  = "Dirty Disco Vol. 3"
+tags = ["live-sounds", "acoustic", "disco", "percussion", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/that-sound/dirty-disco-vol-3"
 provider = "That Sound"

@@ -6,6 +6,7 @@
 name = "Raw Techno"
 slug = "raw-techno"
 dir  = "Raw Techno"
+tags = ["techno", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/raw-techno"
 provider = "Sample Magic"

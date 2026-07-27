@@ -6,6 +6,7 @@
 name = "Airflow: Scifi Cinematic Loops"
 slug = "airflow-scifi-cinematic-loops"
 dir  = "Airflow Scifi Cinematic Loops"
+tags = ["cinematic", "synth", "fx"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/modeaudio/airflow-scifi-cinematic-loops"
 provider = "ModeAudio"

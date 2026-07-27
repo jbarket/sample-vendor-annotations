@@ -6,6 +6,7 @@
 name = "Descend - Dark Hip Hop & Trap"
 slug = "descend-dark-hip-hop-trap"
 dir  = "Descend - Dark Hip Hop & Trap"
+tags = ["trap", "hip-hop", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/origin-sound/origin-sound-descend"
 provider = "Origin Sound"

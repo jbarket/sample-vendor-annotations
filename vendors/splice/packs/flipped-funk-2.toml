@@ -6,6 +6,7 @@
 name = "Flipped Funk 2"
 slug = "flipped-funk-2"
 dir  = "Flipped Funk 2"
+tags = ["funk", "70s", "drums"]
 observed = 2026-07-26
 url  = "https://splice.com/sounds/packs/sample-magic/flipped-funk-2"
 provider = "Sample Magic"
