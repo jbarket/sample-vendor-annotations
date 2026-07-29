@@ -84,6 +84,19 @@ take_suffix      = " NN"          # variations count up at the tail —
                                   # the distinguishing token is LAST
 ```
 
+## [install] — where the library lives by default
+
+Per-OS default install paths, so a consumer can offer "you have this
+installed, add it as a source?" instead of crawling the user's disk.
+`~` is the user's home. Only offer paths that actually exist.
+
+```toml
+[install]
+macos   = ["~/Splice/sounds/packs"]
+windows = ["~/Splice/sounds/packs"]
+note    = "app-managed: new samples land continuously, so rescan often"
+```
+
 ## Pack files — `vendors/<vendor>/packs/<slug>.toml`
 
 One file per pack. Two audiences at once: display metadata for UIs, and a

@@ -18,3 +18,12 @@ grammar = "top-level-dirs"
 # GraphQL (surfaces-graphql.splice.com) by probing sample filenames —
 # filepath search returns the parent pack. Packs missing from Splice were
 # delisted after download; their stubs say so rather than guessing.
+
+# Where the Splice desktop app keeps downloaded samples by default. A fact
+# about the vendor (same class as pack grammar) — consumers use it to offer
+# "you have Splice installed, add it as a source?" without crawling disks.
+[install]
+macos   = ["~/Splice/sounds/packs"]
+windows = ["~/Splice/sounds/packs"]
+linux   = ["~/Splice/sounds/packs"]
+note    = "app-managed: new samples land continuously, so rescan often"
