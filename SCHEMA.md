@@ -264,6 +264,6 @@ stays in the consumer's local cache, never in this repo.
   files, audio — link to it (`url`, `image`), never reproduce it. Facts
   and pointers distribute; prose and pixels get fetched by the consumer
   and cached locally. (Sole exception: `discontinued = true` packs, above.)
-- Content hashes (planned — content-SHA pack identity so declared packs
-  are recognizable across users — but the shape isn't settled; don't
-  freelance it)
+- Per-FILE content hashes as annotation data. Pack-level identity is
+  settled (`[identity]` + the manifest sidecar, `sha256-sorted-v1`) —
+  that's the *only* hash shape here; don't invent others
