@@ -1,0 +1,49 @@
+# Fabric — Textural Pack. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Fabric"
+slug = "fabric"
+dir  = "Fabric"
+url  = "https://polyend.com/product/fabric/"
+samples_listed = 100
+tags = ["ambience", "background", "texture"]
+archives = ["Fabric-cinuar.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Fabric"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/03/01084112/Fabric-www.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 300
+audio_bytes = 423598326
+digest      = "0ff170d45ee345c2e0d5002267ab5f118cf9ab183cd93a67da207829bb6a2cf7"
+anchors     = [
+  "008158f9f2e17f18d99f880112729e29512a35c55eb7d6dd7d0e988702107454",
+  "023245b4d7204db59413bb1d1fe49f158d090b2f8e27d0a6f545a6cd35503d76",
+  "02548c19aed718b7975aa7cdbd300711c23c50d78338b342b1c48a645c6a67ad",
+  "027d032fdd615868c72355320812a9f47666474718a96399a9d8a99eb2becf63",
+  "02a4a97e82723043e526df6950c8eaef033adb339379bcaf597e48d15a54c08c",
+  "033443892c7135b5623d290427c4b7684720aede8b05998bb6f1bbb29f11d02a",
+  "049a9d0e3e0fb7af0619c99e2c8f3c31172f05a47391617394276e1877493f7c",
+  "04c11b284ed07867a87135340ab1ca133e8c7bddc0fbba731018de49b1347373",
+]
+manifest    = "manifests/fabric.sha256"
+
+[[dir]]
+path = "Pack 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

@@ -1,0 +1,55 @@
+# Fractured — Digital Percussion. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Fractured"
+slug = "fractured"
+dir  = "Fractured"
+url  = "https://polyend.com/product/fractured/"
+samples_listed = 118
+tags = ["digital", "percussion"]
+archives = ["Fractured-1hnyny.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Fractured"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2025/01/27095941/Fractured.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 354
+audio_bytes = 70269384
+digest      = "515d739693362d18d03e4ab396c63fb1fb5c100bfb1d0051317274198d2a3a0b"
+anchors     = [
+  "005a3c2354c4ac4a6947813d8665294a69cb54469c0db873653ba655357848c2",
+  "007fa0487969c40cca0be89314936622186b554b2c8db5392a8854f0ec7999ca",
+  "01427ad8bc7404315bac7a4553c2272d9db806cd2f3806924b6a60146b8408cb",
+  "029505df1563d1fd97ac1adf826c8c9ef73a2efe1d9b1c388891954b92758b75",
+  "03b4654923f4230d910c10268debc58074ca5f0d0c97096e9f916616aa361a09",
+  "03d99658227815538c161657312ddbcc3c0acb16cf9908313abaee81d41728ee",
+  "03f75981e0000f9a764e21021cc99008961321a0b9e9bd0a99c5e91784d8e881",
+  "071bd39922d684acbf5a282b1f8fe62de7cacce3cd543eb8328672afa00050d0",
+]
+manifest    = "manifests/fractured.sha256"
+
+[[dir]]
+path = "Fractured 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Fractured 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Fractured 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"
+
+[[dir]]
+path = "Step Kits"
+role = "format-tree"
+category = "kits"
+desc = "device kit presets built from the pack's one-shots"

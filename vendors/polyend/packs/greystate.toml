@@ -1,0 +1,61 @@
+# Greystate — Raw Hypnotic Techno. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Greystate"
+slug = "greystate"
+dir  = "Greystate"
+url  = "https://polyend.com/product/greystate/"
+samples_listed = 182
+tags = ["bass", "drums", "fx", "kit", "techno"]
+archives = ["GreyState-uxmeci.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Greystate"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2026/07/29111755/Greystate.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 546
+audio_bytes = 105603900
+digest      = "536ac3a76b07cc339546f715fa68a2c57e29ef7f996c0c5dcc3cc14ba05fa689"
+anchors     = [
+  "00b728482b4d78fe272be38ac01055bf743163d82cec4d7c966a6d456015d630",
+  "00bed18ba766bbe1d30c0babc2b75dad2ebad0eb4eb4fb76289c252a52e465e2",
+  "01bd454acb76bc3daf64d5b7ed8684ffb1008c2047d70f453c48ddc82e55fbc4",
+  "01e2a1b4bcd18de567cc5360c92e35882e0e478793a8107166e381e9d9ca53b2",
+  "02d4c42565f028c454bac33387a3a59d5fea1ac2caa6b6b490b202648067d4b6",
+  "0356fcfc13e509d9c2b0ebcc1975d4d07e4c55d2f6176563729c759b0e771cda",
+  "03ac8baef67314873901dda272f33d37f8948a55ac7edcb077af6ae333ac6b25",
+  "04522289452a786f80e2fa727c0d6acbe974c97a5845e57df4a24dd3f9a12775",
+]
+manifest    = "manifests/greystate.sha256"
+
+[[dir]]
+path = "Greystate 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Greystate 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Greystate 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"
+
+[[dir]]
+path = "Step Kits 16 bit mono"
+role = "format-tree"
+category = "kits"
+desc = "device kit presets built from the pack's one-shots"
+
+[[dir]]
+path = "Tracker PTI kits"
+role = "format-tree"
+category = "kits"
+desc = "device kit presets built from the pack's one-shots"

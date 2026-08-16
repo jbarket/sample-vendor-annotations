@@ -1,0 +1,49 @@
+# Collapse — Synthetic FX. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Collapse"
+slug = "collapse"
+dir  = "Collapse"
+url  = "https://polyend.com/product/collapse/"
+samples_listed = 106
+tags = ["analog", "fx", "synthetic"]
+archives = ["Collapse-idkfgb.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Collapse"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2025/06/06125911/Collapse.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 318
+audio_bytes = 326835156
+digest      = "4201249cb6b28d7dcdd44e83189b246e19f9108b72cc4d1554b1552b1f65a8d5"
+anchors     = [
+  "0122d3be576f1749a882c83d8631635454cdbb03e3d1bf6a539559dd2546fab0",
+  "018a7f236cd2d634bed3e944d09c6490f16edd06ace5b6e7fbaeed95ce9ebc49",
+  "01f06054cab31b96c2874e60f52c0144109cbb367c9bc7a7c6bc2d0e22c3d7aa",
+  "02d1a4941e56130059033d08cef2fc9e71a5cc519e88bbe94c158b771c6a647d",
+  "03cc9f61174b7d0115b151cd0d5bd0b012fdf6ca09fe5246e283c527850c18cd",
+  "0478ef562a597fd2ad170db46b643d0ad9b98a33ba808c62eae323f44db7d4ad",
+  "08736aa5f3a8b9bc518b6395a40a81ecb9f94e3de3c4ea1c3c39beeca183905e",
+  "0907c4b76c8123b2c3f252e6a139723109479bc011b342fc25c805164a5f9a3b",
+]
+manifest    = "manifests/collapse.sha256"
+
+[[dir]]
+path = "Collapse 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Collapse 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Collapse 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

@@ -1,0 +1,88 @@
+# The Ultimate Amen Breaks Pack — free download; link, don't reproduce.
+
+[pack]
+name = "The Ultimate Amen Breaks Pack"
+slug = "the-ultimate-amen-breaks-pack"
+dir  = "The Ultimate Amen Breaks Pack"
+url  = "https://rhythm-lab.com/the-ultimate-amen-breaks-pack/"
+tags = ["amen", "breaks", "drums", "loops", "jungle", "drum-and-bass", "resampled"]
+archives = ["Rhythm Lab The Ultimate Amen Breaks Pack.rar"]
+observed = 2026-08-16
+
+[meta]
+title = "The Ultimate Amen Breaks Pack"
+type  = "product"
+image = "https://rhythm-lab.com/sstorage/44/2017/01/5869541d5d45f.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 805
+audio_bytes = 1409852688
+digest      = "0fc86a29e9824823217c524f1eb193e04dd927d2ac0123eba5bea89d73a459f1"
+anchors     = [
+  "0003d94e55a6738ccea4ba4a03059c19f0b490abbeeedf0a03503e75d16c343b",
+  "00385d26bea0477ec411734ff73248f83ca6e1a0969a86f831826715bf9f24c8",
+  "00497e13da6e4493f21e13e1b75ff53744969388b35b856d6424a46ed6bc6567",
+  "01f745da67305a9c4e211c02ecdd8cb392cf8d50d903f400fc3fa6cf36a8e949",
+  "021d8b7144ddbc5c09ee80933d96c8f02ead0a186490b7790c1584475273d076",
+  "02203dfc408ed70666eb2e7cb7581d6d18bc2cc20acbec23f7c5cf3be7bfe16a",
+  "0253561306b310d01b97bb188ca069b8f4f7733fe93d630ef27d929947e7bed3",
+  "025630122c2f7e33236e98485ed665e9b3dd2e743fde077b7f36dadad3c2aa77",
+]
+manifest    = "manifests/the-ultimate-amen-breaks-pack.sha256"
+
+[[dir]]
+path = "Original"
+role = "canonical-audio"
+category = "loops"
+tags = ["amen", "original"]
+desc = "the Amen break as sampled from CD/vinyl/unknown sources; several are AIFF named .wav"
+
+[[dir]]
+path = "AKAI S1100"
+role = "canonical-audio"
+category = "loops"
+tags = ["amen", "akai-s1100", "resampled"]
+
+[[dir]]
+path = "AKAI MPC1000"
+role = "canonical-audio"
+category = "loops"
+tags = ["amen", "mpc1000", "resampled"]
+
+[[dir]]
+path = "Roland VP9000"
+role = "canonical-audio"
+category = "loops"
+tags = ["amen", "vp-9000", "resampled", "time-stretch"]
+
+[[dir]]
+path = "Yamaha SU700"
+role = "canonical-audio"
+category = "loops"
+tags = ["amen", "su700", "resampled"]
+
+[[dir]]
+path = "Fanu"
+role = "canonical-audio"
+category = "loops"
+tags = ["amen"]
+desc = "Fanu's Amen collection, included with permission"
+
+[[dir]]
+path = "Havoc"
+role = "canonical-audio"
+category = "loops"
+tags = ["amen"]
+
+[[dir]]
+path = "Processed"
+role = "canonical-audio"
+category = "loops"
+tags = ["amen", "processed"]
+
+[[dir]]
+path = "SAMPLED AND REMIXED"
+role = "canonical-audio"
+category = "loops"
+tags = ["amen", "remixed"]

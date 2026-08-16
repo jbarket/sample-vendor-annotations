@@ -1,0 +1,49 @@
+# Halogen — Atmospheric pack. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Halogen"
+slug = "halogen"
+dir  = "Halogen"
+url  = "https://polyend.com/product/halogen/"
+samples_listed = 101
+tags = ["atmospheric", "one-shot", "texture"]
+archives = ["Halogen-tji8wq.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Halogen"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2025/05/14141100/Halogen.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 303
+audio_bytes = 748302132
+digest      = "59f261d71f42ea4accf32e6053b43285cfc7f3ff72b41769ea3127b0759f74a2"
+anchors     = [
+  "005c83a0ec8de437ead98112fb41e31549b02ff66640f8bc5a43aec8c5de1102",
+  "0141bc6e7742b25c9b32cd0cdf01912f12d38a9a017f123b087dafa64b5cb71a",
+  "0246cf347b255128379f513a4c56c1b3c93707ea6f0672d32d2de50fa65dbf79",
+  "028c73836f5faabe38c23f693218d5c30caff9b7829df88d20f8b00dce7cad43",
+  "02b6fcc844ff4f27d1e6351d43946468b6278202978cfa8bdeb8c1fa517067f8",
+  "03fcd5b2451c3c4b442be31b8819b19bf3443a0873ef71e01d431c3dd7228305",
+  "04ccefca63d51f55298960693f4ac7841e6e1bc8d33eba3e5d5a9dddb682b4ea",
+  "0544110571b7df50133085452f9cde0e0687a37b20fd732a33f87b9436d593c4",
+]
+manifest    = "manifests/halogen.sha256"
+
+[[dir]]
+path = "Halogen 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Halogen 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Halogen 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

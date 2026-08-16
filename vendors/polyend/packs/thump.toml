@@ -1,0 +1,49 @@
+# Thump — All-in-One Kick Library. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Thump"
+slug = "thump"
+dir  = "Thump"
+url  = "https://polyend.com/product/thump/"
+samples_listed = 100
+tags = ["kick", "percussion", "techno"]
+archives = ["Thump-nxhrhb.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Thump"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/03/01084125/Thump.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 300
+audio_bytes = 24850050
+digest      = "7d20eee51ff73b8c024dd2f0830612604d4f89e9ffe7f701d99bdea9b60c4e1a"
+anchors     = [
+  "00a4dc87865640854e922b7d11919c9b03bf2f350847bc947fcb6a2b7d488933",
+  "029127a0202e4bcaac93bcd175a245ed6674bd2fc301e868f5364bd23bba13e4",
+  "038d8e93dd74ba5839d56ee8528c60ce5bec9c8030ccc167dd16618b967f69cc",
+  "03e1a1acd631609b163e2bce6e68781d9460ff53c40552a15014c44f992a5cb5",
+  "046279d2599dae424a532564e99057233ae647340ef1757c11ea3c8a94972129",
+  "04db7c57276553242999311f72256ee4caecb6afb2c9d9fae9b0467eb8d594d5",
+  "05d92cb5e959855990f06463416933ec3606aa1430ef56c046fa3954b811c60d",
+  "07f740e4b07eb190f54dfc35ca36bdcc5725081c97fda5713e975589bca711c3",
+]
+manifest    = "manifests/thump.sha256"
+
+[[dir]]
+path = "Thump 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Thump 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Thump 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

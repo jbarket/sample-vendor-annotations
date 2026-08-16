@@ -1,0 +1,50 @@
+# Trio — Jazz Pack. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Trio"
+slug = "trio"
+dir  = "Trio"
+url  = "https://polyend.com/product/trio/"
+provider = "Lewis John Gwinnell"   # the pack is BY this artist; sold by Polyend
+samples_listed = 144
+tags = ["acoustic", "jazz", "live"]
+archives = ["Trio-5a9fkz.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Trio"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/06/01084044/Trio.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 432
+audio_bytes = 348323712
+digest      = "a94c702232773a4f9e9e2511273aad3092b0fed89c56ca75b217fa8c3591bc94"
+anchors     = [
+  "00837cf101da7fe361838024b7877f782feb4cfe953da1ad49f8ca225c336e06",
+  "00c962e18b889af4a9665599d0399056d3e855e0d3a5f67f33bff49a7d6f2310",
+  "0178fb379ec4601ec371cc81ec427369c3fd252f0308b704a318783d6607b367",
+  "01c7afacf300cf0b9a2661b6b12ebf39202a2bebf637fad7571e2de6516fd7ed",
+  "022e5a555fc65d514cf878a3632814532347813ca9f9f1610a8e183d24d44923",
+  "02bd781e56cb384c015a0ce883f8e35a22377451dbd064811e321f66ce297364",
+  "031ef7331cb4d2313b7f1ae9e0088fcc4ebb60e2b44ccfb9202b079e22cf6f30",
+  "03256450ee1ee4888a6f37fe38d20005af4438803d1c713cdbad41b17fedc07d",
+]
+manifest    = "manifests/trio.sha256"
+
+[[dir]]
+path = "Pack 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

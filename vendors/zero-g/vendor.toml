@@ -1,0 +1,38 @@
+# Zero-G Ltd (Ed Stratton; Berkhamsted, UK; distributed by Time+Space).
+# The Jungle Warfare series (1995–97) is DISCONTINUED — delisted from
+# zero-g.co.uk in late 2020, Time+Space closed 2022 — so these annotations
+# carry the historical record inline (see SCHEMA: discontinued packs).
+# Observed against the WAV edition (later re-issue of the audio CDs) laid
+# out one dir per volume.
+
+[vendor]
+name     = "Zero-G"
+slug     = "zero-g"
+aliases  = ["Zero G", "Zero-G Ltd", "ZeroG"]
+homepage = "https://zero-g.co.uk"
+observed = 2026-08-16
+
+[packs]
+grammar     = "top-level-dirs"     # one dir per volume: "Jungle Warfare Vol N"
+dir_pattern = "Jungle Warfare Vol *"
+sibling_zip = "archival-original"
+zip_name_grammar = "the bundle circulated as one zip nesting 'Zero-G Jungle Warfare Complete/Zero-G Jungle Warfare 1, 2 & 3/VOL n/'; each VOL n is one volume"
+
+[formats]
+canonical_dir = "."                # WAV at category dirs directly under the volume; no format trees
+
+[[category]]
+id    = "loops"
+match = ["Straight Loops", "Programmed Loops", "Drum Loops", "Bass Lines*", "Drum Rolls", "Pecussion Loops", "Percussion Loops"]
+
+[[category]]
+id    = "one-shots"
+match = ["Percussion Hits", "Pecussion Hits", "Instruments", "Instruments/*"]
+
+[[category]]
+id    = "fx"
+match = ["Instruments/Special FX", "Instruments/FX", "Instruments/Vox FX"]
+
+[naming]
+# Vendor typo "Pecussion" persists in Vol 1 dir names; Vol 2/3 loop dirs
+# carry the BPM ("Ezee Rolla 165.5"); files end " (JWn)" for the volume.

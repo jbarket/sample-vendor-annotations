@@ -1,0 +1,49 @@
+# Moment — Foley Percussion. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Moment"
+slug = "moment"
+dir  = "Moment"
+url  = "https://polyend.com/product/moment/"
+samples_listed = 122
+tags = ["foley", "percussion", "techno"]
+archives = ["Moment-exofqp.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Moment"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/08/27140701/Moment.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 366
+audio_bytes = 51013224
+digest      = "8d9992d45f6e517ebf62c30d88bd194122552da40b2f047d58439ed6d71144be"
+anchors     = [
+  "00248a878372be7b53e6f920c9a05e63f5cf4c771e046f0bd5d4117097d3e475",
+  "0059b5717e8d0abb4dafe3b52493b30036b714cb7a6ce4e211788498bb5d290d",
+  "011fc59812f046df0ee4b50623bfadb76c92de437cf53c9bbdd08062bb330961",
+  "013b243d18072c81260f5b80e15071613c9da15667953c52464cf884f41f7857",
+  "01d6615b56689c9117a0935fccafc442bef3750387a77240bfce914874157b14",
+  "03f8abb3feebd42ddd079aeebb35a2741dc7d398689a91a58cf1eb7c4a033015",
+  "07902715dbe9e98a85500020821d5b3113e198882a60b944ca72744f4cf9cfb6",
+  "07c0289e5e6f86a8cab1b7436e582f3456a7f04e80c1ab74558224367ed035e2",
+]
+manifest    = "manifests/moment.sha256"
+
+[[dir]]
+path = "Pack 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

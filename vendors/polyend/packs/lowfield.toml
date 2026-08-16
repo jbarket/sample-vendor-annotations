@@ -1,0 +1,49 @@
+# Lowfield — Cinematic Drones. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Lowfield"
+slug = "lowfield"
+dir  = "Lowfield"
+url  = "https://polyend.com/product/lowfield/"
+samples_listed = 114
+tags = ["ambient", "cinematic", "drone", "electronica", "experimental"]
+archives = ["Lowfield-aeb6c7.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Lowfield"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2026/03/26110436/Lowfield.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 342
+audio_bytes = 723962016
+digest      = "1e5ee8a691fc519c7c59121827fe60f06a6f6f7b7f8092bd506a326e2afc1489"
+anchors     = [
+  "00101501c44bbea16a51c8b771a4de4cf73d2a0b6a32088dd075e06003e84189",
+  "006f2414b52cb9b1cb8aaffe3a9614f695d528c9a257fcecefe42578e04a78e9",
+  "00db46cd652522d0a33aa282e57c58589c8171020769e55aec042c4bcea2e601",
+  "017ae273d324dff953fd2cc791b6ced9714d4f59b1f0511f0cd762020b0112d4",
+  "0203c12fd4e9f52b939d896f78a5bbba351a23d086ee2b391013a226f056f2d9",
+  "029b136975e58a5f3d068da7bdbb7d6b4fc5dd7e22192eb91f38d78676c19508",
+  "036d3f587f8f211f7123c0e6989f5941d4a6890d215302e9ef64434de8b90ef0",
+  "046836eef1b80300231014e33a16e919c7c1b8cb2361172439aafda8abf1a3e7",
+]
+manifest    = "manifests/lowfield.sha256"
+
+[[dir]]
+path = "Lowfield 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Lowfield 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Lowfield 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

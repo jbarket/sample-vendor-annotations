@@ -1,0 +1,49 @@
+# Frost — Pluck Pack. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Frost"
+slug = "frost"
+dir  = "Frost"
+url  = "https://polyend.com/product/frost/"
+samples_listed = 107
+tags = ["one-shot", "pluck", "synth"]
+archives = ["Frost-yhk2x7.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Frost"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2025/04/02120808/Frost.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 321
+audio_bytes = 183543054
+digest      = "c4e3165d3c0cf2cfd962fe88efac36b7d18a18d80c1f79645b36f471fea56445"
+anchors     = [
+  "0079552799ec6507a8c0df24fd3851d3885de0afdbe3c5e53c5aa53bf4198a54",
+  "0230f6532c0a37f388c0a7e8f20da9dbd974a0146de3d2baf02ef272049e926b",
+  "02d96c25eb5dbfd871a1de8a3dade01cc66fd9128febdf6f17a663f874331276",
+  "033d0dec699c9c9d52d91b259e40f49e97a96c9a823444c78b0d08ccd4d5dd13",
+  "03f9ed7c1eccd6c05e279d5ede708b4e73cad155eeaf3d1d9e43c58f4e57c6e2",
+  "0438349dd912a6c11df2c565d14d7c8f4580cc42bb8e1e934278c1653d337a8c",
+  "0483e5c73ca736697abdeae026313dea24a2169c273f6e81fb40dd2b7418d721",
+  "04b698e057f7f1fb41e208716da9953c1e3e5d0ea1573c8fd621b5239e7dc12a",
+]
+manifest    = "manifests/frost.sha256"
+
+[[dir]]
+path = "Frost 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Frost 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Frost 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

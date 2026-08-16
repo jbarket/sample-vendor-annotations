@@ -1,0 +1,49 @@
+# Festival — Tropical Percussion. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Festival"
+slug = "festival"
+dir  = "Festival"
+url  = "https://polyend.com/product/festival/"
+samples_listed = 154
+tags = ["cuban", "percussion", "latin"]
+archives = ["Festival-0wbeus.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Festival"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/12/19144439/Festival.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 462
+audio_bytes = 46448778
+digest      = "97a1321ba484e547b8ae3f7d4b46c5844e41df8d9640d3d5f45ce8e495a6eb4b"
+anchors     = [
+  "0031c22e6b0350998843bf788146aab9cb40d6321dae1c942d0d7c8624ac6ee5",
+  "00411db55066fde096641bae13f0bbbb66dab052003a70931e2f48ee9212469f",
+  "00b8304ee9e354a0ca7b2ec608ae672fe2d665bf6c1e028e116747bb296be955",
+  "02dbcd3476b5440478b471bd15de5ffcf044cfd57efcca4ade6803c918fb1431",
+  "03fe5f57bcbaa02323b977758362da7efa2b6fb06aee41b5dd646b5199a2c244",
+  "0465e5c133d84d516648a35e9f67771d718cb43b3cb224cf3452751428299312",
+  "04c3b98379e77f783018b7e2b2a9f728c51960f263d3c575d1a57f47ad0f4f1d",
+  "04ee8aa73d7b8cdce2ccf30dc63dcc11f7b4894a8b04341b957fbe554dc083a7",
+]
+manifest    = "manifests/festival.sha256"
+
+[[dir]]
+path = "Festival 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Festival 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Festival 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

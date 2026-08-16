@@ -1,0 +1,49 @@
+# Punch — 808 Drums. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Punch"
+slug = "punch"
+dir  = "Punch"
+url  = "https://polyend.com/product/punch/"
+samples_listed = 100
+tags = ["drum-machine", "drums", "percussion"]
+archives = ["Punch-kj33zz.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Punch"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/06/01084045/Punch.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 300
+audio_bytes = 45313550
+digest      = "c7181af1c7a5ff04f686d4b437db08862a4ff2fb51eee4c03c4d2012443d06f9"
+anchors     = [
+  "000ebb899f3f06b476574ad128ea11a821622aea07e01dadc4837328f0153918",
+  "009d7eb9a5a9583df283103cd4643d2e067506b4d9c6eb011d925e2da130704a",
+  "01d8174e25330d4ee5fe999592500b1978ae4526c50311911b936a8484cfe637",
+  "023481e836036ea92188b1d2346147b626ebba99a41fca6267c84fadc722f2b3",
+  "0297eaca12a96ec73f0ec715194002f2f74b038ac85dd6e16877164397f26126",
+  "0527fa1f86acc111d392e17cc0e3ae474e4167e7b01471017e2784560f5e9ba2",
+  "07f0c350727d6f326dc5ab677c08be5c89828b3461e8e61b0ef7820f26e89aae",
+  "07ffd1a49ef56edfb4d0757e24ce975fb06b418e75c11d357e5dbf0a62c6077f",
+]
+manifest    = "manifests/punch.sha256"
+
+[[dir]]
+path = "Pack 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

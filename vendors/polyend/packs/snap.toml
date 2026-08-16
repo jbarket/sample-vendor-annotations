@@ -1,0 +1,49 @@
+# Snap — All in one Snare Library. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Snap"
+slug = "snap"
+dir  = "Snap"
+url  = "https://polyend.com/product/snap/"
+samples_listed = 100
+tags = ["drums", "kit", "snare"]
+archives = ["Snap-1gcoz1.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Snap"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/04/01084052/SNAP.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 300
+audio_bytes = 17954984
+digest      = "601006b90459321ee230af088c615669e95a1fc0a47805eb301c68ad27f74339"
+anchors     = [
+  "0053c98eb56999178db19a927b42c6e8f79eece5aa456fce71333acf917f6cb4",
+  "00b44678deef0622e33f9726987db9e7292e1baeb1e7018ed516a13c52a8a496",
+  "02007458bc67651d0daad778d646b9aaef2139401120f300173310c0b77838d4",
+  "026a6dabc02fa6879cd58212302e9e7371a7a1e272c19221a6d99dc3bb114c86",
+  "02bc853a664c3490a66d7230716b44ff705b966a1506d8a25bf22e48b051a577",
+  "0375cbd63245b61d7c8fa470b94c9fd0c3d23a030c4f730633d2ef5403e3fd8d",
+  "0415d5285ae823021a6eb525ea8f0e3eace005172ba4e1748bc708b292b618f3",
+  "0447ac650c41b136a32c5bb229f635f20a2ca6fe3f01d0faf55dfc2aa53e9e13",
+]
+manifest    = "manifests/snap.sha256"
+
+[[dir]]
+path = "Pack 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

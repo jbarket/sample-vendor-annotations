@@ -1,0 +1,36 @@
+# Blu Mar Ten (blumarten.com; Bandcamp). Free sample packs released as
+# name-your-price albums whose "tracks" are the zip. Observed against
+# Jungle Jungle (2023) unzipped one dir per pack.
+
+[vendor]
+name     = "Blu Mar Ten"
+slug     = "blu-mar-ten"
+aliases  = ["BMT"]
+homepage = "https://blumarten.bandcamp.com"
+observed = 2026-08-16
+
+[packs]
+grammar     = "top-level-dirs"
+sibling_zip = "archival-original"
+zip_name_grammar = "Bandcamp download name: '<Artist> - <Album title>.zip', unzipping to '<Album title>/'"
+
+[formats]
+canonical_dir = "."                # category dirs at pack root; 16-bit WAV throughout
+# The pack ships its cover as '<Album title> - Cover.png' at the pack root
+# and a licence/notes PDF beside it.
+
+[[category]]
+id    = "loops"
+match = ["Breaks"]
+
+[[category]]
+id    = "one-shots"
+match = ["Bass", "Pads", "Riffs, Arps & Hits", "Vocals"]
+
+[[category]]
+id    = "fx"
+match = ["FX"]
+
+[naming]
+# Musical files end ' - <key>' in Camelot notation ("Champion Sub - 10A.wav").
+key_suffix = " - <camelot>"

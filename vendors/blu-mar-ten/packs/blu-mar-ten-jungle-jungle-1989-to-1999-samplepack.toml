@@ -1,0 +1,71 @@
+# Blu Mar Ten — Jungle Jungle 1989 to 1999 Samplepack. Free (name your
+# price) on Bandcamp; link, don't reproduce. BMT's own note: samples (and
+# samples of samples) of commercially released tracks — use at your own risk.
+
+[pack]
+name = "Jungle Jungle - 1989 to 1999 Samplepack"
+slug = "blu-mar-ten-jungle-jungle-1989-to-1999-samplepack"
+dir  = "Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack"
+url  = "https://blumarten.bandcamp.com/album/blu-mar-ten-jungle-jungle-1989-to-1999-samplepack"
+samples_listed = 650
+tags = ["jungle", "90s", "breaks", "bass", "pad", "vocal", "fx", "vinyl", "16bit"]
+archives = ["Blu Mar Ten - Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack"
+type  = "album"
+image = "https://f4.bcbits.com/img/a2098914878_2.jpg"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 676
+audio_bytes = 390758482
+digest      = "c9204767373a4e4257ee8ab944ea6233913f5b01f9737e82da82b4a53264c226"
+anchors     = [
+  "00096d249cbf071d3fd27c5bdd02fc047d63d9ee693ab21fe4a67f39a4e08fe6",
+  "00dadac0fa51de14229ab47659565b37e32069679e0d4132462632d802096b0a",
+  "010a870c03d8a55ac5bc2df3bfc8348e9349470c6616167c2b0ae17fd7732c24",
+  "011be7e030f6daaa45568d54f451df561d30b5f24ea58f0a184edb85e2614403",
+  "0182402085c7e158540fbc31df99462442b1b72f96c72151721d0100ea50ab2f",
+  "025828dd2acf91f03756ffd28a13e94a3d596f4c6cdcf991128575d1023aad4d",
+  "03231a3ceb06915ab93623418e82ce520dc57d64ee2c31f6e1aea54053b6e0c4",
+  "038a27b73ec2a4c08853022d96d2404d7cab1d7b7efe00a28668a52332676d53",
+]
+manifest    = "manifests/blu-mar-ten-jungle-jungle-1989-to-1999-samplepack.sha256"
+
+[[dir]]
+path = "Breaks"
+role = "canonical-audio"
+category = "loops"
+tags = ["breaks", "drums"]
+
+[[dir]]
+path = "Bass"
+role = "canonical-audio"
+category = "one-shots"
+tags = ["bass", "sub", "reese"]
+
+[[dir]]
+path = "Pads"
+role = "canonical-audio"
+category = "one-shots"
+tags = ["pad"]
+
+[[dir]]
+path = "Riffs, Arps & Hits"
+role = "canonical-audio"
+category = "one-shots"
+tags = ["riff", "arp", "stab"]
+
+[[dir]]
+path = "Vocals"
+role = "canonical-audio"
+category = "one-shots"
+tags = ["vocal"]
+
+[[dir]]
+path = "FX"
+role = "canonical-audio"
+category = "fx"
+tags = ["fx"]

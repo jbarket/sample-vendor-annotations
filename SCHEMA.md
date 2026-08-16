@@ -143,6 +143,32 @@ image = "https://samplesfrommars.com/cdn/shop/products/acid-from-mars_grande.jpg
 # reproduce. Same reason no prices: dated instantly, one click via `url`.
 ```
 
+**The discontinued exception.** When a product is dead — delisted by the
+vendor, distributor gone, nothing to link to and nothing to buy — "link,
+don't reproduce" has nowhere to point, and the annotation becomes the only
+place the record survives. Such packs set `discontinued = true` in `[pack]`
+and MAY carry `[meta] description` (assembled from booklet scans, archived
+listings, and reviews — cite them in `sources`), plus release facts
+(`released`, `catalog_number`, `credits`). `url` and `image` become
+archival pointers (a Discogs release, a cover scan). Image *bytes* still
+stay out. The bar for flipping the flag is "no legitimate new-copy source
+exists"; note the check date. Zero-G's Jungle Warfare (1995–97; delisted
+2020) is the reference case.
+
+```toml
+[pack]
+discontinued   = true
+released       = 1995
+catalog_number = "TAS CD 62"
+credits        = "…"
+sources        = ["https://www.discogs.com/release/…", "https://www.soundonsound.com/…"]
+
+[meta]
+title       = "…"
+image       = "https://i.discogs.com/…"   # archival cover scan pointer
+description = '''…the historical record…'''
+```
+
 ### [identity] — "oh, you have this pack"
 
 Computed over **audio files only** (`.wav`/`.aif*`), because format trees
@@ -237,7 +263,7 @@ stays in the consumer's local cache, never in this repo.
 - **The vendor's creative content**: descriptions, marketing copy, image
   files, audio — link to it (`url`, `image`), never reproduce it. Facts
   and pointers distribute; prose and pixels get fetched by the consumer
-  and cached locally
+  and cached locally. (Sole exception: `discontinued = true` packs, above.)
 - Content hashes (planned — content-SHA pack identity so declared packs
   are recognizable across users — but the shape isn't settled; don't
   freelance it)

@@ -1,0 +1,49 @@
+# Chord Stabs — Harmonic One-Shots. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Chord Stabs"
+slug = "chord-stabs"
+dir  = "Chord Stabs"
+url  = "https://polyend.com/product/chord-stabs/"
+samples_listed = 100
+tags = ["house", "rave", "techno"]
+archives = ["Chord-Stabs-lnab8h.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Chord Stabs"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/07/01084016/Chord-Stabs.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 300
+audio_bytes = 51117324
+digest      = "fc78b892caa96451bbbb9788d89216ef0c59208f260c0b71725f850ad4e74576"
+anchors     = [
+  "006411700e73cda5e41ad86966a633be20b01fe88ea86d54445d28406edf4da5",
+  "00cf84d56ba2cb48867d5bb1eb79e1bf227c769162e718b411a463f7722f2682",
+  "03eb79b25f9de7dd33c9391abcc1d523b81b2528a9fcde0bc91d436cf79f30fe",
+  "040cb2c0323861833bc89aec27a6267126f50d511b80f2230e48388a1810c924",
+  "04123c2898c83ef9b65331fc2588fd569691a58eea988897e2027c4d96e89840",
+  "065793eac03e647fa51f94170122513ea6ff9a38e65ee326e70ca45b13657914",
+  "085e38eb7489c152d35c0ec64ab8b05b0de16576ee3cf9a0d7bfbe20f141af03",
+  "08dc10611e8975ef968b2e60511e5d84ce821324517aa8103c5d7aad9479c1c0",
+]
+manifest    = "manifests/chord-stabs.sha256"
+
+[[dir]]
+path = "Pack 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

@@ -1,0 +1,49 @@
+# Spark — Dynamic Claps. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Spark"
+slug = "spark"
+dir  = "Spark"
+url  = "https://polyend.com/product/spark/"
+samples_listed = 100
+tags = ["clap", "drum-machine", "drums", "percussion"]
+archives = ["Spark-k9yzos.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Spark"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/11/29102911/Spark.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 300
+audio_bytes = 16113140
+digest      = "5f170958d4334f34894eff429324ea540ed8bf8f7e3ff9c48b3f1c3e90cf1821"
+anchors     = [
+  "0037674a9dd5b6ca361146ae5f25c76b34c406a6741058da44569dc3f7805185",
+  "003c4ea0414ef036dab7c01de5773bd74ff316c0954ee23418fbaa8e45edf155",
+  "00c9d03f33144c406e7959c1dd8a0b0c47290cce46b32edb402eb11581caeb9a",
+  "012079120b4dd3a12e8424085142a63fb8002805ee8ec64e417f36f1f39cef76",
+  "01e093ce708d0927fb92b2d3a21b094bec7d4088cfbbfbfb3420a21dbc34420d",
+  "020b2ea095607943a04c0aba100b869312c665652c699e7c77ab013b94543c99",
+  "02fa022aa87ea59b1f91fbb408f38155c0ba2b3d0ca500c59b7846a0869754dc",
+  "050b5eb7fdcb16244108a91dc5e2121409eb3a284b57f5e3f569bc85173885fe",
+]
+manifest    = "manifests/spark.sha256"
+
+[[dir]]
+path = "Spark 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Spark 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Spark 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

@@ -1,0 +1,49 @@
+# Bliss Chords — Chord Pads. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Bliss Chords"
+slug = "bliss-chords"
+dir  = "Bliss Chords"
+url  = "https://polyend.com/product/bliss-chords/"
+samples_listed = 104
+tags = ["ambient", "chord", "pad", "synthetic"]
+archives = ["Bliss-Chords-ph481e.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Bliss Chords"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2025/08/28103431/Bliss-Chords.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 312
+audio_bytes = 799595544
+digest      = "f1bf7c77f785dd9d3d6f4c2646f13ffdc354d485b12af8cf812bfca0e8a491e6"
+anchors     = [
+  "003194c2fed8ea61d385d32aae7d27e91c26738ff02f970a8bc885aeb9d33ee9",
+  "00b31408036e91e50c37b022c6d1968af36eb4c8b7d044d32b0e547fc1bac53b",
+  "02171111c2eacf9a38ab7a600fa9a0f6c5714cb836151d5ec0d61e5cfce25402",
+  "023a0cb13715252dd7db611bd73c9321e01316cb91a678b86b5470195346eaae",
+  "029727af4e3fd561fd83dfb6967be714e0f47eb8fac3fd18115d84e5f1066920",
+  "0366d7558c20cadc25f42e482b8654f1fa437940208515008668f9b1d1ba434a",
+  "040f4d495e3c8e44b683cbcd77aca0f459ab2801cfc5f350556195717fc56600",
+  "061d26c6389f3fb937707f65aa642db64a3f271640d26c2255ebf45ed415c946",
+]
+manifest    = "manifests/bliss-chords.sha256"
+
+[[dir]]
+path = "Bliss Chords 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Bliss Chords 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Bliss Chords 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

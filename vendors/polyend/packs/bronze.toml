@@ -1,0 +1,49 @@
+# Bronze — Hi Hats and Shakers. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Bronze"
+slug = "bronze"
+dir  = "Bronze"
+url  = "https://polyend.com/product/bronze/"
+samples_listed = 127
+tags = ["drum-machine", "drums", "hat", "percussion", "shaker"]
+archives = ["Bronze-6g2iqr.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Bronze"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/10/28095945/Bronze.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 381
+audio_bytes = 30631136
+digest      = "f706d5a34f0713fe3cc33486c06da956b89b62c6a72dc1999d0eafa5ed2ba3a6"
+anchors     = [
+  "015484d9ebf9f7efb8ae5303b7629d89fe797d6630af53ee7c65fd8aaca84b37",
+  "01811138527382c2f3d317b991db077e1e0569bd5d4818fdf6a626e3f808bef2",
+  "01ce259347d5ed1a1da57d4764eb8ed7d9d340d940ce0b7fc09b3e2781d61f74",
+  "01e9f0e900587a080b4b6d25cb5784104a4b0af6950b008d37ca16a53114d0c9",
+  "02b1ce3627097a71ebea41123c5d1d0924bfbe45824f8c7005618fde7941333d",
+  "02b9de8c2a95a51b1ad14e1702a9b3aeec9c600f0106ec83b78994062682e3ea",
+  "0309889c9b4d532d5e1c1bbabbdb5eee5fe283e5ac7a79111725c25454ffc096",
+  "039a1afa1e47eb33258c49d422df0af3cc68fc4817665bd916aa870d36c256ed",
+]
+manifest    = "manifests/bronze.sha256"
+
+[[dir]]
+path = "Pack 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

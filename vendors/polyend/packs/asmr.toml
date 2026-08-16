@@ -1,0 +1,55 @@
+# ASMR — ASMR Kits. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "ASMR"
+slug = "asmr"
+dir  = "ASMR"
+url  = "https://polyend.com/product/asmr/"
+samples_listed = 152
+tags = ["asmr", "kit", "organic"]
+archives = ["ASMR-fd06ed.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "ASMR"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2025/06/29172205/ASMR.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 456
+audio_bytes = 27800994
+digest      = "7c2f8c0708ccad9c38a77258c6ecbb0e83d75ede4deabb09d46de725cbd26f6e"
+anchors     = [
+  "0069089b94ff00776b3b6b885ab135e304897d0c9d78dc34ba447d15e21fa33a",
+  "019d2957ba42cf8dddce2191c97b9222a245ed22d9d68ecc9cd9a3ea732e68eb",
+  "0223d16a67d63715ee1a8f9418902170061e4cef94f3f4104c6a44978e68567c",
+  "022458634324dbd024ae58b7c702fef89d201bcbbf3e766fb502432da0245b7b",
+  "0298c61c05763cf98acaf0cb0030385226eb9dc43a437097c9f0304fae40c2d2",
+  "02f99f81337195414237223e8f3caeca641cee1e6fef6813e2ef0e0b3775181e",
+  "03bf884e6d10b150baf51e1ff81514b05708102754a7b7d00b833d10eac5fe96",
+  "0436142a63747fffbc23476b3d47b1a3c20c7ebd4c8223a62562e80659834fd0",
+]
+manifest    = "manifests/asmr.sha256"
+
+[[dir]]
+path = "ASMR 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "ASMR 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "ASMR 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"
+
+[[dir]]
+path = "ASMR Step Kits 16 bit mono"
+role = "format-tree"
+category = "kits"
+desc = "device kit presets built from the pack's one-shots"

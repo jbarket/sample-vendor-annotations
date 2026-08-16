@@ -1,0 +1,41 @@
+# Polyend — Palette sample packs (polyend.com/palettes). Observed against a
+# full set of 23 packs downloaded 2026-08 and unzipped one dir per pack.
+# The packs are sold per title on a WooCommerce store; nothing here is the
+# vendor's copy — titles/URLs/image pointers only.
+
+[vendor]
+name     = "Polyend"
+slug     = "polyend"
+aliases  = ["Polyend Palette", "Palette"]
+homepage = "https://polyend.com"
+observed = 2026-08-16
+
+[packs]
+grammar     = "top-level-dirs"     # one dir per unzipped pack
+dir_pattern = "*"                  # pack title as the dir name ("Bass Tools", "Greystate")
+sibling_zip = "archival-original"
+zip_name_grammar = "<Title-With-Hyphens>-<6 lowercase alnum>.zip, e.g. Bass-Tools-mkqzad.zip, GreyState-uxmeci.zip. Internal root VARIES by vintage: a <Title>/ folder (ASMR, Halogen, Collapse…), bare format trees at zip root (Trio, Snap, Pulse…), a nested <Title>/ plus __MACOSX (Fractured), or three inner zips one per format tree (Thump)."
+
+[formats]
+# Every pack ships the same one-shots three ways; 24-bit stereo is the
+# master, the 16-bit trees are cut for the Tracker/Play/Mini (16-bit
+# engines, mono preferred). Tree names carry the pack title or the literal
+# word "Pack": "ASMR 24 bit stereo" vs "Pack 24 bit stereo".
+canonical_dir      = "* 24 bit stereo"
+parallel_dirs      = ["* 16 bit mono", "* 16 bit stereo", "*Step Kits*", "Tracker PTI kits"]
+sidecar_extensions = [".pti", ".pdf"]   # Tracker instruments; the licensing agreement
+# Exceptions: Heights and MNML have no format level — category dirs at
+# pack root, one cut only.
+
+[[category]]
+id    = "one-shots"
+match = ["* 24 bit stereo", "* 16 bit stereo", "* 16 bit mono", "Downlifter", "FX", "Impact", "Riser", "Transitions", "bass", "clap and snare", "hats", "kicks and rumble", "percussion", "synths"]
+
+[[category]]
+id    = "kits"
+match = ["*Step Kits*", "Tracker PTI kits"]
+
+[naming]
+# Files are <category>_<name>[_<n>].wav ("kit_bearings_1.wav",
+# "Atmosphere_Alarm.wav"); numbered variations count up at the tail.
+take_suffix = "_N"

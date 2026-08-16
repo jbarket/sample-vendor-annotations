@@ -1,0 +1,64 @@
+# MNML — Techno Sample Pack. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "MNML"
+slug = "mnml"
+dir  = "MNML"
+url  = "https://polyend.com/product/mnml/"
+samples_listed = 130
+tags = ["industrial", "minimal", "techno"]
+archives = ["MNML-uizooa.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "MNML"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/02/01084113/product_mnml.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 130
+audio_bytes = 27262844
+digest      = "75443daa1cad5ac432d081a4d9fda57137053a7f5d90f9fb24a34675b452322a"
+anchors     = [
+  "02b71156627d295d7e21e44cb5c9a624fe9c5ba77433c645edc9580c9aada2e5",
+  "042fa8cf00d0675ec04fd0faaa990897e36b358fab6956eaa41fd3b49638ff28",
+  "04e90a2dcb2577be0f73cad98d8851313cc861d15a53e22df625bc43737709ce",
+  "0920ca27aea5cd9272060a3b8eb54d45db624c8f8a585c34f49aa23efa39a583",
+  "0b853bfa5d1779d69d8b831760eb514659b88c4db699b01970c70fdf62ed722e",
+  "0d8ab2d8c9db266ba2f23cb62bfc3a452252c22a11fd9ed5d7f90b12151b752b",
+  "1045fd0c07166dd2e9e878f5ed9412697080b5af2beb8a389fda2fab78873db4",
+  "184c46a872464d256ef4bbb155121364ce7cedd9abc4e8403f4b903890d6ad04",
+]
+manifest    = "manifests/mnml.sha256"
+
+[[dir]]
+path = "bass"
+role = "canonical-audio"
+category = "one-shots"
+
+[[dir]]
+path = "clap and snare"
+role = "canonical-audio"
+category = "one-shots"
+
+[[dir]]
+path = "hats"
+role = "canonical-audio"
+category = "one-shots"
+
+[[dir]]
+path = "kicks and rumble"
+role = "canonical-audio"
+category = "one-shots"
+
+[[dir]]
+path = "percussion"
+role = "canonical-audio"
+category = "one-shots"
+
+[[dir]]
+path = "synths"
+role = "canonical-audio"
+category = "one-shots"

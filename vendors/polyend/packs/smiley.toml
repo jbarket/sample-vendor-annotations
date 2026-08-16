@@ -1,0 +1,50 @@
+# :) — Old School Rave. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = ":)"
+slug = "smiley"
+dir  = "Smiley"
+url  = "https://polyend.com/product/smiley/"
+provider = "Heat Audio"   # the pack is BY this artist; sold by Polyend
+samples_listed = 104
+tags = ["dance", "old-school", "rave"]
+archives = ["Smiley-edlnao.zip"]
+observed = 2026-08-16
+
+[meta]
+title = ":)"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/03/01084123/Smiley.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 312
+audio_bytes = 57225660
+digest      = "bef2a5d9c6e1c07bb3ca367ac58df448da73adba204929caa9d3f4d705c61ab6"
+anchors     = [
+  "0199938701d006cc077fc8b17f1a4f4fe0c85e7d5f028e7362cb8ac0fd680239",
+  "01d046e1a3e8547cfae52539c04d98e29d97091cbfd7c028e4dd63965c40c693",
+  "03692d1c6092e224cca6daa034294ace7924164fd9071d60f66e6e1a1c5bbaac",
+  "05f29f0c907a540107069c412a777d60f7e13ede7010513719202ae6cc35606b",
+  "070695a89129d46eeb5103acdd0b92081d331d19f792247d83fc5a8ccf7c93bb",
+  "07b4f3cee23ac2124770be23bed665ef05c31222c2b68d2c023407fde1f05c23",
+  "08425a9b13534f5d009db97ac6e7f390e3ad8ec187bc393955fb0f402a284cf9",
+  "08ac535e4cef09a257c4e8059b04a40fc71c17fa2eb92c81a4167f1b8107c844",
+]
+manifest    = "manifests/smiley.sha256"
+
+[[dir]]
+path = "Pack 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

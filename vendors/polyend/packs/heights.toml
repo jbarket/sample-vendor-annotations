@@ -1,0 +1,59 @@
+# Heights — Soaring FX Kit. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Heights"
+slug = "heights"
+dir  = "Heights"
+url  = "https://polyend.com/product/heights/"
+samples_listed = 100
+tags = ["electronic", "fx"]
+archives = ["Heights-5esopi.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Heights"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/02/01084130/product_heights.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 100
+audio_bytes = 111299370
+digest      = "ee19991b452f145db700acab09f928286949b9df663e63a3e55751c7ce71138b"
+anchors     = [
+  "0095255d7a3c9241cfc71f8404d553f01cfb2a95370981b3e6cde08379bc6ccb",
+  "096e5062664f822895fe0e78abf86f7ed69a53445ccbb80706368c6f5b7025d5",
+  "0daa7efcb0d5d3975e9d0f7f6ea61bbe3322adc7c72ce6eb4508b94b544d2ead",
+  "1034d9c0e2c302cb0eca6fbc8a0f928b2d6b4a82ecc6407a91cf6bea285264be",
+  "14a5c3742fb6b2021b69a38eaeb11cca02f46d776b35d6b938dd19ca7fb4085c",
+  "14cda1920487cf0ae086f7aa47a829c2cdf50a63bba638bfa964d1618d2d0b2b",
+  "16a13dc9907c2f861513fd2c908f870f93568f80b79e3d0847b353d37e3427e7",
+  "1d19c8a3fcc30013587787fd6c6b04e1fa2ec4e78aec8e2b00537055ad57a7f8",
+]
+manifest    = "manifests/heights.sha256"
+
+[[dir]]
+path = "Downlifter"
+role = "canonical-audio"
+category = "fx"
+
+[[dir]]
+path = "FX"
+role = "canonical-audio"
+category = "fx"
+
+[[dir]]
+path = "Impact"
+role = "canonical-audio"
+category = "fx"
+
+[[dir]]
+path = "Riser"
+role = "canonical-audio"
+category = "fx"
+
+[[dir]]
+path = "Transitions"
+role = "canonical-audio"
+category = "fx"

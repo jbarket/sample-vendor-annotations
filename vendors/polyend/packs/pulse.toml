@@ -1,0 +1,49 @@
+# Pulse — 909 Drums. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Pulse"
+slug = "pulse"
+dir  = "Pulse"
+url  = "https://polyend.com/product/pulse/"
+samples_listed = 108
+tags = ["drums", "drum-machine", "percussion"]
+archives = ["Pulse-czldvd.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Pulse"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/07/31095051/Pulse.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 324
+audio_bytes = 30045456
+digest      = "78b620b0d64027794a9957dbd479531ebc255abe398ec8101db83224df471b04"
+anchors     = [
+  "0072e95556348e8f2e38fba0f6e3c80a15b11925e108a936e6eb6effd856920b",
+  "01eda9ea0c579622a8091292be260fc26ec22b148a38161503fea24b31e270cb",
+  "05e2798e91f8cdc547d089cb989289991857b7fa909878a258323167467490c3",
+  "0654fe7caad56d3e8dd4ba3664f46aeacb04ac894c3458b990c7426e19f46e55",
+  "06700ed8052860b190dbe778da98fd5244dceeaae5194152483a5f9a13ff189a",
+  "0973f20068e60c18aca56ae01b1a043f0772d4730307ef7801dc2ed405ebeade",
+  "09de13c7c753e4aba2feed00bbac1e5c89b19fe91a659ed047fe97f2575040fe",
+  "0a89ba5848924f052767e5983d57520cebbaea22e0a448a0dc27fc1bbc130de3",
+]
+manifest    = "manifests/pulse.sha256"
+
+[[dir]]
+path = "Pack 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

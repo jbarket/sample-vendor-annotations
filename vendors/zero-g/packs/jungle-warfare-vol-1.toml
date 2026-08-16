@@ -1,0 +1,81 @@
+# Zero-G Jungle Warfare (Vol. 1) — DISCONTINUED (see vendor.toml). No live product page exists,
+# so this file carries the historical record inline: description assembled
+# 2026-08-16 from the Discogs booklet scans, Zero-G's own later listings and
+# ReFill booklet, Sound On Sound (Sept 1997), and Audiofanzine; the image
+# pointer is the Discogs front-cover scan. This is the exception the
+# SCHEMA allows for products nobody can sell you any more.
+
+[pack]
+name = "Jungle Warfare Vol 1"
+slug = "jungle-warfare-vol-1"
+dir  = "Jungle Warfare Vol 1"
+url  = "https://www.discogs.com/release/5549819-Zero-G-Jungle-Warfare"                       # Discogs release — the closest thing to a product page left
+tags = ["jungle", "drum-and-bass", "90s", "breaks", "loops", "amen", "hardcore"]
+archives = ["Zero-G Jungle Warfare Complete (zgjwc).zip"]
+observed = 2026-08-16
+discontinued = true
+released = 1995
+catalog_number = "TAS CD 62"
+credits = "Alex Banks & Danny Demierre (Hyper On Experience), credited on the booklet as 'Joseph Stock & Mark George for Time+Space'"
+sources = [
+  "https://www.discogs.com/release/5549819-Zero-G-Jungle-Warfare",
+  "https://www.soundonsound.com/reviews/sample-shops-golden-greats",
+  "https://www.yumpu.com/en/document/view/7095767/jungle-warfare-refill-contents-zero-g",
+  "https://en.audiofanzine.com/drum-n-bass-jungle-sample/zero-g/jungle-warfare-vol-3/",
+]
+
+[meta]
+title = "Zero-G Jungle Warfare (Vol. 1)"
+type  = "music.album"
+image = "https://i.discogs.com/ss9QtMJLBsUcOPOWt-nOsdw29r7If3R89oYWF8nGhDI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDk4/MTktMTM5NjM1MjMw/Mi00MzgyLmpwZWc.jpeg"
+description = '''
+The world's first Jungle sample CD (Zero-G/Time+Space, 1995, audio CD, 65 tracks, TAS CD 62). Booklet: "The raw hardcore dancefloor ammo we've been waiting for… This massive collection of ultra-fast grooves, construction kits & samples is a lethal dance production weapon in the right hands." Contents: Programmed Loops (155–164 BPM, cut-up and transformed: Insects, Ruff A-Men, Hardstep, Sub-Urban, Clint Eastwood, Terminator, Think…), ~150 raw 4-bar Straight Loops at 160 BPM (The Break, Think, A-Men, Apache, Hot Pantz, Soul Pride…), Drum Rolls, Percussion loops and kits, Sampled and Digital Pads (Cmin7, Rhodes), Basses (808s, Sub Juno, Juno Wobble, Growl), Special FX (gunshots, rewinds, sirens), Vocal & FX. Sound On Sound (Sept 1997): "This was the first, and is the best jungle CD I've had to review to date." Later editions: WAV/ACID/REX download (ZERO012), "Jungle Warfare For Reason" ReFill (2002, TAS CD 119), Maschine 2 expansion. Not legitimately purchasable anywhere as of 2026-08: Zero-G delisted the series in late 2020, Time+Space ceased trading in 2022, B&H lists ZERO012 as discontinued; second-hand CDs only.
+'''
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 545
+audio_bytes = 390865356
+digest      = "a7752be0896dc583204e2ddaecad14fecd746e453870774e848cc760342f2d60"
+anchors     = [
+  "007019269b95001a9c5f7fbc02e47850664c5073748b3e57c358e956b5008680",
+  "007b17fad09eb34c9d637c4500c326f682ced14ab698a9fd698d104781131a12",
+  "016e1fe72de90a286b3ecc0bb47ef8319fc75ce0db9b158dbade2dcbd6fc17a2",
+  "01cf012f7d66fb6e3c5f67b58987507014e665fca2881a4af59c5cdd292c5fb3",
+  "024fead72c1afc1be78b8695a0407fef4e5f33dfcec01d04fdf1f78df6824076",
+  "0295d25fadf3a903def9554de63bb01d4326acc06de4e6e8d98ea0de8344e8ee",
+  "02fa72b2006a0568fddf010b35a201ec33a2359eb628f17f27b8c37b1c8eb238",
+  "044608e8b439c0bb21930682a840ed9951f3ada0379dac708499eb43bd96764a",
+]
+manifest    = "manifests/jungle-warfare-vol-1.sha256"
+
+[[dir]]
+path = "Drum Rolls"
+role = "canonical-audio"
+category = "loops"
+
+[[dir]]
+path = "Instruments"
+role = "canonical-audio"
+category = "one-shots"
+desc = "pads, basses, notes, FX, vocals — the non-drum half of the disc"
+
+[[dir]]
+path = "Pecussion Hits"
+role = "canonical-audio"
+category = "one-shots"
+
+[[dir]]
+path = "Pecussion Loops"
+role = "canonical-audio"
+category = "loops"
+
+[[dir]]
+path = "Programmed Loops"
+role = "canonical-audio"
+category = "loops"
+
+[[dir]]
+path = "Straight Loops"
+role = "canonical-audio"
+category = "loops"

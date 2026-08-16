@@ -1,0 +1,78 @@
+# Zero-G Jungle Warfare 3 (Vol. 3) — DISCONTINUED (see vendor.toml). No live product page exists,
+# so this file carries the historical record inline: description assembled
+# 2026-08-16 from the Discogs booklet scans, Zero-G's own later listings and
+# ReFill booklet, Sound On Sound (Sept 1997), and Audiofanzine; the image
+# pointer is the Discogs front-cover scan. This is the exception the
+# SCHEMA allows for products nobody can sell you any more.
+
+[pack]
+name = "Jungle Warfare Vol 3"
+slug = "jungle-warfare-vol-3"
+dir  = "Jungle Warfare Vol 3"
+url  = "https://www.discogs.com/release/16173652-Zero-G-Jungle-Warfare-Vol3"                       # Discogs release — the closest thing to a product page left
+tags = ["jungle", "drum-and-bass", "90s", "breaks", "loops", "amen", "hardcore"]
+archives = ["Zero-G Jungle Warfare Complete (zgjwc).zip"]
+observed = 2026-08-16
+discontinued = true
+released = 1997
+catalog_number = "TAS CD 78"
+credits = "Danny Demierre (Flytronix) at Flytronix's Introkutt Studio; audio editing Rupert Pope; artwork Jason C."
+sources = [
+  "https://www.discogs.com/release/16173652-Zero-G-Jungle-Warfare-Vol3",
+  "https://www.soundonsound.com/reviews/sample-shops-golden-greats",
+  "https://www.yumpu.com/en/document/view/7095767/jungle-warfare-refill-contents-zero-g",
+  "https://en.audiofanzine.com/drum-n-bass-jungle-sample/zero-g/jungle-warfare-vol-3/",
+]
+
+[meta]
+title = "Zero-G Jungle Warfare 3 (Vol. 3)"
+type  = "music.album"
+image = "https://i.discogs.com/aSm8vD9fb2x7QunhIzi2470ntQnnzqX_N_8ri2yZipI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTcz/NjUyLTE2MTAwMjk4/ODEtODUyMy5qcGVn.jpeg"
+description = '''
+Volume 3 (Zero-G/Time+Space, 1997, audio CD, 85 tracks, 72:58, TAS CD 78, barcode 5 021724 000928). The most produced of the three: 48 drum-loop construction kits at 160.5–166.5 BPM (each loop plus its cut-ups — Kick Crash, Snare, Hats, Rev Snare, Fill…), named Standard Amen, Samurai Bk, Angel Cut Up Rollo, All The Way Live, Hot Pantz, Jazz Ride Bk, Klanga Bk, Skippy Bk 1–3, Apache, Helicopta, Breeze Bk, Metallic Stepz, Hard Stepz, Shuffling Live Bk, Krystal Bk, Light Stepz…; Percussion hits (kicks, snares, drum-loop hits); Basses and keyed Bass Lines at 165.5–166.5 (808 Standard, Fat Upright, Menace Throb, Hard Sweep); Mellow Keys (Rhodes), Organs, Guitars, FX (Spinback, Time Rev, Power Stab), Ambient beds, Pads (Wash, Dream, Uplift, Glisten), Strings & Things. Audiofanzine (2008): "pure old skool junglism… a must for jungle producers." Later editions: WAV/ACID/REX download (ZERO110), "Jungle Warfare For Reason" ReFill disc 2. Discontinued — see Vol 1.
+'''
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 984
+audio_bytes = 636812808
+digest      = "447b6531cf338324e315c1e7653b4a030b706fefba877cefeefec57ae8808816"
+anchors     = [
+  "0016fae72e8c3c4829e1e65aab155fa9509309f66ef25c1f17fb7b81776a2953",
+  "004a04c37cdebf6e519a92d7ab5da59444e98418e71fc33ca1f39256dd0f019c",
+  "005ab3d91171d4d8c4f9e111335346aa2b34ad2c8c0bb4bb1156bc0799d8b6dc",
+  "007e753f1e2ff9e66d715b2ce2acabf5edc34c494ddb78116e33a587ee040e1b",
+  "00fad7c1034fd74269072a12f48af6f409c62b251a70c862d972a1d7e4fe67c8",
+  "010c1cfe529f8ee77ddefb741ca9dbc7b8318f686c3a736e5a97b6ec6d20cbd8",
+  "011e95eb9921b4d599a5ed4fefbae9b95e70fd72aa79f0f46334689bdcfa3a0f",
+  "0123682253f3ed2610200e5eaa38ccb391a74989e6f05345ea49dc2f8e470a59",
+]
+manifest    = "manifests/jungle-warfare-vol-3.sha256"
+
+[[dir]]
+path = "Bass Lines 166.5"
+role = "canonical-audio"
+category = "loops"
+tags = ["bass", "loops"]
+desc = "bass line loops at 166.5 BPM, keyed"
+
+[[dir]]
+path = "Drum Loops"
+role = "canonical-audio"
+category = "loops"
+
+[[dir]]
+path = "Drum Rolls"
+role = "canonical-audio"
+category = "loops"
+
+[[dir]]
+path = "Instruments"
+role = "canonical-audio"
+category = "one-shots"
+desc = "pads, basses, notes, FX, vocals — the non-drum half of the disc"
+
+[[dir]]
+path = "Percussion Hits"
+role = "canonical-audio"
+category = "one-shots"

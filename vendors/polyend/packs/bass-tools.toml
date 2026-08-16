@@ -1,0 +1,50 @@
+# Bass Tools — Drum n Bass Pack. Facts from the product page + a real copy;
+# the page's copy stays on the page (url).
+
+[pack]
+name = "Bass Tools"
+slug = "bass-tools"
+dir  = "Bass Tools"
+url  = "https://polyend.com/product/bass-tools/"
+provider = "Mirrorman"   # the pack is BY this artist; sold by Polyend
+samples_listed = 117
+tags = ["drum-and-bass", "electronic"]
+archives = ["Bass-Tools-mkqzad.zip"]
+observed = 2026-08-16
+
+[meta]
+title = "Bass Tools"
+type  = "product"
+image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/06/01084044/Bass.png"
+
+[identity]
+algo        = "sha256-sorted-v1"
+audio_files = 351
+audio_bytes = 125906882
+digest      = "961b98b3640cf4a10bc27d42657b2760f389230351baebaf6b01dff10b1a33af"
+anchors     = [
+  "009b94b90c2474f0b197cca3042d38453671df577850ec7edb05f2b3b0f1ba63",
+  "01de205bd85b52a8247af74a2aef81fee5538e7f3d99b76e72a5894683e88d0f",
+  "025d9694d4e291a2086397bc0dd742edad41b87543137e862248fe74d0b8efe8",
+  "02df4838c6a57e45eeb3bcc127d4b02bd388a0cb5ef314f6a84736d011595cb0",
+  "035cddd8c0905613af4036f298a4fdf8d1e9f30de317d2400ab3dc5679742cab",
+  "038d1efe7c44ac7840bf6d8e2e016cc99165c80e4f91d037eb10e2d323ad8859",
+  "03be7e299715070f1181ba0e99b1ca2ae7ef9a1ede66a6f96e11df212b222c0a",
+  "041b5d06f00791c1a843195f7b9420f810c1b4ce6d77ec1146df02b9a868c2b7",
+]
+manifest    = "manifests/bass-tools.sha256"
+
+[[dir]]
+path = "Pack 16 bit mono"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 16 bit stereo"
+role = "format-tree"
+desc = "same one-shots cut 16-bit for Tracker/Play"
+
+[[dir]]
+path = "Pack 24 bit stereo"
+role = "canonical-audio"
+category = "one-shots"

@@ -1,0 +1,28 @@
+# Rhythm Lab (rhythm-lab.com; Dmitry "Cyberworm" Vasilyev). Free packs
+# distributed as RAR/ZIP from the site. Observed against The Ultimate Amen
+# Breaks Pack (2017) unpacked one dir per pack.
+
+[vendor]
+name     = "Rhythm Lab"
+slug     = "rhythm-lab"
+aliases  = ["Rhythm-Lab", "rhythm-lab.com"]
+homepage = "https://rhythm-lab.com"
+observed = 2026-08-16
+
+[packs]
+grammar     = "top-level-dirs"
+sibling_zip = "archival-original"   # .rar, as the site ships it
+zip_name_grammar = "'Rhythm Lab <Pack Title>.rar' → dir '<Pack Title>' (or the full name, as unpacked)"
+
+[formats]
+canonical_dir = "."                # audio in per-source dirs at pack root; no format trees
+# Vendor ships 17 AIFF/AIFC files with a .wav extension in Original/;
+# sniff magic bytes, don't trust the name.
+
+[[category]]
+id    = "loops"
+match = ["*"]                      # the whole pack is break loops (plus the raw originals)
+
+[[category]]
+id    = "one-shots"
+match = ["*Hits*", "*Chops*", "*Chopped*"]
