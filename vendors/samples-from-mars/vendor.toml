@@ -80,3 +80,26 @@ note_suffix      = "_<note><octave>"  # pitched: "37_ItsASurprise_2600_C#1.wav";
 take_suffix      = " NN"          # variations count at the tail: "Kick 01..06" —
                                   # the distinguishing token is LAST, which
                                   # cropped hardware displays hide
+
+# Instrument overrides — SFM's abbreviations are unambiguous inside this
+# vendor but far too generic to put in the shared lexicon. Consulted before
+# instruments.toml; see SCHEMA [[instrument]].
+[[instrument]]
+id      = "hat"
+aliases = ["ch", "oh", "hh", "chh", "ohh", "custom hh"]
+
+[[instrument]]
+id      = "kick"
+aliases = ["bd", "custom bd"]
+
+[[instrument]]
+id      = "snare"
+aliases = ["sd", "custom sd", "custom snare"]
+
+[[instrument]]
+id      = "tom"
+aliases = ["custom tom"]
+
+[[instrument]]
+id      = "clap"
+aliases = ["cp"]

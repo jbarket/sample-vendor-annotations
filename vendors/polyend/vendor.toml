@@ -39,3 +39,13 @@ match = ["*Step Kits*", "Tracker PTI kits"]
 # Files are <category>_<name>[_<n>].wav ("kit_bearings_1.wav",
 # "Atmosphere_Alarm.wav"); numbered variations count up at the tail.
 take_suffix = "_N"
+
+# Instrument overrides: Polyend's own folder words that the shared lexicon
+# would otherwise read generically.
+[[instrument]]
+id      = "kick"
+aliases = ["kicks and rumble"]
+
+[[instrument]]
+id      = "snare"
+aliases = ["clap and snare"]

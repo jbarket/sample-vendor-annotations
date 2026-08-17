@@ -87,6 +87,30 @@ match          = ["*Loop*", "*Full Beats*"]
 dedicated_packs = ["* Loops From Mars"]   # whole packs that ARE this category
 ```
 
+## [[instrument]] — vendor-local instrument overrides
+
+The shared instrument vocabulary lives at the repo root in
+`instruments.toml` (canonical id, family, the words vendors write for it,
+and `avoid` phrases). It is applied to every vendor, because reading a
+folder called `01. Bass Drum` is transcription, not inference.
+
+A vendor adds `[[instrument]]` blocks only for its own abbreviations —
+ones that are unambiguous inside that library but far too generic to put
+in the shared lexicon. These are consulted **before** `instruments.toml`.
+
+```toml
+[[instrument]]
+id      = "hat"                       # a canonical id from instruments.toml
+aliases = ["ch", "oh", "hh", "chh"]   # what THIS vendor writes for it
+```
+
+Consumers normalize each path segment and the filename stem (lowercase,
+order prefixes dropped, non-alphanumerics to spaces), collect every label
+found, and keep the most specific one — earliest in `instruments.toml`.
+So `04. Rimshot/Rimshot TOM 31.wav` is a rimshot even though the machine
+name in the filename also says "TOM", while `Drums/Kick 01.wav` is still
+a kick. Unlabelled files stay unlabelled: never guess.
+
 ## [naming] — filename grammar
 
 Conventions inside filenames, for tools that rename for constrained

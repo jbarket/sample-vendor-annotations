@@ -1,0 +1,240 @@
+# Canonical instrument vocabulary — the second facet beside [[category]].
+#
+# WHERE THE FACTS COME FROM. Vendors already label their own material: a
+# folder called "01. Bass Drum", a file called "TA_Kick_Loop_124_D.wav".
+# Reading that label is transcription, not inference — the same standing as
+# every other annotation here. What this file does NOT do is guess from
+# audio, and it does not ask the end user to tag anything.
+#
+# HOW IT IS APPLIED. Consumers normalize each path segment and the filename
+# stem (lowercase; order prefixes like "01. " dropped; non-alphanumerics to
+# spaces) and look for these aliases as whole words. The FILENAME is checked
+# first, then directories deepest-first — the most specific label the vendor
+# wrote wins. Entries are tried in the order below, so specific beats
+# generic ("bass drum" resolves to kick before "bass" can claim it).
+#
+# Every label the vendor wrote is collected (filename plus each directory),
+# and the winner is the one listed EARLIEST here — so order encodes
+# specificity, not where the word happened to appear. That matters because
+# vendors put machine names in filenames: "04. Rimshot/Rimshot TOM 31.wav"
+# is a rimshot from the Roland TOM, and `rim` sits above `tom` below so it
+# reads as one.
+#
+# `avoid` lists phrases that contain an alias but mean something else; a
+# segment matching one is skipped for that instrument. Vendors whose naming
+# needs local exceptions add [[instrument]] blocks in their own vendor.toml
+# (see SCHEMA) — those are consulted before this shared lexicon.
+#
+# Observed against Samples From Mars (83 packs), Splice (220), Polyend (23),
+# Zero-G, Blu Mar Ten, Rhythm Lab, Elektron factory content, 2026-08-17.
+
+# ---- drums: pieces first, families later -------------------------------
+
+[[instrument]]
+id      = "kick"
+family  = "drums"
+aliases = ["kick", "kicks", "bass drum", "bassdrum", "bd", "kik", "bass drums"]
+avoid   = ["kick bass", "kickbass"]   # a bass patch named for its kick pairing
+
+[[instrument]]
+id      = "snare"
+family  = "drums"
+aliases = ["snare", "snares", "snare drum", "sd", "sn"]
+
+[[instrument]]
+id      = "clap"
+family  = "drums"
+aliases = ["clap", "claps", "handclap", "hand clap", "cp"]
+
+[[instrument]]
+id      = "hat"
+family  = "drums"
+aliases = [
+  "hat", "hats", "hi hat", "hihat", "hi hats", "hihats", "hh",
+  "closed hat", "closed hats", "open hat", "open hats", "ohh", "chh",
+]
+
+[[instrument]]
+id      = "cymbal"
+family  = "drums"
+aliases = ["cymbal", "cymbals", "crash", "crashes", "ride", "rides", "splash"]
+
+# rim before tom: "Rimshot TOM 12" is a rimshot, and "TOM" is a machine
+# name that lands in every filename of Samples From Mars' TOM pack.
+[[instrument]]
+id      = "rim"
+family  = "drums"
+aliases = ["rim", "rimshot", "rim shot", "rimshots"]
+
+[[instrument]]
+id      = "tom"
+family  = "drums"
+aliases = ["tom", "toms", "tom drum", "floor tom", "rack tom"]
+
+# break before the generic drums entry: a drum break is the more specific
+# description of the two.
+[[instrument]]
+id      = "break"
+family  = "drums"
+aliases = ["break", "breaks", "breakbeat", "breakbeats", "amen", "drum break", "drum breaks", "beat", "beats", "groove", "grooves", "fill", "fills", "roll", "rolls"]
+
+[[instrument]]
+id      = "drums"
+family  = "drums"
+aliases = ["drum", "drums", "drum hits", "drum one shots", "drumperc", "drum kit", "kit", "kits"]
+
+# ---- percussion ---------------------------------------------------------
+
+[[instrument]]
+id      = "shaker"
+family  = "percussion"
+aliases = ["shaker", "shakers", "maraca", "maracas", "cabasa"]
+
+[[instrument]]
+id      = "tambourine"
+family  = "percussion"
+aliases = ["tambourine", "tambourines", "tamb"]
+
+[[instrument]]
+id      = "conga"
+family  = "percussion"
+aliases = ["conga", "congas", "bongo", "bongos", "tumbadora", "djembe"]
+
+[[instrument]]
+id      = "cowbell"
+family  = "percussion"
+aliases = ["cowbell", "cowbells", "agogo"]
+
+[[instrument]]
+id      = "clave"
+family  = "percussion"
+aliases = ["clave", "claves", "guiro", "chekere", "woodblock", "wood block", "wood blocks", "claves and guiro"]
+
+[[instrument]]
+id      = "percussion"
+family  = "percussion"
+aliases = ["percussion", "perc", "percs", "percussive"]
+
+# ---- bass ---------------------------------------------------------------
+
+[[instrument]]
+id      = "sub"
+family  = "bass"
+aliases = ["sub", "subs", "sub bass", "subbass", "808 bass"]
+
+[[instrument]]
+id      = "reese"
+family  = "bass"
+aliases = ["reese", "reeses"]
+
+[[instrument]]
+id      = "bass"
+family  = "bass"
+aliases = ["bass", "basses", "bassline", "bass line", "bass lines", "upright bass", "bass hits"]
+
+# ---- keys and tonal -----------------------------------------------------
+
+[[instrument]]
+id      = "piano"
+family  = "keys"
+aliases = ["piano", "pianos", "grand piano", "upright piano", "electric piano", "rhodes", "wurli", "wurlitzer", "epiano", "e piano"]
+
+[[instrument]]
+id      = "organ"
+family  = "keys"
+aliases = ["organ", "organs", "hammond", "vox organ"]
+
+[[instrument]]
+id      = "keys"
+family  = "keys"
+aliases = ["key", "keys", "keyboard", "clav", "clavinet", "harpsichord", "celeste"]
+
+[[instrument]]
+id      = "mallet"
+family  = "keys"
+aliases = ["mallet", "mallets", "marimba", "vibraphone", "vibes", "xylophone", "kalimba"]
+
+[[instrument]]
+id      = "bell"
+family  = "keys"
+aliases = ["bell", "bells", "chime", "chimes", "glockenspiel", "tubular bells"]
+
+# ---- synth voices -------------------------------------------------------
+
+[[instrument]]
+id      = "lead"
+family  = "synth"
+aliases = ["lead", "leads", "lead synth", "hoover", "hoovers", "acid", "riff", "riffs"]
+
+[[instrument]]
+id      = "pad"
+family  = "synth"
+aliases = ["pad", "pads", "atmosphere", "atmospheres", "wash", "drone", "drones", "ambient", "ambience", "texture", "textures"]
+
+[[instrument]]
+id      = "pluck"
+family  = "synth"
+aliases = ["pluck", "plucks", "plucked"]
+
+[[instrument]]
+id      = "stab"
+family  = "synth"
+aliases = ["stab", "stabs", "chord stab", "chord stabs", "chord", "chords"]
+# NOT "hit"/"hits": vendors use those for one-shots in general ("01. Individual
+# Hits"), which would swallow lasers, whistles and sticks.
+
+[[instrument]]
+id      = "arp"
+family  = "synth"
+aliases = ["arp", "arps", "arpeggio", "arpeggios", "sequence", "sequences", "seq"]
+
+[[instrument]]
+id      = "synth"
+family  = "synth"
+aliases = ["synth", "synths", "synthesizer", "poly", "mono synth", "tonal", "melodic"]
+
+# ---- acoustic / recorded ------------------------------------------------
+
+[[instrument]]
+id      = "guitar"
+family  = "strings"
+aliases = ["guitar", "guitars", "acoustic guitar", "electric guitar", "gtr"]
+
+[[instrument]]
+id      = "strings"
+family  = "strings"
+aliases = ["string", "strings", "violin", "viola", "cello", "orchestra", "orchestral", "harp"]
+
+[[instrument]]
+id      = "brass"
+family  = "brass"
+aliases = ["brass", "horn", "horns", "trumpet", "trombone", "sax", "saxophone", "tuba"]
+
+[[instrument]]
+id      = "woodwind"
+family  = "woodwind"
+aliases = ["flute", "flutes", "clarinet", "oboe", "bassoon", "recorder", "woodwind"]
+
+# ---- voice --------------------------------------------------------------
+
+[[instrument]]
+id      = "vocal"
+family  = "vocal"
+aliases = ["vocal", "vocals", "vox", "voice", "voices", "acapella", "a capella", "spoken", "choir", "choirs", "chant", "chants", "adlib", "adlibs"]
+
+# ---- non-instrumental material -----------------------------------------
+
+[[instrument]]
+id      = "fx"
+family  = "fx"
+aliases = [
+  "fx", "sfx", "effect", "effects", "riser", "risers", "downlifter", "downlifters",
+  "uplifter", "impact", "impacts", "sweep", "sweeps", "transition", "transitions",
+  "whoosh", "spinback", "siren", "sirens", "reverse", "noise",
+]
+
+[[instrument]]
+id      = "foley"
+family  = "fx"
+aliases = ["foley", "field recording", "field recordings", "found sound", "found sounds", "asmr"]
+
