@@ -22,8 +22,33 @@ grammar = "top-level-dirs"
 # Where the Splice desktop app keeps downloaded samples by default. A fact
 # about the vendor (same class as pack grammar) — consumers use it to offer
 # "you have Splice installed, add it as a source?" without crawling disks.
+# Two on-disk layouts exist: older app builds keep <Splice root>/sounds/packs;
+# current builds (observed on Windows 2026-08-16) keep <Splice root>/Samples/packs
+# beside a `presets/` dir and a `.splice/` marker. The Splice root itself is
+# relocatable in the app's preferences (a NAS share is common), so these are
+# only the defaults — a `.splice/` dir is the tell for a relocated one.
 [install]
-macos   = ["~/Splice/sounds/packs"]
-windows = ["~/Splice/sounds/packs"]
-linux   = ["~/Splice/sounds/packs"]
+macos   = ["~/Splice/sounds/packs", "~/Splice/Samples/packs"]
+windows = ["~/Splice/sounds/packs", "~/Splice/Samples/packs", "~/Documents/Splice/Samples/packs"]
+linux   = ["~/Splice/sounds/packs", "~/Splice/Samples/packs"]
 note    = "app-managed: new samples land continuously, so rescan often"
+
+# Category folders sit one level down: <pack>/<Label_-_Title_Audio>/<category>/.
+# Names vary per label; observed 2026-08-16 over 202 packs (114 distinct
+# names). Matched case-insensitively by consumers. Order matters where a
+# name says two things: "*loop*" beats "*drum*"/"*hit*".
+[[category]]
+id    = "loops"
+match = ["*loop*", "songstarters", "*song_starter*", "*construction*"]
+
+[[category]]
+id    = "kits"
+match = ["*kit*"]
+
+[[category]]
+id    = "fx"
+match = ["fx", "*_fx", "fx_*", "*sfx*", "*riser*", "*impact*", "*texture*"]
+
+[[category]]
+id    = "one-shots"
+match = ["*one_shot*", "*one-shot*", "*oneshot*", "*hit*", "*stab*", "pads", "pianos", "organs", "choirs", "hoovers", "vocals", "*_bass", "*_acid", "*_drums"]
