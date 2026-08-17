@@ -10,14 +10,29 @@ homepage = "https://splice.com"
 observed = 2026-07-26
 
 [packs]
-grammar = "top-level-dirs"
-# Splice desktop downloads per-sample, so local pack dirs are PARTIAL by
-# design — identity matching should expect fractions, not completeness.
-# No sibling zips; the app is the archive.
-# Pack metadata (name, url, provider, cover) resolved via Splice's public
-# GraphQL (surfaces-graphql.splice.com) by probing sample filenames —
-# filepath search returns the parent pack. Packs missing from Splice were
-# delisted after download; their stubs say so rather than guessing.
+grammar  = "top-level-dirs"
+resolver = "splice-graphql"   # marketplace: no per-pack files here — see below
+# Splice is a marketplace: its pack list is unbounded and grows daily, and
+# every user's local library is a different partial subset (the app
+# downloads per sample). Shipping per-pack files here would never be
+# complete and would swamp the repo — so this vendor ships GRAMMAR only,
+# and consumers resolve each pack they actually have from Splice's public
+# GraphQL (surfaces-graphql.splice.com), caching locally:
+#
+#   query($fp:String!){ assetsSearch(filter:{asset_type_slug:sample,
+#     filepath:$fp}, pagination:{limit:5}) { items { ... on SampleAsset {
+#     name parents(filter:{asset_type_slug:pack}) { items { ... on PackAsset {
+#     name uuid permalink_slug permalink_base_url provider { name
+#     permalink_slug } tags { label } files { url asset_file_type_slug }
+#   } } } } } } }
+#
+# $fp is a sample's path within the pack dir (SampleAsset.name is exactly
+# that); the parent PackAsset gives name, slug, provider, permalink base
+# (base + slug = product URL) and files[cover_image].url. Unauthenticated,
+# no introspection. Vendor tag labels come back too — translate via
+# tags.toml. A pack Splice no longer knows was delisted after download.
+# (Until 2026-08-16 this vendor carried 202 pack stubs observed from one
+# library; git history has them.)
 
 # Where the Splice desktop app keeps downloaded samples by default. A fact
 # about the vendor (same class as pack grammar) — consumers use it to offer

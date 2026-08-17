@@ -33,6 +33,25 @@ zip_name_grammar = "lower_snake or lower-hyphen of the dir name"
 `grammar` values: `top-level-dirs` (the only one defined so far; propose
 others as vendors demand them).
 
+**Marketplaces.** A pack *house* (Samples From Mars, Polyend, Zero-G) has
+a finite catalog; annotating every pack is a bounded job and belongs here.
+A *marketplace* (Splice, Loopcloud) lists more packs every day and every
+user holds a different partial subset — per-pack files would never be
+complete and would swamp the repo. Marketplace vendors ship grammar only
+and declare a resolver:
+
+```toml
+[packs]
+grammar  = "top-level-dirs"
+resolver = "splice-graphql"   # named strategy a consumer implements
+```
+
+The consumer asks the vendor's own public API about each pack dir it
+actually has (name, slug, provider, product URL, cover pointer, tags) and
+caches the answer locally, outside this repo. Document the endpoint and
+query in the vendor.toml comments so the strategy is reproducible. `packs/`
+and `manifests/` are absent for such vendors by design.
+
 ## [formats] — canonical audio vs parallel exports
 
 Vendors ship the same sounds cut for many hosts. One tree is the canonical
