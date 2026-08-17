@@ -82,7 +82,16 @@ note_suffix      = "_<note><octave>"  # pitched files: "..._C#4.wav";
                                   # sharps use '#'
 take_suffix      = " NN"          # variations count up at the tail —
                                   # the distinguishing token is LAST
+key_suffix       = " - <camelot>" # musical key at the tail in Camelot
+                                  # notation ("Champion Sub - 10A")
+bpm_dir_suffix   = true           # loop folders END in their BPM
+                                  # ("Bass Lines 166.5/", "Tha Size 167.5/")
 ```
+
+Consumers harvest per-file facts from these (key from `note_suffix` /
+`key_suffix`, bpm from `bpm_dir_suffix` and any literal "124 Bpm" token)
+into their own local cache — the harvested values are per-file vendor
+data and stay out of this repo (see Tags).
 
 ## [install] — where the library lives by default
 

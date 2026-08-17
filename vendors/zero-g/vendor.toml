@@ -36,3 +36,4 @@ match = ["Instruments/Special FX", "Instruments/FX", "Instruments/Vox FX"]
 [naming]
 # Vendor typo "Pecussion" persists in Vol 1 dir names; Vol 2/3 loop dirs
 # carry the BPM ("Ezee Rolla 165.5"); files end " (JWn)" for the volume.
+bpm_dir_suffix = true            # "Bass Lines 166.5", "Tha Size 167.5": trailing number is the BPM
