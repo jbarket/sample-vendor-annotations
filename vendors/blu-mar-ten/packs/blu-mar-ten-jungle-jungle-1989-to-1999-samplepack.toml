@@ -21,7 +21,7 @@ image = "https://f4.bcbits.com/img/a2098914878_2.jpg"
 class    = "vendor-free"      # name-your-price on the artist's own Bandcamp
 url      = "https://blumarten.bandcamp.com/album/blu-mar-ten-jungle-jungle-1989-to-1999-samplepack"
 gate     = "email"            # Bandcamp asks for an email at $0
-license  = "royalty-free"     # per the licence PDF shipped in the pack
+license  = "uncleared"        # "samples of commercially released tracks, use at your own risk"; all rights reserved
 observed = 2026-08-19
 
 [identity]

@@ -254,7 +254,8 @@ class    = "vendor-free"   # vendor-free | vendor-paid | distributor | orphan
 url      = "https://blumarten.bandcamp.com/album/jungle-jungle-1989-1999-samplepack"
 via      = "loopmasters"   # distributor vendor slug; required iff class = "distributor"
 gate     = "email"         # none | email | account | purchase — what the page asks for
-license  = "royalty-free"  # royalty-free | cc0 | cc-by | personal-use | purchase | unknown
+license  = "royalty-free"  # royalty-free | cc0 | cc-by | cc-by-nc | informal-free | uncleared | purchase | unknown
+                           # (see notes/2026-08-19-source-survey.md for what each covers)
 observed = 2026-08-19      # when the pointer was last seen resolving
 ```
 
