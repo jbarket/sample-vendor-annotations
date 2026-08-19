@@ -35,6 +35,13 @@ under licence (Loopmasters free samplers, Bandcamp, Splice). Pack files
 point at a distributor with `[acquisition] via = "<its slug>"`, and the
 pointer must then sit inside the distributor's `domains`.
 
+**Curators are not distributors** *(ratified 2026-08-19)*. The role is
+reserved for parties the rights-holder demonstrably licensed to
+distribute. Curation surfaces — BPB, KVR threads, blogs, roundups — never
+get distributor records, however useful they are for *finding* packs;
+the pointer goes past them to the vendor's own page, always. No evidenced
+licence, no `via`.
+
 ## [packs] — where pack boundaries are
 
 ```toml
@@ -256,6 +263,11 @@ via      = "loopmasters"   # distributor vendor slug; required iff class = "dist
 gate     = "email"         # none | email | account | purchase — what the page asks for
 license  = "royalty-free"  # royalty-free | cc0 | cc-by | cc-by-nc | informal-free | uncleared | purchase | unknown
                            # (see notes/2026-08-19-source-survey.md for what each covers)
+                           # Display posture (ratified 2026-08-19): the value is a
+                           # ceiling on claims, not a badge mandate — consumers may
+                           # show `uncleared` quietly or not at all, but only
+                           # `royalty-free` may ever be LABELLED royalty-free.
+                           # Saying nothing is always allowed; upgrading never is.
 observed = 2026-08-19      # when the pointer was last seen resolving
 ```
 
