@@ -7,6 +7,8 @@ name     = "Samples From Mars"
 slug     = "samples-from-mars"
 aliases  = ["SFM"]
 homepage = "https://samplesfrommars.com"
+role     = "house"
+domains  = ["samplesfrommars.com"]   # hosts pointers may use (lint L1; proposed 2026-08-19)
 observed = 2026-07-18
 
 [packs]

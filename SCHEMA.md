@@ -17,6 +17,24 @@ observed = 2026-07-18             # date the facts below were last checked
                                   # against a real copy of the library
 ```
 
+**Proposed 2026-08-19 — acquisition fields** (see materialized-tunes
+SPEC §11.6; accept by deleting this sentence):
+
+```toml
+[vendor]
+role    = "house"                 # house | marketplace | distributor | archive
+domains = ["samplesfrommars.com", "shop.samplesfrommars.com"]
+                                  # every host a pointer in this vendor's
+                                  # files may use; subdomains match. A URL
+                                  # whose host is declared nowhere FAILS
+                                  # lint — "everyone knows where" is not a host.
+```
+
+`role = "distributor"` marks a vendor that ships *other* labels' packs
+under licence (Loopmasters free samplers, Bandcamp, Splice). Pack files
+point at a distributor with `[acquisition] via = "<its slug>"`, and the
+pointer must then sit inside the distributor's `domains`.
+
 ## [packs] — where pack boundaries are
 
 ```toml
@@ -221,6 +239,73 @@ image       = "https://i.discogs.com/…"   # archival cover scan pointer
 description = '''…the historical record…'''
 ```
 
+### [acquisition] — where someone who doesn't own it may go `(proposed 2026-08-19)`
+
+Identity is unconditional — any real pack may be annotated. Whether the
+annotation also says *where to get it* is gated by class, and the gate is
+lint, not review. Pointers are **pages, never bytes**: the product page,
+the Bandcamp release, the vendor's free-download landing page — wherever
+the vendor collects whatever they price the pack at (dollars, an email,
+attention). Consumers link out; they never download.
+
+```toml
+[acquisition]
+class    = "vendor-free"   # vendor-free | vendor-paid | distributor | orphan
+url      = "https://blumarten.bandcamp.com/album/jungle-jungle-1989-1999-samplepack"
+via      = "loopmasters"   # distributor vendor slug; required iff class = "distributor"
+gate     = "email"         # none | email | account | purchase — what the page asks for
+license  = "royalty-free"  # royalty-free | cc0 | cc-by | personal-use | purchase | unknown
+observed = 2026-08-19      # when the pointer was last seen resolving
+```
+
+| class | pointer | consumer behaviour |
+|---|---|---|
+| `vendor-free` | rights-holder's own $0 page | listed as acquirable |
+| `vendor-paid` | rights-holder's store page | listed as acquirable |
+| `distributor` | licensed third party's page; `via` names it | listed as acquirable |
+| `orphan` | **none** (`url` forbidden) | "recognized, not sourced" |
+
+`discontinued = true` packs are always `orphan`. Their `[pack] url`,
+`[meta] image` and `sources` are *archival* pointers — record that it
+existed, never where a copy is — and are restricted to the hosts in the
+root `hosts.toml` `[reference]` list.
+
+Lint rules (`tools/lint.py`, run in CI):
+
+- **L1 domain closure** — every URL in a vendor's files resolves to a host
+  in that vendor's `domains` (or the `via` distributor's), except archival
+  pointers on discontinued packs, which must be in `hosts.toml`.
+- **L2 pages not bytes** — no pointer path ends in `.zip .rar .7z .tar
+  .gz .wav .aif .aiff .flac .mp3`.
+- **L3 orphans carry no pointer** — `class = "orphan"` ⇒ no `url`;
+  `discontinued = true` ⇒ class is `orphan` if `[acquisition]` is present.
+- **L4 distributors are vendors** — `via` names an existing vendor with
+  `role = "distributor"` and non-empty `domains`.
+- **L5 relations resolve** — see `[[relation]]`.
+- **L6 freshness** — `observed` older than 365 days warns; `lint --live`
+  HEADs each pointer (scheduled, not per-PR).
+
+### [[relation]] — subsets, samplers, bundles `(proposed 2026-08-19)`
+
+Vendors cut freebies from paid packs, re-issue, and bundle volumes. When
+the free pack's manifest lines are a subset of the paid one's, consumers
+derive the relation from `[identity]` with no assertion here. When the
+vendor re-encoded or renamed (common), assert it:
+
+```toml
+[[relation]]
+type     = "subset-of"       # subset-of | sampler-of | superseded-by | bundle-of | reissue-of
+pack     = "samples-from-mars/808-from-mars"   # <vendor slug>/<pack slug>
+basis    = "vendor-states"   # sha | vendor-states | observed
+source   = "https://samplesfrommars.com/products/free-808"  # for vendor-states; in domains
+note     = "24 of the 808's 300 hits, re-exported at 24-bit"
+observed = 2026-08-19
+```
+
+`basis = "sha"` is lint-verified against both manifests (containment must
+hold). The payoff for consumers: "you own X; this freebie is 100%
+contained, skip it" and "you have the sampler; the full pack is at <url>".
+
 ### [identity] — "oh, you have this pack"
 
 Computed over **audio files only** (`.wav`/`.aif*`), because format trees
@@ -307,6 +392,23 @@ tags are facts about the pack (like its title) and distribute; per-FILE
 vendor metadata (bpm, key, per-sample tags) is the vendor's database and
 stays in the consumer's local cache, never in this repo.
 
+## `hosts.toml` — archival / reference hosts `(proposed 2026-08-19)`
+
+The only hosts allowed in pointers that belong to no vendor: used for
+`discontinued` packs' `url` / `image` and for `sources` citations
+anywhere. These record that a thing existed; none of them is a place to
+get a copy.
+
+```toml
+[reference]
+domains = ["discogs.com", "i.discogs.com", "web.archive.org",
+           "soundonsound.com", "audiofanzine.com", "yumpu.com",
+           "musicradar.com", "wikipedia.org"]
+```
+
+Adding a host here is a PR with a one-line reason; a host that serves
+pack bytes does not qualify.
+
 ## What does not belong
 
 - Taste ("the good kicks are in folder X")
@@ -316,6 +418,9 @@ stays in the consumer's local cache, never in this repo.
   files, audio — link to it (`url`, `image`), never reproduce it. Facts
   and pointers distribute; prose and pixels get fetched by the consumer
   and cached locally. (Sole exception: `discontinued = true` packs, above.)
+- **Acquisition pointers to anywhere but the rights-holder or a declared
+  distributor** — no mirrors, no "everyone knows" hosts, no file URLs.
+  Lint enforces it (`[acquisition]`, `hosts.toml`).
 - Per-FILE content hashes as annotation data. Pack-level identity is
   settled (`[identity]` + the manifest sidecar, `sha256-sorted-v1`) —
   that's the *only* hash shape here; don't invent others

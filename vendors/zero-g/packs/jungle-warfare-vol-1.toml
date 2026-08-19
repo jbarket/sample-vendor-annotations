@@ -32,6 +32,10 @@ description = '''
 The world's first Jungle sample CD (Zero-G/Time+Space, 1995, audio CD, 65 tracks, TAS CD 62). Booklet: "The raw hardcore dancefloor ammo we've been waiting for… This massive collection of ultra-fast grooves, construction kits & samples is a lethal dance production weapon in the right hands." Contents: Programmed Loops (155–164 BPM, cut-up and transformed: Insects, Ruff A-Men, Hardstep, Sub-Urban, Clint Eastwood, Terminator, Think…), ~150 raw 4-bar Straight Loops at 160 BPM (The Break, Think, A-Men, Apache, Hot Pantz, Soul Pride…), Drum Rolls, Percussion loops and kits, Sampled and Digital Pads (Cmin7, Rhodes), Basses (808s, Sub Juno, Juno Wobble, Growl), Special FX (gunshots, rewinds, sirens), Vocal & FX. Sound On Sound (Sept 1997): "This was the first, and is the best jungle CD I've had to review to date." Later editions: WAV/ACID/REX download (ZERO012), "Jungle Warfare For Reason" ReFill (2002, TAS CD 119), Maschine 2 expansion. Not legitimately purchasable anywhere as of 2026-08: Zero-G delisted the series in late 2020, Time+Space ceased trading in 2022, B&H lists ZERO012 as discontinued; second-hand CDs only.
 '''
 
+[acquisition]                 # proposed 2026-08-19 (SCHEMA.md)
+class    = "orphan"           # delisted 2020; recognized, not sourced — no pointer by rule (L3)
+observed = 2026-08-19
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 545

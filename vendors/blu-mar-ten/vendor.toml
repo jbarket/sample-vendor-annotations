@@ -7,6 +7,8 @@ name     = "Blu Mar Ten"
 slug     = "blu-mar-ten"
 aliases  = ["BMT"]
 homepage = "https://blumarten.bandcamp.com"
+role     = "house"
+domains  = ["blumarten.com", "blumarten.bandcamp.com", "bcbits.com"]   # hosts pointers may use (lint L1; proposed 2026-08-19)
 observed = 2026-08-16
 
 [packs]

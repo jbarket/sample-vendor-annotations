@@ -7,6 +7,8 @@ name     = "Rhythm Lab"
 slug     = "rhythm-lab"
 aliases  = ["Rhythm-Lab", "rhythm-lab.com"]
 homepage = "https://rhythm-lab.com"
+role     = "house"
+domains  = ["rhythm-lab.com"]   # hosts pointers may use (lint L1; proposed 2026-08-19)
 observed = 2026-08-16
 
 [packs]

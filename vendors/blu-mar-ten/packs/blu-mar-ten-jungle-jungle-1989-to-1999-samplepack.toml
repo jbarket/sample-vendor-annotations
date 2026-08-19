@@ -17,6 +17,13 @@ title = "Blu Mar Ten - Jungle Jungle - 1989 to 1999 Samplepack"
 type  = "album"
 image = "https://f4.bcbits.com/img/a2098914878_2.jpg"
 
+[acquisition]                 # proposed 2026-08-19 (SCHEMA.md)
+class    = "vendor-free"      # name-your-price on the artist's own Bandcamp
+url      = "https://blumarten.bandcamp.com/album/blu-mar-ten-jungle-jungle-1989-to-1999-samplepack"
+gate     = "email"            # Bandcamp asks for an email at $0
+license  = "royalty-free"     # per the licence PDF shipped in the pack
+observed = 2026-08-19
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 676

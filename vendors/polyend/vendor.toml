@@ -8,6 +8,8 @@ name     = "Polyend"
 slug     = "polyend"
 aliases  = ["Polyend Palette", "Palette"]
 homepage = "https://polyend.com"
+role     = "house"
+domains  = ["polyend.com", "polyend-website.fra1.digitaloceanspaces.com"]   # hosts pointers may use (lint L1; proposed 2026-08-19)
 observed = 2026-08-16
 
 [packs]

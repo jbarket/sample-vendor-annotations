@@ -10,6 +10,8 @@ name     = "Zero-G"
 slug     = "zero-g"
 aliases  = ["Zero G", "Zero-G Ltd", "ZeroG"]
 homepage = "https://zero-g.co.uk"
+role     = "house"
+domains  = ["zero-g.co.uk"]   # hosts pointers may use (lint L1; proposed 2026-08-19)
 observed = 2026-08-16
 
 [packs]

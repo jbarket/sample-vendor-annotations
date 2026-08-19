@@ -7,6 +7,8 @@
 name     = "Splice"
 slug     = "splice"
 homepage = "https://splice.com"
+role     = "marketplace"
+domains  = ["splice.com"]   # hosts pointers may use (lint L1; proposed 2026-08-19)
 observed = 2026-07-26
 
 [packs]

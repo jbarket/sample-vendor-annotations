@@ -1,0 +1,16 @@
+# Archival / reference hosts — the only hosts a pointer may use when it
+# belongs to no vendor (discontinued packs' url/image, `sources` citations).
+# These record that a pack EXISTED; none is a place to get a copy. A host
+# that serves pack bytes does not qualify. (proposed 2026-08-19, SCHEMA.md)
+
+[reference]
+domains = [
+  "discogs.com",
+  "i.discogs.com",
+  "web.archive.org",
+  "soundonsound.com",
+  "audiofanzine.com",
+  "yumpu.com",
+  "musicradar.com",
+  "wikipedia.org",
+]

@@ -32,6 +32,10 @@ description = '''
 Volume 3 (Zero-G/Time+Space, 1997, audio CD, 85 tracks, 72:58, TAS CD 78, barcode 5 021724 000928). The most produced of the three: 48 drum-loop construction kits at 160.5–166.5 BPM (each loop plus its cut-ups — Kick Crash, Snare, Hats, Rev Snare, Fill…), named Standard Amen, Samurai Bk, Angel Cut Up Rollo, All The Way Live, Hot Pantz, Jazz Ride Bk, Klanga Bk, Skippy Bk 1–3, Apache, Helicopta, Breeze Bk, Metallic Stepz, Hard Stepz, Shuffling Live Bk, Krystal Bk, Light Stepz…; Percussion hits (kicks, snares, drum-loop hits); Basses and keyed Bass Lines at 165.5–166.5 (808 Standard, Fat Upright, Menace Throb, Hard Sweep); Mellow Keys (Rhodes), Organs, Guitars, FX (Spinback, Time Rev, Power Stab), Ambient beds, Pads (Wash, Dream, Uplift, Glisten), Strings & Things. Audiofanzine (2008): "pure old skool junglism… a must for jungle producers." Later editions: WAV/ACID/REX download (ZERO110), "Jungle Warfare For Reason" ReFill disc 2. Discontinued — see Vol 1.
 '''
 
+[acquisition]                 # proposed 2026-08-19 (SCHEMA.md)
+class    = "orphan"           # delisted 2020; recognized, not sourced — no pointer by rule (L3)
+observed = 2026-08-19
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 984

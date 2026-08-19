@@ -32,6 +32,10 @@ description = '''
 Volume 2 (Zero-G/Time+Space, 1997, audio CD, 84 tracks, 70:40, TAS CD 77, barcode 5 021724 000911). Zero-G's own text: "Volume 2 of the world's first and still the best full-blown Drum & Bass sample library — Hardcore guerilla dancefloor ammo for speed freaks… Special Drum & Bass loops (ready transformed & cut up), Raw loops for you to transform, Massive drum rolls & mega rhythm fills, Jungle percussion loops and kits of component samples, Intense Jungle pads & chords, Aggressive digital synth pads, Jungle chords and hits, In-yer-face Bass notes, Manic Jungle FX, Nasty vocals." Built from the same classic breaks as Vol 1 but pre-processed into step-styled construction kits; drum loops named with their BPM (Tha Size 167.5, Ezee Rolla 165.5); bass lines at 166.5. Later editions: WAV/ACID/REX download (ZERO082), "Jungle Warfare For Reason" ReFill disc 1. Discontinued — see Vol 1.
 '''
 
+[acquisition]                 # proposed 2026-08-19 (SCHEMA.md)
+class    = "orphan"           # delisted 2020; recognized, not sourced — no pointer by rule (L3)
+observed = 2026-08-19
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 973
