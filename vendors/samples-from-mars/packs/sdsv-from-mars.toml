@@ -15,6 +15,13 @@ title = "SDSV FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/products/SDSV-Art_grande.jpg?v=1466435069"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 29.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/sdsv-from-mars"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 2224

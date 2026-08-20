@@ -14,6 +14,13 @@ title = "TRUMPET FRAGMENTS FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/products/Artwork-TrumpetFragmentsFromMars_grande.jpg?v=1632512002"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 19.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/trumpet-fragments-from-mars"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 27

@@ -16,6 +16,13 @@ title = "Sample Journal"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/t/206/assets/logo.png?v=4976552338449183691780509477"
 
+[acquisition]                 # backfilled 2026-08-20
+class    = "vendor-paid"      # sold as separate kits now; the collection page is the honest pointer
+url      = "https://samplesfrommars.com/collections/sample-journal"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 225

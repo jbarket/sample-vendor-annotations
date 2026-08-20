@@ -15,6 +15,13 @@ title = "DRUMTRAX FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/products/Drumtrax_small_0760db67-d5e8-44b3-b69b-a14a1a401d8a_grande.jpg?v=1416413428"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 3.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/drumtrax-samples"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 430

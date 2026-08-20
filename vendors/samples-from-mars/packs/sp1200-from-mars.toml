@@ -14,6 +14,13 @@ title = "SP 1200 FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/products/SP1200_grande.jpg?v=1456598182"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 39.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/sp-1200-from-mars"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 2555

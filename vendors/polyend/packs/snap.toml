@@ -16,6 +16,13 @@ title = "Snap"
 type  = "product"
 image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/04/01084052/SNAP.png"
 
+[acquisition]                 # backfilled 2026-08-20 (WooCommerce price 9.99; no published sample license text)
+class    = "vendor-paid"
+url      = "https://polyend.com/product/snap/"
+gate     = "purchase"
+license  = "unknown"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 300

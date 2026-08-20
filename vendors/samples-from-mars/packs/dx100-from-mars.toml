@@ -14,6 +14,13 @@ title = "DX100 FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/products/dx-100-art_grande.jpg?v=1471551602"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 29.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/dx100-from-mars"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 4500

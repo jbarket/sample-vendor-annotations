@@ -16,6 +16,13 @@ title = "Bliss Chords"
 type  = "product"
 image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2025/08/28103431/Bliss-Chords.png"
 
+[acquisition]                 # backfilled 2026-08-20 (WooCommerce price 49.99; no published sample license text)
+class    = "vendor-paid"
+url      = "https://polyend.com/product/bliss-chords/"
+gate     = "purchase"
+license  = "unknown"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 312

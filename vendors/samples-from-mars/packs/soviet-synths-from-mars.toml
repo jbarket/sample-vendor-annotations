@@ -14,6 +14,13 @@ title = "SOVIET SYNTHS FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/products/unnamed_grande_72894206-0993-40e8-9928-dcc5f9c31e8f_grande.jpg?v=1542983241"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 39.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/soviet-synths-from-mars"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 3846

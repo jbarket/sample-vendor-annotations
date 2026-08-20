@@ -16,6 +16,13 @@ title = "Chord Stabs"
 type  = "product"
 image = "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2024/07/01084016/Chord-Stabs.png"
 
+[acquisition]                 # backfilled 2026-08-20 (WooCommerce price 9.99; no published sample license text)
+class    = "vendor-paid"
+url      = "https://polyend.com/product/chord-stabs/"
+gate     = "purchase"
+license  = "unknown"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 300

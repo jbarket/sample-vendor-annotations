@@ -15,6 +15,13 @@ title = "INDIE TAPES FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/files/SamplesFromMars-IndieTapesFromMars-CoverArt_grande.jpg?v=1752674654"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 29.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/indie-tapes-from-mars"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 974

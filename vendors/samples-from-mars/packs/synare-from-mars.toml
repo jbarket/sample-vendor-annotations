@@ -14,6 +14,13 @@ title = "SYNARE FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/products/Synare2_grande.jpg?v=1542983244"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 29.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/synare-from-mars"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 2268

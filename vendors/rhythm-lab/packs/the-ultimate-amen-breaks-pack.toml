@@ -14,6 +14,13 @@ title = "The Ultimate Amen Breaks Pack"
 type  = "product"
 image = "https://rhythm-lab.com/sstorage/44/2017/01/5869541d5d45f.jpg"
 
+[acquisition]                 # backfilled 2026-08-20
+class    = "vendor-free"
+url      = "https://rhythm-lab.com/the-ultimate-amen-breaks-pack/"
+gate     = "none"
+license  = "unknown"          # no license text anywhere on the page (checked 2026-08-20)
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 805

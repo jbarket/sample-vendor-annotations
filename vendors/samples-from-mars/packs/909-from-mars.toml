@@ -15,6 +15,13 @@ title = "909 FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/products/909_small_f21eaa7f-6cab-493f-a183-a5a924fc5320_grande.jpg?v=1542983209"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 39.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/tr-909-samples"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 1517

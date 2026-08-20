@@ -15,6 +15,13 @@ title = "ARP OMNI FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/products/ARPOMNI_grande.jpg?v=1542983216"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 18.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/arp-omni-synth"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 145

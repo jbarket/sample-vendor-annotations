@@ -14,6 +14,13 @@ title = "WASP FROM MARS"
 type  = "product"
 image = "https://samplesfrommars.com/cdn/shop/products/WASP_grande_d5f78c80-cc89-4ea1-a682-dbe0f0d10000_grande.jpg?v=1542983251"
 
+[acquisition]                 # backfilled 2026-08-20 (Shopify price 29.00)
+class    = "vendor-paid"
+url      = "https://samplesfrommars.com/products/wasp-from-mars"
+gate     = "purchase"
+license  = "royalty-free"
+observed = 2026-08-20
+
 [identity]
 algo        = "sha256-sorted-v1"
 audio_files = 3277
