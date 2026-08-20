@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Fuzzed-out psych samples"
+slug = "sampleradar-fuzz-psych-samples"
+url  = "https://www.musicradar.com/news/sampleradar-fuzz-psych-samples"
+samples_listed = 371
+observed = 2026-08-20
+
+[meta]
+description = "371 free fuzzed-out psych samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-fuzz-psych-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

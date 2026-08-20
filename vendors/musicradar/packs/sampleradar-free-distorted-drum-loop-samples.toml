@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Distorted drum loop samples"
+slug = "sampleradar-free-distorted-drum-loop-samples"
+url  = "https://www.musicradar.com/news/tech/free-distorted-drum-loop-samples"
+samples_listed = 280
+tags = ["drums", "loops"]
+observed = 2026-08-20
+
+[meta]
+description = "280 free distorted drum loop samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/free-distorted-drum-loop-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

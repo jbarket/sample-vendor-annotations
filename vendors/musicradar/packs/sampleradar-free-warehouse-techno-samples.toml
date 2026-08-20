@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Warehouse techno samples"
+slug = "sampleradar-free-warehouse-techno-samples"
+url  = "https://www.musicradar.com/news/sampleradar-free-warehouse-techno-samples"
+samples_listed = 560
+observed = 2026-08-20
+
+[meta]
+description = "560 free warehouse techno samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-free-warehouse-techno-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Retro house samples"
+slug = "sampleradar-330-free-retro-house-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-330-free-retro-house-samples-637779"
+samples_listed = 330
+observed = 2026-08-20
+
+[meta]
+description = "330 free retro house samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-330-free-retro-house-samples-637779"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

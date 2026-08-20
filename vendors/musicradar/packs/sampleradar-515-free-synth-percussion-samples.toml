@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Percussive synth samples"
+slug = "sampleradar-515-free-synth-percussion-samples"
+url  = "https://www.musicradar.com/news/sampleradar-515-free-synth-percussion-samples"
+samples_listed = 515
+tags = ["percussion", "synth"]
+observed = 2026-08-20
+
+[meta]
+description = "515 free percussive synth samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-515-free-synth-percussion-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

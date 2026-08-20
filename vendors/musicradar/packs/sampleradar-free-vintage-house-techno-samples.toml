@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Vintage house and techno samples"
+slug = "sampleradar-free-vintage-house-techno-samples"
+url  = "https://www.musicradar.com/news/sampleradar-free-vintage-house-techno-samples"
+samples_listed = 371
+observed = 2026-08-20
+
+[meta]
+description = "371 free vintage house and techno samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-free-vintage-house-techno-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

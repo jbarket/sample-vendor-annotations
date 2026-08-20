@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "E-mu Vintage Pro Sample Pack"
+slug = "legowelt-e-mu-vintage-pro"
+url  = "https://legowelt.org/samples/"
+samples_listed = 375
+tags = ["synth"]
+observed = 2026-08-20
+
+[meta]
+description = "Samples from the 2002 digital space synthesizer."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: 808 drum samples"
+slug = "sampleradar-378-free-808-drum-samples"
+url  = "https://www.musicradar.com/news/sampleradar-378-free-808-drum-samples"
+samples_listed = 378
+tags = ["drums", "808"]
+observed = 2026-08-20
+
+[meta]
+description = "378 free 808 drum samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-378-free-808-drum-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

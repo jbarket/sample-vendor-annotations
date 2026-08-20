@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Guitar drone samples"
+slug = "sampleradar-216-free-guitar-drone-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-216-free-guitar-drone-samples-627146"
+samples_listed = 216
+tags = ["guitar"]
+observed = 2026-08-20
+
+[meta]
+description = "216 free guitar drone samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-216-free-guitar-drone-samples-627146"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

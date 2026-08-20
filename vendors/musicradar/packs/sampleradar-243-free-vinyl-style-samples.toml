@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Vinyl-style samples"
+slug = "sampleradar-243-free-vinyl-style-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-243-free-vinyl-style-samples-277010"
+samples_listed = 243
+tags = ["vinyl"]
+observed = 2026-08-20
+
+[meta]
+description = "243 free vinyl-style samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-243-free-vinyl-style-samples-277010"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

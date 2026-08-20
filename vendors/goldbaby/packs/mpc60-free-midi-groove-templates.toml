@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "MPC60 - Free MIDI Groove templates"
+slug = "mpc60-free-midi-groove-templates"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["midi"]
+observed = 2026-08-20
+
+[meta]
+description = "These groove templates allow you to change the timing of your music, so that it has the \"feel\" of an MPC60. Use it to make your tracks swing! Most DAW\u2019s have a groove template feature. So check your manual, import those grooves, and start that head nodding!"
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

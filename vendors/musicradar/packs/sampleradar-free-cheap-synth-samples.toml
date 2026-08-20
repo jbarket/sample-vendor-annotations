@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Cheap synth samples"
+slug = "sampleradar-free-cheap-synth-samples"
+url  = "https://www.musicradar.com/news/sampleradar-free-cheap-synth-samples"
+samples_listed = 438
+tags = ["synth"]
+observed = 2026-08-20
+
+[meta]
+description = "438 free cheap synth samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-free-cheap-synth-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Instant hooks samples"
+slug = "sampleradar-instant-hooks-samples"
+url  = "https://www.musicradar.com/news/sampleradar-instant-hooks-samples"
+samples_listed = 195
+observed = 2026-08-20
+
+[meta]
+description = "195 free instant hooks samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-instant-hooks-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

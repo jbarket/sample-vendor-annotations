@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Lounge samples"
+slug = "sampleradar-166-free-lounge-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-166-free-lounge-samples-488005"
+samples_listed = 166
+observed = 2026-08-20
+
+[meta]
+description = "166 free lounge samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-166-free-lounge-samples-488005"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

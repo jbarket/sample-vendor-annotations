@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Western guitar samples"
+slug = "sampleradar-174-free-western-guitar-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-174-free-western-guitar-samples-627124"
+samples_listed = 174
+tags = ["guitar"]
+observed = 2026-08-20
+
+[meta]
+description = "174 free western guitar samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-174-free-western-guitar-samples-627124"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

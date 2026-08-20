@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Criminal damage samples"
+slug = "sampleradar-1007-free-criminal-damage-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-1007-free-criminal-damage-samples-230056"
+samples_listed = 1007
+observed = 2026-08-20
+
+[meta]
+description = "1,007 free criminal damage samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-1007-free-criminal-damage-samples-230056"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

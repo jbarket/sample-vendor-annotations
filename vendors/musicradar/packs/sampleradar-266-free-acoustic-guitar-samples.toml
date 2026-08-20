@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Acoustic guitar samples"
+slug = "sampleradar-266-free-acoustic-guitar-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-266-free-acoustic-guitar-samples-362664"
+samples_listed = 266
+tags = ["guitar"]
+observed = 2026-08-20
+
+[meta]
+description = "266 free acoustic guitar samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-266-free-acoustic-guitar-samples-362664"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

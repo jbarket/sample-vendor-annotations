@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: FX samples"
+slug = "sampleradar-338-free-fx-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-338-free-fx-samples-287277"
+samples_listed = 338
+tags = ["fx"]
+observed = 2026-08-20
+
+[meta]
+description = "338 free FX samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-338-free-fx-samples-287277"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

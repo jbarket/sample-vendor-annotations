@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "MF Drums"
+slug = "mf-drums"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "synth"]
+observed = 2026-08-20
+
+[meta]
+description = "150 samples created using the MicroFreak synth and tasty hardware in the Goldbaby studio. 23 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

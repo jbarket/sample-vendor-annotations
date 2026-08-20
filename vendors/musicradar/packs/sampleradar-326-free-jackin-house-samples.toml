@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Jackin' house samples"
+slug = "sampleradar-326-free-jackin-house-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-326-free-jackin-house-samples-560360"
+samples_listed = 326
+observed = 2026-08-20
+
+[meta]
+description = "326 free jackin' house samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-326-free-jackin-house-samples-560360"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

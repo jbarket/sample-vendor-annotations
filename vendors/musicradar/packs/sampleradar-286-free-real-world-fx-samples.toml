@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Real-world FX samples"
+slug = "sampleradar-286-free-real-world-fx-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-286-free-real-world-fx-samples-467432"
+samples_listed = 286
+tags = ["fx"]
+observed = 2026-08-20
+
+[meta]
+description = "286 free real-world FX samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-286-free-real-world-fx-samples-467432"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

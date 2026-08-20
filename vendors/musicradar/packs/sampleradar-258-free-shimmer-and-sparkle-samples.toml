@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Shimmer and sparkle samples"
+slug = "sampleradar-258-free-shimmer-and-sparkle-samples"
+url  = "https://www.musicradar.com/news/sampleradar-258-free-shimmer-and-sparkle-samples"
+samples_listed = 258
+observed = 2026-08-20
+
+[meta]
+description = "258 free shimmer and sparkle samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-258-free-shimmer-and-sparkle-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

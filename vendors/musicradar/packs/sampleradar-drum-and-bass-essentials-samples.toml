@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Drum 'n' bass essentials samples"
+slug = "sampleradar-drum-and-bass-essentials-samples"
+url  = "https://www.musicradar.com/news/sampleradar-drum-and-bass-essentials-samples"
+samples_listed = 475
+tags = ["drums", "bass"]
+observed = 2026-08-20
+
+[meta]
+description = "475 free drum 'n' bass essentials samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-drum-and-bass-essentials-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

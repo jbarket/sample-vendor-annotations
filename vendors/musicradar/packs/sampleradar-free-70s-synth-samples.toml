@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: '70s synth samples"
+slug = "sampleradar-free-70s-synth-samples"
+url  = "https://www.musicradar.com/news/sampleradar-free-70s-synth-samples"
+samples_listed = 171
+tags = ["synth"]
+observed = 2026-08-20
+
+[meta]
+description = "171 free '70s synth samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-free-70s-synth-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

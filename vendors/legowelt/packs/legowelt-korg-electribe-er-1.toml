@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "Korg Electribe ER-1 Sample Pack"
+slug = "legowelt-korg-electribe-er-1"
+url  = "https://legowelt.org/samples/"
+samples_listed = 150
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "Samples from the Korg Electribe ER-1 drum synthesizer."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

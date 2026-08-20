@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "DecoClapTrap"
+slug = "decoclaptrap"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["tape"]
+observed = 2026-08-20
+
+[meta]
+description = "Legendary ClapTrap recorded through the lovely Strymon Deco. The Deco recreates tape double tracking for sweet stereo claps! 7 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

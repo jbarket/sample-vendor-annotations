@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: '80s pop drums samples"
+slug = "sampleradar-free-80s-pop-drums-samples"
+url  = "https://www.musicradar.com/news/sampleradar-free-80s-pop-drums-samples"
+samples_listed = 183
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "183 free '80s pop drums samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-free-80s-pop-drums-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

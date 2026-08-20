@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "Wurlitzer Side Man"
+slug = "wurlitzer-side-man"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "loops"]
+observed = 2026-08-20
+
+[meta]
+description = "Drum Samples and Rex Loops. This is possibly the first ever commercially-produced drum machine! 36 x 24 bit drum samples and 12 x Rex loops. 23 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

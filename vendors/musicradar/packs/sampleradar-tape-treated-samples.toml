@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Tape treated samples"
+slug = "sampleradar-tape-treated-samples"
+url  = "https://www.musicradar.com/news/sampleradar-tape-treated-samples"
+samples_listed = 485
+tags = ["tape"]
+observed = 2026-08-20
+
+[meta]
+description = "485 free tape treated samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-tape-treated-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

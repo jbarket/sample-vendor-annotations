@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: 808 weight samples"
+slug = "sampleradar-808-weight-samples-1"
+url  = "https://www.musicradar.com/news/sampleradar-808-weight-samples-1"
+samples_listed = 105
+tags = ["808"]
+observed = 2026-08-20
+
+[meta]
+description = "105 free 808 weight samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-808-weight-samples-1"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

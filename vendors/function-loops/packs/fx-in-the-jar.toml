@@ -1,0 +1,18 @@
+# Function Loops free shelf pack.
+
+[pack]
+name = "FX In The Jar"
+slug = "fx-in-the-jar"
+url  = "https://www.functionloops.com/fx-in-the-jar.html"
+tags = ["fx", "loops"]
+observed = 2026-08-20
+
+[meta]
+description = "FX loops and samples: risers, impacts, foley, ambience."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.functionloops.com/fx-in-the-jar.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

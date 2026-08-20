@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Deep dub samples"
+slug = "sampleradar-201-free-deep-dub-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-201-free-deep-dub-samples-567845"
+samples_listed = 201
+observed = 2026-08-20
+
+[meta]
+description = "201 free deep dub samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-201-free-deep-dub-samples-567845"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

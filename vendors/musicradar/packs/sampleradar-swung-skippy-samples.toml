@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Swung and skippy samples"
+slug = "sampleradar-swung-skippy-samples"
+url  = "https://www.musicradar.com/news/sampleradar-swung-skippy-samples"
+samples_listed = 245
+observed = 2026-08-20
+
+[meta]
+description = "245 free swung and skippy samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-swung-skippy-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

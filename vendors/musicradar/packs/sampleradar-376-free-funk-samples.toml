@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Funk samples"
+slug = "sampleradar-376-free-funk-samples"
+url  = "https://www.musicradar.com/news/guitars/sampleradar-376-free-funk-samples-228702"
+samples_listed = 376
+observed = 2026-08-20
+
+[meta]
+description = "376 free funk samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/guitars/sampleradar-376-free-funk-samples-228702"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

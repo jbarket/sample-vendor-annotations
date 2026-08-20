@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Chunky guitar and drum samples"
+slug = "sampleradar-437-free-chunky-guitar-and-drum-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-437-free-chunky-guitar-and-drum-samples-391923"
+samples_listed = 437
+tags = ["drums", "guitar"]
+observed = 2026-08-20
+
+[meta]
+description = "437 free chunky guitar and drum samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-437-free-chunky-guitar-and-drum-samples-391923"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

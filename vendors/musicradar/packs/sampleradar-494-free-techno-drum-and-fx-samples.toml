@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Techno drum and FX samples"
+slug = "sampleradar-494-free-techno-drum-and-fx-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-494-free-techno-drum-and-fx-samples-550889"
+samples_listed = 494
+tags = ["drums", "fx"]
+observed = 2026-08-20
+
+[meta]
+description = "494 free techno drum and FX samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-494-free-techno-drum-and-fx-samples-550889"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

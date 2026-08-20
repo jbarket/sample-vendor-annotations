@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Drum'n'bass atmosphere samples"
+slug = "sampleradar-100-free-drumnbass-atmosphere-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-100-free-drumnbass-atmosphere-samples-429444"
+samples_listed = 100
+tags = ["drums", "bass"]
+observed = 2026-08-20
+
+[meta]
+description = "100 free drum'n'bass atmosphere samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-100-free-drumnbass-atmosphere-samples-429444"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

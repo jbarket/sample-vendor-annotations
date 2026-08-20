@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Cyborg beats samples"
+slug = "sampleradar-277-free-cyborg-beats-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-277-free-cyborg-beats-samples-646018"
+samples_listed = 277
+observed = 2026-08-20
+
+[meta]
+description = "277 free cyborg beats samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-277-free-cyborg-beats-samples-646018"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

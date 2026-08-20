@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "LoFi Holiday24"
+slug = "lofi-holiday24"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "synth", "bass", "fx", "lofi"]
+observed = 2026-08-20
+
+[meta]
+description = "LoFi drums, bass, synth and FX samples. Created using the Lunch Beat, PO-20 Arcade, Kastle Drum and Bleep Drum. Recorded with love in the Goldbaby studio. 147 x 24-bit wav samples"
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

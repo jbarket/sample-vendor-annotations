@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Heavy metal guitar samples"
+slug = "sampleradar-400-free-heavy-metal-guitar-samples"
+url  = "https://www.musicradar.com/news/guitars/sampleradar-400-free-heavy-metal-guitar-samples-228007"
+samples_listed = 400
+tags = ["guitar"]
+observed = 2026-08-20
+
+[meta]
+description = "400 free heavy metal guitar samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/guitars/sampleradar-400-free-heavy-metal-guitar-samples-228007"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

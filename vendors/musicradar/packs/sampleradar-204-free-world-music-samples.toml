@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: World music samples"
+slug = "sampleradar-204-free-world-music-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-204-free-world-music-samples-542733"
+samples_listed = 204
+observed = 2026-08-20
+
+[meta]
+description = "204 free world music samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-204-free-world-music-samples-542733"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

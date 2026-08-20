@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "Sequential Circuits Prophet 600 Sample Pack"
+slug = "legowelt-sequential-circuits-prophet-600"
+url  = "https://legowelt.org/samples/"
+samples_listed = 386
+tags = ["synth", "pads", "bass"]
+observed = 2026-08-20
+
+[meta]
+description = "Thick basses, synthwave pads and more from the Prophet 600."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

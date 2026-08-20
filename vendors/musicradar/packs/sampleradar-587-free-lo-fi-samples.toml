@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Lo-fi samples"
+slug = "sampleradar-587-free-lo-fi-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-587-free-lo-fi-samples-227138"
+samples_listed = 587
+tags = ["lofi"]
+observed = 2026-08-20
+
+[meta]
+description = "587 free lo-fi samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-587-free-lo-fi-samples-227138"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

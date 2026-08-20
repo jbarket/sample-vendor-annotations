@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Analogue drum and bass samples"
+slug = "sampleradar-586-free-analogue-drum-and-bass-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-586-free-analogue-drum-and-bass-samples-545703"
+samples_listed = 586
+tags = ["drums", "bass"]
+observed = 2026-08-20
+
+[meta]
+description = "586 free analogue drum and bass samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-586-free-analogue-drum-and-bass-samples-545703"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

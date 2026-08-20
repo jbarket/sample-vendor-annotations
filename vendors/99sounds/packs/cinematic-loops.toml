@@ -1,0 +1,15 @@
+# 99Sounds free pack; the product page hosts the download.
+
+[pack]
+name = "Cinematic Loops"
+slug = "cinematic-loops"
+url  = "https://99sounds.org/cinematic-loops/"
+tags = ["loops", "cinematic"]
+observed = 2026-08-20
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://99sounds.org/cinematic-loops/"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

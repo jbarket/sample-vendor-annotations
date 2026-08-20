@@ -1,0 +1,15 @@
+# 99Sounds free pack; the product page hosts the download.
+
+[pack]
+name = "Music Loops"
+slug = "music-loops"
+url  = "https://99sounds.org/music-loops/"
+tags = ["loops"]
+observed = 2026-08-20
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://99sounds.org/music-loops/"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

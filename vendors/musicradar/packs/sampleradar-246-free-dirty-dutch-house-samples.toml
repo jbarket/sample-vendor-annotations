@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Dirty Dutch house samples"
+slug = "sampleradar-246-free-dirty-dutch-house-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-246-free-dirty-dutch-house-samples-544709"
+samples_listed = 246
+observed = 2026-08-20
+
+[meta]
+description = "246 free dirty Dutch house samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-246-free-dirty-dutch-house-samples-544709"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,15 @@
+# Legowelt (legowelt.org) — Danny Wolfers' synth sample kits, free from his
+# own site ("donate some $$$ for good karma"). Downloads are WeTransfer
+# links that expire and rotate, so every pointer targets the samples page
+# itself — never the transfer link. License = informal-free (his phrasing,
+# no formal text). Seeded 2026-08-20 from the source survey — discover-only
+# identity records. The Yamaha PSS380 kit is listed but offline ("back
+# soon") and is deliberately not seeded.
+
+[vendor]
+name     = "Legowelt"
+slug     = "legowelt"
+homepage = "https://legowelt.org"
+role     = "house"
+domains  = ["legowelt.org"]
+observed = 2026-08-20

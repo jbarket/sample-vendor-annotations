@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Roland SH-101 synth samples"
+slug = "sampleradar-123-free-roland-sh-101-synth-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-123-free-roland-sh-101-synth-samples-529084"
+samples_listed = 123
+tags = ["synth"]
+observed = 2026-08-20
+
+[meta]
+description = "123 free Roland SH-101 synth samples. from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-123-free-roland-sh-101-synth-samples-529084"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

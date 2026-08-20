@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "Korg Mono/Poly Sample Pack"
+slug = "legowelt-korg-mono-poly"
+url  = "https://legowelt.org/samples/"
+samples_listed = 300
+tags = ["synth", "bass", "pads"]
+observed = 2026-08-20
+
+[meta]
+description = "Juicy basses, occult space pads and interdimensional arps from the 1981 cult beast."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

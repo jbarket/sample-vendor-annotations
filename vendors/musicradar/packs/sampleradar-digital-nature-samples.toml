@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Digital nature samples"
+slug = "sampleradar-digital-nature-samples"
+url  = "https://www.musicradar.com/news/sampleradar-digital-nature-samples"
+samples_listed = 245
+observed = 2026-08-20
+
+[meta]
+description = "245 free digital nature samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-digital-nature-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,18 @@
+# Function Loops free shelf pack.
+
+[pack]
+name = "Free Funk Soul & RnB Sample Pack"
+slug = "free-funk-soul-rnb-sample-pack"
+url  = "https://www.functionloops.com/free-funk-soul--rnb-sample-pack.html"
+tags = ["loops"]
+observed = 2026-08-20
+
+[meta]
+description = "Funk, soul and RnB loops and one-shots."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.functionloops.com/free-funk-soul--rnb-sample-pack.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

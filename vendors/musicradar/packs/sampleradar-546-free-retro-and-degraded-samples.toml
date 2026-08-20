@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Retro and degraded samples"
+slug = "sampleradar-546-free-retro-and-degraded-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-546-free-retro-and-degraded-samples-234855"
+samples_listed = 546
+observed = 2026-08-20
+
+[meta]
+description = "546 free retro and degraded samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-546-free-retro-and-degraded-samples-234855"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

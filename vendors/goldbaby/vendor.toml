@@ -1,0 +1,15 @@
+# Goldbaby (goldbaby.co.nz) — Ben Jackson's boutique sample house, NZ.
+# Seeded 2026-08-20 from the free shelf (notes/2026-08-19-source-survey.md):
+# discover-only identity records, no archives observed yet — pack grammar and
+# [identity] arrive when someone who owns them fingerprints them. All free
+# packs live on ONE page; downloads are MediaFire zips that bypass it, so
+# every pointer targets the freestuff page (pages, not bytes). License is
+# royalty-free per site T&C, with an explicit no-AI/ML-training clause.
+
+[vendor]
+name     = "Goldbaby"
+slug     = "goldbaby"
+homepage = "https://www.goldbaby.co.nz"
+role     = "house"
+domains  = ["goldbaby.co.nz"]
+observed = 2026-08-20

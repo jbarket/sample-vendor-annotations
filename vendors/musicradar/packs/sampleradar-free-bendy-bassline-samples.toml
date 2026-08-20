@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Bendy bassline samples"
+slug = "sampleradar-free-bendy-bassline-samples"
+url  = "https://www.musicradar.com/news/sampleradar-free-bendy-bassline-samples"
+samples_listed = 252
+tags = ["bass"]
+observed = 2026-08-20
+
+[meta]
+description = "252 free bendy bassline samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-free-bendy-bassline-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

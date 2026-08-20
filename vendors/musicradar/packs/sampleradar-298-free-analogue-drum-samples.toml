@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Analogue drum samples"
+slug = "sampleradar-298-free-analogue-drum-samples"
+url  = "https://www.musicradar.com/news/sampleradar-298-free-analogue-drum-samples"
+samples_listed = 298
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "298 free analogue drum samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-298-free-analogue-drum-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

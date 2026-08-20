@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Percussion loops"
+slug = "sampleradar-percussion-loops-samples-1"
+url  = "https://www.musicradar.com/news/sampleradar-percussion-loops-samples-1"
+samples_listed = 301
+tags = ["percussion", "loops"]
+observed = 2026-08-20
+
+[meta]
+description = "301 free percussion loops from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-percussion-loops-samples-1"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

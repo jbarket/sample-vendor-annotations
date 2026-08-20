@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Essential drum kit samples"
+slug = "sampleradar-494-free-essential-drum-kit-samples"
+url  = "https://www.musicradar.com/news/sampleradar-494-free-essential-drum-kit-samples"
+samples_listed = 494
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "494 free essential drum kit samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-494-free-essential-drum-kit-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

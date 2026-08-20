@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Dub drums samples"
+slug = "sampleradar-204-free-dub-drums-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-204-free-dub-drums-samples-629201"
+samples_listed = 204
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "204 free dub drums samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-204-free-dub-drums-samples-629201"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

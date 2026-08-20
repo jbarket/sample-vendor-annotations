@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "MPC60vsMDvsRytm"
+slug = "mpc60vsmdvsrytm"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "This free pack was created in the Goldbaby studio using sounds made on the Elektron Machine Drum and Rytm, then sampled into my trusty MPC60."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

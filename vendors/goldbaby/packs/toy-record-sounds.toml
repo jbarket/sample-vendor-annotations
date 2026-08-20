@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "Toy Record Sounds"
+slug = "toy-record-sounds"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "fx", "lofi"]
+observed = 2026-08-20
+
+[meta]
+description = "These drums, instruments, and FX were all recorded on a toy record-maker. Super lo-fi samples! With kits and patches for Ableton Live, Logic Pro, Kontakt, Battery, and Geist. 80 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

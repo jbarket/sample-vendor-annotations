@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: House samples"
+slug = "sampleradar-338-free-house-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-338-free-house-samples-267013"
+samples_listed = 338
+observed = 2026-08-20
+
+[meta]
+description = "338 free house samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-338-free-house-samples-267013"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

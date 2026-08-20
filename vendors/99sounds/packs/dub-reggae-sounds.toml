@@ -1,0 +1,14 @@
+# 99Sounds free pack; the product page hosts the download.
+
+[pack]
+name = "Dub Reggae Sounds"
+slug = "dub-reggae-sounds"
+url  = "https://99sounds.org/dub-reggae-sounds/"
+observed = 2026-08-20
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://99sounds.org/dub-reggae-sounds/"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

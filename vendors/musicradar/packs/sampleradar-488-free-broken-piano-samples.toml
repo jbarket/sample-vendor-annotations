@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Broken piano samples"
+slug = "sampleradar-488-free-broken-piano-samples"
+url  = "https://www.musicradar.com/news/sampleradar-488-free-broken-piano-samples"
+samples_listed = 488
+tags = ["piano"]
+observed = 2026-08-20
+
+[meta]
+description = "488 free broken piano samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-488-free-broken-piano-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Great outdoors samples"
+slug = "sampleradar-456-free-great-outdoors-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-456-free-great-outdoors-samples-627154"
+samples_listed = 456
+observed = 2026-08-20
+
+[meta]
+description = "456 free great outdoors samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-456-free-great-outdoors-samples-627154"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

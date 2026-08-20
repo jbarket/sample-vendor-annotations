@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Noise, hiss and crackle samples"
+slug = "sampleradar-502-free-noise-hiss-and-crackle-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-502-free-noise-hiss-and-crackle-samples-627134"
+samples_listed = 502
+observed = 2026-08-20
+
+[meta]
+description = "502 free noise, hiss and crackle samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-502-free-noise-hiss-and-crackle-samples-627134"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

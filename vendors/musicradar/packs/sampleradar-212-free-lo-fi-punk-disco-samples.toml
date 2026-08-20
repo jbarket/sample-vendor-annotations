@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Lo-fi punk disco samples"
+slug = "sampleradar-212-free-lo-fi-punk-disco-samples"
+url  = "https://www.musicradar.com/news/guitars/sampleradar-212-free-lo-fi-punk-disco-samples-239032"
+samples_listed = 212
+tags = ["lofi"]
+observed = 2026-08-20
+
+[meta]
+description = "212 free lo-fi punk disco samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/guitars/sampleradar-212-free-lo-fi-punk-disco-samples-239032"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "Jupiter 8 Sample Pack"
+slug = "legowelt-jupiter-8"
+url  = "https://legowelt.org/samples/"
+samples_listed = 500
+tags = ["synth", "pads", "fx", "bass"]
+observed = 2026-08-20
+
+[meta]
+description = "Synths, pads, FX, basses, leads and arps from Legowelt's Roland Jupiter 8."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Analogue polysynths samples"
+slug = "sampleradar-analogue-polysynths-samples"
+url  = "https://www.musicradar.com/news/sampleradar-analogue-polysynths-samples"
+samples_listed = 935
+tags = ["synth"]
+observed = 2026-08-20
+
+[meta]
+description = "935 free analogue polysynths samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-analogue-polysynths-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

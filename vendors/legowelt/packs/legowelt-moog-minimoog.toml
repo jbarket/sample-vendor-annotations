@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "Moog Minimoog Sample Pack"
+slug = "legowelt-moog-minimoog"
+url  = "https://legowelt.org/samples/"
+samples_listed = 223
+tags = ["synth", "bass"]
+observed = 2026-08-20
+
+[meta]
+description = "Samples from a 1970s Minimoog, serial #5529 \u2014 noise, dust, crackle and instability included."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

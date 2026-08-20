@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "VinylOscillator Examples - Chords & FX"
+slug = "vinyloscillator-examples-chords-and-fx"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "synth", "fx", "vinyl"]
+observed = 2026-08-20
+
+[meta]
+description = "Some examples of what you can do with the vinyl synth oscillators included in the Vinyl Drum Machine Collection: using plugins like Infiltrator 2, UberMod, and Wormhole."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

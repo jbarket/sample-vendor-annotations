@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "Roland Juno 106 Sample Pack"
+slug = "legowelt-roland-juno-106"
+url  = "https://legowelt.org/samples/"
+samples_listed = 250
+tags = ["synth", "bass", "pads"]
+observed = 2026-08-20
+
+[meta]
+description = "Basses, pads, chords, strings, sequences and arps from the classic workhorse."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

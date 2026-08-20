@@ -1,0 +1,15 @@
+# 99Sounds free pack; the product page hosts the download.
+
+[pack]
+name = "99 Sound Effects"
+slug = "free-sound-effects"
+url  = "https://99sounds.org/free-sound-effects/"
+tags = ["fx"]
+observed = 2026-08-20
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://99sounds.org/free-sound-effects/"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

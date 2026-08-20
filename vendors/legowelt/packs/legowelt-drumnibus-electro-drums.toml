@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "Drumnibus Electro Drums Sample Pack"
+slug = "legowelt-drumnibus-electro-drums"
+url  = "https://legowelt.org/samples/"
+samples_listed = 230
+tags = ["drums", "electro"]
+observed = 2026-08-20
+
+[meta]
+description = "Fresh 16-bit electro drum sounds from the Legowelt studio: fantasy drum machines and more."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

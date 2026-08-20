@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "MPC60 vs VolcaBeats"
+slug = "mpc60-vs-volcabeats"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "This pack contains 89 x 24 bit wav drums. Created using a Volca Beats sampled by the MPC60 12bit sampler. 8 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

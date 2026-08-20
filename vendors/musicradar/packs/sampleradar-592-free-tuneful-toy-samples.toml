@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Tuneful toy samples"
+slug = "sampleradar-592-free-tuneful-toy-samples"
+url  = "https://www.musicradar.com/news/sampleradar-592-free-tuneful-toy-samples"
+samples_listed = 592
+observed = 2026-08-20
+
+[meta]
+description = "592 free tuneful toy samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-592-free-tuneful-toy-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

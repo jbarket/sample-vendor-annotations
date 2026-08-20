@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Big impact samples"
+slug = "sampleradar-big-impact-samples-1"
+url  = "https://www.musicradar.com/news/sampleradar-big-impact-samples-1"
+samples_listed = 244
+observed = 2026-08-20
+
+[meta]
+description = "244 free big impact samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-big-impact-samples-1"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

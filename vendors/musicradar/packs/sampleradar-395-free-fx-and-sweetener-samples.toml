@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: FX and sweetener samples"
+slug = "sampleradar-395-free-fx-and-sweetener-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-395-free-fx-and-sweetener-samples-236648"
+samples_listed = 395
+tags = ["fx"]
+observed = 2026-08-20
+
+[meta]
+description = "395 free FX and sweetener samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-395-free-fx-and-sweetener-samples-236648"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

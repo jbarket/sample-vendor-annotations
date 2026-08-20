@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Drum 'n' bass pad samples"
+slug = "sampleradar-130-free-drum-n-bass-pad-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-130-free-drum-n-bass-pad-samples-449476"
+samples_listed = 130
+tags = ["drums", "bass", "pads"]
+observed = 2026-08-20
+
+[meta]
+description = "130 free drum 'n' bass pad samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-130-free-drum-n-bass-pad-samples-449476"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

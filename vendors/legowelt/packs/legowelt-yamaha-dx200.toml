@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "Yamaha DX200 Sample Pack"
+slug = "legowelt-yamaha-dx200"
+url  = "https://legowelt.org/samples/"
+samples_listed = 87
+tags = ["drums", "fm"]
+observed = 2026-08-20
+
+[meta]
+description = "The drumkit of the Yamaha DX200 FM synthesizer, and more."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

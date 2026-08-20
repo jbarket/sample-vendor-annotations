@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Bassline samples"
+slug = "sampleradar-263-free-bassline-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-263-free-bassline-samples-512691"
+samples_listed = 263
+tags = ["bass"]
+observed = 2026-08-20
+
+[meta]
+description = "263 free bassline samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-263-free-bassline-samples-512691"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

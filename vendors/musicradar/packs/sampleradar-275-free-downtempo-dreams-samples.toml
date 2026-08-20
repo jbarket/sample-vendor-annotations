@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Downtempo dreams samples"
+slug = "sampleradar-275-free-downtempo-dreams-samples"
+url  = "https://www.musicradar.com/news/sampleradar-275-free-downtempo-dreams-samples"
+samples_listed = 275
+observed = 2026-08-20
+
+[meta]
+description = "275 free downtempo dreams samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-275-free-downtempo-dreams-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

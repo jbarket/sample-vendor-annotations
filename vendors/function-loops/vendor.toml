@@ -1,0 +1,12 @@
+# Function Loops (functionloops.com) — Tel Aviv sample label group. The free
+# shelf (functionloops.com/free-samples.html) lists label samplers and free
+# packs on normal product pages. Royalty-free per site license. Seeded
+# 2026-08-20 from the source survey — discover-only identity records.
+
+[vendor]
+name     = "Function Loops"
+slug     = "function-loops"
+homepage = "https://www.functionloops.com"
+role     = "house"
+domains  = ["functionloops.com"]
+observed = 2026-08-20

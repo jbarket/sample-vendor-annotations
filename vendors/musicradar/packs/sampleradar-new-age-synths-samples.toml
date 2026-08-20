@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: New age synths samples"
+slug = "sampleradar-new-age-synths-samples"
+url  = "https://www.musicradar.com/news/sampleradar-new-age-synths-samples"
+samples_listed = 587
+tags = ["synth"]
+observed = 2026-08-20
+
+[meta]
+description = "587 free new age synths samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-new-age-synths-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Melodic drum samples"
+slug = "sampleradar-melodic-drum-samples"
+url  = "https://www.musicradar.com/news/sampleradar-melodic-drum-samples"
+samples_listed = 310
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "310 free melodic drum samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-melodic-drum-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

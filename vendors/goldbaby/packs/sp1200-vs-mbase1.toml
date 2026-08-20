@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "SP1200 vs MBase1"
+slug = "sp1200-vs-mbase1"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "bass"]
+observed = 2026-08-20
+
+[meta]
+description = "The Mbase Analog Bass Drum machine sampled through the SP-1200 25 x 24 bit wav drum samples. 2 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

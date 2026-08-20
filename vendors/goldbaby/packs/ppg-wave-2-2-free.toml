@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "PPG Wave 2.2 Free"
+slug = "ppg-wave-2-2-free"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["synth"]
+observed = 2026-08-20
+
+[meta]
+description = "PPG 2.2 Synth sounds. This pack contains 3 programs sampled through analog hardware and then mapped to Kontakt 4 and Logic's EXS-24. 75 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

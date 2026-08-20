@@ -1,0 +1,16 @@
+# MusicRadar SampleRadar (musicradar.com) — the magazine's own free sample
+# giveaway series, live since ~2009 (~99k samples). Each pack is an article
+# page hosting its download; the CDN zip bypasses the page, so pointers
+# always target the article. Royalty-free per the series' standing terms
+# ("free to use in your music, don't re-distribute"). Seeded 2026-08-20
+# from the hub page (musicradar.com/sampleradar) — discover-only identity
+# records; the hub listing IS the catalog, one article per pack.
+
+[vendor]
+name     = "MusicRadar SampleRadar"
+slug     = "musicradar"
+aliases  = ["SampleRadar"]
+homepage = "https://www.musicradar.com/sampleradar"
+role     = "house"
+domains  = ["musicradar.com"]
+observed = 2026-08-20

@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "TekDrum vs AnalogHeat"
+slug = "tekdrum-vs-analogheat"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "lofi"]
+observed = 2026-08-20
+
+[meta]
+description = "The PatchBlocks Tek Drum, recorded through the Elektron Analog Heat. Lo-Fi drums given extra weight using an\u00a0analog distortion and filter. 163 x 24 bit wav."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Bass boutique samples"
+slug = "sampleradar-195-free-bass-boutique-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-195-free-bass-boutique-samples-627150"
+samples_listed = 195
+tags = ["bass"]
+observed = 2026-08-20
+
+[meta]
+description = "195 free bass boutique samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-195-free-bass-boutique-samples-627150"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

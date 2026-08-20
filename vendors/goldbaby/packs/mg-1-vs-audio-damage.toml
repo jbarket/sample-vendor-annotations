@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "MG-1 vs Audio Damage"
+slug = "mg-1-vs-audio-damage"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["synth", "fx"]
+observed = 2026-08-20
+
+[meta]
+description = "Synth FX sample pack made using a Moog MG-1 and Audio Damage FX Plug-ins 37 x 24 bit wav synth fx 25 MB download"
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

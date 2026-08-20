@@ -1,0 +1,18 @@
+# Function Loops free shelf pack.
+
+[pack]
+name = "80's Neon Waves"
+slug = "80s-neon-waves"
+url  = "https://www.functionloops.com/80s-neon-waves.html"
+tags = ["synth", "loops", "midi"]
+observed = 2026-08-20
+
+[meta]
+description = "Retro and synthwave samples, loops, MIDI files and construction kits."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.functionloops.com/80s-neon-waves.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

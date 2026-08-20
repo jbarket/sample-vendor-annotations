@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "ND2 vs Plasma Kicks"
+slug = "nd2-vs-plasma-kicks"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "kicks"]
+observed = 2026-08-20
+
+[meta]
+description = "112 Kick Drum sounds from the Nord Drum 2 recorded through the Plasma Pedal. 28 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

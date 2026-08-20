@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Creative gate samples"
+slug = "sampleradar-411-free-creative-gate-samples"
+url  = "https://www.musicradar.com/news/sampleradar-411-free-creative-gate-samples"
+samples_listed = 411
+observed = 2026-08-20
+
+[meta]
+description = "411 free creative gate samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-411-free-creative-gate-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

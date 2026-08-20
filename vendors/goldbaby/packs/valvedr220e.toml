@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "ValveDR220e"
+slug = "valvedr220e"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "This pack contains 44 x 24 bit wav drums. Created using a vintage 80s drum machine through valve gear.\u00a09 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

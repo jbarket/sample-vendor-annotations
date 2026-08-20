@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Minimal percussion samples"
+slug = "sampleradar-minimal-percussion-samples"
+url  = "https://www.musicradar.com/news/sampleradar-minimal-percussion-samples"
+samples_listed = 403
+tags = ["percussion"]
+observed = 2026-08-20
+
+[meta]
+description = "403 free minimal percussion samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-minimal-percussion-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

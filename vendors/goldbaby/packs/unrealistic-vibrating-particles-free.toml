@@ -1,0 +1,18 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "Unrealistic Vibrating Particles Free"
+slug = "unrealistic-vibrating-particles-free"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+observed = 2026-08-20
+
+[meta]
+description = "Get free a small taste of what is available in UVP. 35 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Stadium house samples"
+slug = "sampleradar-161-free-stadium-house-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-161-free-stadium-house-samples-571813"
+samples_listed = 161
+observed = 2026-08-20
+
+[meta]
+description = "161 free stadium house samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-161-free-stadium-house-samples-571813"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

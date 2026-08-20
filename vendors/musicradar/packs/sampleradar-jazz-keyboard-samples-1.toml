@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Jazz keys samples"
+slug = "sampleradar-jazz-keyboard-samples-1"
+url  = "https://www.musicradar.com/news/sampleradar-jazz-keyboard-samples-1"
+samples_listed = 216
+observed = 2026-08-20
+
+[meta]
+description = "216 free jazz keys samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-jazz-keyboard-samples-1"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

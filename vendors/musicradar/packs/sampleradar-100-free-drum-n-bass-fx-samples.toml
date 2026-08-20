@@ -1,0 +1,19 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Drum 'n' bass FX samples"
+slug = "sampleradar-100-free-drum-n-bass-fx-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-100-free-drum-n-bass-fx-samples-444650"
+samples_listed = 100
+tags = ["drums", "bass", "fx"]
+observed = 2026-08-20
+
+[meta]
+description = "100 free drum 'n' bass FX samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-100-free-drum-n-bass-fx-samples-444650"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "Drum Wizardry Sample Pack"
+slug = "legowelt-drum-wizardry"
+url  = "https://legowelt.org/samples/"
+samples_listed = 325
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "One-shot drums from the Legowelt studio archive, sourced from various samplers and instruments."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

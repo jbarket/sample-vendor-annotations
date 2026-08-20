@@ -1,0 +1,14 @@
+# 99Sounds free pack; the product page hosts the download.
+
+[pack]
+name = "The Weird Side Samples"
+slug = "the-weird-side-samples"
+url  = "https://99sounds.org/the-weird-side-samples/"
+observed = 2026-08-20
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://99sounds.org/the-weird-side-samples/"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

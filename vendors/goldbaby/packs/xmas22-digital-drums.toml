@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "Xmas22 Digital Drums"
+slug = "xmas22-digital-drums"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums"]
+observed = 2026-08-20
+
+[meta]
+description = "Drum sounds from the fantastic LXR-02 recorded with tasty hardware in the Goldbaby studio. 129 x 24-bit wav."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

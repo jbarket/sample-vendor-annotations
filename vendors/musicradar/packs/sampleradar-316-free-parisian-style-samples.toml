@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Parisian-style samples"
+slug = "sampleradar-316-free-parisian-style-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-316-free-parisian-style-samples-235771"
+samples_listed = 316
+observed = 2026-08-20
+
+[meta]
+description = "316 free Parisian-style samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-316-free-parisian-style-samples-235771"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

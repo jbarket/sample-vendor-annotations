@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Dark dub samples"
+slug = "sampleradar-358-free-dark-dub-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-358-free-dark-dub-samples-318898"
+samples_listed = 358
+observed = 2026-08-20
+
+[meta]
+description = "358 free dark dub samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-358-free-dark-dub-samples-318898"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

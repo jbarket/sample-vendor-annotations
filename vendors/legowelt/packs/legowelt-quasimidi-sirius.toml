@@ -1,0 +1,20 @@
+# Legowelt free kit; WeTransfer download rotates — pointer stays
+# on the samples page.
+
+[pack]
+name = "Quasimidi Sirius Sample Pack"
+slug = "legowelt-quasimidi-sirius"
+url  = "https://legowelt.org/samples/"
+samples_listed = 300
+tags = ["synth", "pads", "drums"]
+observed = 2026-08-20
+
+[meta]
+description = "Pads, atmospheres and drum sounds from the 1998 German digital synth."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://legowelt.org/samples/"
+gate     = "none"
+license  = "informal-free"
+observed = 2026-08-20

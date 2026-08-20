@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "TapeDP50"
+slug = "tapedp50"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "tape"]
+observed = 2026-08-20
+
+[meta]
+description = "This is a free sample pack of drum sounds from the 1980s Technics DP50. Given some tape love! 5 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

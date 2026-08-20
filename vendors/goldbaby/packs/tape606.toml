@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "Tape606"
+slug = "tape606"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "tape"]
+observed = 2026-08-20
+
+[meta]
+description = "The wonderful analog TR606 given the Tape treatment. Free Drums Pack. 128 x 24 bit wavs (with 2 Maschine kits) 12 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

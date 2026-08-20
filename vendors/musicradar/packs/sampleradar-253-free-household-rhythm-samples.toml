@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Household rhythm samples"
+slug = "sampleradar-253-free-household-rhythm-samples"
+url  = "https://www.musicradar.com/news/sampleradar-253-free-household-rhythm-samples"
+samples_listed = 253
+observed = 2026-08-20
+
+[meta]
+description = "253 free household rhythm samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-253-free-household-rhythm-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

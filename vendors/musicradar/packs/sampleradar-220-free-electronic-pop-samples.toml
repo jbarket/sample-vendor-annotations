@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Electronic pop samples"
+slug = "sampleradar-220-free-electronic-pop-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-220-free-electronic-pop-samples-463337"
+samples_listed = 220
+observed = 2026-08-20
+
+[meta]
+description = "220 free electronic pop samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-220-free-electronic-pop-samples-463337"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

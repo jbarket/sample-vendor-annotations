@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Sci-fi samples"
+slug = "sampleradar-464-free-sci-fi-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-464-free-sci-fi-samples-632239"
+samples_listed = 464
+observed = 2026-08-20
+
+[meta]
+description = "464 free sci-fi samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-464-free-sci-fi-samples-632239"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,15 @@
+# 99Sounds free pack; the product page hosts the download.
+
+[pack]
+name = "Rain Sound Effects"
+slug = "rain-and-thunder"
+url  = "https://99sounds.org/rain-and-thunder/"
+tags = ["fx"]
+observed = 2026-08-20
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://99sounds.org/rain-and-thunder/"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,13 @@
+# 99Sounds (99sounds.org) — community-funded free sample label run by
+# Tomislav Zlatic (bedroomproducersblog). Everything is free; per-pack
+# product pages host the downloads. Royalty-free per 99sounds.org/license.
+# Seeded 2026-08-20 from the source survey — discover-only identity records,
+# no archives observed yet.
+
+[vendor]
+name     = "99Sounds"
+slug     = "99sounds"
+homepage = "https://99sounds.org"
+role     = "house"
+domains  = ["99sounds.org"]
+observed = 2026-08-20

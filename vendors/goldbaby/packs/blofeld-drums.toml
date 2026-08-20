@@ -1,0 +1,19 @@
+# Goldbaby free pack. Single free shelf page; MediaFire download
+# bypasses it — pointer stays on the page.
+
+[pack]
+name = "Blofeld Drums"
+slug = "blofeld-drums"
+url  = "https://www.goldbaby.co.nz/freestuff.html"
+tags = ["drums", "synth"]
+observed = 2026-08-20
+
+[meta]
+description = "This little synth is a marvel of German engineering. Having a lot fun with this lovely instrument... so I thought I'd share some synth drum sounds I have created with it. 66 x 24 bit wavs. 8 MB download."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.goldbaby.co.nz/freestuff.html"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

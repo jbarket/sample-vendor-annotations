@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Handheld noisemaker samples"
+slug = "sampleradar-handheld-noisemaker-samples"
+url  = "https://www.musicradar.com/news/sampleradar-handheld-noisemaker-samples"
+samples_listed = 487
+observed = 2026-08-20
+
+[meta]
+description = "487 free handheld noisemaker samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/sampleradar-handheld-noisemaker-samples"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20

@@ -1,0 +1,18 @@
+# SampleRadar giveaway; the article page hosts the download.
+
+[pack]
+name = "SampleRadar: Italo disco samples"
+slug = "sampleradar-246-free-italo-disco-samples"
+url  = "https://www.musicradar.com/news/tech/sampleradar-246-free-italo-disco-samples-253756"
+samples_listed = 246
+observed = 2026-08-20
+
+[meta]
+description = "246 free italo disco samples from the SampleRadar free series."
+
+[acquisition]
+class    = "vendor-free"
+url      = "https://www.musicradar.com/news/tech/sampleradar-246-free-italo-disco-samples-253756"
+gate     = "none"
+license  = "royalty-free"
+observed = 2026-08-20
